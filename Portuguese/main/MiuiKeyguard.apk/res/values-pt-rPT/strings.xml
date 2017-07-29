@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir os Papéis de parede aleatórios</string>
+  <string name="click_to_enter_text">Toque para desbloquear</string>
+  <string name="confirm_pin_msg">Insira novamente o PIN</string>
+  <string name="custom_lock_wallpaper_enter">Introduzir</string>
+  <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
+  <string name="delete">Eliminar</string>
+  <string name="emergency_call_string">Emergência</string>
+  <string name="find_device_turn_off_flight_mode">Desligar Modo Avião</string>
+  <string name="fingerprint_add_text">O interface das imp. digitais foi actualizado. Adicione a sua imp. digital novamente</string>
+  <string name="fingerprint_add_title">Adicionar impressão digital</string>
+  <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
+  <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço depois de reiniciar para poder utilizar as impressões digitais</string>
+  <string name="fingerprint_enter_second_psw_title">Introduzir a palavra-passe do Segundo espaço</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
+  <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a palavra-passe ou tente utilizar a sua impressão digital daqui a %d segundos</string>
+  <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
+  <string name="fingerprint_try_again_msg">Não foi possível verificar imp. digita. Tente novamente</string>
+  <string name="fingerprint_try_again_text">Tente novamente</string>
+  <string name="forget_password_string">Esqueceu a palavra-passe</string>
+  <string name="incorrect_pincode">Código PIN incorrecto</string>
+  <string name="incorrect_pincode_remaining_attempts">Código PIN incorrecto, %d tentativas restantes</string>
+  <string name="incorrect_pukcode">Código PUK incorrecto</string>
+  <string name="incorrect_pukcode_remaining_attempts">Código PUK incorrecto, %d tentativas restantes</string>
+  <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
+  <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
+  <string name="input_pin_code">PIN</string>
+  <string name="input_puk_code">Introduzir PUK</string>
+  <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
+  <string name="invalid_sim_pin_hint">O PIN deve conter 4 a 8 números</string>
+  <string name="invalid_sim_puk_hint">O PUK deve ter 8 ou mais números</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Temperatura</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">%dh até estar carregada</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">%dm até estar carregada​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%dh %dm até estar carregada</string>
+  <string name="keyguard_charging_info_charging_text">A carregar</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Voltagem</string>
+  <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">%dh restantes</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">%dm restantes</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">%dh %dm restantes</string>
+  <string name="keyguard_charging_info_current_now_text">Monitorização</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%dh</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%dm</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%dh %dm</string>
+  <string name="keyguard_charging_info_finished_charging_text">Carregada</string>
+  <string name="keyguard_charging_info_last_charge_time">d/MM H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Ontem %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
+  <string name="keyguard_charging_info_tip_text1">Mantenha sempre o seu dispositivo carregado pelo menos a 10% para prolongar a vida da bateria</string>
+  <string name="keyguard_charging_info_tip_text2">Não carregue demasiado o seu dispositivo. É melhor ir fazer vários carregamentos do que deixar à noite a carregar</string>
+  <string name="keyguard_charging_info_tip_text3">Tente não carregar o seu dispositivo quando a temperatura estiver abaixo de 0℃</string>
+  <string name="keyguard_charging_info_tip_text4">Não utilize o seu dispositivo activamente enquanto estiver a carregar</string>
+  <string name="keyguard_charging_info_tip_text5">As baterias demoram mais tempo a carregar quando estão quentes</string>
+  <string name="keyguard_charging_info_tip_text6">Desligue o ecrã para refrescar o seu dispositivo</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Carregamento rápido. Toque para ver detalhes</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Carregamento rápido…</string>
+  <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
+  <string name="left_action_default_hint_text">C.Remoto Mi</string>
+  <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
+  <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
+  <string name="lock_wallpaper_enter">Entrar</string>
+  <string name="lock_wallpaper_learn_more">Mais</string>
+  <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
+  <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
+  <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
+  <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+  <string name="lockscreen_charging_msg">A carregar</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
+
+Tente novamente dentro de %d segundos"</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
+  <string name="lockscreen_glogin_checking_password">A verificar…</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
+  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
+  <string name="lockscreen_glogin_submit_button">Iniciar sessão em</string>
+  <string name="login_website_in_case_forget_password">Para repor a palavra-passe vá a www.mi.com/micloud</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
+  <string name="open_camera_hint_text">Deslizar para a esquerda para abrir %s</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita para abrir %s</string>
+  <string name="open_wifi_settings">Ligação de rede aberta</string>
+  <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>
+  <string name="phone_locked_foget_password_content">"Pode iniciar sessão em i.mi.com utilizando a Conta Mi associada a este dispositivo e limpar todos os dados. Isto vai eliminar todos os dados pessoais neste dispositivo. Após isto, pode reiniciar o dispositivo e restaurar contactos, mensagens, fotos e outros itens da Mi Cloud. 
+
+Não vai pode fazer isto senão tiver iniciado sessão na sua Conta Mi neste dispositivo. Doutro modo, vai ter que flashar novamente o dispositivo"</string>
+  <string name="phone_locked_foget_password_footer">"Passos:
+Iniciar sessão em i.mi.com, ir a “Localizar Dispositivo”, seleccionar dispositivo e premir Formatar dispositivo"</string>
+  <string name="phone_locked_foget_password_header">O que devo fazer se me esquecer da palavra-passe?</string>
+  <string name="phone_locked_foget_password_ok">Percebi</string>
+  <string name="phone_locked_string">O dispositivo foi bloqueado</string>
+  <string name="phone_locked_timeout_minutes_string">Tente novamente dentro de %s minutos</string>
+  <string name="phone_locked_timeout_seconds_string">Tente novamente dentro de %s segundos</string>
+  <string name="symbol_colon">:</string>
+  <string name="unlock_string">Desbloquear</string>
+  <string name="unlocking_sim_card">Desbloquear o cartão SIM</string>
+  <string name="unlockscreen_low_battery">Ligar carregador</string>
+  <string name="unlockscreen_recharge_completed">Bateria carregada</string>
+  <string name="unlockscreen_recharging_message">A carregar %d%%</string>
+  <string name="wrong_password">Palavra-passe incorrecta</string>
+</resources>

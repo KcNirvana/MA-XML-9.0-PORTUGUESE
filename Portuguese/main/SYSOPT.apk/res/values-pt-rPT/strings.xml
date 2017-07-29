@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Definições</string>
+  <string name="app_name">Aplc. SysOpt</string>
+  <string name="google_base_app_install_choice">\"%s\" necessita dos Serviços Google para funcionar normalmente. Transferir e instalá-los?</string>
+  <string name="hello_world">Olá mundo!</string>
+</resources>

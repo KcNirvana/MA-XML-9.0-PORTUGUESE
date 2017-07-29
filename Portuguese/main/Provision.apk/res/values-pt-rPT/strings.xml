@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Concordar</string>
+  <string name="agree_terms">Eu li e aceitei os Termos de Serviço e Política de Privacidade</string>
+  <string name="app_name">Provisão</string>
+  <string name="back">Voltar</string>
+  <string name="congratulation_label">Tudo pronto para começar!</string>
+  <string name="congratulation_title">Configuração concluída</string>
+  <string name="content_description_complete">Concluído</string>
+  <string name="content_description_language_picker">Seleccionar idioma</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">Iniciar</string>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_extra_international_fingerprint"/>
+  <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de Mi Pay ou para iniciar sessão em aplicações e serviços</string>
+  <string name="desc_international_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo ou para iniciar sessão em aplicações e serviços</string>
+  <string name="disagree">Cancelar</string>
+  <string name="enable_accessibility_dialog_message">Ligou o TalkBack ao premir o ecrã com 2 dedos por mais de 10 segundos. O TalkBack fornece uma voz para pessoas invisuais. Se o ligou por acidente, toque no botao Cancelar e depois duplo toque no ecrã</string>
+  <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
+  <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s</string>
+  <string name="input_method_category">Escolha o teclado predefinido para escrever emails ou notas. Pode instalar teclados de terceiros mais tarde</string>
+  <string name="input_method_setting">Escolher teclado</string>
+  <string name="install_preinstall_app">A carregar aplicações…</string>
+  <string name="language_picker_other_languages_title">Mais idiomas</string>
+  <string name="locale_picker_title">Escolher a sua região</string>
+  <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
+  <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Serviço em %s</string>
+  <string name="multisim_settings_category">Definições do cartão SIM</string>
+  <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
+  <string name="next">Seguinte</string>
+  <string name="next_fingerprint">Seguinte</string>
+  <string name="other_settings">Definições adicionais</string>
+  <string name="other_settings_auto_update">Actualizar automaticamente</string>
+  <string name="other_settings_auto_update_summary">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>
+  <string name="other_settings_location">Localização</string>
+  <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
+  <string name="other_settings_mifg_online_content">Papéis de parede aleatórios</string>
+  <string name="other_settings_mifg_online_content_summary">Permitir que os papéis de parede aleatórios possam ligar à Internet para transferir mais imagens</string>
+  <string name="other_settings_upload_debug_log_summary">A informação que recolhemos podem conter dados pessoais. Vai ser utilizada para analisar os problemas do sistema e nunca para o identificar</string>
+  <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
+  <string name="other_settings_user_experience_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
+  <string name="pref_title_data_slot">Cartão SIM de dados preferido</string>
+  <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
+  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="provision_inputmethod_policy_description">"
+Ver Política de Privacidade do teclado seleccionado"</string>
+  <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+  <string name="setting_locale">A definir região…</string>
+  <string name="shut_down">Desligar</string>
+  <string name="sim_card_detecting">A verificar o cartão SIM…</string>
+  <string name="sim_card_detecting_title">A procurar cartão SIM</string>
+  <string name="sim_card_detection">Insira o cartão SIM</string>
+  <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo</string>
+  <string name="sim_dectection_next">Continuar</string>
+  <string name="sim_redetection">Verifique o cartão SIM</string>
+  <string name="skip_underline">Ignorar este passo</string>
+  <string name="summary_not_set">Não definido</string>
+  <string name="terms_of_use">Termos de Serviço</string>
+  <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor, leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
+
+Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Durante a activação os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
+  <string name="title_fingerprint">Adicionar a sua impressão digital</string>
+  <string name="user_agreement">Termos de Serviço</string>
+  <string name="welcome">Bem-vindo</string>
+</resources>

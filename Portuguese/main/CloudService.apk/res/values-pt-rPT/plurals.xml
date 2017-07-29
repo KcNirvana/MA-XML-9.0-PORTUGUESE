@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d estão desligados</item>
+        <item quantity="one">%d está desligado</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Itens a aguardar sincronização: %d</item>
+        <item quantity="one">Item a aguardar sincronização: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d itens a aguardar sincronização</item>
+        <item quantity="one">%d item a aguardar sincronização</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">" %d contactos"</item>
+        <item quantity="one">" %d contacto"</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">" %d mensagens"</item>
+        <item quantity="one">" %d mensagem"</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">" %d notas"</item>
+        <item quantity="one">" %d nota"</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">" %d fotos"</item>
+        <item quantity="one">" %d foto"</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d registos de chamadas</item>
+        <item quantity="one">%d registo de chamadas</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d redes Wi-Fi</item>
+        <item quantity="one">%d rede Wi-Fi</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d registos</item>
+        <item quantity="one">%d registo</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d itens do navegador</item>
+        <item quantity="one">%d item do navegador</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d itens do calendário</item>
+        <item quantity="one">%d item do calendário</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d registos da lista de bloqueio</item>
+        <item quantity="one">%d registo da lista de bloqueio</item>
+    </plurals>
+</resources>
