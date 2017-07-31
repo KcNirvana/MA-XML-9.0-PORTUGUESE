@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="editing_mode_entries">
-       <item>Temas</item>
-       <item>Widgets</item>
        <item>Papel parede</item>
-       <item>Efeitos</item>
-       <item>Disposição do ecrã</item>
+       <item>Widgets</item>
+       <item>Definições</item>
     </string-array>
     <string-array name="gadget_weather_image">
        <item>Céu limpo</item>
