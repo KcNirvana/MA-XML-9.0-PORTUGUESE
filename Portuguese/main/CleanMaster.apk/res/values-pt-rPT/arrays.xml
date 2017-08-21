@@ -9,13 +9,14 @@
         <item>Nome</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Mais utilizadas</item>
+        <item>Utilizadas frequentemente</item>
         <item>Tamanho</item>
     </string-array>
     <string-array name="auto_clean_time">
         <item>Todos os dias</item>
         <item>A cada 3 dias</item>
         <item>A cada 7 dias</item>
+        <item>A cada 15 dias</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -24,56 +25,8 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Apenas notificar</item>
-        <item>Limpar automaticamente</item>
+        <item>Notificar</item>
+        <item>Limpar em segundo plano</item>
         <item>Limpar e notificar</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
-        <item>Limpar este ficheiro</item>
-        <item>Ver localização do ficheiro</item>
-    </string-array>
-    <string-array name="trash_clean_menu">
-        <item>Limpar este ficheiro</item>
-        <item>Ver localização do ficheiro</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>Limpar</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>Limpar este ficheiro</item>
-        <item>Abrir</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>Limpar</item>
-        <item>Instalar esta aplicação</item>
-        <item>Ver na pasta</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>Adicionar às excepções</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>Adicionar aplicação às excepções</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Desinstalar</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>A cada 7 dias</item>
-        <item>A cada 15 dias</item>
-        <item>A cada 30 dias</item>
-    </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
-    <string-array name="wechat_menu_delete">
-        <item>Limpar</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist">
-        <item>Limpar</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Limpar</item>
-        <item>Ver</item>
     </string-array>
 </resources>

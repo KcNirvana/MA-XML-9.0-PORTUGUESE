@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Sugestões de contactos aberta</string>
   <string name="accessibility_add_attendee">Adicionar participante</string>
   <string name="accessibility_all_day">Evento de dia inteiro</string>  
   <string name="accessibility_pick_start_date">Data de início</string>
@@ -13,7 +12,6 @@
   <string name="accounts">Contas e sincronização</string>
   <string name="acct_not_synced">Esta conta não está a ser sincronizada por isso os seus calendários podem não estar actualizados</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
-  <string name="action_label">Voltar</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_today">Hoje</string>
   <string name="ad_card_connecting">A ligar…</string>
@@ -28,6 +26,7 @@
   <string name="add_anniversary">Adicionar aniversário</string>
   <string name="add_countdown">Adicionar contagem decrescente</string>
   <string name="add_event">Adicionar evento</string>
+  <string name="agenda_month_empty_hint">Sem eventos hoje</string>
   <string name="agenda_today">HOJE, %1$s</string>
   <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
   <string name="agenda_view">Eventos</string>
@@ -39,6 +38,7 @@
   <string name="anniversary_card_title">Aniversário</string>
   <string name="anniversary_event_title">Aniversário: %1$s</string>
   <string name="app_label">Calendário</string>
+  <string name="app_name">common</string>
   <string name="birthday_calendar_display_name">Aniversários</string>
   <string name="birthday_card_other_day_title">Aniversários</string>
   <string name="birthday_card_title">Aniversários hoje</string>
@@ -46,8 +46,6 @@
   <string name="birthday_event_description_a_week_later">Uma semana até</string>
   <string name="birthday_event_description_day_after_tomorrow">O dia depois de amanhã é</string>
   <string name="birthday_event_description_day_before_yesterday">O dia antes de ontem foi</string>
-  <string name="birthday_event_description_days_ago">%1$d dias atrás</string>
-  <string name="birthday_event_description_days_later">Daqui a %1$d dias</string>
   <string name="birthday_event_description_default">%4$s de %2$s %3$s de %1$s</string>
   <string name="birthday_event_description_special">%1$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoje é</string>
@@ -117,10 +115,10 @@
   <string name="date_interval_tab">Intervalo de datas</string>
   <string name="date_interval_text_to">A %1$s</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(hoje)</string>
-  <string name="day_view_new_event_hint">Novo evento</string>
+  <string name="date_today">" (hoje)"</string>
+  <string name="day_view_new_event_hint">+ Novo evento</string>
   <string name="default_reminder_mode">Lembretes</string>
-  <string name="delete_calendar">Cancelar subscrição</string>
+  <string name="delete_calendar">A cancelar subscrição…</string>
   <string name="delete_recurring_event_title">Eliminar %s?</string>
   <string name="delete_this_event_title">Eliminar este evento?</string>
   <string name="deleting_calendar">Cancelar subscrição</string>
@@ -138,10 +136,8 @@
   <string name="downloaded">Transferido</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_wallpaper">Transferir papel de parede</string>
-  <string name="dropdown_delete_button_desc">Remover %s dos destinatários</string>
   <string name="edit_date_calculate_days_backward_error_hint">Não pode ser calculado para a frente</string>
   <string name="edit_date_calculate_days_empty_hint">Introduza o número de dias</string>
-  <string name="edit_date_calculate_days_error_hint">Introduza o número de dias entre %1$d</string>
   <string name="edit_date_calculate_days_forward_error_hint">Não pode ser calculado para trás</string>
   <string name="edit_event_all_day_label">Todo o dia</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduza o nome do evento</string>
@@ -149,6 +145,7 @@
   <string name="edit_event_birthday_import_from_contact">Importar aniversários dos contactos</string>
   <string name="edit_event_birthday_name_empty_hint">Introduza um nome</string>
   <string name="edit_event_birthday_name_hint">Nome</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Lembrar 3 dias antes também</string>
   <string name="edit_event_birthday_reminder_time">Hora do lembrete</string>
   <string name="edit_event_calendar_label">Calendário</string>
   <string name="edit_event_choose_date">Escolher data</string>
@@ -159,7 +156,7 @@
   <string name="edit_event_input_year">Introduzir ano</string>
   <string name="edit_event_label">Detalhes</string>
   <string name="edit_event_no_reminder_value">Não lembrar</string>
-  <string name="edit_event_reminder_3_days_before">Lembrar 3 dias antes</string>
+  <string name="edit_event_reminder_3_days_before">E lembrar 3 dias antes</string>
   <string name="edit_event_reminder_summary">No dia às %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 dia antes e no dia às %1$s</string>
   <string name="edit_event_reminder_text">Em %1$s às %2$s</string>
@@ -191,7 +188,7 @@
   <string name="event_info_reminders_label">Lembretes</string>
   <string name="event_info_reminders_label_1">Lembrete</string>
   <string name="event_info_repeat">Repetir</string>
-  <string name="event_info_title">Detalhes do evento</string>
+  <string name="event_info_title">Ver evento</string>
   <string name="event_info_title_invite">Convite para reunião</string>
   <string name="event_info_when">Quando</string>
   <string name="event_info_where">Onde</string>
@@ -242,6 +239,7 @@
   <string name="jump_date_full">Ir para a data</string>
   <string name="live_text">Ao vivo</string>
   <string name="living_text">No ar</string>
+  <string name="load_more_hint">Actualizar eventos de %1$d</string>
   <string name="loading">Aguarde…</string>
   <string name="local_calendar_display_name">Calendário local</string>
   <string name="local_owner_account_name">Guardados neste dispositivo</string>
@@ -273,13 +271,14 @@
   <string name="month_view">Mês</string>
   <string name="monthly">Mensalmente</string>
   <string name="monthly_on_day">Mensalmente (mesmo dia)</string>
-  <string name="monthly_on_day_count">Mensalmente (%1$s %2$s)</string>
+  <string name="monthly_on_day_count">Mensalmente (%1$s %2$s de cada mês)</string>
   <string name="more_match">Mais eventos</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>
   <string name="no_contact_birthday_hint">Sem aniversários para importar</string>
+  <string name="no_events_hint">Sem eventos</string>
   <string name="no_network">"Não foi possível ligar à rede.
  Verifique as definições de rede e tente novamente"</string>
   <string name="no_network_btn">Tente novamente</string>
@@ -306,7 +305,6 @@
   <string name="preferences_default_allday_reminder_title">Hora predefinida do evento de todo o dia</string>
   <string name="preferences_default_reminder_dialog">Hora predefinida do lembrete</string>
   <string name="preferences_default_reminder_title">Hora predefinida do lembrete</string>
-  <string name="preferences_home_tz_default">Europa/Londres</string>
   <string name="preferences_home_tz_title">Fuso horário local</string>
   <string name="preferences_import_credit_repayment">Pagamentos do cartão de crédito</string>
   <string name="preferences_import_travel">Bilhetes de comboio</string>
@@ -316,10 +314,9 @@
   <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
-  <string name="recommend_card_add">立即订阅</string>
-  <string name="recommend_card_adding">添加中</string>
-  <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
+  <string name="pull_to_refresh_hint">Puxe para actualizar eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
+  <string name="refreshing_hint">A actualizar</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
   <string name="repeat_custom_prompt">a cada %1$s em %2$s</string>
@@ -373,11 +370,7 @@
   <string name="setting_others">Adicionais</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
   <string name="setting_title_about">Acerca de</string>
-  <string name="setting_title_banner_display">显示农历卡片广告</string>
-  <string name="setting_title_debug">导出日志</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>
-  <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
-  <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
   <string name="show_older_events">Toque para ver os eventos antes de %1$s</string>
@@ -407,14 +400,15 @@
   <string name="today_train_event">Comboio</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
+  <string name="too_long_content">O conteúdo é demasiado longo</string>
+  <string name="too_long_description">A descrição do evento é demasiado longa</string>
+  <string name="too_long_location">A localização do evento é demasiado longa</string>
+  <string name="too_long_name">O nome do evento é demasiado longo</string>
   <string name="travel_airport">Aeroporto</string>
   <string name="travel_carriage_number_text">Carro</string>
   <string name="travel_eta_advice">%2$s minutos a %1$s</string>
   <string name="travel_ets_advice">Conduzir para %2$s antes de %1$s</string>
   <string name="travel_event_add_successfully">Evento criado</string>
-  <string name="travel_event_add_unsuccessfully">"Não foi possível criar evento"</string>
-  <string name="travel_event_added">Evento criado</string>
-  <string name="travel_event_delete_successfully">Evento eliminado</string>
   <string name="travel_event_title_flight">Voo: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Comboio: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Comboio: %1$s %2$s</string>
@@ -425,7 +419,7 @@
   <string name="travel_item_virtual_sim">SIM Virtual Mi</string>
   <string name="travel_item_weather_forecast">Previsão do tempo no destino</string>
   <string name="travel_item_weather_now">Tempo no destino</string>
-  <string name="travel_load_failed">"Não foi possível carregar"</string>
+  <string name="travel_load_failed">Não foi possível carregar</string>
   <string name="travel_loaded">Fornecido por Veryzhun</string>
   <string name="travel_loading">Aguarde…</string>
   <string name="travel_local">Destino</string>

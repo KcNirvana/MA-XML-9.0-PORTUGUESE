@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Anúncios</string>
   <string name="activity_title_apk">Pacotes</string>
   <string name="activity_title_brightness_image">Fotos com baixa ou alta exposição</string>
@@ -33,9 +32,8 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
-  <string name="apk_title_alipay_plugin">支付宝插件</string>
-  <string name="app_install_tips_go_to">Abrir</string>
-  <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
+  <string name="app_description_content">A Limpeza procura lixo no seu dispositivo e liberta espaço de armazenamento. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
+  <string name="app_description_title">Acerca de Limpeza</string>
   <string name="app_name">Limpeza</string>
   <string name="app_usage_never">Não utilizada recentemente</string>
   <string name="app_usage_recently">Utilizada recentemente</string>
@@ -103,6 +101,7 @@
   <string name="clip_board_history_desc">Conteúdos copiados/movidos</string>
   <string name="clipboard">Área de transferências</string>
   <string name="close">Fechar</string>
+  <string name="close_debug_mode">Clique em %1$d para fechar a depuração</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Ligação de rede para Segurança</string>
   <string name="connecting">A ligar…</string>
@@ -180,6 +179,9 @@
   <string name="empty_title_photos">Não foram encontradas fotos</string>
   <string name="empty_title_residual">Não foram encontrados resíduos</string>
   <string name="empty_title_video">Sem vídeos para eliminar​</string>
+  <string name="engine_cm">Limpeza</string>
+  <string name="engine_init">A iniciar…</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Ficheiros</string>
   <string name="file_not_found">Ficheiro não encontrado</string>
   <string name="flow_rank_title">Utilização de dados</string>
@@ -246,7 +248,7 @@
   <string name="hints_video_download">Vídeos transferidos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular hoje</string>
-  <string name="information_setting">Definições do feed de notícias</string>
+  <string name="information_setting">Recomendações</string>
   <string name="install_sucess">%s instalado com sucesso</string>
   <string name="installed">Instalado</string>
   <string name="installing">A instalar</string>
@@ -255,7 +257,7 @@
   <string name="label_image_list_none">Nenhum</string>
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>
   <string name="last_check_canceled">A verificação anterior foi cancelada</string>
-  <string name="load_only_under_wlan">Carregar notícias quando ligado ao Wi-Fi</string>
+  <string name="load_only_under_wlan">Carregar utilizando apenas Wi-Fi</string>
   <string name="location_not_found">Não foi possível encontrar o ficheiro</string>
   <string name="login_immediately">Iniciar sessão</string>
   <string name="long_click_dialog_summary">Prima e segure para adicionar às excepções</string>
@@ -298,6 +300,7 @@
   <string name="open">Ligar</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
+  <string name="open_debug_mode">Clique em %1$d para abrir a depuração</string>
   <string name="open_file_error">Não foi possível encontrar a aplicação que abre este ficheiro</string>
   <string name="optimizecenter_data_support_cm">Produzido por Clean Master</string>
   <string name="optimizecenter_data_support_tc">Produzido por Tencent</string>
@@ -348,7 +351,7 @@
   <string name="privacy_search_desc">Histórico de pesquisa</string>
   <string name="privacy_search_type">Pesquisa Google</string>
   <string name="promotion">Anúncios</string>
-  <string name="recommend_news">Fontes recomendadas</string>
+  <string name="recommend_news">Receber recomendações</string>
   <string name="recommend_the_following">Execute as acções seguintes para tirar mais do seu dispositivo</string>
   <string name="recommended">Em destaque</string>
   <string name="remain_item_name_n7p"/>

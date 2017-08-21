@@ -35,11 +35,7 @@
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizações</item>
-        <item quantity="zero">%1$d visualizações</item>
         <item quantity="one">%1$d visualização</item>
-        <item quantity="two">%1$d visualizações</item>
-        <item quantity="few">%1$d visualizações</item>
-        <item quantity="many">%1$d visualizações</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>

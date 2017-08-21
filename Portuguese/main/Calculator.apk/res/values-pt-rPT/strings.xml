@@ -34,6 +34,8 @@
   <string name="day">Dia</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">eliminar</string>
+  <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calulador de hipotecas e taxas</string>
+  <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
