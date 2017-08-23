@@ -5,6 +5,8 @@
   <string name="app_name">Localizar Dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s</string>
+  <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a um pagamento em falta.
+Contacte o seu comercial para mais detalhes"</string>
   <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
   <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor, pode-me contactar? Obrigado!</string>
   <string name="device_locked">Este dispositivo está bloqueado</string>
@@ -16,6 +18,7 @@
   <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
   <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_crash">Localizar Dispositivo fechou inesperadamente</string>
+  <string name="find_device_error_access_denied">Acesso negado</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
   <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
   <string name="find_device_error_network">Erro de rede</string>
@@ -48,6 +51,10 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
   <string name="stop_on_empty_password">Palavra-passe não pode estar em branco</string>
+  <string name="sys_notification_async_open_failed_content">Toque para tentar novamente ou cancele</string>
+  <string name="sys_notification_async_open_failed_title">Não foi possível ligar Localizar Dispositivo</string>
+  <string name="sys_notification_async_verify_content">A nossa Política de Segurança necessita que Localizar Dispositivo deva ser reactivado</string>
+  <string name="sys_notification_async_verify_title">Reactivar Localizar Dispositivo</string>
   <string name="time_correction_failure">Não é possível corrigir hora (%s)</string>
   <string name="time_correction_success">Hora corrigida</string>
   <string name="unlock">Activar</string>
