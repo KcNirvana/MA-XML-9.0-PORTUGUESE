@@ -23,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" aos contactos?</string>
   <string name="add_display_photo_entry">Adicionar foto de perfil</string>
   <string name="add_field">Adicionar outro campo</string>
+  <string name="add_field_toast">Sem mais campos para adicionar</string>
   <string name="add_incall_show_entry">Adicionar vídeo</string>
   <string name="add_new_account">Adicionar nova conta</string>
   <string name="add_new_entry_for_section">Adicionar novo</string>
@@ -100,6 +101,8 @@
   <string name="call_work">Ligar para o telefone do trabalho</string>
   <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>
+  <string name="calllog_call_note_menu">Notas de chamada</string>
+  <string name="calllog_call_record_menu">Chamadas gravadas</string>
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
@@ -133,7 +136,6 @@
   <string name="callrecordview_menu_livetalk">Pacote de carregamento</string>
   <string name="callrecordview_menu_paste">Colar</string>
   <string name="callrecordview_menu_recharge">Carregamentos</string>
-  <string name="callrecordview_menu_save_to_group">Guardar registo de chamadas para o grupo</string>
   <string name="callrecordview_menu_settings">Definições</string>
   <string name="callrecordview_menu_show">Filtro</string>
   <string name="callrecordview_menu_show_accepted">Chamadas atendidas</string>
@@ -144,8 +146,6 @@
   <string name="callrecordview_menu_show_sim">Chamadas do %s</string>
   <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
   <string name="callrecordview_menu_show_title">Ecrã de registo de chamadas</string>
-  <string name="callrecordview_menu_voip">Mi Voice</string>
-  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Rejeitar alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
   <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
@@ -274,7 +274,6 @@
   <string name="create_group_dialog_title">Criar novo grupo</string>
   <string name="create_group_item_label">Criar novo grupo</string>
   <string name="create_qrcode_fail_message">Não é possível criar código QR</string>
-  <string name="create_voip_shortcut_success">Atalho criado</string>
   <string name="customLabelPickerTitle">Nome de etiqueta personalizado</string>
   <string name="custom_list_filter">Definir vista personalizada</string>
   <string name="custom_nickname_hint">Introduzir alcunha</string>
@@ -368,22 +367,14 @@
   <string name="device_paired_dialog_title">A procurar contactos…</string>
   <string name="device_pairing_dialog_message">A emparelhar…</string>
   <string name="device_pairing_dialog_title">Emparelhar dispositivos</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Ligar o \"Bluetooth\" do outro dispositivo;
-        
+  <string name="device_transfer_by_bluetooth_message">"1. Ligue o Bluetooth no outro dispositivo. 
 
-- Os dispositivos Android devem procurar o \"Bluetooth\" na secção de redes
-        
-- Os dispositivos iOS devem procurar o \"Bluetooth\" nas Definições
-        
+- O Bluetooth pode ser encontrado nas definições de rede nos dispositivos Android. 
+- Nos dispositivos iOS, o Bluetooth está nas Definições. 
 
-2. Os dispositivos Android devem ligar a opção \"Visível\";
-        
+2. O modo Vísivel também deve estar ligado nos dispositivos Android. 
 
-3. Clique \"Seguinte\" e dê permissão de acesso aos contactos no passo seguinte"</string>
-  <string name="device_transfer_by_sim_message">"1. Guarde os contactos do outro dispositivo no cartão SIM;
-        
-
-2. Vá a definições nos Contactos -- \"Importar/Exportar contactos\" -- \"Importar do cartão SIM\" pressão longa num contacto, escolha os contactos a serem importados e clique na opção \"Importar\""</string>
+3. Toque \"Seguinte\" e dê aos Contactos as permissões necessárias"</string>
   <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importar via cartão SIM</string>
   <string name="dial">Marcar</string>
@@ -487,7 +478,6 @@ Motivo: \"%s\""</string>
   <string name="force_touch_miprofile">Cartão de contacto</string>
   <string name="force_touch_new_contact">Novo contacto</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
-  <string name="fraud_more_indemnity">Mais</string>
   <string name="frequentList">Frequentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
@@ -499,18 +489,16 @@ Motivo: \"%s\""</string>
   <string name="groupSavedErrorToast">Não é possível guardar as alterações do grupo</string>
   <string name="groupSavedToast">Grupo guardado</string>
   <string name="group_add_fail_toast">Erro ao adicionar destinatários</string>
-  <string name="group_copy_fail_toast">Não foi possível copiar contactos</string>
   <string name="group_create_fail_toast">Não foi possível criar o grupo</string>
   <string name="group_create_success_toast">Grupo criado</string>
   <string name="group_delete_success_toast">Grupo eliminado</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Nome do grupo</string>
-  <string name="group_member_remove_toast">Removido do grupo</string>
-  <string name="group_move_fail_toast">Não foi possível mover contactos</string>
+  <string name="group_member_remove_fail_toast">Não removido do grupo</string>
+  <string name="group_member_remove_success_toast">Removido do grupo</string>
   <string name="group_name">Os meus grupos</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
-  <string name="group_remove_success_toast">Contactos movidos</string>
   <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
   <string name="group_rename_fail_toast">Não foi possível mudar o nome do grupo</string>
   <string name="group_rename_success_toast">Nome do grupo alterado</string>
@@ -530,6 +518,7 @@ Motivo: \"%s\""</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
   <string name="hybrid_service_unavailiable">Serviço indisponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
+  <string name="hybrid_webpage_not_available">Página não disponível</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
@@ -560,16 +549,6 @@ Motivo: \"%s\""</string>
   <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
   <string name="import_vcard_description">Importar contactos do armazenamento interno</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
-  <string name="import_weibo_dialog_title">Importar contactos Weibo</string>
-  <string name="import_weibo_error_no_matched_contacts">Sem contactos correspondentes</string>
-  <string name="import_weibo_error_no_network">Não é possível ligar à rede</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Não há números de telefone armazenados na sua Conta Mi</string>
-  <string name="import_weibo_error_unknown">Erro desconhecido</string>
-  <string name="import_weibo_error_user_cancel">Importação cancelada</string>
-  <string name="import_weibo_fetch_followers">A pesquisar contactos…</string>
-  <string name="import_weibo_notification_title_done">Actualizados %s contactos</string>
-  <string name="import_weibo_progress_name">A corresponder \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">A importar contactos do cartão SIM…</string>
   <string name="importing_sim_contacts_miui_prepare">A preparar contactos…</string>
   <string name="importing_vcard_canceled_title">Importação %s foi cancelada</string>
@@ -578,8 +557,6 @@ Motivo: \"%s\""</string>
   <string name="insertContactDescription">Criar contacto</string>
   <string name="insertGroupDescription">Criar grupo</string>
   <string name="invalidContactMessage">O contacto não existe</string>
-  <string name="invalid_contacts_excluded_to_save_to_group">Apenas registos de contactos vão ser guardados no grupo</string>
-  <string name="invalid_contacts_to_save_to_group">Não é possível guardar números desconhecidos</string>
   <string name="keep_local">Não sincronizar</string>
   <string name="keep_local_btn">Utilize o armazenamento interno do telefone</string>
   <string name="label_custom_type">Personalizar</string>
@@ -627,10 +604,6 @@ Motivo: \"%s\""</string>
   <string name="menu_accounts">Contas</string>
   <string name="menu_addStar">Favoritos</string>
   <string name="menu_bar_group_add">Adicionar</string>
-  <string name="menu_bar_group_batch_copy">Copiar para o grupo</string>
-  <string name="menu_bar_group_batch_edit">Vários contactos</string>
-  <string name="menu_bar_group_batch_move">Mover para o grupo</string>
-  <string name="menu_bar_group_batch_remove">Eliminar grupo</string>
   <string name="menu_bar_group_delete">Eliminar</string>
   <string name="menu_bar_group_rename">Mudar o nome</string>
   <string name="menu_bar_group_ringtone">Toque</string>
@@ -739,7 +712,7 @@ Motivo: \"%s\""</string>
   <string name="missing_name">(Sem nome)</string>
   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
   <string name="missing_required_permission">Desactivou uma permissão necessária</string>
-  <string name="more_call_logs">Oiça todas as suas gravações de chamadas em mi.com/micloud</string>
+  <string name="more_call_logs">Oiça todas as suas gravações de chamadas em &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">Mover e dimensionar</string>
   <string name="multi_number_menu_call">Ligar</string>
   <string name="multi_number_menu_delete">Eliminar</string>
@@ -747,7 +720,6 @@ Motivo: \"%s\""</string>
   <string name="multi_number_menu_message">Mensagem</string>
   <string name="multi_number_title">Chamada em conferência</string>
   <string name="multipleContactDeleteConfirmation">A eliminação deste contacto vai eliminar detalhes de várias contas</string>
-  <string name="multipleContactDeleteConfirmationDetail">A eliminação de \"%s\" vai eliminar detalhes de várias contas</string>
   <string name="my_phone_not_provider_bluetooth">Não</string>
   <string name="my_phone_provider_bluetooth">Sim</string>
   <string name="nameLabelsGroup">Nome</string>
@@ -846,7 +818,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados</string>
   <string name="no_sdcard_message">Armazenamento não encontrado</string>
-  <string name="no_voip_contacts">Sem contactos Mi Voice</string>
   <string name="non_phone_add_to_contacts">Adicionar a um contacto existente</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
@@ -858,6 +829,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="openDialKeyboard">Teclado</string>
   <string name="open_contact">Ver contacto</string>
   <string name="open_dial_pad_description">Abrir teclado de marcação</string>
+  <string name="option_delete_batch_contacts">Eliminar contactos</string>
   <string name="option_delete_contact">Eliminar</string>
   <string name="option_delete_group">Eliminar</string>
   <string name="option_edit_contact">Editar</string>
@@ -898,13 +870,10 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="payphone">Telefone público</string>
   <string name="people">Contactos</string>
   <string name="phoneLabelsGroup">Telefone</string>
-  <string name="phone_call_type_livetalk">Pacote de carregamento</string>
-  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
   <string name="photoPickerNotFoundText">Sem imagens disponíveis no telefone</string>
   <string name="photo_fragment">Foto</string>
-  <string name="photo_labels_group">Foto de perfil</string>
   <string name="photo_load_failed">Não foi possível carregar foto</string>
   <string name="pick_new_photo">Escolher nova foto de %s</string>
   <string name="pick_photo">Escolher foto de %s</string>
@@ -939,8 +908,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="pref_key_sim_manage">Cartões SIM</string>
   <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
   <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">Definições de cópias e restauro</string>
-  <string name="pref_rcs_fetion_entry_title">Definições de Fetion</string>
   <string name="pref_summary_import_from_account">Transferir contactos de contas Google e Exchange para a minha Conta Mi</string>
   <string name="pref_title_account_import">Importar contactos</string>
   <string name="pref_title_import_from_account">Importar para a Conta Mi</string>
@@ -963,10 +930,13 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_import_export">Importar/Exportar</string>
   <string name="preference_import_export_title">Importar/Exportar contactos</string>
   <string name="preference_key_trash_bin_title">Recuperar contactos</string>
+  <string name="preference_other">Outros</string>
   <string name="preference_others">Outros</string>
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
+  <string name="preference_show_yellowpage_tab_description">Se fechar o separador páginas amarelas, pode não funcionar correctamente</string>
+  <string name="preference_show_yellowpage_tab_title">Mostrar as páginas amarelas</string>
   <string name="preference_simple_mode_description">Mostrar fotos e outras informações na lista de contactos</string>
   <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
   <string name="preference_smart_group_company_summary">Agrupar por empresa</string>
@@ -994,30 +964,15 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profile_display_name">Configurar o meu perfil</string>
   <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
-  <string name="public_account_name">Conta pública</string>
   <string name="pull_to_refresh_pull_label">Puxe para actualizar</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
   <string name="pull_to_refresh_release_label">Largue para actualizar</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Código QR</string>
-  <string name="qrcode_detail_menu_edit">Editar código QR</string>
-  <string name="qrcode_detail_menu_scan">Digitalizar</string>
-  <string name="qrcode_editor_flash">Código QR actualizado</string>
-  <string name="qrcode_editor_flash_failed">Não foi possível actualizar código QR</string>
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="quit_dialog_confirm_message">"Não uniu nenhum contacto"</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contactos</string>
-  <string name="rcs_account_type_title">Conta Fetion</string>
-  <string name="rcs_contact_detail_profile_binded_label">Conta Fetion actual</string>
-  <string name="rcs_fetion_not_exist">Não é possível achar o plug-in Fetion</string>
-  <string name="rcs_group_chat_name">Conversa de grupo</string>
-  <string name="rcs_profile_name">O meu cartão Fetion</string>
-  <string name="rcs_profile_name_photo">Eu</string>
-  <string name="rcs_recipient_type_contact">Enviar para contacto</string>
-  <string name="rcs_recipient_type_group">Enviar para grupo</string>
-  <string name="rcs_send_vcard">Enviar vCard</string>
   <string name="readOnlyContactDeleteConfirmation">O contacto a ser eliminado tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">O contacto \"%s\" contém detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
   <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos</string>
   <string name="readingSimContacts">A ler cartão SIM…</string>
   <string name="reading_vcard_canceled_title">A leitura do vCard foi cancelada</string>
@@ -1091,7 +1046,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_wipe_data">Organizar;Contactos</string>
   <string name="searching_vcard_message">A procurar por dados vCard no armazenamento…</string>
   <string name="select_all">Seleccionar todos</string>
-  <string name="select_done">Sem mais para seleccionar</string>
+  <string name="select_all_exceed">Não pode seleccionar mais de %1$d</string>
+  <string name="select_exceed">Não pode seleccionar mais de %1$d</string>
   <string name="select_groups">Seleccionar grupos</string>
   <string name="select_none">Nada seleccionado</string>
   <string name="select_show_contacts">Lista de contactos</string>
@@ -1124,8 +1080,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sim_capacity_content" formatted="false">%d total | %d utilizado</string>
   <string name="sim_card_no_free_space_message">Sem espaço suficiente</string>
   <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Desmarcar tudo</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Seleccionar tudo</string>
   <string name="sim_contact_existing">O contacto já existe</string>
   <string name="sim_contact_invalid">Contacto do SIM inválido</string>
   <string name="sim_contact_search_error">Ocorreu um erro</string>
@@ -1193,14 +1147,16 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Contacto importado</string>
   <string name="summary_kind_title">Resumo</string>
+  <string name="t9_search_empty_create_contact">Novo contacto</string>
+  <string name="t9_search_empty_edit_contact">Adicionar ao contacto</string>
+  <string name="t9_search_empty_send_sms">Enviar mensagem</string>
+  <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
   <string name="t9_search_guide_pinyin_title2">Introduzir 9 e 4 para pesquisar por &lt;font fgcolor=""&gt;X&lt;/font&gt;avi &lt;font fgcolor=""&gt;H&lt;/font&gt;ernandez</string>
   <string name="t9_search_guide_zhuyin_title1">Pesquisa rápida de contactos</string>
   <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por &lt;font fgcolor=""&gt;J&lt;/font&gt;oão &lt;font fgcolor=""&gt;M&lt;/font&gt;outinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
-  <string name="telecom_fraud_insurance">Seguro contra fraudes telefónicas</string>
-  <string name="telecom_fraud_insurance_description">10,000 CNY cobertos | Oferta exclusiva Xiaomi | 9.9 CNY por ano</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>
   <string name="title_other_devices">Outros dispositivos disponíveis</string>
   <string name="title_paired_devices">Dispositivos emparelhados</string>
@@ -1224,10 +1180,12 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="type_outgoing">Chamada efectuada</string>
   <string name="type_voicemail">Mensagens de voz</string>
   <string name="unable_get_device_id">Não foi possível obter IMEI</string>
+  <string name="unfold_all">Expandir tudo</string>
   <string name="unknow_phone_number_call_failed">Não é possível ligar para números desconhecidos</string>
   <string name="unknow_phone_number_mms_failed">Não é possível enviar mensagens para números desconhecidos</string>
   <string name="unknown">Número privado</string>
   <string name="unknown_contact_name">Contacto desconhecido</string>
+  <string name="unknown_details_new_contact">Novo contacto</string>
   <string name="update_sim_contact_photo_toast">Não é possível definir fotos para contactos do SIM</string>
   <string name="upgrade_in_progress">A lista de contactos está a ser actualizada</string>
   <string name="upgrade_out_of_memory">"Os contactos estão em processo de actualização.
@@ -1247,7 +1205,6 @@ Escolher uma das seguintes opções:"</string>
   <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente mais tarde</string>
   <string name="vcard_import_will_start_message">%s vai ser importado em breve</string>
   <string name="vcard_import_will_start_message_with_default_name">O ficheiro vai ser importado em breve</string>
-  <string name="vcard_info_send_error">Não é possível enviar devido a um erro de VCard</string>
   <string name="vcard_unknown_filename">Contacto</string>
   <string name="video_call">Videochamada</string>
   <string name="video_chat">Conversa de vídeo</string>
@@ -1271,12 +1228,6 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor do Voice Mail. Novas mensagens de voz em espera</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail</string>
   <string name="voip_audio_description">Chamada VoIP</string>
-  <string name="voip_contact_label">Mi Voice</string>
-  <string name="voip_contacts_entry">Mi Voice</string>
-  <string name="voip_loading_contact">Aguarde…</string>
-  <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Toque para utilizar o Mi Voice</string>
-  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">Videochamada VoIP</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -1295,8 +1246,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="yellowpage_navigation_search_history">Histórico</string>
   <string name="yellowpage_navigation_search_offline_hint">Sem acesso à Internet</string>
   <string name="yellowpage_navigation_search_result_average_price">Média RMB %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">"Não é possível ligar à
-        rede"</string>
+  <string name="yellowpage_navigation_search_result_network_error">Não é possível ligar à rede</string>
   <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>
   <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>

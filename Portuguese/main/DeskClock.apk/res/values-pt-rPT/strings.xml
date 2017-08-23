@@ -58,6 +58,8 @@
   <string name="hour">1 hora</string>
   <string name="hour_unit">H +</string>
   <string name="hours">%d horas</string>
+  <string name="install_weather_app_error">Não foi possível carregar a aplicação</string>
+  <string name="install_weather_app_loading">Aguarde…</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
   <string name="label_pref_summary">Nome</string>
@@ -160,7 +162,7 @@
   <string name="tomorrow">Amanhã</string>
   <string name="turn_off_a_repeat_alarm">Desligar um alarme repetitivo</string>
   <string name="turn_off_this_repeat_alarm">Desligar este alarme repetitivo</string>
-  <string name="upcoming_alarm">Próximo alarme</string>
+  <string name="upcoming_alarm"> Próximo alarme</string>
   <string name="upcoming_alarm_hint">Pode desligar este alarme com antecedência</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>

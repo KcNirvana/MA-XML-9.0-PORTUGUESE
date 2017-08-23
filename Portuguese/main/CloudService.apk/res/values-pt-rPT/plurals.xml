@@ -55,5 +55,13 @@
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d registos da lista de bloqueio</item>
         <item quantity="one">%d registo da lista de bloqueio</item>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Resume sync after %d hours</item>
+        <item quantity="one">Resume sync after %d hour</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Retomar sinc. após %d minutos</item>
+        <item quantity="one">Retomar sinc. após %d minuto</item>
+    </plurals>
     </plurals>
 </resources>

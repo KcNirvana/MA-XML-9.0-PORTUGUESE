@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="stat_volume_button_behaviors">
-       <item>Não</item>
-       <item>Adiar</item>
-       <item>Eliminar</item>
-    </string-array>
     <string-array name="alarm_in_furture">
        <item>O alarme vai tocar em menos de 1 minuto</item>
        <item>O alarme vai tocar em %1$s</item>
@@ -67,5 +62,10 @@
        <item>Nada</item>
        <item>Suspender</item>
        <item>Desligar</item>
+    </string-array>
+    <string-array name="stat_volume_button_behaviors">
+       <item>Não</item>
+       <item>Adiar</item>
+       <item>Eliminar</item>
     </string-array>
 </resources>
