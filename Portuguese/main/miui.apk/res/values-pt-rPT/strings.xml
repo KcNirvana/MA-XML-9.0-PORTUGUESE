@@ -5,6 +5,8 @@
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="action_mode_title_empty">Seleccionar itens</string>
+  <string name="actionbar_button_up_description">Voltar</string>
+  <string name="actionbar_immersion_button_more_description">Mais</string>
   <string name="activate">Activar</string>
   <string name="activate_fail_notification_title">Reactivar sincronização</string>
   <string name="activating">A activar…</string>
@@ -84,6 +86,7 @@
   <string name="chinese_symbol_animals_sheep">" "</string>
   <string name="chinese_symbol_animals_snake">" "</string>
   <string name="chinese_symbol_animals_tiger">" "</string>
+  <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="copyright">Direitos de autor</string>
   <string name="country_name_ac">AC</string>
@@ -406,6 +409,7 @@
   <string name="heavenly_stems_yi">" "</string>
   <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="im">IM</string>
+  <string name="immersion_button_close_description">Fechar</string>
   <string name="instruction">Instruções</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -469,6 +473,8 @@
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_input_description">Pesquisar</string>
+  <string name="search_mode_button_back_description">Voltar</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_item">Seleccionar itens</string>
   <string name="send">Enviar</string>

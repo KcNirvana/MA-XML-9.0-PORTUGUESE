@@ -58,6 +58,7 @@
   <string name="default_folder_title_recommend">Aplicações</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Ferramentas</string>
+  <string name="default_screen_preview_title">Definições de ecrã predefinidas</string>
   <string name="delete">Eliminar</string>
   <string name="delete_screen">Eliminar ecrã</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
@@ -81,7 +82,6 @@
   <string name="failed_to_delete_temporary">Não é possível remover</string>
   <string name="failed_to_drop">Não é possível mover</string>
   <string name="failed_to_drop_widget_invalid">Widget inválido</string>
-  <string name="failed_to_drop_widget_nospace">Não há mais espaço neste ecrã inicial</string>
   <string name="failed_to_load_image">"Não é possível carregar imagem"</string>
   <string name="folder_name">Pasta</string>
   <string name="frame_load_failed">Não é possível carregar o fotograma</string>
@@ -154,23 +154,30 @@
   <string name="lock_screen_success_message">Aplicado</string>
   <string name="lock_screen_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="menu_add">Adicionar</string>
+  <string name="menu_auto_fill">Preencher auto.</string>
   <string name="menu_back_desktop">Voltar para o ecrã inicial</string>
+  <string name="menu_cell_setting">Definições do ecrã</string>
   <string name="menu_customize">Definições</string>
+  <string name="menu_default_screen_preview">Definições do ecrã predefinidas</string>
   <string name="menu_edit">Editar ecrã inicial</string>
   <string name="menu_exit_scene">Sair do Espaço Mi</string>
   <string name="menu_item_add_item">Colocar no ecrã inicial</string>
   <string name="menu_launcher_setting">Definições do launcher</string>
+  <string name="menu_lock">Ecrã de bloqueio</string>
+  <string name="menu_more">Mais</string>
   <string name="menu_picktheme">Escolher um tema</string>
   <string name="menu_reset_scene">Reiniciar para o layout predefinido</string>
   <string name="menu_search">Pesquisar</string>
   <string name="menu_settings">Definições</string>
   <string name="menu_sort">Ordenar aplicações</string>
+  <string name="menu_trans_effect">Efeitos de transição</string>
   <string name="menu_wallpaper">Papel de parede</string>
   <string name="menu_workspace_preview">Pré-visualização dos ecrãs iniciais</string>
   <string name="mi_wallpaper">Loja de Temas MIUI</string>
   <string name="mtzgadget_missing_text">Widget não disponível</string>
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, arraste o seu ícone e largue-a aqui</string>
   <string name="no_detail_page">Sem página de detalhes</string>
+  <string name="no_space_toast">Sem espaço</string>
   <string name="normal_wallpaper">Papel de parede</string>
   <string name="notification_installed">Instalado com sucesso</string>
   <string name="notification_open_button">Abrir</string>
@@ -267,4 +274,5 @@
   <string name="widget_favorite_contacts_style">Alterar o tamanho</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Pesquisar</string>
+  <string name="widget_quick_function">Função rápida</string>
 </resources>

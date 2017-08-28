@@ -140,12 +140,4 @@
         <item quantity="other">%1$d ficheiros que ainda não foram transferidos</item>
         <item quantity="one">%1$d ficheiro que ainda não foi transferido</item>
     </plurals>
-    <plurals name="delete_folders">
-        <item quantity="other">Eliminar %1$d pastas?</item>
-        <item quantity="one">Eliminar esta pasta?</item>
-    </plurals>
-    <plurals name="delete_files">
-        <item quantity="other">Eliminar %1$d ficheiros?</item>
-        <item quantity="one">Eliminar este ficheiro?</item>
-    </plurals>
 </resources>

@@ -38,7 +38,6 @@
   <string name="anniversary_card_title">Aniversário</string>
   <string name="anniversary_event_title">Aniversário: %1$s</string>
   <string name="app_label">Calendário</string>
-  <string name="app_name">common</string>
   <string name="birthday_calendar_display_name">Aniversários</string>
   <string name="birthday_card_other_day_title">Aniversários</string>
   <string name="birthday_card_title">Aniversários hoje</string>
@@ -145,7 +144,6 @@
   <string name="edit_event_birthday_import_from_contact">Importar aniversários dos contactos</string>
   <string name="edit_event_birthday_name_empty_hint">Introduza um nome</string>
   <string name="edit_event_birthday_name_hint">Nome</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Lembrar 3 dias antes também</string>
   <string name="edit_event_birthday_reminder_time">Hora do lembrete</string>
   <string name="edit_event_calendar_label">Calendário</string>
   <string name="edit_event_choose_date">Escolher data</string>
@@ -156,7 +154,7 @@
   <string name="edit_event_input_year">Introduzir ano</string>
   <string name="edit_event_label">Detalhes</string>
   <string name="edit_event_no_reminder_value">Não lembrar</string>
-  <string name="edit_event_reminder_3_days_before">E lembrar 3 dias antes</string>
+  <string name="edit_event_reminder_3_days_before">Lembrar 3 dias antes também</string>
   <string name="edit_event_reminder_summary">No dia às %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 dia antes e no dia às %1$s</string>
   <string name="edit_event_reminder_text">Em %1$s às %2$s</string>
@@ -409,6 +407,9 @@
   <string name="travel_eta_advice">%2$s minutos a %1$s</string>
   <string name="travel_ets_advice">Conduzir para %2$s antes de %1$s</string>
   <string name="travel_event_add_successfully">Evento criado</string>
+  <string name="travel_event_add_unsuccessfully">Não foi possível criar evento</string>
+  <string name="travel_event_added">Evento criado</string>
+  <string name="travel_event_delete_successfully">Evento eliminado</string>
   <string name="travel_event_title_flight">Voo: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Comboio: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Comboio: %1$s %2$s</string>

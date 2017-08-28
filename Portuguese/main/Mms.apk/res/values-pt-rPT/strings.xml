@@ -79,7 +79,7 @@
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
   <string name="confirm_dialog_title">Eliminar conversas</string>
-  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar o serviço. Tem certeza que deseja cancelar?</string>
+  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar. Cancelar na mesma?</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>
   <string name="confirm_export_dialog_title">Remover dos contactos privados</string>
@@ -119,12 +119,15 @@
   <string name="delete_message">Eliminar</string>
   <string name="delete_phrase">Eliminar resposta</string>
   <string name="delete_unlocked">Eliminar mensagens bloqueadas</string>
+  <string name="delete_verification_code_sms_message">Eliminar todas as OTPs?</string>
+  <string name="delete_verification_code_sms_title">Limpar OTPs</string>
   <string name="delete_wild_sims">Eliminar números</string>
   <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir da aplicação de mensagens predefinida?</string>
+  <string name="disabled">Desligado</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_message">Rejeitar</string>
   <string name="discard_message_reason">A mensagem vai ser rejeitada porque não tem um destinatário válido</string>
@@ -144,6 +147,7 @@
   <string name="edit_phrase">Editar respostas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivo</string>
   <string name="edit_slideshow_activity">Editar apresentação</string>
+  <string name="enabled">Ligado</string>
   <string name="english_subject_limit">Limite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensagens</string>
   <string name="error_code_label">"Código de erro: "</string>
@@ -158,6 +162,7 @@
   <string name="expire_on">Expira: %s</string>
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="fail_to_add_attachment">Não foi possível adicionar anexo</string>
+  <string name="fail_to_view_attachment">O anexo não está disponível</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
@@ -165,6 +170,7 @@
   <string name="fake_cell_detection_entry">Detecção de mensagem falsa</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
   <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
+  <string name="favorite_at_time">Adicionado aos favs. em: %1s</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
   <string name="festival_sms_loading">A carregar…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -185,8 +191,9 @@
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
   <string name="group_message">Mensagem de grupo</string>
-  <string name="group_message_failed_title">Não foi possível enviar para %d contactos</string>
   <string name="group_resend_message">Reenviar (%d)</string>
+  <string name="group_verification_codes_summary">Agrupar mensagens OTP automaticamente</string>
+  <string name="group_verification_codes_title">Agrupar mensagens OTP</string>
   <string name="guild_add_attachments">Toque para adicionar emoticons e outros itens</string>
   <string name="guild_add_recipients">Toque para adicionar destinatários dos contactos</string>
   <string name="guild_msim_switcher">Toque para trocar de cartão SIM</string>
@@ -246,6 +253,7 @@
   <string name="message_number">Número de telefone:</string>
   <string name="message_pending">A enviar</string>
   <string name="message_queued">Não é possível enviar a mensagem neste momento. Vai ser enviada quando o serviço estiver disponível</string>
+  <string name="message_queued_second_space">Não é possível enviar a sua mensagem neste momento</string>
   <string name="message_readed">Lida</string>
   <string name="message_received">Recebida</string>
   <string name="message_rejected">Rejeitada</string>
@@ -369,7 +377,7 @@
   <string name="pref_delivery_ringtone">Som de entrega</string>
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reencaminhar</string>
-  <string name="pref_hide_verification_code_summary">Ocultar automaticamente palavras-passes OTP nas notificações de mensagens no bloqueio de ecrã com segurança</string>
+  <string name="pref_hide_verification_code_summary">Ocultar automaticamente OTP nas notificações de mensagens no bloqueio de ecrã com segurança</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
   <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Mensagens eliminadas recentemente</string>
@@ -377,6 +385,8 @@
   <string name="pref_other_title">Definições adicionais</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
   <string name="pref_show_list_avatar_summary">Mostrar foto e outras informações na lista de contactos</string>
+  <string name="pref_show_photo_word_summary">Atribuir fotos aos contactos automaticamente</string>
+  <string name="pref_show_sms_template_entry_summary">Detectar OTPs em SMS</string>
   <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes do Mi Message tais como copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
@@ -394,13 +404,9 @@
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
-  <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao escrever uma nova mensagem</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
   <string name="pref_system_title">Sistema</string>
-  <string name="pref_time_auto_group_disabled_summary">Não é suportado com o actual tamanho do tipo de letra</string>
-  <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
-  <string name="pref_time_auto_group_title">Agrupar por data</string>
   <string name="pref_title_about_smart_sms">Acerca dos parceiros de mensagens inteligentes</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
@@ -417,7 +423,6 @@
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
   <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver desligado</string>
   <string name="pref_title_send_delivery_reports">Enviar mensagens de entrega</string>
-  <string name="pref_title_show_recent_contacts">Mostrar contactos recentes</string>
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
   <string name="pref_title_sms_validity_period">Período de validade de SMS</string>
   <string name="pref_title_storage_status">Estado do armazenamento de mensagens</string>
@@ -449,6 +454,7 @@
   <string name="prvate_contact">Contacto privado</string>
   <string name="quick_reply">Responder</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="received_at_time">Recebida às: %1s</string>
   <string name="received_label">"Recebida: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinatário: </string>
@@ -521,8 +527,8 @@
   <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
   <string name="send_sms">Enviar mensagem</string>
   <string name="send_to">Para:</string>
-  <string name="send_to_count">%1$s mensagens enviadas</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Enviada às: %1s</string>
   <string name="sent_label">"Enviada: "</string>
   <string name="service_message_not_found">Mensagem expirou ou não está disponível</string>
   <string name="service_network_problem">Não foi possível enviar devido a um problema de rede</string>
@@ -564,10 +570,9 @@
   <string name="sp_category_bank">Mensagens de notificações de bancos</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificações</string>
-  <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
   <string name="sp_mark_as_read_menu_title">Marcar como lidas</string>
-  <string name="sp_mark_as_read_progress">A trabalhar…</string>
-  <string name="sp_mark_as_read_title">Marcar todas as notificações como lidas?</string>
+  <string name="sqlite_disk_full">BD ou disco cheios</string>
+  <string name="sqlite_low_memory">Memória fraca</string>
   <string name="status_failed">Sem sucesso</string>
   <string name="status_label">"Estado: "</string>
   <string name="status_pending">Pendente</string>
@@ -595,21 +600,19 @@
   <string name="switch_to_menu">Modo menu</string>
   <string name="text_in_popup_saved_to_clipboard">Copiado para a área de transferências</string>
   <string name="text_message">Mensagem de texto</string>
-  <string name="timed_message_expired_title">%d mensagens agendadas não foram enviadas</string>
   <string name="timed_message_expired_title_2">Enviá-las agora?</string>
-  <string name="timed_message_in_total">(%d mensagens)</string>
   <string name="timed_message_to">para</string>
   <string name="title_allow_network_access">Actualizar informações automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar notificações</string>
   <string name="title_hide_verification_code">Ocultar autom. OTP no ecrã de bloqueio</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
+  <string name="title_show_photo_word">Atribuir fotos aos contacos</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
   <string name="title_timed_message_dialog">Definir hora de envio</string>
   <string name="title_use_gsm_alphabet">Utilizar alfabeto GSM</string>
   <string name="to_address_label">"Para: "</string>
-  <string name="to_count">%d destinatários</string>
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Vai ser enviada às %s</string>
   <string name="today">Hoje</string>
@@ -636,18 +639,14 @@ Tentativas efectuadas: %s"</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
   <string name="url_fraud_dangerous_alert">"O Website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar na mesma? 
 %s"</string>
-  <string name="url_fraud_insurance">Seguro de fraude</string>
   <string name="url_fraud_risky_alert">"O Website que está a tentar visitar pode ser perigoso. Visitar na mesma? 
 %s"</string>
   <string name="url_fraud_title">O Website pode ser falso</string>
   <string name="url_fraud_visit"><u>Visitar na mesma</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
-  <string name="user_agreement1">Leia os termos aplicáveis cuidadosamente antes de instalar software adicional ou usar este produto</string>
-  <string name="user_agreement2">Termos de Serviço</string>
-  <string name="user_agreement3">" e "</string>
-  <string name="user_agreement4">Política de Privacidade</string>
-  <string name="user_agreement5">Ao tocar OK, Concorda com os termos descritos nestes documentos</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Códigos de verificação</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensagem original</string>
   <string name="view_message_details">Ver detalhes</string>

@@ -13,8 +13,9 @@
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
   <string name="bugreport_dump_start_notification_summary">Aguarde alguns minutos</string>
   <string name="bugreport_dump_start_notification_title">A criar relatório de erros…</string>
-  <string name="bugreport_tool_log_dumping_desc">Isto leva cerca dum minuto</string>
-  <string name="bugreport_tool_log_dumping_title">A criar relatório de erros</string>
+  <string name="bugreport_tool_log">Criar relatório de erros</string>
+  <string name="bugreport_tool_log_toast">Registo gravado para %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">A criar relatório de erros (leva cerca de um minuto)</string>
   <string name="close_feedback_main">Ocultar</string>
   <string name="cta_cancel">Cancelar</string>
   <string name="cta_confirm">OK</string>
@@ -185,10 +186,11 @@
   <string name="mobile_data_note_dialog_content">Utilizar dados móveis para carregar registos pode gerar custos adicionais</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Carregar registos utilizando dados móveis necessita de %s MB</string>
   <string name="mobile_data_note_dialog_title">Aviso de utilização de dados</string>
-  <string name="modem_tool_log_dumping_desc">Clique no ícone para parar</string>
-  <string name="modem_tool_log_dumping_title">A criar registos do modem</string>
-  <string name="modem_tool_log_finish_desc">O registo foi guardado como %s</string>
-  <string name="modem_tool_log_finish_title">Registo do modem guardado</string>
+  <string name="modem_tool_log">Capturar registos do modem</string>
+  <string name="modem_tool_log_start">Iniciar</string>
+  <string name="modem_tool_log_start_toast">A guardar o envio do registo do modem para %s</string>
+  <string name="modem_tool_log_stop">Parar</string>
+  <string name="modem_tool_log_stop_toast">A parar o envio do registo do modem para %s</string>
   <string name="module_communication">Comunicações</string>
   <string name="module_data">Armazenamento e aplic. clonadas</string>
   <string name="module_desktop">Ecrã inicial e definições</string>
@@ -289,7 +291,6 @@
   <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
   <string name="toast_report_sent_failed">Não é possível enviar relatório</string>
   <string name="toast_report_sent_succeed">Relatório foi enviado</string>
-  <string name="toast_screenshot_too_large">Não é possível carregar ficheiros maiores que 100 MB</string>
   <string name="toast_third_packagename_required">Introduza o nome da aplicação</string>
   <string name="toast_title_required">Descreva o seu problema</string>
   <string name="topic_author">1#</string>

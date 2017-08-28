@@ -21,7 +21,7 @@
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_label">Câmara</string>
-  <string name="camera_mode_options">Modos</string>
+  <string name="camera_mode_options">Opções</string>
   <string name="camera_setting">Câmara</string>
   <string name="camera_settings_label">Câmara</string>
   <string name="camera_snap_mode_title">Modo disparo rápido</string>
@@ -30,6 +30,8 @@
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
+  <string name="confirm_install_scanner_message">O Digitalizador permite digitalizar códigos QR, códigos de barras,etc. Não tem de ligar à Internet para o instalar</string>
+  <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
   <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas</string>
   <string name="confirm_location_title">Guardar localização das fotos?</string>
@@ -71,6 +73,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="groupshot_mode_use_hint">"Vão ser tiradas várias fotos para seleccionar a melhor
 expressão facial para construir uma foto"</string>
   <string name="hibernate_hint">Toque em qualquer sítio para ligar</string>
+  <string name="install_confirmed">Instalar</string>
   <string name="message_snap_double_confirm">Actualmente a pressão longa no botão Volume é o modo NFC. Confirma a substituição?</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
@@ -80,11 +83,13 @@ expressão facial para construir uma foto"</string>
   <string name="pano_how_to_use_prompt_slow_down">Mais devagar</string>
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
-  <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
-  <string name="portrait_mode_lowlight_hint">É necessário mais luz</string>
-  <string name="portrait_mode_too_close_hint">Afaste-se um pouco</string>
-  <string name="portrait_mode_too_far_hint">Coloque a pessoa a 2,5 metros</string>
-  <string name="portrait_with_facebeauty_hint">As preferências de Embelezar no Modo Retrato já estão disponíveis</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
+  <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
+  <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>
+  <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2.5 metros</string>
+  <string name="portrait_mode_use_hint">"O Modo Retrato ajuda-o a enevoar o fundo
+com um retrato mais bonito"</string>
+  <string name="portrait_with_facebeauty_hint">O Embelezar está agora disponível no Modo Retrato</string>
   <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -207,8 +212,8 @@ expressão facial para construir uma foto"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Ecrã inteiro 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Padrão 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Frame da câmara</string>
-  <string name="pref_camera_portrait_mode_entry_off">Modo Retrato desligado</string>
-  <string name="pref_camera_portrait_mode_entry_on">Modo Retrato ligado</string>
+  <string name="pref_camera_portrait_mode_entry_off">O Modo Retrato está desligado</string>
+  <string name="pref_camera_portrait_mode_entry_on">O Modo Retrato está ligado</string>
   <string name="pref_camera_portrait_mode_title">Modo Retrato</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Embelezar no Modo Retrato</string>
   <string name="pref_camera_proximity_lock_summary">Bloquear toques quando colocado no bolso</string>
@@ -277,9 +282,6 @@ expressão facial para construir uma foto"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Medida</string>
   <string name="pref_camera_whitebalance_title">Balanço dos brancos</string>
-  <string name="pref_camera_zoom_mode_entry_tele">Televisão</string>
-  <string name="pref_camera_zoom_mode_entry_wide">Panorama</string>
-  <string name="pref_camera_zoom_mode_title">Lentes</string>
   <string name="pref_camera_zsl_entry_off">Desligado</string>
   <string name="pref_camera_zsl_entry_on">Ligado</string>
   <string name="pref_capture_settings">Câmara</string>
@@ -302,7 +304,7 @@ expressão facial para construir uma foto"</string>
   <string name="pref_skin_beautify_intelligent_title">Inteligente</string>
   <string name="pref_skin_beautify_slim_title">Fino</string>
   <string name="pref_skin_beautify_smooth_title">Suave</string>
-  <string name="pref_video_captrue_ability_title">Captura de imagem durante a gravação</string>
+  <string name="pref_video_captrue_ability_title">Captura de imagens enquanto grava</string>
   <string name="pref_video_focusmode_entry_auto">Toque</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Modo de focagem</string>
@@ -327,12 +329,10 @@ expressão facial para construir uma foto"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Intervalo de 3 segundos (90 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalo de 30 segundos (900 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de Time Lapse</string>
-  <string name="pref_watermark_style_entry_dualcamera">Câmara Dupla</string>
-  <string name="pref_watermark_style_entry_off">Desligada</string>
-  <string name="pref_watermark_style_entry_timestamp">Data e hora</string>
-  <string name="pref_watermark_style_title">"Adicionar marca d'água na foto"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
+  <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
+  <string name="screen_on_proximity_sensor_summary">Não tape a área dos auriculares</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
   <string name="setting_top_text">Modos da câmara</string>

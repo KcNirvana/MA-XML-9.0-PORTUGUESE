@@ -39,10 +39,6 @@
         <item>SMS</item>
         <item>Mi Message</item>
      </string-array>
-     <string-array name="wild_msg_sync_options">
-         <item>Sincronizar todas as mensagens</item>
-         <item>Sincronizar mensagens dos cartões SIM seleccionados</item>
-     </string-array>
      <string-array name="switch_sdk">
          <item>Mi Message</item>
          <item>CMCC SMS Inteligentes</item>

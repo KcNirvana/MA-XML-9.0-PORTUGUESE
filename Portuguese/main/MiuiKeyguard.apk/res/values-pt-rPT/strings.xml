@@ -1,13 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Toque para abrir os Papéis de parede aleatórios</string>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir os papéis de parede aleatórios</string>
+  <string name="btn_camera">Introduza o seu rosto</string>
   <string name="click_to_enter_text">Toque para desbloquear</string>
   <string name="confirm_pin_msg">Insira novamente o PIN</string>
   <string name="custom_lock_wallpaper_enter">Introduzir</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="delete">Eliminar</string>
   <string name="emergency_call_string">Emergência</string>
-  <string name="find_device_turn_off_flight_mode">Desligar Modo Avião</string>
+  <string name="face_data_input_camera_fail">Não foi possível carregar a câmara</string>
+  <string name="face_data_input_camera_ok">A carregar a câmara…</string>
+  <string name="face_data_input_cancel">Cancelar</string>
+  <string name="face_data_input_cancel_msg">Não foi possível adicionar dados do rosto</string>
+  <string name="face_data_input_msg">Coloque o seu rosto dentro do quadrado</string>
+  <string name="face_data_input_ok">Concluído</string>
+  <string name="face_data_input_ok_msg">Ligue o ecrã para desbloquear o dispositivo utilizando o seu rosto</string>
+  <string name="face_data_input_ok_title">Adicionado com sucesso</string>
+  <string name="face_data_input_title">Adicionar rosto</string>
+  <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma palavra-passe de ecrã de bloqueio antes de adicionar o seu rosto</string>
+  <string name="face_data_introduction_next">Seguinte</string>
+  <string name="face_data_introduction_title">Reconhecimento de rosto</string>
+  <string name="face_data_manage_delete">Eliminar rosto?</string>
+  <string name="face_data_manage_delete_msg">Eliminar rosto</string>
+  <string name="face_data_manage_delete_sure">Não vai poder desbloquear o seu dispositivo utilizando os dados do seu rosto depois de o eliminar</string>
+  <string name="face_data_manage_delete_title">Dados do rosto</string>
+  <string name="face_data_manage_unlock_msg">Desbloquear dispositivo utilizando o seu rosto</string>
+  <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
+  <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de ecrã de bloqueio</string>
+  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
+  <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o dispositivo é boa</string>
+  <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto gasta mais bateria</string>
+  <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio por rosto</string>
+  <string name="face_unlock_check_failed">Não foi possível reconhecer o seu rosto</string>
+  <string name="face_unlock_close_screen">Aproxime-se do ecrã</string>
+  <string name="face_unlock_down">Levante a sua cabeça</string>
+  <string name="face_unlock_identify_error">Erro no reconhecimento</string>
+  <string name="face_unlock_not_found">Não foi possível reconhecer o seu rosto</string>
+  <string name="face_unlock_offset_bottom">Baixe o seu telefone</string>
+  <string name="face_unlock_offset_left">Ande para a direita</string>
+  <string name="face_unlock_offset_right">Ande para a esquerda</string>
+  <string name="face_unlock_offset_top">Levante o seu telefone</string>
+  <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
+  <string name="face_unlock_passwork">Utilizar palavra-passe</string>
+  <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou rosto</string>
+  <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
+  <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
+  <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
+  <string name="face_unlock_rise">Abaixe a sua cabeça</string>
+  <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
+  <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
+  <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
   <string name="fingerprint_add_text">O interface das imp. digitais foi actualizado. Adicione a sua imp. digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
@@ -20,10 +63,9 @@
   <string name="fingerprint_try_again_text">Tente novamente</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>
   <string name="incorrect_pincode">Código PIN incorrecto</string>
-  <string name="incorrect_pincode_remaining_attempts">Código PIN incorrecto, %d tentativas restantes</string>
   <string name="incorrect_pukcode">Código PUK incorrecto</string>
-  <string name="incorrect_pukcode_remaining_attempts">Código PUK incorrecto, %d tentativas restantes</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
@@ -32,26 +74,14 @@
   <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
   <string name="invalid_sim_pin_hint">O PIN deve conter 4 a 8 números</string>
   <string name="invalid_sim_puk_hint">O PUK deve ter 8 ou mais números</string>
-  <string name="keyguard_charging_info_battery_temperature_text">Temperatura</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">%dh até estar carregada</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">%dm até estar carregada​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%dh %dm até estar carregada</string>
   <string name="keyguard_charging_info_charging_text">A carregar</string>
-  <string name="keyguard_charging_info_charging_voltage_text">Voltagem</string>
   <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">%dh restantes</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">%dm restantes</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">%dh %dm restantes</string>
-  <string name="keyguard_charging_info_current_now_text">Monitorização</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
   <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_data_v">%sV</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">%dh</string>
-  <string name="keyguard_charging_info_drained_min_time_format">%dm</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%dh %dm</string>
   <string name="keyguard_charging_info_finished_charging_text">Carregada</string>
   <string name="keyguard_charging_info_last_charge_time">d/MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -63,10 +93,13 @@
   <string name="keyguard_charging_info_tip_text4">Não utilize o seu dispositivo activamente enquanto estiver a carregar</string>
   <string name="keyguard_charging_info_tip_text5">As baterias demoram mais tempo a carregar quando estão quentes</string>
   <string name="keyguard_charging_info_tip_text6">Desligue o ecrã para refrescar o seu dispositivo</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">Cartão de transporte</string>
+  <string name="keyguard_left_remotecentral">C.Remoto Mi</string>
+  <string name="keyguard_left_smarthome">Casa Mi</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Carregamento rápido. Toque para ver detalhes</string>
   <string name="keyguard_quickly_charging_info_charging_text">Carregamento rápido…</string>
   <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
-  <string name="left_action_default_hint_text">C.Remoto Mi</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="lock_wallpaper_enter">Entrar</string>
@@ -81,27 +114,24 @@
 
 Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
-  <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
-  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sessão em</string>
   <string name="login_website_in_case_forget_password">Para repor a palavra-passe vá a www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
-  <string name="open_camera_hint_text">Deslizar para a esquerda para abrir %s</string>
-  <string name="open_remote_center_hint_text">Deslizar para a direita para abrir %s</string>
-  <string name="open_wifi_settings">Ligação de rede aberta</string>
+  <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita para abrir o C.Remoto Mi</string>
   <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>
-  <string name="phone_locked_foget_password_content">"Pode iniciar sessão em i.mi.com utilizando a Conta Mi associada a este dispositivo e limpar todos os dados. Isto vai eliminar todos os dados pessoais neste dispositivo. Após isto, pode reiniciar o dispositivo e restaurar contactos, mensagens, fotos e outros itens da Mi Cloud. 
-
-Não vai pode fazer isto senão tiver iniciado sessão na sua Conta Mi neste dispositivo. Doutro modo, vai ter que flashar novamente o dispositivo"</string>
-  <string name="phone_locked_foget_password_footer">"Passos:
-Iniciar sessão em i.mi.com, ir a “Localizar Dispositivo”, seleccionar dispositivo e premir Formatar dispositivo"</string>
-  <string name="phone_locked_foget_password_header">O que devo fazer se me esquecer da palavra-passe?</string>
+  <string name="phone_locked_foget_password_mehod_back">Voltar</string>
+  <string name="phone_locked_foget_password_method">Esqueceu-se da palavra-passe?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;eliminar todos os dados &amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contactos e definir uma nova palavra-passe de ecrã de bloqueio&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Seguinte</string>
   <string name="phone_locked_foget_password_ok">Percebi</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Desligue o seu dispositivo, prima e segure os botões Ligar/Desligar e Volume mais até ver o logo Mi</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Como eliminar dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
-  <string name="phone_locked_timeout_minutes_string">Tente novamente dentro de %s minutos</string>
-  <string name="phone_locked_timeout_seconds_string">Tente novamente dentro de %s segundos</string>
   <string name="symbol_colon">:</string>
+  <string name="unlock_camera_steady">Aguarde</string>
+  <string name="unlock_failed">Erro interno</string>
+  <string name="unlock_failed_face_not_found">A detectar</string>
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloquear o cartão SIM</string>
   <string name="unlockscreen_low_battery">Ligar carregador</string>

@@ -34,9 +34,7 @@
   <string name="accessibility_phone_three_bars">Três barras</string>
   <string name="accessibility_phone_two_bars">Duas barras</string>
   <string name="accessibility_recent">Aplicações recentes</string>
-  <string name="accessibility_recent_task_enter">Abriu as aplicações recentes. Aplicações disponíveis: %d</string>
   <string name="accessibility_recent_task_exit">Saiu das aplicações recentes</string>
-  <string name="accessibility_recent_task_first_enter_tips">Abriu as aplicações recentes. Aplicações disponíveis: %d. Deslizar para cima para remover ou deslizar para baixo para bloquear</string>
   <string name="accessibility_recent_task_locked">Bloqueada. Deslizar para baixo para desbloquear</string>
   <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponível: %1$s. Duplo toque para limpar</string>
   <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
@@ -59,7 +57,9 @@
   <string name="activate_usb_title">Activar USB</string>
   <string name="always_use_accessory">Utilizar por predefinição para este acessório USB</string>
   <string name="always_use_device">Utilize por predefinição para este dispositivo USB</string>
-  <string name="app_label">Sistema</string>
+  <string name="app_label">UI de Sistema</string>
+  <string name="as_important">Importante</string>
+  <string name="as_unimportant">Não importante</string>
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar áudio</string>
   <string name="audio_effect_settings">Escolher tipo de auriculares</string>
@@ -69,7 +69,6 @@
   <string name="battery_profiles">Utilizar perfis de bateria</string>
   <string name="block_notification_content_text">As notificações de %1$s não vão ser mostradas novamente. Pode alterar esta opção nas Definições</string>
   <string name="block_notification_text">Ocultar</string>
-  <string name="block_record_notification_more_text">A ocultar notificações de %1$s e %2$d aplicações</string>
   <string name="block_record_notification_text">A ocultar notificações de %1$s</string>
   <string name="block_record_notification_title">Notificações ocultas</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
@@ -120,6 +119,7 @@
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_tethered">Bluetooth partilhado</string>
   <string name="call_status_dialing">A ligar</string>
+  <string name="call_status_holding">Em espera</string>
   <string name="call_status_ringing">A tocar</string>
   <string name="camera_key_action_app_title">Abrir aplicação</string>
   <string name="camera_key_action_category_title">Utilizar se a aplicação câmara não estiver aberta</string>
@@ -132,6 +132,7 @@
   <string name="camera_key_action_shortcut_title">Atalho</string>
   <string name="camera_key_action_shortcut_wake">Bloquear/Desbloquear dispositivo</string>
   <string name="camera_key_action_toggle_title">Selecção de atalhos</string>
+  <string name="cancel">Cancelar</string>
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
   <string name="connected_via_wfa">Ligado via assistente de Wi-Fi</string>
@@ -143,6 +144,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="data_usage_disabled_dialog_enable">Voltar a activar dados</string>
   <string name="data_usage_disabled_dialog_mobile_title">Dados móveis desactivados</string>
   <string name="data_usage_disabled_dialog_title">Dados desactivados</string>
+  <string name="demo_mode">Modo demonstração</string>
   <string name="description_direction_left">Deslize para a esquerda para %s</string>
   <string name="description_direction_up">Deslize para cima para %s</string>
   <string name="description_target_search">Pesquisar</string>
@@ -180,12 +182,14 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="gps_notification_found_text">Localização definida por GPS</string>
   <string name="gps_notification_searching_text">A pesquisar GPS</string>
   <string name="hour_minute_time_format">HH:mm</string>
+  <string name="important_desc">Todas as notificações importantes vão aparecer directamente na área de notificações</string>
   <string name="invalid_charger">"O carregamento por USB não é suportado.
 Utilize apenas o carregador fornecido"</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Ver</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
+  <string name="loading_desktop">Aguarde…</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
   <string name="long_screenshot_out_of_memory_error">O tamanho da imagem é demasiado grande</string>
@@ -270,25 +274,22 @@ Utilize apenas o carregador fornecido"</string>
   <string name="screen_pinning_positive">Entendi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
   <string name="screenshot_delete">Eliminar</string>
-  <string name="screenshot_delete_dlg_msg">Tem a certeza que quer eliminar esta captura de ecrã?</string>
+  <string name="screenshot_delete_dlg_msg">Eliminar esta captura de ecrã?</string>
   <string name="screenshot_delete_dlg_title">Eliminar</string>
   <string name="screenshot_dlg_cancel">Cancelar</string>
   <string name="screenshot_dlg_delete_button">Eliminar</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou não é permitido pela aplicação ou organização</string>
+  <string name="screenshot_insert_failed">Erro ao carregar a captura de ecrã. Tire uma nova ou veja a imagem no álbum</string>
   <string name="screenshot_long_screenshot">Estender</string>
   <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã</string>
-  <string name="screenshot_saved_title">Captura de ecrã guardada</string>
-  <string name="screenshot_saving_text">Captura de ecrã está a ser guardada</string>
-  <string name="screenshot_saving_ticker">A guardar captura de ecrã…</string>
-  <string name="screenshot_saving_title">A guardar captura de ecrã…</string>
   <string name="screenshot_send">Enviar</string>
   <string name="settings_custom_notification">Gerir notificações</string>
   <string name="settings_toggle_position">Gerir atalhos</string>
   <string name="settings_toggle_position_divider_list">Os atalhos colocados acima desta barra estão activos</string>
-  <string name="settings_toggle_position_divider_page">Os %1$d atalhos colocados acima desta barra estão activos</string>
   <string name="settings_toggle_position_reset">Repor atalhos</string>
   <string name="share">Partilhar</string>
+  <string name="show_demo_mode">Ver modo demonstração</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">"EEEE, d 'de' MMMM"</string>
   <string name="status_bar_date_format">"EEEE
@@ -328,6 +329,9 @@ Deslize para baixo para bloquear"</string>
   <string name="torch_activity_name">Lanterna</string>
   <string name="torch_closed">Lanterna desligada</string>
   <string name="torch_opened">Lanterna ligada</string>
+  <string name="un_important_notifications">Notificações não importantes</string>
+  <string name="unimportant_desc">Todas as notificações não importantes vão aparecer numa pasta separada</string>
+  <string name="unimportant_title">Não importantes</string>
   <string name="usb_accessory_confirm_prompt">Abrir %1$s quando este acessório USB estiver ligado?</string>
   <string name="usb_accessory_permission_prompt">Permitir que a aplicação %1$s aceda ao acessório USB?</string>
   <string name="usb_accessory_uri_prompt">Não há aplicações instaladas para funcionarem com o acessório USB. Saiba mais sobre este acessório no %1$s</string>

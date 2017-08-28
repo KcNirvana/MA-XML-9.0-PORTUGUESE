@@ -89,6 +89,7 @@
   <string name="call_radio">Ligar para o rádio</string>
   <string name="call_record_setting_miui">Definições de gravação</string>
   <string name="call_settings">Definições</string>
+  <string name="call_settings_primary_user_only">As definições de chamadas apenas podem ser alteradas pelo utilizador primário</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Utilizar o SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -101,8 +102,6 @@
   <string name="call_work">Ligar para o telefone do trabalho</string>
   <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>
-  <string name="calllog_call_note_menu">Notas de chamada</string>
-  <string name="calllog_call_record_menu">Chamadas gravadas</string>
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
@@ -500,8 +499,7 @@ Motivo: \"%s\""</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
   <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
-  <string name="group_rename_fail_toast">Não foi possível mudar o nome do grupo</string>
-  <string name="group_rename_success_toast">Nome do grupo alterado</string>
+  <string name="group_member_remove_toast">Removed from group</string>
   <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários</string>
   <string name="group_sms_progress_msg">A agrupar…</string>
   <string name="groupsLabel">Grupos</string>

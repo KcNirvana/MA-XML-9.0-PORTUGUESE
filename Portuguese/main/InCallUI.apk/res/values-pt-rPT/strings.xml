@@ -155,6 +155,10 @@
   <string name="ivr_menu_dialing_msg_no_mute">Ir para o serviço seleccionado…[correcção automática de erros está activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Toque %s</string>
   <string name="ivr_menu_list_title">Menu de voz</string>
+  <string name="jeejen_answer_call_text">Atender chamada</string>
+  <string name="jeejen_end_call_text">Terminar chamada</string>
+  <string name="jeejen_reject_call_text">Rejeitar chamada</string>
+  <string name="jeejen_toggle_dialpad_text">Teclado de marcação</string>
   <string name="keep_wait_call_back">Continuar a aguardar</string>
   <string name="livetalk_dial">A utilizar pacote de recarregamento</string>
   <string name="livetalk_hangup">Desligar</string>

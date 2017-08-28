@@ -500,11 +500,17 @@ Tente novamente dentro de %d segundos"</string>
   <string name="loading">A carregar…</string>
   <string name="locale_codes"/>
   <string name="locale_replacement"/>
+  <string name="lock_to_app_description">"Fixação do ecrã bloqueia o ecrã numa vista única.
+-
+-Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
+-  <string name="lock_to_app_description_accessible">"Fixação do ecrã bloqueia o ecrã numa vista única.
+-
+-Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
   <string name="lock_to_app_exit">Ecrã solto</string>
   <string name="lock_to_app_start">Ecrã fixo</string>
   <string name="lock_to_app_toast">Para soltar este ecrã, prima e segure os botões Voltar e Recentes ao mesmo tempo</string>
-  <string name="lock_to_app_toast_accessible">Para soltar este ecrã, prima e segure o botão Recentes</string>
-  <string name="lock_to_app_toast_locked">A aplicação está fixa: não é permitido soltá-la neste dispositivo</string>
+  <string name="lock_to_app_toast">Para soltar este ecrã, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
+  <string name="lock_to_app_toast_accessible">Para soltar este ecrã, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
   <string name="lock_to_app_unlock_password">Pedir palavra-passe antes de soltar</string>
   <string name="lock_to_app_unlock_pattern">Pedir padrão de desbloqueio antes de soltar</string>
   <string name="lock_to_app_unlock_pin">Pedir PIN antes de soltar</string>

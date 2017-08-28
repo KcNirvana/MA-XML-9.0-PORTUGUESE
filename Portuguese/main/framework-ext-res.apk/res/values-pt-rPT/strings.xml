@@ -69,7 +69,7 @@
   <string name="key_btn_space">Espaço</string>
   <string name="livetalk_not_enable">Pacote de recarga desligado</string>
   <string name="location_usage_restricted_body">Toque para permitir</string>
-  <string name="location_usage_restricted_title">Acesso à localização restringido</string>
+  <string name="location_usage_restricted_title">Acesso à localização em segundo plano restringido</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
@@ -82,6 +82,7 @@
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>
   <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar umaa visualização incorrecta. Pode alterar isto em Definições &gt; Definições avançadas &gt; Botões</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
+  <string name="miui_upgrading_notification_title">O sistema está a carregar. Algumas funcionalidades podem estar limitadas</string>
   <string name="onehour">30 minutos</string>
   <string name="package_delete_confirm_step_1">Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Eliminar esta aplicação pode fazer com que o sistema fique instável</string>
@@ -100,6 +101,8 @@
   <string name="resource_select">Seleccionar</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Botões de navegação desligados</string>
+  <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume Mais e Voltar simultaneamente</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desligar esta funcionalidade, prima o botão Volume Mais</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a zona do auscultador</string>
   <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
   <string name="screen_paper_mode_enter_toast">O Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
@@ -153,6 +156,9 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">PA Móvel</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="switch_brand_desc_tv">Serviços de segurança fornecido por Graphite</string>
+  <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
+  <string name="switching_tv">A trocar…</string>
   <string name="total">Não incomodar</string>
   <string name="total_description">[Não incomodar] Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>
