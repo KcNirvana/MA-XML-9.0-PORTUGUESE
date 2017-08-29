@@ -341,7 +341,6 @@
   <string name="networking_allow_desc">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para fornecer serviços de voz e texto gratuitos, reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
   <string name="networking_allow_desc_without_mx">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
   <string name="networking_allow_title">Atenção</string>
-  <string name="networking_allow_desc_without_mx">Mensagens inteligentes reconhecer números desconhecidos, filtar spam, etc. Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às Páginas Amarelas e à Internet para utilizar este serviço</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Nova mensagem recebida</string>
   <string name="new_phrase">Adicionar resposta</string>
