@@ -93,7 +93,6 @@
   <string name="being_disable_auto_payment">A desligar…</string>
   <string name="being_enable_auto_payment">A ligar…</string>
   <string name="bill_list_fragment_title">Listas</string>
-  <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Dispositivo Áudio Bluetooth</string>
   <string name="buffering">Aguarde…</string>
   <string name="button_add">Adicionar</string>
@@ -109,14 +108,10 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
   <string name="channel_list_fragment_title">Rádio</string>
-  <string name="chinese_female">Cantoras (China)</string>
-  <string name="chinese_group">Bandas (China)</string>
-  <string name="chinese_male">Cantores (China)</string>
   <string name="choose_download_quality">Escolher qualidade da transferência</string>
   <string name="choose_stream_quality">Qualidade de streaming preferido</string>
   <string name="click_modify">Toque para editar letras</string>
   <string name="click_to_shuffle">Toque para misturar tudo</string>
-  <string name="click_to_view_new_local_audios">Toque para ver detalhes</string>
   <string name="close_music_time">"Tempo restante: "</string>
   <string name="cloud_empty_local_empty_button">Sem músicas neste dispositivo</string>
   <string name="cloud_empty_message">Sem músicas na Mi Cloud</string>
@@ -125,8 +120,6 @@
   <string name="cloud_loading_message">A procurar músicas…</string>
   <string name="cloud_music">Músicas na Mi Cloud</string>
   <string name="cloud_settings">Definições de sincronização</string>
-  <string name="cloud_space_full">Sem espaço de armazenamento</string>
-  <string name="cloud_space_full_message">Sem espaço na sua Mi Cloud para adicionar mais músicas. Para obter mais espaço actualize a sua Conta Mi</string>
   <string name="cloud_state_cloud_space_full">Sem espaço na Mi Cloud. Cópia em pausa</string>
   <string name="cloud_state_low_power">Ligue o carregador para retomar</string>
   <string name="cloud_state_network_data">Não foi possível ligar à rede. Cópia em pausa</string>
@@ -209,7 +202,6 @@
   <string name="disable_auto_payment_success_message">Renovação automática desligada. Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas</string>
   <string name="disallow_add_to_fm">Não é possível adicionar músicas ao Rádio FM</string>
   <string name="disallow_add_to_personal_radio">Não é possível adicionar músicas ao Rádio Pessoal</string>
-  <string name="do_not_remind_again">Não mostrar novamente</string>
   <string name="doc_filter">Documentos</string>
   <string name="done">Concluido</string>
   <string name="download">Transferir</string>
@@ -292,9 +284,6 @@
   <string name="enable_auto_payment_success">Renovar automaticamente</string>
   <string name="enable_auto_payment_success_message">Renovação automática ligada. Próximo pagamento vence em %s</string>
   <string name="enabled">Ligado</string>
-  <string name="english_female">Cantoras (EUA/Europa)</string>
-  <string name="english_group">Bandas (EUA/Europa)</string>
-  <string name="english_male">Cantores (EUA/Europa)</string>
   <string name="enter_garbage_clean">Limpar armazenamento interno</string>
   <string name="eq_auto">Personalizado</string>
   <string name="eq_blues">Blues</string>
@@ -331,7 +320,6 @@
   <string name="favorites">Favoritos</string>
   <string name="favourite_music_left_half">Para adicionar músicas à lista de reprodução toque em</string>
   <string name="favourite_music_right_half">Ícone favorito à direita do título da música</string>
-  <string name="female_artist">Artistas femininos</string>
   <string name="file_not_found">Ficheiro não encontrado</string>
   <string name="filter_by_duration">Por duração</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -389,9 +377,7 @@
   <string name="global_search_title_movie">Músicas de filmes</string>
   <string name="global_search_title_prenatal">Música pré-natal</string>
   <string name="global_search_title_radar">Reconhecimento de música</string>
-  <string name="group_artist">Bandas</string>
   <string name="handle_later">Agora não</string>
-  <string name="headset_settings">Auriculares e efeitos de áudio</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
   <string name="home_tab_local">A minha música</string>
@@ -417,9 +403,6 @@
   <string name="is_scanning">A verificar armazenamento…</string>
   <string name="is_scanning_support_online">"A verificar armazenamento… 
 (Entretanto pode fazer streaming de músicas online)"</string>
-  <string name="japan_korea_female">Cantoras (Japão/Coreia)</string>
-  <string name="japan_korea_group">Bandas (Japão/Coreia)</string>
-  <string name="japan_korea_male">Cantores (Japão/Coreia)</string>
   <string name="keep_queued_download">Manter</string>
   <string name="ktv_playlist">Lista de reprodução KTV</string>
   <string name="latest_song">Reproduzir histórico (%d)</string>
@@ -431,6 +414,7 @@
   <string name="load_shuffle">A carregar…</string>
   <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading_hint">Aguarde…</string>
+  <string name="local_header_title">Dispositivo</string>
   <string name="local_music">Dispositivo</string>
   <string name="local_music_empty">Lista de reprodução vazia</string>
   <string name="local_music_empty_goto_online">Não foram encontradas músicas</string>
@@ -450,7 +434,6 @@
   <string name="lyric_is_empty">A letra não está disponível</string>
   <string name="lyric_open_other_connect">Transferir a letra utilizando dados móveis</string>
   <string name="lyric_setting">Definições da letra</string>
-  <string name="male_artist">Artistas masculinos</string>
   <string name="manager_cloud_space">Gerir o armazenamento da Mi Cloud</string>
   <string name="max_sleep_time">%d</string>
   <string name="media_filter">Multimédia</string>
@@ -557,7 +540,6 @@
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
   <string name="normal_quality">Boa</string>
   <string name="not_login">Sem sessão iniciada</string>
-  <string name="not_now">Agora não</string>
   <string name="not_selected">Escolher música</string>
   <string name="notif_text_engine_off">O optimizador de transferências Xunlei está desactivado</string>
   <string name="notif_text_engine_on">A optimizar…</string>
@@ -570,11 +552,6 @@
   <string name="notification_download_failed">Transferência não efectuada</string>
   <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
   <string name="notification_download_success_more">%1$d transferido</string>
-  <string name="notification_favorite_summary">Obter notificações sobre novos lançamentos e últimos hits</string>
-  <string name="notification_favorite_title">Notificações acerca dos seus artistas favoritos</string>
-  <string name="notification_headset_custom">Rejeitar</string>
-  <string name="notification_headset_info">Toque para ver definições</string>
-  <string name="notification_headset_settings">Auriculares ligados</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de uma ligação Wi-Fi</string>
   <string name="notification_play_summary">Ver a música actual e a próxima e mostrar letras no ecrã inicial</string>
   <string name="notification_play_title">Widget na área de notificações</string>
@@ -587,7 +564,6 @@
   <string name="ok">OK</string>
   <string name="one_month">1 mês</string>
   <string name="online_list_delete_message">Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do armazenamento interno</string>
-  <string name="online_music_enabled_subtitle">Toque para fazer streaming das suas músicas favoritas</string>
   <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!</string>
   <string name="online_music_enabled_title">Streaming gratuito é aqui</string>
   <string name="online_my">Meu</string>
@@ -766,12 +742,11 @@
   <string name="song_not_find">Esta música não está disponível</string>
   <string name="song_offline">Esta música não está mais disponível</string>
   <string name="song_unit">itens</string>
-  <string name="sort_by_language">Idioma</string>
   <string name="sort_by_name">Nome</string>
   <string name="sort_by_time">Data</string>
   <string name="source_from">Origem: %1$s</string>
   <string name="start_download_music">A transferir actualizações de Música…</string>
-  <string name="start_shuffle">Iniciar aleatório…</string>
+  <string name="start_shuffle">A misturar…</string>
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
   <string name="start_to_use">Abrir Música</string>
@@ -807,8 +782,13 @@
   <string name="talkback_download">Transferir</string>
   <string name="talkback_favorite">Gostar desta música</string>
   <string name="talkback_mode">Repetir lista</string>
+  <string name="talkback_mode_repeat_all">Modo repetição</string>
+  <string name="talkback_mode_repeat_current">Repetir uma vez</string>
+  <string name="talkback_mode_repeat_shuffle">Repetir aleatóriamente</string>
   <string name="talkback_more">Mais menus</string>
   <string name="talkback_next">Música seguinte</string>
+  <string name="talkback_nowplaying_bar">Barra de reprodução</string>
+  <string name="talkback_nowplaying_circle">Circulo de reprodução</string>
   <string name="talkback_play">Reproduzir / Pausar</string>
   <string name="talkback_pre">Música anterior</string>
   <string name="talkback_progress">Barra de progresso</string>
@@ -863,7 +843,6 @@
   <string name="upgrade">Actualizar:</string>
   <string name="upgrade_force">Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade</string>
   <string name="upgrade_immediate">Actualizar agora</string>
-  <string name="upgrade_membership">Obter mais armazenamento</string>
   <string name="upgrade_music">Actualizar Música</string>
   <string name="upgrade_music_message">As actualizações estão prontas. Reinicie para actualizar</string>
   <string name="upgrade_nobeta">Estamos a descontinuar o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente</string>
@@ -874,16 +853,16 @@
   <string name="upgrade_waringing">Só pode ouvir músicas que tenha armazenadas</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versão</string>
+  <string name="vip_after_tomorrow_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente na noite depois de amanhã. Certifique-se que tem Mi Credits suficientes na sua conta para concluir o pagamento</string>
+  <string name="vip_after_tomorrow_renew_message">Não vai poder fazer stream em alta qualidade mas algumas músicas vão estar disponíveis na qualidade normal</string>
   <string name="vip_auto_renew_message">A sua subscrição de Música vai ser renovada hoje automaticamente. Certifique-se que tem Mi Credits suficientes na sua conta para concluir o pagamento</string>
-  <string name="vip_auto_renew_notification_message">Adicionar Mi Credits para renovar a sua subscrição de Música</string>
-  <string name="vip_auto_renew_notification_title">Pagamento de subscrição</string>
   <string name="vip_auto_renew_title">Renovação de subscrição</string>
   <string name="vip_renew_message">Não vai poder fazer stream de áudio em alta qualidade, mas ainda consegue fazer stream de músicas em qualidade normal</string>
-  <string name="vip_renew_notification_message">Não vai poder fazer stream de áudio de alta qualidade depois da sua subscrição expirar</string>
-  <string name="vip_renew_notification_title">Subscrição expira amanhã</string>
   <string name="vip_renew_title">Subscrição expirada</string>
   <string name="vip_required">Para reproduzir esta música necessita de obter um Pacote Músicas Premium</string>
   <string name="vip_required_with_song">Para reproduzir “%s” necessita de obter um Pacote Músicas Premium</string>
+  <string name="vip_tomorrow_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente amanhã à noite. Certifique-se que tem Mi Credits suficientes na sua conta para concluir o pagamento</string>
+  <string name="vip_tomorrow_renew_message">Não vai poder fazer stream em alta qualidade mas algumas músicas vão estar disponíveis na qualidade normal</string>
   <string name="warning_tip_cancel">Transferir</string>
   <string name="warning_tip_content">Não existe ligação à rede. Se utilizar a sua ligação de dados móveis para terminar esta transferência vai aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="warning_tip_ok">Pausar</string>

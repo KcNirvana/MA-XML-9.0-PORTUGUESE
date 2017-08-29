@@ -337,8 +337,9 @@
   <string name="mx_stranger_recommend_msg">Toque para bloquear o Mi Message de números desconhecidos</string>
   <string name="mx_type_guide">O Mi Message permite enviar SMS grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
-  <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mensagens inteligentes permitem enviar mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às Páginas Amarelas e à Internet para utilizar este serviço</string>
+  <string name="networking_allow_continue">Permitir</string>
+  <string name="networking_allow_desc">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para fornecer serviços de voz e texto gratuitos, reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
+  <string name="networking_allow_desc_without_mx">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="networking_allow_desc_without_mx">Mensagens inteligentes reconhecer números desconhecidos, filtar spam, etc. Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às Páginas Amarelas e à Internet para utilizar este serviço</string>
   <string name="new_message">Nova mensagem</string>

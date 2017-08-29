@@ -38,9 +38,9 @@
   <string name="mibi_button_retry">Repetir</string>
   <string name="mibi_cancel">Cancelar</string>
   <string name="mibi_change_security_lock">Mais ecrãs de bloqueio</string>
+  <string name="mibi_click_retry">%1$s. Clique para repetir</string>
   <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Produtos</string>
-  <string name="mibi_deduct_open">Ligar</string>
   <string name="mibi_deduct_open_prompt">%1$s vai poder carregá-lo automaticamente utilizando %2$s sem verificação. Pode desligar esta funcionalidade em %1$s</string>
   <string name="mibi_deduct_order_price">Preço</string>
   <string name="mibi_deduct_pay_group_title">Seleccionar método de dedução</string>
@@ -69,7 +69,6 @@
   <string name="mibi_detail_recharge_order">Nº de encomenda de carregamento</string>
   <string name="mibi_detail_recharge_time">Hora</string>
   <string name="mibi_detail_recharge_title">Registos de carregamento</string>
-  <string name="mibi_direct_pay_group_title">Escolher método de pagamento</string>
   <string name="mibi_direct_pay_novalid_method">Sem métodos de pagamento válidos</string>
   <string name="mibi_direct_payment_title">Informação da encomenda</string>
   <string name="mibi_enter_failed">Erro ao abrir</string>
@@ -130,6 +129,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_giftcard_title">Cartão presente Mi Credits</string>
   <string name="mibi_giftcard_will_expire">Expira em %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s cupão Mi Credits disponível</string>
+  <string name="mibi_header_network_error">Não foi possível ligar à rede</string>
   <string name="mibi_illegal_intent">Intenção de pedido ilegal</string>
   <string name="mibi_is_what">O que posso comprar com Mi Credits?</string>
   <string name="mibi_label_balance">Saldo</string>
@@ -171,6 +171,14 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">A sua operadora foi contactada!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">Vai receber uma mensagem de confirmação brevemente</string>
   <string name="mibi_msg_telecom_sending">A contactar a operadora…</string>
+  <string name="mibi_order_balance_lable">Mi Credits</string>
+  <string name="mibi_order_balance_lable_append">Mi Credits + cupão</string>
+  <string name="mibi_order_balance_title">Os meus Mi Credits</string>
+  <string name="mibi_order_no_use_balance">Sem utilização</string>
+  <string name="mibi_order_pay_back">Confirmar</string>
+  <string name="mibi_order_pay_type">Métodos de pagamento</string>
+  <string name="mibi_order_pay_type_title">Seleccionar métodos de pagamento</string>
+  <string name="mibi_order_title">Pagamentos</string>
   <string name="mibi_other_denomiantion">Seleccionar valor</string>
   <string name="mibi_partner_giftcard_payment_with_append">Aplicar %1$s</string>
   <string name="mibi_password_error">Palavra-passe inválida</string>
@@ -288,6 +296,7 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="mibi_web_login_app_description">Iniciar sessão %1$s</string>
   <string name="mibi_web_login_description">Iniciar sessão</string>
   <string name="mibi_web_login_waiting">Aguarde…</string>
+  <string name="mibi_web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>

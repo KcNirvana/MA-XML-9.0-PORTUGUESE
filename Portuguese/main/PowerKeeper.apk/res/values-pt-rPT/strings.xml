@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">Acerca de poupança de bateria MIUI</string>
   <string name="action_bar_delete">Eliminar</string>
   <string name="action_settings">Definições</string>
   <string name="activity_title_poweranalyze">Testar bateria</string>
@@ -17,6 +18,11 @@
   <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Poupança de bateria</string>
   <string name="background">Aplicação está a executar em segundo plano</string>
+  <string name="base_info">Informação de base</string>
+  <string name="cloud_addr_info">Informação da nuvem</string>
+  <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>
+  <string name="cloud_international_addr">Actualizar dados do servidor internacional</string>
+  <string name="cloud_staging_addr">Actualizar dados do servidor desenvolvimento</string>
   <string name="config_description">A MIUI consegue identificar as aplicações com processos em segundo plano (p.e. aplicações de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as actividades mais importantes em segundo plano</string>
   <string name="config_mode_title">Definições de segundo plano</string>
   <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
@@ -25,13 +31,24 @@
   <string name="config_restrict_function_title">Restringir aplicações em segundo plano</string>
   <string name="config_restrict_running_description">Aplicações vão ser fechadas para poupar bateria</string>
   <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>
+  <string name="config_restrict_running_warning">A aplicação vai ser fechada quando estiver em segundo plano. Pode não funcionar correctamente</string>
+  <string name="config_scenario_policies_title">Cenários</string>
   <string name="config_suggest_description">"Identifica aplicações e actividades para manter os processos importantes em execução.
  A poupança de bateria vai monitorizar as aplicações mais importantes selectivamente"</string>
   <string name="config_suggest_suffix_title">Poupança de bateria MIUI (recomendado)</string>
   <string name="config_suggest_title">Poupança de bateria MIUI</string>
+  <string name="confirm">Confirmar</string>
+  <string name="current_cloud_addr_is">O servidor de controlo da nuvem é:</string>
+  <string name="disable_hide_mode">Desactivar poupança de bateria MIUI</string>
+  <string name="disable_hide_mode_warning">Desactivar poupança de bateria MIUI pode causar mais consumo de bateria</string>
   <string name="disabled">Desligado</string>
   <string name="empty_title_apps_container_list">Sem aplicações</string>
+  <string name="enable_hide_mode">Activar poupança de bateria MIUI</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
+  <string name="extreme_power_config_mode_category">Poupança de bateria extrema</string>
+  <string name="extreme_power_config_mode_desc">Activar esta funcionalidade vai desactivar a sincronização, Bluetooth, GPS, NFC, luz dos botões, etc. e o modo poupança de bateria vai ser definido para ultimate</string>
+  <string name="extreme_power_config_mode_title">Modo poupança de bateria extrema</string>
+  <string name="failure">Erro</string>
   <string name="foreground_change">Aplicação está a executar em primeiro plano</string>
   <string name="fragment_nonesys_listempty">Sem aplicações instaladas</string>
   <string name="fragment_tab_title_nonsys">Aplicações instaladas</string>
@@ -41,8 +58,10 @@
   <string name="google_base_app_install_choice">\"%s\" necessita dos serviços Google para funcionar normalmente. Transferir e instalá-los?</string>
   <string name="hide_mode_desc">Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria</string>
   <string name="hide_mode_ultimate_desc">O Modo Ultimate está ligado. As aplicações em segundo plano vão ser paradas. Desligue a poupança de bateria para sair do Modo Ultimate</string>
+  <string name="hide_system_app">Ocultar aplicações de sistema</string>
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde…</string>
+  <string name="important_warning">Aviso</string>
   <string name="invalid_size_value">Não foi possível obter o tamanho do pacote</string>
   <string name="location_disable_description">Aplicações em segundo plano apenas podem aceder aos serviços de localização por um breve período de tempo enquanto que o acesso contínuo está restrito</string>
   <string name="location_disable_title">Restringir</string>
@@ -90,7 +109,7 @@
   <string name="power_config_app_background_title">Segundo plano</string>
   <string name="power_config_app_full_screen_title">Ecrã inteiro</string>
   <string name="power_config_app_launch_title">Primeiro plano</string>
-  <string name="power_config_apps">Poupança de energia em segundo plano</string>
+  <string name="power_config_apps">Poupança de bateria MIUI</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Seleccionar hora para restringir os dados em segundo plano</string>
   <string name="power_config_bg_data_delay_time_title">Restringir dados em segundo plano</string>
   <string name="power_config_choose_apps">Escolher aplicações</string>
@@ -139,7 +158,7 @@
   <string name="power_dialog_screen_brightness_title">Brilho</string>
   <string name="power_event_user_define_title">Novos eventos</string>
   <string name="power_event_view_event_title">Activadores</string>
-  <string name="power_hide_mode_app_list_summary">Definições de aplicações</string>
+  <string name="power_hide_mode_app_list_summary">Poupança de bateria em segundo plano</string>
   <string name="power_hide_mode_summary">Poupar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS</string>
   <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="power_keeper">Poupança de bateria</string>
@@ -155,6 +174,9 @@
   <string name="power_optimize_activity_profile_file_error">Erro na poupança de bateria</string>
   <string name="ragment_sys_listempty">Sem aplicações de sistema</string>
   <string name="reading">Modo de Leitura</string>
+  <string name="scenario_policies_summary">Poupar energia de acordo com o cenário</string>
+  <string name="scenario_policies_title">Cenários para poupança de energia</string>
+  <string name="scenario_policies_warmcontrol">Controlo de temperatura</string>
   <string name="screen_off">O ecrã está desligado</string>
   <string name="screen_off_10_min">O ecrã está desligado há 10 minutos</string>
   <string name="screen_on">O ecrã está ligado</string>
@@ -163,12 +185,16 @@
   <string name="set_cpufreq_max">Frequência máx. da CPU</string>
   <string name="set_lcd_mode">Modo do ecrã</string>
   <string name="settings_safetylegal_activity_loading">Aguarde…</string>
-  <string name="sleep_config_disable_description">A MIUI não vai optimizar a poupança de bateria</string>
-  <string name="sleep_config_disable_title">Desligado</string>
-  <string name="sleep_config_enhance_description">A MIUI vai optimizar a poupança de bateria</string>
-  <string name="sleep_config_enhance_title">Ligado</string>
-  <string name="sleep_config_mode_title">Modo poupança de bateria</string>
+  <string name="show_system_app">Mostrar aplicações de sistema</string>
+  <string name="sleep_config_enhance_title">Modos de poupança de bateria</string>
   <string name="still">Imagem</string>
+  <string name="sucess">Sucesso</string>
   <string name="ui">Predefinido</string>
+  <string name="update_profile_failture_not_connect_wifi">Erro ao actualizar. Sem ligação ao Wi-Fi</string>
+  <string name="update_profile_sucess">Actualizado com sucesso</string>
   <string name="user_define_mode">Nome</string>
+  <string name="vip_feedback">Comentários VIP</string>
+  <string name="vip_feedback_enable">Activar comentários VIP</string>
+  <string name="warm_configure">Configurar controlo de temperatura</string>
+  <string name="warm_performance_tip">Em cenários de sobrecarregamento, a temperatura do telefone é mais elevadado que no modo predefinido</string>
 </resources>

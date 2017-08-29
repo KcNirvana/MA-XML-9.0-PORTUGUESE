@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_repeat_type">
-        <item>Uma vez</item>
-        <item>Diariamente</item>
-        <item>Dias de trabalho</item>
-        <item>Dias úteis</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Uma vez</item>
-        <item>Diariamente</item>
-        <item>Dias úteis</item>
-        <item>Personalizar</item>
-    </string-array>
     <string-array name="date_of_traffic_cmcc">
        <item>"Esta semana "</item>
        <item>"Hoje "</item>
@@ -41,11 +28,6 @@
         <item>Hoje (Wi-Fi)</item>
         <item>Este mês (Wi-Fi)</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Ontem (Dados móveis)</item>
-        <item>Hoje (Dados móveis)</item>
-        <item>Este mês (Dados móveis)</item>
-    </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 segundos</item>
         <item>4 segundos</item>
@@ -63,10 +45,6 @@
         <item>"Utilização dados móveis "</item>
         <item>"Utilização Wi-Fi "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Utilização dados móveis "</item>
-        <item>"Utilização Wi-Fi "</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar aviso</item>
         <item>Avisar e desligar dados móveis</item>
@@ -81,22 +59,43 @@
         <item>Quando o dispositivo está bloqueado ou após sair da aplicação</item>
         <item>Quando o dispositivo está bloqueado ou um minuto após sair da aplicação</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Adicionar às excepções</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>Ordenar por nome</item>
-        <item>Ordenar por tamanho</item>
+        <item>Estado</item>
+        <item>Nome da aplicação</item>
+        <item>Utilização</item>
+        <item>Espaço utilizado</item>
+        <item>Utilização de dados</item>
+        <item>Utilização de bateria</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Ordenar por estado</item>
+        <item>Ordenar por nome da aplicação</item>
+        <item>Ordenar por utilização</item>
+        <item>Ordenar por espaço utilizado</item>
+        <item>Ordenar por utilização de dados</item>
+        <item>Ordenar por utilização de bateria</item>
+    </string-array>    
+    <string-array name="title_app_info">
+        <item>Origem da instalação</item>
+        <item>Hora da instalação</item>
+        <item>Origem da última actualização</item>
+        <item>Data da última actualização</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Utilização de dados</item>
         <item>Saldo do telefone</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Após 1 minuto</item>
-        <item>Após 5 minutos</item>
-        <item>Após 10 minutos</item>
-        <item>Após 30 minutos</item>
-        <item>Nunca</item>
+    <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Dias de trabalho</item>
+        <item>Dias úteis</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Dias úteis</item>
+        <item>Personalizar</item>
     </string-array>
 </resources>

@@ -47,6 +47,8 @@
   <string name="game_setting">Definições de jogos</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
+  <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
+  <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gs_anto_clean_memory_whitelist">Excepções</string>
   <string name="gs_app_back_self_start">Poupança de bateria</string>
@@ -65,6 +67,7 @@
   <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Optimizar a utilização da CPU para garantir um melhor desempenho</string>
   <string name="i_know">Percebi</string>
+  <string name="install_sucess">%s instalado com sucesso</string>
   <string name="intro_improve">Aumente a sua experiência de jogo ao nível do sistema</string>
   <string name="intro_skip">Ignorar</string>
   <string name="loading">Aguarde…</string>
@@ -91,12 +94,14 @@
   <string name="month_report_warning_dialog_description">Para ver o relatório mensal, ligue esta funcionalidade nas definições da aplicação Segurança</string>
   <string name="month_report_warning_dialog_positive">Ligar</string>
   <string name="month_report_warning_dialog_title">Relatório de segurança mensal</string>
+  <string name="more_game">Mais jogos</string>
   <string name="net_delay_title">Atraso</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="no_game">Sem jogos</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Abrir no navegador</string>
+  <string name="open_game">Abrir</string>
   <string name="other">Outras definições</string>
   <string name="pm_lable_name">Acerca do acesso root</string>
   <string name="power_autorun_apps_empty">Sem aplicações de início automático</string>
@@ -115,11 +120,14 @@
   <string name="support_game_booster_tips">Corra jogos utilizando o Acelerador de jogos</string>
   <string name="sys_cpu_title">Utilização de CPU</string>
   <string name="sys_freememory_title">Disponível</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="top_game">Top Jogos</string>
   <string name="top_load_fail_detail">Não foi possível carregar. Toque para tentar novamente</string>
   <string name="top_no_network_detial">Não foi possível carregar. Verifique a ligação de rede e tente novamente</string>
   <string name="usage_sorted_loading_text">Aguarde…</string>
+  <string name="try_game">Experimentar</string>
   <string name="wlan_change_protection_detail">Não alterar automaticamente para Wi-Fi quando ligado em dados móveis</string>
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
 </resources>

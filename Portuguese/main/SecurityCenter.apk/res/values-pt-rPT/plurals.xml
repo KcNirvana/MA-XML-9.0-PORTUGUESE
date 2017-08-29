@@ -60,6 +60,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d aplicações encontradas</item>
         <item quantity="one">%d aplicação encontrada</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d aplicações que não funcionam correctamente e gastam muita bateria</item>
+        <item quantity="one">%d aplicação que não funciona correctamente e gasta muita bateria</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dias "</item>
         <item quantity="one">"%d dia "</item>
@@ -92,17 +96,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Encontrou %d problemas de bateria</item>
         <item quantity="one">Encontrou %d problema de bateria</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d itens podem ser optimizados</item>
-        <item quantity="one">%d item pode ser optimizado</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Transferido por %1$d pessoas</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Transferido por %1$d pessoas</item>
     </plurals>
     <plurals name="view_num">
@@ -113,13 +110,17 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="few">%1$d visualizações</item>
         <item quantity="many">%1$d visualizações</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Encontrou %d aplicações com vírus ou inseguras</item>
+        <item quantity="one">Encontrou %d aplicação com vírus</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Encontrou %d aplicações não oficiais</item>
+        <item quantity="one">Encontrou %d aplicação não oficial</item>
+    </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d itens</item>
-        <item quantity="one">1 item</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s riscos de pagamento</item>
-        <item quantity="one">%s risco de pagamento</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplicações de pagamento estão protegidas</item>
@@ -133,10 +134,6 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%s aplicações não estão protegidas</item>
         <item quantity="one">%s aplicação não está protegida</item>
     </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">Resultados : %d riscos de pagamento encontrados</item>
-        <item quantity="one">Resultados : %d risco de pagamento encontrado</item>
-    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
         <item quantity="one">%1$d item seguro</item>
@@ -144,6 +141,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <plurals name="cache_check_content">
         <item quantity="other">A proteger %d aplicações</item>
         <item quantity="one">A proteger %d aplicação</item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">Limpou %d vírus</item>
+        <item quantity="one">Limpou %d vírus</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicações podem iniciar automaticamente</item>
@@ -193,21 +194,13 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">"%d trojans, "</item>
         <item quantity="one">"%d trojan, "</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d riscos</item>
-        <item quantity="one">%d risco</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Aplicações maliciosas: %d</item>
+        <item quantity="one">Aplicação maliciosa: %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ riscos encontrados. Corrija agora</item>
-        <item quantity="one">%d risco encontrado. Corrija agora</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">Corrigidos %1$d problemas. Verificação concluída</item>
-        <item quantity="one">Corrigido %1$d problema.Verificação concluída</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d aplicações contêm riscos de privacidade</item>
-        <item quantity="one">%d aplicações contem riscos de privacidade</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Aguarde %d segundos e tente novamente "</item>
@@ -246,34 +239,6 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d jogos adicionados</item>
         <item quantity="one">%d jogo adicionado</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Estão disponíveis actualizações para %d aplicações</item>
-        <item quantity="one">Estão disponíveis actualizações para %d aplicação</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Acedeu aos contactos %d vezes</item>
-        <item quantity="one">Acedeu aos contactos %d vez</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">Fez %d chamadas</item>
-        <item quantity="one">Fez %d chamada</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">Enviou %d SMS</item>
-        <item quantity="one">Enviou %d SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">Leu SMS %d vezes</item>
-        <item quantity="one">Leu SMS %d vez</item>
-    </plurals>
-   <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Leu o registo de chamadas %d vezes</item>
-        <item quantity="one">Leu o registo de chamadas %d vez</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Acedeu %d vezes</item>
-        <item quantity="one">Acedeu %d vez</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Concedeu %d permissões</item>
         <item quantity="one">Concedeu %d permissão</item>
@@ -291,15 +256,23 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">Bloqueada %d vez</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">Não é utilizada há %d dias</item>
-        <item quantity="one">Não é utilizada há %d dia</item>
+        <item quantity="other">Utilizada há %d dias</item>
+        <item quantity="one">Utilizada há %d dia</item>
     </plurals>
     <plurals name="app_usage_month">
-       <item quantity="other">Não é utilizada há %d meses</item>
-       <item quantity="one">Não é utilizada há %d mês</item>
+       <item quantity="other">Utilizada há %d meses</item>
+       <item quantity="one">Utilizada há %d mês</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">Não é utilizada há %d anos</item>
-        <item quantity="one">Não é utilizada há %d ano</item>
+        <item quantity="other">Utilizada há %d anos</item>
+        <item quantity="one">Utilizada há %d ano</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d jogos adicionados</item>
+        <item quantity="one">%d jogo adicionado</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Ainda não adicionou %d jogos</item>
+        <item quantity="one">Ainda não adicionou %d jogo</item>
     </plurals>
 </resources>

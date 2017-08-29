@@ -83,4 +83,12 @@
         <item>Seleccionados</item>
         <item>Desmarcados</item>
     </string-array>
+    <string-array name="thermal_entries">
+        <item>Modo controlo de temperatura</item>
+        <item>Modo desempenho</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Modo prefefinido</item>
+        <item>Modo desempenho actual</item>
+    </string-array>
 </resources>
