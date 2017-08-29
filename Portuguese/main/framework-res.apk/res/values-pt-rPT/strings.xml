@@ -508,7 +508,6 @@ Tente novamente dentro de %d segundos"</string>
 -Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
   <string name="lock_to_app_exit">Ecrã solto</string>
   <string name="lock_to_app_start">Ecrã fixo</string>
-  <string name="lock_to_app_toast">Para soltar este ecrã, prima e segure os botões Voltar e Recentes ao mesmo tempo</string>
   <string name="lock_to_app_toast">Para soltar este ecrã, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
   <string name="lock_to_app_toast_accessible">Para soltar este ecrã, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
   <string name="lock_to_app_unlock_password">Pedir palavra-passe antes de soltar</string>

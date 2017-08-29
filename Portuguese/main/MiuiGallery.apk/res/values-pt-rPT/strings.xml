@@ -364,7 +364,6 @@
   <string name="exit_share">Sair do álbum</string>
   <string name="exit_share_failed">Não foi possível sair de %1$s</string>
   <string name="exit_share_in_process">A sair do álbum \"%s\"…</string>
-  <string name="exit_share_in_process">A sair…</string>
   <string name="exit_share_successfully">Saiu de %1$s</string>
   <string name="exit_video_play">Sair</string>
   <string name="expand_people">Mostrar mais pessoas</string>
