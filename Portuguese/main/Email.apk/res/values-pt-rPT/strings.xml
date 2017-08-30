@@ -574,9 +574,9 @@
   <string name="menu_att_mgr">Anexos</string>
   <string name="menu_att_mgr_order_default">Vistos recentemente</string>
   <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
--  <string name="menu_att_mgr_order_name">Ordenar por nome</string>
--  <string name="menu_att_mgr_order_rev_date">Ordenar por data recebida</string>
--  <string name="menu_att_mgr_order_size">Ordenar por tamanho</string>
+  <string name="menu_att_mgr_order_name">Ordenar por nome</string>
+  <string name="menu_att_mgr_order_rev_date">Ordenar por data recebida</string>
+  <string name="menu_att_mgr_order_size">Ordenar por tamanho</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Escrever</string>
   <string name="menu_contact_edit">Editar</string>
