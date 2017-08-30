@@ -10,6 +10,7 @@
   <string name="enable_touch_assistant">Ligar menu flutuante</string>
   <string name="enabled_for_pad_hint">Funciona quando \"Bloquear os botões de navegação no modo paisagem\" estiver ligado</string>
   <string name="function_settings">Definições do atalho</string>
+  <string name="handy_mode_default_to_close_whether_open">O Modo Uma Mão está desligado por defeito Ligar Modo Uma Mão?</string>
   <string name="hide_touch_assistant">Ocultar automaticamente</string>
   <string name="hide_touch_assistant_intro">Ocultar o menu flutuante nas aplicações seleccionadas</string>
   <string name="hide_when_fullscreen">Mover para o lado em ecrã inteiro</string>
@@ -38,6 +39,7 @@
   <string name="nfc_all_mipay_card_not_in_use">Mi Pay não está activado</string>
   <string name="nfc_trans_card_not_in_use">Os cartões de transporte não estão activados</string>
   <string name="not_working">%s (Não funciona)</string>
+  <string name="open">Ligar</string>
   <string name="open_panel">Ligar menu flutuante</string>
   <string name="pay_entry_dialog_title_select">Seleccionar aplicação para abrir</string>
   <string name="pay_entry_dialog_title_setting">Definir aplicação</string>
@@ -50,4 +52,5 @@
   <string name="restore_intro">Repor para as definições predefinidas, incluindo atalhos e a sua ordem. Isto não vai afectar os dados da aplicação no seu dispositivo</string>
   <string name="show_on_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="theme_manager_not_supported">Temas não são suportados</string>
+  <string name="three_seconds_auto_hide">Ocultar automaticamente após 3 segundos de inactividade</string>
 </resources>

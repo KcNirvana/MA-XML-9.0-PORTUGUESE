@@ -56,6 +56,7 @@
   <string name="feedback_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_contact_info_hint">Número de telefone/Email</string>
   <string name="feedback_continue">Continuar com o comentário</string>
+  <string name="feedback_delete_images">Eliminar imagens</string>
   <string name="feedback_description">Descrição</string>
   <string name="feedback_description_bugreport_hint">Nalguns casos (…) o meu telefone funciona mal (…)</string>
   <string name="feedback_description_label">Descrição</string>
@@ -97,6 +98,7 @@
   <string name="feedback_submit_hint">Reporte erros sempre que encontrar problemas para nos ajudar a resolvê-los mais rapidamente</string>
   <string name="feedback_submit_hint1">Vamos notificá-lo acerca do estado do seu relatório</string>
   <string name="feedback_submit_hint2">Ir a \"Os meus relatórios\" para ver detalhes</string>
+  <string name="feedback_submit_hint_gone">Mensagem fechada</string>
   <string name="feedback_submit_succ">Enviado com sucesso</string>
   <string name="feedback_submit_succ_button">Concluído</string>
   <string name="feedback_submitting">A submeter</string>
@@ -288,9 +290,10 @@
   <string name="toast_pic_not_exists">A imagem em cache foi eliminada</string>
   <string name="toast_post_deleted">Este tópico não existe. Foi eliminado ou editado</string>
   <string name="toast_problem_class_required">Seleccionar categoria</string>
-  <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
+  <string name="toast_report_copied_to_clipboard">Copiado para a área de transferências</string>
   <string name="toast_report_sent_failed">Não é possível enviar relatório</string>
-  <string name="toast_report_sent_succeed">Relatório foi enviado</string>
+  <string name="toast_report_sent_succeed">O relatório foi enviado</string>
+  <string name="toast_screenshot_too_large">Não é possível carregar ficheiros maiores que 10 MB</string>
   <string name="toast_third_packagename_required">Introduza o nome da aplicação</string>
   <string name="toast_title_required">Descreva o seu problema</string>
   <string name="topic_author">1#</string>

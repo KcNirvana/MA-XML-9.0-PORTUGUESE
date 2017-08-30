@@ -176,7 +176,7 @@
   <string name="close_dial_pad_description">Fechar teclado de marcação</string>
   <string name="cloud_antispam_mark">Marcar</string>
   <string name="cloud_antispam_marked">Marcado</string>
-  <string name="cloud_antispam_title">ID do autor da chamada</string>
+  <string name="cloud_antispam_title">Identificação de chamadas</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Mi Cloud</string>
   <string name="cloud_state_disabled">Sincronização com a Mi Cloud está desligada</string>
   <string name="cloud_state_loading">Aguarde…</string>

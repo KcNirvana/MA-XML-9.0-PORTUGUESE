@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_fraud_num_online_identification">Acerca desta funcionalidade</string>
-  <string name="about_phone_event">Acerca das mensagens de serviço</string>
   <string name="about_smart_antispam_summary">Acerca desta funcionalidade</string>
   <string name="about_telephone_fraud">Proteja-se contra fraudes</string>
   <string name="account_address">Endereços</string>
@@ -53,7 +51,7 @@
   <string name="currency_character">EUR</string>
   <string name="custom_mark_category">Personalizado</string>
   <string name="data_error">Ocorreu um erro</string>
-  <string name="data_error_show">Ocorreu um erro</string>
+  <string name="data_error_w">Ocorreu um erro</string>
   <string name="delete">Eliminar</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dont_enable">Desligar</string>
@@ -252,11 +250,9 @@ Verifique o seu número de rastreio"</string>
   <string name="menu_delete_call_log">Eliminar registos de chamadas</string>
   <string name="menu_delete_one">Remover dos registos de chamadas</string>
   <string name="menu_enroll_in_yellow_page">Iniciar sessão nas páginas amarelas</string>
-  <string name="menu_follow_yellow_page">Seguir</string>
   <string name="menu_remove_black_list">Remover da lista de bloqueio</string>
   <string name="menu_remove_from_favorite">Remover dos favoritos</string>
   <string name="menu_save_contact">Guardar número nos contactos</string>
-  <string name="menu_unfollow_yellow_page">Não seguir</string>
   <string name="minimum_price">Mínimo %d EUR</string>
   <string name="mishop_web_payment_title">Pagamento Mi Store</string>
   <string name="miuishare_account_activate_confirmation">Activação necessária</string>
@@ -389,27 +385,27 @@ Total: %3$s EUR"</string>
   <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tente novamente</string>
-  <string name="turn_off_hint_title">Desligar o identificador de chamadas?</string>
+  <string name="turn_off_hint_title">Desligar a identificação de chamadas?</string>
   <string name="turn_off_phone_event_hint">Não vai poder ver informações de marcadores para números de telefone desconhecidos</string>
   <string name="turn_off_smart_antispam_hint">Não vai poder ver informações de marcadores para chamadas recebidas de números de telefone desconhecidos</string>
-  <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados do identificador de chamadas</string>
+  <string name="turn_on_online_antispam_enable">Ligar</string>
+  <string name="turn_on_online_antispam_summary">Ligar a identificação de chamadas para reconhecer números desconhecidos</string>
+  <string name="turn_on_online_antispam_title">Ligar a identificação de chamadas</string>
+  <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de chamadas</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>
   <string name="turn_on_phone_event_title">Receber informações de serviço</string>
   <string name="turn_on_smart_antispam_hint">Identificar chamadas de números desconhecidos utilizando a base de dados online</string>
-  <string name="turn_on_smart_antispam_summary_off">Identificar e enviar os números de telefone desconhecidos do registo de chamadas e mensagens de texto</string>
-  <string name="turn_on_smart_antispam_summary_on">Identificar e enviar os números de telefone desconhecidos do registo de chamadas e mensagens de texto</string>
-  <string name="turn_on_smart_antispam_title">Identificador de chamadas</string>
-  <string name="turn_on_yellowpage_service_title">Utilizar o identificador de chamadas</string>
-  <string name="upload_and_verify_fraud_num_off">Partilhar informações de chamadas indesejadas</string>
-  <string name="upload_and_verify_fraud_num_on">Partilhar informações de chamadas indesejadas</string>
+  <string name="turn_on_smart_antispam_summary">Identificar e enviar os números de telefone desconhecidos do registo de chamadas e mensagens de texto</string>
+  <string name="turn_on_smart_antispam_title">Identificação de chamadas</string>
+  <string name="turn_on_yellowpage_service_title">Utilizar a identificação de chamadas</string>
   <string name="uploads_disabled">O envio de ficheiros está desactivado</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_identify_summary_format_cta">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-FI. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_title">Atenção</string>
-  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do identificador de chamadas estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações identificador de chamadas estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações da identificação de chamadas estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações da identificação de chamadas estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="view_orders">Ver encomendas</string>
   <string name="voicemail">Voice Mail</string>
   <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar normalmente</string>

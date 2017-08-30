@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
-  <string name="account_info">A minha conta</string>
+  <string name="account_info">Eu</string>
   <string name="account_name_not_login">Iniciar sessão</string>
   <string name="account_unactivated">Conta não activada</string>
   <string name="ad_app_download_start">A iniciar transferência…</string>
@@ -24,6 +24,11 @@
   <string name="both_all_apply_failured">Não é possível definir papel de parede</string>
   <string name="both_all_apply_success">Papel de parede definido</string>
   <string name="browser_local_resource">Recursos locais</string>
+  <string name="can_not_apply">Não é possível aplicar</string>
+  <string name="card_data_request_error">Erro no pedido de dados. Tente novamente mais tarde</string>
+  <string name="card_loading">A carregar…</string>
+  <string name="card_no_network">Sem rede. Ligue-se à rede e tente novamente</string>
+  <string name="card_retry">Repetir</string>
   <string name="change_host_hint">Alterar host</string>
   <string name="change_wallpaper">Papel de parede</string>
   <string name="close">Fechar</string>
@@ -52,6 +57,7 @@
   <string name="fail_to_add_account">Não é possível adicionar conta</string>
   <string name="favorite_list">Favoritos</string>
   <string name="favorite_list_format">Adicionar %1$s aos favoritos</string>
+  <string name="find_more_wallpapers">Pesquisar mais</string>
   <string name="gift_anonymous">Anónimo</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
@@ -87,14 +93,21 @@
   <string name="gift_used">Enviar</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
-  <string name="incompatible_dialog_message">Este tema não é totalmente compatível com MIUI 8. Alguns elementos podem ser mostrados incorrectamente</string>
+  <string name="in_the_end">Não existem mais</string>
+  <string name="incompatible_dialog_message">Este tema não é totalmente compatível com MIUI 9. Alguns elementos podem ser mostrados incorrectamente</string>
   <string name="incompatible_dialog_ok">Percebi</string>
   <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
+  <string name="item_resource_audio_divider">│</string>
+  <string name="item_resource_audio_optional_alarm_ring">Toque de alarme</string>
+  <string name="item_resource_audio_optional_color_ring">Toque de cor</string>
+  <string name="item_resource_audio_optional_notification_ring">Toque de notificações</string>
+  <string name="item_resource_audio_optional_phone_ring">Toque de telefone</string>
   <string name="live_wallpaper">Papéis de parede animados</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
   <string name="loading_resource_detail_info">Aguarde…</string>
+  <string name="local_photos">Fotos locais</string>
   <string name="local_resouce_creator_name">Programador: %1$s</string>
   <string name="lockscreen_apply_failured">Não é possível definir papel de parede no ecrã de bloqueio</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Papel de parede do ecrã inicial definido mas não foi possível definir no ecrã de bloqueio</string>
@@ -117,8 +130,10 @@
   <string name="my_gifts_received">Recebidos</string>
   <string name="no_data">Não é possível ligar à rede</string>
   <string name="online_no_network">Não é possível ligar à Internet</string>
+  <string name="online_precust_dreams">Sonhos</string>
+  <string name="online_precust_midnight">Meia-noite</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
-  <string name="present_local_themes">Transferidos</string>
+  <string name="present_local_themes">Os meus recursos</string>
   <string name="present_online_themes">Obter mais temas gratuitos</string>
   <string name="provision_default_theme_title">Predefinido</string>
   <string name="provision_loading_tips">Aguarde…</string>
@@ -127,6 +142,7 @@
   <string name="purchased_list">Adquiridos</string>
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">Temas básicos</string>
+  <string name="recently_used">Utilizados recentemente</string>
   <string name="reload">Tentar novamente</string>
   <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente</string>
   <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
@@ -144,11 +160,11 @@
   <string name="resource_category">Categoria</string>
   <string name="resource_clear_search_history">Limpar o histórico de pesquisa</string>
   <string name="resource_clear_search_history_dialog">Limpar todo o histórico de pesquisa?</string>
-  <string name="resource_comment_1_star">1 Estrela</string>
-  <string name="resource_comment_2_star">2 Estrelas</string>
-  <string name="resource_comment_3_star">3 Estrelas</string>
-  <string name="resource_comment_4_star">4 Estrelas</string>
-  <string name="resource_comment_5_star">5 Estrelas</string>
+  <string name="resource_comment_1_star">1 estrela</string>
+  <string name="resource_comment_2_star">2 estrelas</string>
+  <string name="resource_comment_3_star">3 estrelas</string>
+  <string name="resource_comment_4_star">4 estrelas</string>
+  <string name="resource_comment_5_star">5 estrelas</string>
   <string name="resource_comment_all_comments">Tudo</string>
   <string name="resource_comment_average_score">Pontuações</string>
   <string name="resource_comment_bad_comments">Negativo</string>
@@ -321,12 +337,14 @@
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">A aguardar</string>
   <string name="resource_waiting_pause">Pausar</string>
+  <string name="ringtone_set_success">Definido com sucesso</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserir cartão SD agora.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Não foi detectado nenhum cartão SD</string>
   <string name="search_hint_header_text">Pesquisa rápida</string>
   <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
   <string name="settings">Definições</string>
+  <string name="system_precust">Sistema anterior</string>
   <string name="the_picture_is_not_support">A imagem não é suportada</string>
   <string name="the_picture_is_too_small">A imagem é demasiado pequena</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
@@ -399,7 +417,7 @@
   <string name="theme_user_agreement_content3">" e "</string>
   <string name="theme_user_agreement_content4">Política e Privacidade</string>
   <string name="theme_user_agreement_content5">". Esta aplicação necessita de uma ligação à Internet para funcionar normalmente. "</string>
-  <string name="theme_user_agreement_exit">Sair</string>
+  <string name="theme_user_agreement_exit">Não concordar</string>
   <string name="theme_user_agreement_remind_again">Mostrar os Termos de Utilização</string>
   <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
   <string name="theme_user_agreement_remind_summary">Mostrar os Termos de Utilização sempre que abrir a aplicação Temas. Esta definição só vai ter efeito quando reiniciar o dispositivo</string>
@@ -416,7 +434,7 @@
   <string name="uid_change_dialog_message">Eliminou actualizações. Reinicie o dispositivo para poder utilizar os temas</string>
   <string name="uid_change_dialog_ok">Percebi</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
-  <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
+  <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
   <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
@@ -424,8 +442,8 @@
   <string name="wallpaper_set_as_destop">Definir como ecrã principal</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
-  <string name="wallpaper_settings_change_wallpaper">Alterar</string>
-  <string name="wallpaper_settings_desktop_text">Ecrã inicial</string>
-  <string name="wallpaper_settings_lockscreen_text">Ecrã de bloqueio</string>
+  <string name="wallpaper_settings_loading_text">A carregar</string>
+  <string name="wallpaper_settings_no_history">Sem histórico</string>
+  <string name="wallpaper_settings_pad_more_page_title">Mais papéis de parede</string>
   <string name="wallpaper_settings_page_title">Papel de parede</string>
 </resources>

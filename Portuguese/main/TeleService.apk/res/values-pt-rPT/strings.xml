@@ -120,7 +120,7 @@
   <string name="call_advanced_setting_title">Definições avançadas</string>
   <string name="call_background_default">Predefinida</string>
   <string name="call_background_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
-  <string name="call_background_setting">Imagem de fundo das chamadas</string>
+  <string name="call_background_setting">Fundo das chamadas recebidas</string>
   <string name="call_barring">Barramento de chamadas</string>
   <string name="call_barring_incoming">Barramento de chamadas recebidas</string>
   <string name="call_barring_outgoing">Barramento de chamadas efectuadas</string>
@@ -161,7 +161,7 @@
   <string name="call_waiting_tone_twice_and_vibrate">Tocar som de notificação e vibração duas vezes</string>
   <string name="call_waiting_tone_twice_only">Tocar som de notificação duas vezes</string>
   <string name="caller_id_summary">Ocultar o meu número (confirme se a sua operadora suporta esta função)</string>
-  <string name="caller_id_title">ID do autor da chamada</string>
+  <string name="caller_id_title">Identificação de chamadas</string>
   <string name="calling_via_template">A ligar via %s</string>
   <string name="callwait_open_hint">A funcionalidade \"Chamada em espera\" é fornecida pela sua operadora. Se receber uma notificação de erro, entre em contacto com a sua operadora e certifique-se de que esta funcionalidade é suportada</string>
   <string name="can_not_use_for_not_data_sim">(Não é possível utilizar: Tem que ser definido como SIM de dados predefinido)</string>
@@ -193,6 +193,7 @@
   <string name="card_title_outgoing_barred">Chamadas de saída barradas</string>
   <string name="card_title_redialing">A marcar novamente</string>
   <string name="card_title_unconditionalCF">Reencaminhamento de chamada incondicional activo</string>
+  <string name="carrier_info">Informação da operadora</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Definições da operadora</string>
@@ -526,7 +527,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="labelCFVideo">Vídeo</string>
   <string name="labelCFVoice">Voz</string>
   <string name="labelCW">Chamada em espera</string>
-  <string name="labelCallerId">ID do autor da chamada</string>
+  <string name="labelCallerId">Identificação de chamadas</string>
   <string name="labelCbCancelAll">Desligar o barramento de chamadas</string>
   <string name="labelCbChangePassword">Alterar palavra-passe</string>
   <string name="labelCdmaMore_with_label">Definições de chamada CDMA (%s)</string>
@@ -758,7 +759,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="path_call_recording_notification_toggle_title">Aplicações de sistema/Telefone/Gravação de chamadas/Notificação de gravação de chamadas</string>
   <string name="path_call_waiting_title">Aplicações de sistema/Telefone/Chamada em espera</string>
   <string name="path_call_waiting_tone_title">Aplicações de sistema/Telefone/Definições avançadas/Notificação de chamada em espera</string>
-  <string name="path_caller_id_title">Aplicações de sistema/Telefone/Definições avançadas/ID do autor da chamada</string>
+  <string name="path_caller_id_title">Aplicações de sistema/Telefone/Definições avançadas/Identificação de chamadas</string>
   <string name="path_cloud_antispam_title">Aplicações de sistema/Telefone/Identificar números desconhecidos</string>
   <string name="path_connect_disconnect_vibrate_title">Aplicações de sistema/Telefone/Definições avançadas/Vibrar quando a chamada é atendida</string>
   <string name="path_crescendo_ringer_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Aumentar volume do toque</string>
@@ -963,13 +964,13 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="rnw1_unlock_success">Cartão SIM desbloqueado</string>
   <string name="rnw2_unlock_failed">O pedido de desbloqueio do cartão RUIM da rede 2 falhou</string>
   <string name="rnw2_unlock_success">Cartão SIM da rede 2 desbloqueado</string>
-  <string name="roaming">Dados em roaming</string>
+  <string name="roaming">Desligado da rede de dados móveis</string>
   <string name="roaming_alert_title">Permitir roaming de dados?</string>
   <string name="roaming_disable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_enable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_notification_content">Pode adicionar códigos de país automaticamente para marcar mais facilmente</string>
   <string name="roaming_notification_title">O roaming está activado</string>
-  <string name="roaming_reenable_message">Perdeu a ligação de dados porque deixou a sua rede doméstica em roaming de dados desligada</string>
+  <string name="roaming_reenable_message">Tente utilizar o roaming para ligar novamente</string>
   <string name="roaming_warning">Podem surgir custos de roaming significativos</string>
   <string name="rsp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão RUIM falhou</string>
   <string name="rsp_unlock_success">Serviço da operadora do cartão RUIM desbloqueado</string>
@@ -1168,6 +1169,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="volte_provision_notification_activate">Activar</string>
   <string name="volte_provision_text">As chamadas Voz 4G fornecem melhor qualidade que as chamadas normais. Enviar SMS para activar?</string>
   <string name="volte_provision_title">Activação de Voz 4G</string>
+  <string name="volte_switch_not_support_summary">As chamadas Voz 4G não são suportadas para os dados móveis do cartão SIM</string>
   <string name="volte_switch_summary">Utilizar Voz 4G para melhorar a qualidade das chamadas e videochamadas</string>
   <string name="volte_switch_title">Voz 4G activado</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?

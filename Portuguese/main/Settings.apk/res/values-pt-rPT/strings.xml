@@ -514,6 +514,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_device_context_pair_connect">Emparelhar e ligar</string>
   <string name="bluetooth_device_context_unpair">Desemparelhar</string>
   <string name="bluetooth_device_details">Definições do dispositivo</string>
+  <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente utilizados</string>
   <string name="bluetooth_device_name">Nome:</string>
   <string name="bluetooth_device_searchable">Visível</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
@@ -544,8 +545,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_enter_passkey_other_device">Pode ter que introduzir esta palavra-chave no outro dispositivo</string>
   <string name="bluetooth_enter_pin_other_device">Pode ter que introduzir este PIN no outro dispositivo</string>
   <string name="bluetooth_error_title"/>
-  <string name="bluetooth_filter_device_display">Mostrar tudo</string>
-  <string name="bluetooth_filter_device_filter">Apenas típicos</string>
   <string name="bluetooth_headset_profile_summary_connected">Ligado ao áudio do telefone</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para áudio do telefone</string>
   <string name="bluetooth_hid_profile_summary_connected">Ligado ao dispositivo de entrada</string>
@@ -710,6 +709,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
+  <string name="bt_rarely_used_device_title">Dispositivos raramente utilizados (%d)</string>
   <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
   <string name="bt_trace_log_summary">Pesquisa do registo do Bluetooth</string>
   <string name="bugreport_in_power">Atalho do relatório de erros</string>
@@ -739,7 +739,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Gestor de Chamadas</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
-  <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, ID do autor da chamada</string>
+  <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Definições de chamadas</string>
   <string name="calls_title">Chamadas</string>
   <string name="camera_key_action_app_title">Abrir aplicação</string>
@@ -1532,7 +1532,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_backup_enable">Ligar cópias</string>
   <string name="google_backup_section_title">Cópias e restauro do Google</string>
   <string name="google_title">Google</string>
-  <string name="got_it">Entendi</string>
+  <string name="got_it">Percebi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>

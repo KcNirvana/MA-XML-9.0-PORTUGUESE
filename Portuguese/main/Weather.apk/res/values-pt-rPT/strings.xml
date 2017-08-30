@@ -22,6 +22,7 @@
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
+  <string name="activity_minute_rain_location_fail_msg">A localização deu erro. A localização predefinida do mapa é Pequim</string>
   <string name="activity_weathermain_locationg">A localizar…</string>
   <string name="activity_weathermain_locationg_error">Não é possível localizar</string>
   <string name="add_city">Adicionar</string>
@@ -45,7 +46,6 @@
   <string name="aqi_detail_subtitle">IQA %1$s</string>
   <string name="aqi_detail_title">Indíce de qualidade do ar</string>
   <string name="aqi_detail_unit">Unidade: µg/m³</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">Actualizado às %1$s por CNEMC</string>
   <string name="aqi_publish_time">Actualizado às %1$s</string>
   <string name="aqi_short_desc">Qualidade do ar %1$s</string>
@@ -63,8 +63,10 @@
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
   <string name="connect_fail">Não foi possível ligar à rede. Tente novamente</string>
+  <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestão de cidades</string>
+  <string name="content_desc_activity_main_more_settings">Mais definições</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
-  <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -88,7 +90,6 @@
   <string name="feedback_light_rain">Chuva fraca</string>
   <string name="feedback_overcast">Céu nublado</string>
   <string name="feedback_result_fail_no_choice">Escolha o tempo que está a ver</string>
-  <string name="feedback_result_interval_time_too_short">%1$s segundos após comentar</string>
   <string name="feedback_result_success">Submetido com sucesso. Obrigado pelo seu comentário</string>
   <string name="feedback_sand">Areias</string>
   <string name="feedback_sunny">Céu limpo</string>
@@ -143,6 +144,7 @@
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Vento</string>
+  <string name="it_is_going_to_rain">Vai chover</string>
   <string name="locate_fail_detail_err">"Não é possível localizar dispositivo.
 Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="location_tag">Localizar</string>
@@ -165,12 +167,15 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="more_details">Mais detalhes</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>
+  <string name="night_not_disturb_settings_summary">Não vai receber novidades de tempo desde as 23:00 até às 7:00</string>
+  <string name="night_not_disturb_settings_title">Não incomodar à noite</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
   <string name="open_now">Abrir</string>
   <string name="other">Outros</string>
+  <string name="other_warning_settings">Definições de outros avisos</string>
   <string name="precipitation_degree_five">tempestade</string>
   <string name="precipitation_degree_four">forte</string>
   <string name="precipitation_degree_one">sem chuva</string>
@@ -178,12 +183,15 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="precipitation_degree_two">leve</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="radar_cloud_image_title">Mapa</string>
+  <string name="rainfall_settings_summary">Definições de precipitação</string>
+  <string name="rainfall_settings_title">Avisos de precipitação</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_temperature_no_data">Sem dados</string>
   <string name="realtime_wind_default_title">Vento</string>
   <string name="retry">Tentar novamente</string>
   <string name="refresh_fail">Não foi possível ligar à rede</string>
+  <string name="reminder_from_xiaomi_weather_app">Lembretes da aplicação Tempo</string>
   <string name="search_weather">Tempo</string>
   <string name="search_weather_keywords">Temperatura;Previsão do tempo;Tempo;Qualidade do ar;Humidade</string>
   <string name="set">Definições</string>
@@ -221,6 +229,9 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="unit">Unidades</string>
   <string name="unit_temperature">Temperatura</string>
   <string name="unit_wind">Velocidade do vento</string>
+  <string name="update_night_setting_summary_text">Não vai actualizar automaticamente entre as 23:00 e a 7:00</string>
+  <string name="update_night_setting_title_text">Actualizar automaticamente à noite</string>
+  <string name="update_setting_title_text">Definições de actualização</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
@@ -232,4 +243,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="xiaomi_weather_description_content">O Tempo fornece informações meteorológicas precisas. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
+  <string name="xiaomi_weather_description_title">Acerca de Tempo</string>
+  <string name="yes_vote_ratio">Para %1$s%%</string>
+  <string name="your_location">A sua localização</string>
 </resources>
