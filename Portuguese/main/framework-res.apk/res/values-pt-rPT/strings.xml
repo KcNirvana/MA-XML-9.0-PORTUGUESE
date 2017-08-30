@@ -501,11 +501,11 @@ Tente novamente dentro de %d segundos"</string>
   <string name="locale_codes"/>
   <string name="locale_replacement"/>
   <string name="lock_to_app_description">"Fixação do ecrã bloqueia o ecrã numa vista única.
--
--Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
--  <string name="lock_to_app_description_accessible">"Fixação do ecrã bloqueia o ecrã numa vista única.
--
--Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
+
+Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
+  <string name="lock_to_app_description_accessible">"Fixação do ecrã bloqueia o ecrã numa vista única.
+
+Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"</string>
   <string name="lock_to_app_exit">Ecrã solto</string>
   <string name="lock_to_app_start">Ecrã fixo</string>
   <string name="lock_to_app_toast">Para soltar este ecrã, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
