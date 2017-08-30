@@ -186,7 +186,7 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="scanner_fingerprint_tips_title">Ir para o Segundo espaço através de impressão digital</string>
   <string name="scanner_second_space_fingerprint">Digitalizar impressão digital do Segundo espaço</string>
   <string name="sdcardfs_dialog_message">Desligar \"Optimização do cartão SD\" nas opções de programador antes de entrar no Segundo espaço</string>
-  <string name="search_input_txt_na"><font color=\'#ff0000\'>%s</font></string>
+  <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
   <string name="search_result_text">Não foi possível encontrar aplicações</string>
   <string name="secondSpace">Segundo espaço</string>
   <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
