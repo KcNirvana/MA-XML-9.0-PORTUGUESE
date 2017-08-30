@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%s aplicações não podem mostrar notificações</item>
-        <item quantity="one">1 aplicação não pode mostrar notificações</item>
+        <item quantity="other">%d aplicações não podem mostrar notificações</item>
+        <item quantity="one">%d aplicação não pode mostrar notificações</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s aplicações podem mostrar notificações</item>
-        <item quantity="one">1 aplicação pode mostrar notificações</item>
+        <item quantity="other">%d aplicações podem mostrar notificações</item>
+        <item quantity="one">%d aplicação pode mostrar notificações</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d atalhos acima desta barra estão activos</item>
+        <item quantity="one">%1$d atalho acima desta barra está activo</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Está agora a %1$d passos de se tornar um programador</item>
@@ -104,5 +108,25 @@
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desactivar para %d aplicações</item>
         <item quantity="one">Nunca desactivar para 1 aplicação</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN must be %d digits long</item>
+        <item quantity="one">PIN must be %d digit long</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN can contain up to %d digits</item>
+        <item quantity="one">PIN can contain up to %d digit</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Ligue pelo menos %d pontos. Tente novamente</item>
+        <item quantity="one">Ligue pelo menos %d ponto. Tente novamente</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Demasiadas tentativas incorrectas. Tente novamente dentro de %d segundos</item>
+        <item quantity="one">Demasiadas tentativas incorrectas. Tente novamente dentro de %d segundo</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Tente novamente dentro de %d segundos</item>
+        <item quantity="one">Tente novamente dentro de %d segundo</item>
     </plurals>
 </resources>

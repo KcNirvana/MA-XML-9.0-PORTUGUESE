@@ -15,6 +15,8 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="appData">Aplicações instaladas</string>
   <string name="app_name">Segurança</string>
   <string name="back">Voltar</string>
+  <string name="can_not_delete_when_calling">Não é possível eliminar espaços durante uma chamada</string>
+  <string name="can_not_switch_when_calling">Não é possível trocar espaços durante uma chamada</string>
   <string name="cancelClosePassword">Não desligar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="changePassword">Alterar palavra-passe</string>
@@ -66,6 +68,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="delete_src_photo">Eliminar fotos</string>
   <string name="dir_switch_out_all_photos">Galeria do Segundo espaço</string>
   <string name="disable">Desligar</string>
+  <string name="do_not_ask">Não perguntar novamente</string>
   <string name="dont_import">Agora não</string>
   <string name="downloading_space">A transferir…</string>
   <string name="enable">Ligar</string>
@@ -87,8 +90,13 @@ para poder vê-las em qualquer momento"</string>
   <string name="finger_print_of_use">Utilizar impressão digital</string>
   <string name="fingerprint_removal_failed">Não foi possível eliminar impressão digital</string>
   <string name="function_not_support">Não suportado neste dispositivo</string>
+  <string name="gms_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os serviços Google?</string>
+  <string name="gms_open_button">Ligar</string>
+  <string name="gms_title">Ligar os serviços Google</string>
   <string name="goToSecondSpacce">Ir para o Segundo espaço</string>
   <string name="go_on_import">Continuar a importar</string>
+  <string name="gpg_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os Jogos Google Play?</string>
+  <string name="gpg_title">Aplicações clonadas para Jogos Google Play</string>
   <string name="guide_contact_sub_title_desc">"Os contactos adicionados ao Segundo espaço vão ser privados.
 As mensagens apenas vão aparecer no Segundo espaço"</string>
   <string name="guide_contact_suc_sub_title_desc">Apenas os contactos e mensagens privados vão ser mostrados no Segundo espaço</string>
@@ -177,6 +185,9 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="scanner_fingerprint_tips_desc">Seleccionar uma impressão digital existente para entrar no Segundo espaço. Não vai poder utilizá-la no Primeiro espaço</string>
   <string name="scanner_fingerprint_tips_title">Ir para o Segundo espaço através de impressão digital</string>
   <string name="scanner_second_space_fingerprint">Digitalizar impressão digital do Segundo espaço</string>
+  <string name="sdcardfs_dialog_message">Desligar \"Optimização do cartão SD\" nas opções de programador antes de entrar no Segundo espaço</string>
+  <string name="search_input_txt_na"><font color=\'#ff0000\'>%s</font></string>
+  <string name="search_result_text">Não foi possível encontrar aplicações</string>
   <string name="secondSpace">Segundo espaço</string>
   <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
   <string name="second_space_finger_printf_desc">Adicionar uma impressão digital utilizada especificamente para entrar no Segundo espaço</string>
@@ -220,6 +231,7 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
 para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="start_setting_guide_desc_title">Existem algumas definições para configurar</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no espaço actual</string>
+  <string name="support_desc">Serviços de segurança fornecidos por Graphite</string>
   <string name="sure_to_use">Confirmar</string>
   <string name="switchDataSummary">Mover dados entre espaços</string>
   <string name="switch_apps_settings">Definições da aplicação</string>

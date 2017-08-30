@@ -4,6 +4,11 @@
         <item>Combinada</item>
         <item>Separada</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Ecrã de bloqueio e painel de notificações</item>
+        <item>Sempre</item>
+        <item>Nunca</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>A pesquisar…</item>
@@ -358,6 +363,7 @@
         <item>Personalizado</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
+        <item>Desligado</item>
         <item>Mem. int. 64K p rg.</item>
         <item>Mem. int. 256K p rg.</item>
         <item>Mem. int. 1M p rg.</item>
@@ -684,6 +690,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_ssid_type_entries">
         <item>Ligar automaticamente</item>
         <item>Ligar manualmente</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>Desligado</item>
+        <item>Modo normal</item>
+        <item>Modo leve</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -1081,9 +1092,25 @@ Nota: Apenas para Ubuntu 8.04!"</item>
        <item>Ficheiros</item>
        <item>Notas</item>
     </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Bateria</item>
+        <item>Câmara</item>
+        <item>Ecrã</item>
+        <item>Resolução</item>
+        <item>Android</item>
+    </string-array>
     <string-array name="miracast_policies">
        <item>Rapidez</item>
        <item>Standard</item>
        <item>Qualidade</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary_mi3">
+        <item>CPU</item>
+        <item>Bateria</item>
+        <item>Câmara</item>
+        <item>Ecrã</item>
+        <item>Resolução</item>
+        <item>Android</item>
     </string-array>
 </resources>
