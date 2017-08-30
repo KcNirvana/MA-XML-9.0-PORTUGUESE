@@ -16,7 +16,6 @@
         <item quantity="other">Estas conversas contêm várias mensagens. Deseja eliminá-las?</item>
         <item quantity="one">Esta conversa contem várias mensagens. Deseja eliminá-la?</item>
     </plurals>
-    </plurals>
     <plurals name="confirm_delete_draft">
         <item quantity="other">Eliminar %1$d rascunhos?</item>
     </plurals>

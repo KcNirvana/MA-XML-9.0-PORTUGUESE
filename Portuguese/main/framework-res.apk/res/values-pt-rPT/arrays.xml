@@ -2,7 +2,7 @@
 <resources>
     <string-array name="emailAddressTypes">
         <item>Casa</item>
-        <item>Trabalho</item>
+        <item>Emprego</item>
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
@@ -17,14 +17,14 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Trabalho</item>
+        <item>Emprego</item>
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Casa</item>
         <item>Telemóvel</item>
-        <item>Trabalho</item>
+        <item>Emprego</item>
         <item>Fax do trabalho</item>
         <item>Fax de casa</item>
         <item>Pager</item>
@@ -33,7 +33,7 @@
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Casa</item>
-        <item>Trabalho</item>
+        <item>Emprego</item>
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
@@ -46,7 +46,7 @@
     </integer-array>
     <string-array name="imAddressTypes">
         <item>Casa</item>
-        <item>Trabalho</item>
+        <item>Emprego</item>
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
