@@ -511,6 +511,7 @@
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferencial</item>
         <item>Móvel preferencial</item>
+        <item>Apenas Wi-Fi</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Desligada</item>
@@ -1112,5 +1113,9 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Ecrã</item>
         <item>Resolução</item>
         <item>Android</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Wi-Fi preferencial</item>
+        <item>Móvel preferencial</item>
     </string-array>
 </resources>

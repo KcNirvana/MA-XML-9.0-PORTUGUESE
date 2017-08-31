@@ -23,11 +23,11 @@
   <string name="activate_history_success_overview">Activou o cartão SIM com sucesso. A activação é iniciada por \"%1$s\"</string>
   <string name="activate_history_title">Activação do cartão SIM</string>
   <string name="activate_phone_cancel_notif_title">Activação de cartão SIM cancelada</string>
-  <string name="activate_phone_cancel_notif_title_msim">Activação de cartão SIM %s cancelada</string>
+  <string name="activate_phone_cancel_notif_title_msim">Activação de cartão SIM %d cancelada</string>
   <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
-  <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %s</string>
+  <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %d</string>
   <string name="activate_phone_success_notif_title">Cartão SIM activado</string>
-  <string name="activate_phone_success_notif_title_msim">Cartão SIM %s activado</string>
+  <string name="activate_phone_success_notif_title_msim">Cartão SIM %d activado</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Tentar novamente</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Tentar novamente</string>
   <string name="activate_popup_confirm_error_device_id">Tentar novamente</string>
@@ -102,10 +102,17 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber a SMS de activação do servidor</string>
   <string name="activate_status_desc_wait_for_sms_success">Recebida SMS de activação do servidor</string>
   <string name="activate_status_title_activating">A activar cartão SIM</string>
-  <string name="activate_status_title_activating_msim">A activar cartão SIM %s</string>
+  <string name="activate_status_title_activating_msim">A activar cartão SIM %d</string>
+  <string name="agree">Concordar</string>
   <string name="app_name">Serviço Activação SIM</string>
   <string name="explain_send_sms_permission_button">Verificar</string>
   <string name="explain_send_sms_permission_msg">Para ligar %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser taxada pela sua operadora</string>
   <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
+  <string name="phone_get_processing">A obter…</string>
+  <string name="phone_get_text">Concorda que %1$s obtenha o seu número de telefone: %2$s</string>
+  <string name="phone_get_title">Concorda que %1$s obtenha o seu número de telefone</string>
+  <string name="phone_verify_processing">A verificar…</string>
+  <string name="phone_verify_text">%1$s não vai obter o seu número de telefone apenas verificar se corresponde</string>
+  <string name="phone_verify_title">Concorda que %1$s verifique o seu número de telefone</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
 </resources>
