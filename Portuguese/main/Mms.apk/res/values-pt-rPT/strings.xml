@@ -79,7 +79,7 @@
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
   <string name="confirm_dialog_title">Eliminar conversas</string>
-  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar. Cancelar na mesma?</string>
+  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar. Cancelar mesmo assim?</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>
   <string name="confirm_export_dialog_title">Remover dos contactos privados</string>
@@ -637,9 +637,9 @@ Tentativas efectuadas: %s"</string>
   <string name="unstick_conversation">Soltar a conversa actual</string>
   <string name="unsticked_conversation">Já soltou a conversa actual</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
-  <string name="url_fraud_dangerous_alert">"O Website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar na mesma? 
+  <string name="url_fraud_dangerous_alert">"O Website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar mesmo assim? 
 %s"</string>
-  <string name="url_fraud_risky_alert">"O Website que está a tentar visitar pode ser perigoso. Visitar na mesma? 
+  <string name="url_fraud_risky_alert">"O Website que está a tentar visitar pode ser perigoso. Visitar mesmo assim? 
 %s"</string>
   <string name="url_fraud_title">O Website pode ser falso</string>
   <string name="url_fraud_visit"><u>Visitar na mesma</u></string>

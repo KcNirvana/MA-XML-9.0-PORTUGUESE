@@ -221,7 +221,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="no_weather_description">Obter a previsão do tempo</string>
   <string name="not_support_multi_window">A aplicação actual não suporta o modo ecrã dividido</string>
   <string name="notification_header_title">Notificações</string>
-  <string name="notification_hidden_text">Conteúdos ocultos</string>
+  <string name="notification_hidden_text">Notificação oculta</string>
   <string name="notification_low_battery_action_btn">Ligar</string>
   <string name="notification_low_battery_need_charge">Bateria fraca. Carregue o seu dispositivo</string>
   <string name="notification_low_battery_open_save_mode">Ligar a poupança de bateria</string>
@@ -279,8 +279,8 @@ Utilize apenas o carregador fornecido"</string>
   <string name="screenshot_dlg_cancel">Cancelar</string>
   <string name="screenshot_dlg_delete_button">Eliminar</string>
   <string name="screenshot_edit">Editar</string>
-  <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou não é permitido pela aplicação ou organização</string>
-  <string name="screenshot_insert_failed">Erro ao carregar a captura de ecrã. Tire uma nova ou veja a imagem no álbum</string>
+  <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou a aplicação não o permite</string>
+  <string name="screenshot_insert_failed">Não foi possível ao carregar a captura de ecrã. Tire uma nova ou veja a imagem no álbum</string>
   <string name="screenshot_long_screenshot">Estender</string>
   <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã</string>
   <string name="screenshot_send">Enviar</string>

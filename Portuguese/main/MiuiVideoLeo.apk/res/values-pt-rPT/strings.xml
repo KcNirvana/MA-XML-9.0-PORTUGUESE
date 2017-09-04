@@ -534,8 +534,8 @@ Para activar a sua conta siga o
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">Sem canais</string>
   <string name="tv_cp_info_format">Fornecido por %1$s</string>
-  <string name="ui_style">Disposição do conteúdo</string>
-  <string name="ui_style_summary">Escolher estilo da disposição de conteúdo</string>
+  <string name="ui_style">Layout do conteúdo</string>
+  <string name="ui_style_summary">Escolher estilo do layout do conteúdo</string>
   <string name="unfavorite">Remover dos Favoritos</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="update">Actualizado</string>

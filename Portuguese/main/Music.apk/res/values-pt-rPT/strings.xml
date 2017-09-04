@@ -65,7 +65,7 @@
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
   <string name="asset_sync_alert_not_now">Agora não</string>
-  <string name="asset_sync_network_data_alert_message">Fazer cópia de músicas utilizando dados móveis pode gerar taxas adicionais. Copiar na mesma?</string>
+  <string name="asset_sync_network_data_alert_message">Fazer cópia de músicas utilizando dados móveis pode gerar taxas adicionais. Copiar mesmo assim?</string>
   <string name="asset_sync_network_data_alert_title">Está a utilizar dados móveis</string>
   <string name="asset_sync_network_unavailable_alert_message">Ligue-se à Internet para fazer cópia das músicas</string>
   <string name="asset_sync_network_unavailable_alert_title">Não foi possível ligar à rede</string>
@@ -446,7 +446,7 @@
   <string name="menu_title_settings">Definições</string>
   <string name="message_delete_playlist">Eliminar lista de reprodução %s?</string>
   <string name="metered_alert">Aviso de utilização de dados móveis</string>
-  <string name="metered_alert_msg">Está a utilizar dados móveis para reproduzir músicas. Reproduzir na mesma?</string>
+  <string name="metered_alert_msg">Está a utilizar dados móveis para reproduzir músicas. Reproduzir mesmo assim?</string>
   <string name="metered_alert_msg_with_data">Tem %s restantes de dados móveis. Utilizar dados móveis para reproduzir músicas?</string>
   <string name="metered_allow">Reproduzir</string>
   <string name="metered_disallow">Agora não</string>
@@ -813,7 +813,7 @@
   <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
-  <string name="toast_new_playlist_name_no_enter">"A tecla 'Enter' foi eliminada"</string>
+  <string name="toast_new_playlist_name_no_enter">Não é possível iniciar um novo parágrafo</string>
   <string name="toast_new_playlist_name_too_long">O nome da lista de reprodução é demasiado longo</string>
   <string name="toast_normal_songs_for_download">Qualidade da transferência definida para normal</string>
   <string name="toast_normal_songs_for_stream">Qualidade de streaming definida para normal</string>

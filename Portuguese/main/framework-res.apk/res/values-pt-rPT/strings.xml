@@ -226,7 +226,7 @@ utilizando %s"</string>
   <string name="emailTypeHome">Casa</string>
   <string name="emailTypeMobile">Telemóvel</string>
   <string name="emailTypeOther">Outro</string>
-  <string name="emailTypeWork">Emprego</string>
+  <string name="emailTypeWork">Trabalho</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
   <string name="emergency_calls_only">Só cham. emergência</string>
   <string name="emptyPhoneNumber">(Sem número de telefone)</string>
@@ -381,7 +381,7 @@ utilizando %s"</string>
   <string name="imTypeCustom">Personalizado</string>
   <string name="imTypeHome">Casa</string>
   <string name="imTypeOther">Outro</string>
-  <string name="imTypeWork">Emprego</string>
+  <string name="imTypeWork">Trabalho</string>
   <string name="ime_action_default">Executar</string>
   <string name="ime_action_done">Concluído</string>
   <string name="ime_action_go">Ir</string>
@@ -581,7 +581,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="low_internal_storage_view_text_no_boot">Não existe armazenamento suficiente para o sistema. Certifique-se de que tem 250 MB de espaço livre e reinicie</string>
   <string name="low_internal_storage_view_title">Está quase sem espaço de armazenamento</string>
   <string name="low_memory">O armazenamento do telefone está cheio. Elimine alguns ficheiros para libertar espaço</string>
-  <string name="managed_profile_label">Emprego</string>
+  <string name="managed_profile_label">Trabalho</string>
   <string name="managed_profile_label_badge">%1$s de trabalho</string>
   <string name="me">Eu</string>
   <string name="media_route_button_content_description">Transmitir</string>
@@ -642,7 +642,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="open_permission_deny">Não tem permissão para abrir esta página</string>
   <string name="orgTypeCustom">Personalizado</string>
   <string name="orgTypeOther">Outro</string>
-  <string name="orgTypeWork">Emprego</string>
+  <string name="orgTypeWork">Trabalho</string>
   <string name="org_name">Organização:</string>
   <string name="org_unit">Unidade organizacional:</string>
   <string name="owner_name">Proprietário</string>
@@ -887,7 +887,7 @@ para a conta %s"</string>
   <string name="phoneTypeAssistant">Assistente</string>
   <string name="phoneTypeCallback">Chamada de retorno</string>
   <string name="phoneTypeCar">Automóvel</string>
-  <string name="phoneTypeCompanyMain">Telefone principal da empresa</string>
+  <string name="phoneTypeCompanyMain">Telefone da empresa</string>
   <string name="phoneTypeCustom">Personalizado</string>
   <string name="phoneTypeFaxHome">Fax de casa</string>
   <string name="phoneTypeFaxWork">Fax do trabalho</string>
@@ -902,7 +902,7 @@ para a conta %s"</string>
   <string name="phoneTypeRadio">Rádio</string>
   <string name="phoneTypeTelex">Telex</string>
   <string name="phoneTypeTtyTdd">TTY TDD</string>
-  <string name="phoneTypeWork">Emprego</string>
+  <string name="phoneTypeWork">Trabalho</string>
   <string name="phoneTypeWorkMobile">Telemóvel do trabalho</string>
   <string name="phoneTypeWorkPager">Pager do trabalho</string>
   <string name="policydesc_disableCamera">Previnir a utilização de todas as câmaras do dispositivo</string>
@@ -931,7 +931,7 @@ para a conta %s"</string>
   <string name="postalTypeCustom">Personalizado</string>
   <string name="postalTypeHome">Casa</string>
   <string name="postalTypeOther">Outro</string>
-  <string name="postalTypeWork">Emprego</string>
+  <string name="postalTypeWork">Trabalho</string>
   <string name="power_dialog">Opções do telefone</string>
   <string name="power_off">Desligar</string>
   <string name="prepend_shortcut_label">Menu+</string>
@@ -1077,7 +1077,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="sipAddressTypeCustom">Personalizado</string>
   <string name="sipAddressTypeHome">Casa</string>
   <string name="sipAddressTypeOther">Outro</string>
-  <string name="sipAddressTypeWork">Emprego</string>
+  <string name="sipAddressTypeWork">Trabalho</string>
   <string name="skip_button_label">Ignorar</string>
   <string name="sms_control_message"><b>%1$s</b> está a enviar um grande número de mensagens SMS. Permitir que a aplicação continue a enviar mensagens?</string>
   <string name="sms_control_no">Negar</string>

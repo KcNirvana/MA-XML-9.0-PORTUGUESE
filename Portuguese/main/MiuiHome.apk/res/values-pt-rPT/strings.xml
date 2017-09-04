@@ -58,7 +58,7 @@
   <string name="default_folder_title_recommend">Aplicações</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Ferramentas</string>
-  <string name="default_screen_preview_title">Definições de ecrã predefinidas</string>
+  <string name="default_screen_preview_title">Toque para definir o ecrã predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_screen">Eliminar ecrã</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
@@ -72,7 +72,7 @@
   <string name="editing_add_widget_tips">Editar widgets</string>
   <string name="editing_mode_enter_tip_text">Junte ou afaste dois ou mais dedos para editar o ecrã inicial</string>
   <string name="editing_mode_title_empty">0 seleccionadas</string>
-  <string name="editing_set_screen_layout_cells">Escolher o efeito de disposição do ecrã</string>
+  <string name="editing_set_screen_layout_cells">Escolher o efeito do layout do ecrã</string>
   <string name="editing_set_transition_effect_tips">Escolher efeito de transição de ecrã</string>
   <string name="editing_set_wallpaper_tips">Escolher papel de parede</string>
   <string name="editing_tips">Editar ecrã inicial</string>
@@ -156,14 +156,14 @@
   <string name="menu_add">Adicionar</string>
   <string name="menu_auto_fill">Preencher auto.</string>
   <string name="menu_back_desktop">Voltar para o ecrã inicial</string>
-  <string name="menu_cell_setting">Definições do ecrã</string>
+  <string name="menu_cell_setting">Layout do ecrã inicial</string>
   <string name="menu_customize">Definições</string>
-  <string name="menu_default_screen_preview">Definições do ecrã predefinidas</string>
+  <string name="menu_default_screen_preview">Definir o ecrã predefinido</string>
   <string name="menu_edit">Editar ecrã inicial</string>
   <string name="menu_exit_scene">Sair do Espaço Mi</string>
   <string name="menu_item_add_item">Colocar no ecrã inicial</string>
   <string name="menu_launcher_setting">Definições do launcher</string>
-  <string name="menu_lock">Ecrã de bloqueio</string>
+  <string name="menu_lock">Bloquear o layout do ecrã inicial</string>
   <string name="menu_more">Mais</string>
   <string name="menu_picktheme">Escolher um tema</string>
   <string name="menu_reset_scene">Reiniciar para o layout predefinido</string>
@@ -196,14 +196,14 @@
   <string name="photo_adjust">Pré-visualizar</string>
   <string name="photo_confirm">Definir</string>
   <string name="photo_load_failed">Não é possível carregar a foto</string>
-  <string name="pref_cell_layout_size">Disposição dos ícones das aplicações</string>
+  <string name="pref_cell_layout_size">Layout dos ícones das aplicações</string>
   <string name="pref_enable_drawing_cache_summary">Desligue para libertar memória. Isto pode diminuir o desempenho</string>
   <string name="pref_enable_drawing_cache_title">Cache de desenho</string>
   <string name="pref_icon_shadow_summary">Mostrar sombras no ícone da aplicação e efeitos de reflexo no separador dos favoritos</string>
   <string name="pref_icon_shadow_title">Sombras da aplicação</string>
   <string name="pref_keep_in_memory_summary">Manter o launcher em execução quando houver pouca RAM disponível</string>
   <string name="pref_keep_in_memory_title">Bloquear MIUI na memória</string>
-  <string name="pref_keep_layout_summary">Alterar a disposição do ecrã inicial não vai afectar a posição das aplicações em relação umas às outras</string>
+  <string name="pref_keep_layout_summary">Alterar o layout do ecrã inicial não vai afectar a posição das aplicações em relação umas às outras</string>
   <string name="pref_keep_layout_title">Bloquear a posição das aplicações</string>
   <string name="pref_render_in_truecolor_summary">Desligar esta função melhora o desempenho do desenhar</string>
   <string name="pref_render_in_truecolor_title">Gráficos de alta qualidade</string>
@@ -218,7 +218,7 @@
   <string name="recommend_apps_switch_title">Aplicações recomendadas</string>
   <string name="recommend_apps_tips">Esta funcionalidade necessita de estar ligada à Internet para funcionar normalmente. Para desligar esta funcionalidade toque no nome desta pasta</string>
   <string name="reset_scene_prompt">O ecrã vai ser reiniciado para o layout predefinido</string>
-  <string name="screen_locked_toast">A disposição do ecrã inicial está bloqueada</string>
+  <string name="screen_locked_toast">O layout do ecrã inicial está bloqueado</string>
   <string name="screen_number">%d ecrã</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_frame">Fotograma</string>
@@ -274,5 +274,5 @@
   <string name="widget_favorite_contacts_style">Alterar o tamanho</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Pesquisar</string>
-  <string name="widget_quick_function">Função rápida</string>
+  <string name="widget_quick_function">Funções rápidas</string>
 </resources>

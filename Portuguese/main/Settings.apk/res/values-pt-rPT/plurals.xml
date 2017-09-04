@@ -166,20 +166,20 @@
         <item quantity="one">Confiar ou remover certificado</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s has installed certificate authorities on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s instalou autoridades de certificação no seu dispositivo que dão permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+Para mais informações acerca destes certificados, contacte o seu administrador"</item>
+        <item quantity="one">"%s instalou uma autoridade de certificação no seu dispositivo que dá permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
 
-For more information about this certificate, contact your admin."</item>
+Para mais informações acerca deste certificado, contacte o seu administrador"</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s instalou autoridades de certificação no seu perfil de trabalho que dão permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+Para mais informações acerca destes certificados, contacte o seu administrador"</item>
+        <item quantity="one">"%s instalou uma autoridade de certificação no seu perfil de trabalho que dá permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
 
-For more information about this certificate, contact your admin."</item>
+Para mais informações acerca deste certificado, contacte o seu administrador"</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Verificar certificados</item>

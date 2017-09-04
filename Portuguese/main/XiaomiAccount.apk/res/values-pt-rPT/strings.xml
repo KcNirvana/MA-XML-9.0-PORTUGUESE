@@ -66,6 +66,7 @@
   <string name="authorize_title">Autorização</string>
   <string name="bind_facebook">Associar a sua Conta Facebook</string>
   <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Adicionar telefone para o próximo início de sessão</string>
   <string name="bind_settings">Contas</string>
   <string name="bind_sina_weibo">Associar Conta Sina Weibo</string>
   <string name="bind_sns_description">Iniciar sessão com %s</string>
@@ -256,6 +257,7 @@ Para activar a sua conta siga o
   <string name="passport_input_password_hint">Introduzir palavra-passe</string>
   <string name="passport_input_phone_hint">Introduzir número de telefone</string>
   <string name="passport_input_vcode_hint">Introduzir código de verificação</string>
+  <string name="passport_instant_login">Iniciar sessão</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão</string>
@@ -349,6 +351,8 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p2">Termos de Utilização</string>
   <string name="passport_user_agreement_p3">" e "</string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
+  <string name="passport_user_reg_region">País/Região</string>
+  <string name="passport_user_reg_region_warning">Não vai poder alterar o seu país/região assim que a conta for criada</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
@@ -377,7 +381,7 @@ Para activar a sua conta siga o
   <string name="resend_email_reach_limit_title">Não é possível enviar email</string>
   <string name="resend_email_success">Email reenviado</string>
   <string name="restart_action">Começar de novo</string>
-  <string name="restart_phone_bind_message">Pode levar algum tempo a receber a mensagem. Começar de novo na mesma?</string>
+  <string name="restart_phone_bind_message">Pode levar algum tempo a receber a mensagem. Começar de novo mesmo assim?</string>
   <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="search_account_security">Segurança da conta</string>
@@ -420,6 +424,5 @@ Para activar a sua conta siga o
   <string name="verify_phone_prompt">Seleccionar número de telefone para verificar</string>
   <string name="verify_phone_title">Verificar número de telefone</string>
   <string name="vip_account_settings">Definições VIP</string>
-  <string name="vip_more_info">Mais informações VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

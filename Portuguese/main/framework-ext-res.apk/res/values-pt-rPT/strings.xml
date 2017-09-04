@@ -21,8 +21,8 @@
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>
   <string name="button_text_cancel">Cancelar</string>
-  <string name="button_text_delete">Eliminar</string>
-  <string name="button_text_delete_timer">Eliminar (%d)</string>
+  <string name="button_text_delete">Desinstalar</string>
+  <string name="button_text_delete_timer">Desinstalar (%d)</string>
   <string name="button_text_next_step">Seguinte</string>
   <string name="button_text_next_step_timer">Seguinte (%d)</string>
   <string name="call_record_or">" ou "</string>
@@ -80,13 +80,13 @@
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>
-  <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar umaa visualização incorrecta. Pode alterar isto em Definições &gt; Definições avançadas &gt; Botões</string>
+  <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar umaa visualização incorrecta. Pode alterar isto em Definições &gt; Definições adicionais &gt; Botões</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
-  <string name="miui_upgrading_notification_title">O sistema está a carregar. Algumas funcionalidades podem estar limitadas</string>
+  <string name="miui_upgrading_notification_title">A carregar sistema. Algumas funcionalidades podem estar limitadas</string>
   <string name="onehour">30 minutos</string>
-  <string name="package_delete_confirm_step_1">Eliminar %s?</string>
-  <string name="package_delete_confirm_step_2">Eliminar esta aplicação pode fazer com que o sistema fique instável</string>
-  <string name="package_delete_confirm_step_3">Não vai poder abrir esta aplicação depois de a eliminar</string>
+  <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
+  <string name="package_delete_confirm_step_2">Desinstalar esta aplicação pode fazer com que o sistema fique instável</string>
+  <string name="package_delete_confirm_step_3">Não vai poder abrir esta aplicação depois de a desinstalar</string>
   <string name="paste">Colar</string>
   <string name="perm_send_push_dspt">Permitir mensagens Mi push</string>
   <string name="perm_send_push_lab">Enviar mensagens push</string>
@@ -96,7 +96,7 @@
   <string name="reboot_info_auto_boot">O dispositivo está programado para ligar às %s</string>
   <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
   <string name="reboot_progress">A reiniciar…</string>
-  <string name="remain">Restantes:%s</string>
+  <string name="remain">Restantes: %s</string>
   <string name="replace">Substituir</string>
   <string name="resource_select">Seleccionar</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
@@ -129,7 +129,7 @@
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="standard">Silêncio</string>
-  <string name="standard_description">[Silêncio] Silenciar os toques de chamadas e notificações</string>
+  <string name="standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="standard_title">Modo silêncio</string>
   <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brilho auto</string>
@@ -160,7 +160,7 @@
   <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
   <string name="switching_tv">A trocar…</string>
   <string name="total">Não incomodar</string>
-  <string name="total_description">[Não incomodar] Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
+  <string name="total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>
   <string name="translation_more">Mais</string>
   <string name="translation_query_error">Não foi possível localizar resultados</string>
