@@ -3580,7 +3580,6 @@ Pode continuar a utilizar a impressão digital para autorizar compras e o acesso
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Ignorar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Adicionar imp. digital</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Basta tocar no sensor de impressões digitais para desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações. Quaisquer impressões digitais adicionadas podem executar estas acções, pelo que deve ter cuidado com as impressões digitais que adiciona</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressões digitais para desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações.
 
 Quaisquer impressões digitais adicionadas ao telefone podem executar estas acções, pelo que deve ter cuidado com quem adiciona.
