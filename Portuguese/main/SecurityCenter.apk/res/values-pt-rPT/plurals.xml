@@ -61,8 +61,8 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">%d aplicação encontrada</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d aplicações que não funcionam correctamente e gastam muita bateria</item>
-        <item quantity="one">%d aplicação que não funciona correctamente e gasta muita bateria</item>
+        <item quantity="other">%d aplicações que não funcionam correctamente e descarregam bateria</item>
+        <item quantity="one">%d aplicação que não funciona correctamente e descarrega bateria</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dias "</item>
