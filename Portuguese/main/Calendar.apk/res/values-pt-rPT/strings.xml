@@ -12,6 +12,7 @@
   <string name="accounts">Contas e sincronização</string>
   <string name="acct_not_synced">Esta conta não está a ser sincronizada por isso os seus calendários podem não estar actualizados</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
+  <string name="action_bar_more_menu_view_description">Mais</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_today">Hoje</string>
   <string name="ad_card_connecting">A ligar…</string>
@@ -35,12 +36,10 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Expirado</string>
   <string name="alert_title">Notificações do calendário</string>
-  <string name="anniversary_card_title">Aniversário</string>
   <string name="anniversary_event_title">Aniversário: %1$s</string>
   <string name="app_label">Calendário</string>
+  <string name="app_name">Comum</string>
   <string name="birthday_calendar_display_name">Aniversários</string>
-  <string name="birthday_card_other_day_title">Aniversários</string>
-  <string name="birthday_card_title">Aniversários hoje</string>
   <string name="birthday_event_description_a_week_ago">Uma semana atrás</string>
   <string name="birthday_event_description_a_week_later">Uma semana até</string>
   <string name="birthday_event_description_day_after_tomorrow">O dia depois de amanhã é</string>
@@ -75,7 +74,6 @@
   <string name="chongsha">Fantasmas</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
-  <string name="countdown_card_title">Contagem</string>
   <string name="countdown_event_title">Contagem: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Contagem: %1$s em 3 dias</string>
   <string name="countdown_notify_title">Contagem: %1$s</string>
@@ -89,14 +87,10 @@
   <string name="credit">Cartão de crédito</string>
   <string name="credit_card_date_label">Data de reembolso:</string>
   <string name="credit_card_number_label">Número do cartão:</string>
-  <string name="credit_card_overdue">Cartão expira em</string>
-  <string name="credit_card_repayment_count">Último(s) %1$s dia(s)</string>
-  <string name="credit_card_source">Lembrete de reembolso por SMS</string>
   <string name="credit_currency">€</string>
   <string name="credit_detail_amount_label">Saldo em dívida</string>
   <string name="credit_detail_sms_content">Texto original</string>
   <string name="credit_detail_today">Hoje:</string>
-  <string name="credit_event_card_title">Pagamentos com cartão de crédito</string>
   <string name="credit_event_delete_successfully">Pagamento anulado com sucesso</string>
   <string name="credit_event_title">Pagamentos com cartão de crédito</string>
   <string name="daily">Diariamente</string>
@@ -121,7 +115,6 @@
   <string name="delete_recurring_event_title">Eliminar %s?</string>
   <string name="delete_this_event_title">Eliminar este evento?</string>
   <string name="deleting_calendar">Cancelar subscrição</string>
-  <string name="departure">Embarque</string>
   <string name="description_calendar">Aplicações de sistema/Calendário</string>
   <string name="description_calendar_edit_event">Aplicações de sistema/Calendário/Contas do calendário</string>
   <string name="description_calendar_huangli"/>
@@ -181,7 +174,6 @@
   <string name="event_edit">Editar evento</string>
   <string name="event_info_descrip">Descrição</string>
   <string name="event_info_end">Fim</string>
-  <string name="event_info_from">De</string>
   <string name="event_info_jump_to_email">Ir para o Email</string>
   <string name="event_info_reminders_label">Lembretes</string>
   <string name="event_info_reminders_label_1">Lembrete</string>
@@ -273,6 +265,7 @@
   <string name="more_match">Mais eventos</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
+  <string name="new_event_description">Novo</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>
   <string name="no_contact_birthday_hint">Sem aniversários para importar</string>
@@ -370,8 +363,6 @@
   <string name="setting_title_about">Acerca de</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>
   <string name="show_day_view">Mostrar dia</string>
-  <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
-  <string name="show_older_events">Toque para ver os eventos antes de %1$s</string>
   <string name="sms_import_description">Melhorar a gestão de envio das SMS</string>
   <string name="solar_lunar_convert_date"/>
   <string name="solar_lunar_convert_description"/>
@@ -393,9 +384,7 @@
   <string name="timezone_label">Fuso horário</string>
   <string name="today">Hoje</string>
   <string name="today_at_time_fmt">Hoje às %s</string>
-  <string name="today_flight_event">Voo</string>
   <string name="today_no_events">Sem eventos</string>
-  <string name="today_train_event">Comboio</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
   <string name="too_long_content">O conteúdo é demasiado longo</string>
@@ -407,9 +396,6 @@
   <string name="travel_eta_advice">%2$s minutos a %1$s</string>
   <string name="travel_ets_advice">Conduzir para %2$s antes de %1$s</string>
   <string name="travel_event_add_successfully">Evento criado</string>
-  <string name="travel_event_add_unsuccessfully">Não foi possível criar evento</string>
-  <string name="travel_event_added">Evento criado</string>
-  <string name="travel_event_delete_successfully">Evento eliminado</string>
   <string name="travel_event_title_flight">Voo: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Comboio: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Comboio: %1$s %2$s</string>

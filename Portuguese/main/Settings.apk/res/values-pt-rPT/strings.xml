@@ -884,6 +884,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_uri_btn_text">Limpar acessos</string>
   <string name="clear_user_data_text">Limpar dados</string>
+  <string name="close_app">Fechar a aplicação actual</string>
   <string name="close_gesture">Fechar utilizando gestos</string>
   <string name="cloud_backup_section_title">Cópias da Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
@@ -961,7 +962,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
-  <string name="convenience_key_category_title">Chave de conveniência</string>
+  <string name="convenience_key_category_title">Controlo de sistema</string>
   <string name="copyright_title">Direitos de autor</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
@@ -1370,6 +1371,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="domain_urls_title">Links de abertura</string>
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
+  <string name="double_click_power_key">Duplo clique botão Ligar/Desligar</string>
   <string name="download_current_rom">Obter a última versão MIUI</string>
   <string name="downloading_description">A transferir…</string>
   <string name="doze_summary">Activar o ecrã quando pega no dispositivo ou recebe notificações</string>
@@ -1668,6 +1670,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alteração de idioma</string>
   <string name="go_back_button_label">Voltar</string>
+  <string name="go_to_sleep">Por inactivo</string>
   <string name="google_backup_enable">Ligar cópias</string>
   <string name="google_backup_section_title">Cópias e restauro do Google</string>
   <string name="google_title">Google</string>
@@ -1828,9 +1831,19 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="keep_screen_on">Manter activo</string>
   <string name="keep_screen_on_summary">O ecrã nunca vai entrar em suspensão durante o carregamento</string>
   <string name="kernel_version">Versão de kernel</string>
-  <string name="key_position_cat">Posição dos botões</string>
-  <string name="key_settings">Botões</string>
-  <string name="key_settings_title">Botões</string>
+  <string name="key_combination_power_back">Ligar/Desligar + Voltar</string>
+  <string name="key_combination_power_home">Ligar/Desligar + Início</string>
+  <string name="key_combination_power_menu">Ligar/Desligar + Menu</string>
+  <string name="key_gesture_function_dialog_message">%1$s foi definido para %2$s atalhos, se substituído por %3$s</string>
+  <string name="key_gesture_function_dialog_negative">Cancelar</string>
+  <string name="key_gesture_function_dialog_positive">Substituir</string>
+  <string name="key_gesture_function_optional">Gestos e botões opcionais</string>
+  <string name="key_gesture_function_preview">Pré-visualização de gestos e botões</string>
+  <string name="key_gesture_function_shortcut">Atalho da função</string>
+  <string name="key_none">Nenhum</string>
+  <string name="key_settings">Atalho de gestos e botões</string>
+  <string name="key_settings_title">Atalho de gestos e botões</string>
+  <string name="key_system_control">Controlo de sistema</string>
   <string name="keyboard_and_input_methods_category">Teclado</string>
   <string name="keyboard_assistance_category">Assistente de teclado</string>
   <string name="keyboard_layout_default_label">Predefinido</string>
@@ -1913,8 +1926,11 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="later">Mais tarde</string>
   <string name="lattice_smartcover_title">Capa com frente em malha</string>
   <string name="launch_by_default">Abrir por predefinição</string>
+  <string name="launch_camera">Iniciar câmara</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
+  <string name="launch_google_search">Iniciar Pesquisa Google</string>
+  <string name="launch_voice_assistant">Iniciar Assistente de Voz</string>
   <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
   <string name="launcher_title">Ecrã inicial e recentes</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
@@ -2171,6 +2187,11 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Mi Cloud</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_action">Iniciar sessão</string>
+  <string name="long_press_back_key">Pressão longa no botão Voltar</string>
+  <string name="long_press_buttom_key">Pressão longa no botão Voltar quando bloqueado</string>
+  <string name="long_press_home_key">Pressão longa no botão Início</string>
+  <string name="long_press_menu_key">Pressão longa no botão Menu</string>
+  <string name="long_press_menu_key_when_lock">Pressão longa no botão Menu quando bloqueado</string>
   <string name="long_press_volume_down">Pressão longa no botão Volume Menos</string>
   <string name="lte_4g_settings_4gdisable_summary">4G desactivado</string>
   <string name="lte_4g_settings_4genable_summary">4G activado</string>
@@ -3221,7 +3242,6 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_key_long_press">Pressão longa nos botões de navegação</string>
   <string name="screen_key_long_press_action">Activar função</string>
   <string name="screen_key_long_press_timeout">Definir tempo de espera do botão</string>
-  <string name="screen_key_position">Botões de navegação</string>
   <string name="screen_key_press">Pressão nos botões de navegação</string>
   <string name="screen_key_press_action">Activar função</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
@@ -3283,6 +3303,7 @@ Para utilizar a fixação no ecrã:
   <string name="screen_resolution_switch">Alterar resolução</string>
   <string name="screen_resolution_title">Resolução de ecrã</string>
   <string name="screen_saturation">Saturação</string>
+  <string name="screen_shot">Tirar captura de ecrã</string>
   <string name="screen_timeout">Suspender</string>
   <string name="screen_timeout_summary">Após %1$s de inactividade</string>
   <string name="screen_timeout_title">Modo de suspensão</string>
@@ -3693,6 +3714,7 @@ Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN for
   <string name="show_ime_summary">Manter no ecrã enquanto o teclado físico estiver ativo</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>
+  <string name="show_menu">Mostrar menu</string>
   <string name="show_non_rect_clip">Depuração de operações clipe não rectangulares</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="show_password">Mostrar palavras-passe</string>
@@ -4172,6 +4194,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="theme_settings_title">Temas</string>
   <string name="time_picker_title">Hora</string>
+  <string name="three_gesture_down">Gesto de 3 dedos</string>
   <string name="time_zone_auto_stub">Seleccionar fuso horário</string>
   <string name="timer_switch_settings_title">Programar hora de ligar/desligar</string>
   <string name="timezone_settings">Fuso horário</string>
@@ -4346,8 +4369,8 @@ As suas impressões digitais guardadas também vão ser removidas deste perfil e
   <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desactivar o padrão, PIN ou palavra-passe</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Alterar ecrã de bloqueio</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Escolher um método para bloquear o ecrã</string>
-  <string name="unlock_set_unlock_launch_picker_title">Bloqueio de ecrã</string>
-  <string name="unlock_set_unlock_launch_picker_title_profile">Bloqueio de perfil de trabalho</string>
+  <string name="unlock_set_unlock_launch_picker_title">Ecrã de bloqueio</string>
+  <string name="unlock_set_unlock_launch_picker_title_profile">Ecrã de bloqueio do perfil de trabalho</string>
   <string name="unlock_set_unlock_mode_none">Deslizar</string>
   <string name="unlock_set_unlock_mode_off">Nenhum</string>
   <string name="unlock_set_unlock_mode_password">Palavra-passe</string>

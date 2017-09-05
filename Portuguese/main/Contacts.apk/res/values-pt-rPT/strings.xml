@@ -1091,6 +1091,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sim_error_password_error">A palavra-passe introduzida está incorrecta</string>
   <string name="sim_error_storage_full">O armazenamento do cartão SIM está cheio</string>
   <string name="sim_error_text_too_long">O nome é muito longo</string>
+  <string name="sim_export_error">Cartão SIM não preparado. Tente novamente mais tarde</string>
   <string name="sim_export_loading">A ler cartão SIM…</string>
   <string name="sim_indexed_contact_not_exist">A posição %1$d no cartão SIM é inválida. A posição deve estar entre %2$d e %3$d</string>
   <string name="sim_no_contact">Sem contactos no cartão SIM</string>
@@ -1168,6 +1169,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_for_saving_nickname">Alcunha guardada</string>
   <string name="toast_join_with_empty_contact">Escrever o nome do contacto antes de o associar com outro</string>
   <string name="toast_making_personal_copy">A criar uma cópia pessoal…</string>
+  <string name="toast_start_intent_failed">Sem aplicações para lidar com isto</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>

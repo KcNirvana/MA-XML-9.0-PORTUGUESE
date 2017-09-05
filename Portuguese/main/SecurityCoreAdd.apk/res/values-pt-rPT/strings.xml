@@ -52,6 +52,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="createUserFail">Não foi possível criar</string>
   <string name="create_app_icon_failed">Não foi possível criar ícone</string>
   <string name="create_app_icon_success">Ícone criado com sucesso</string>
+  <string name="create_second_space">Criado com sucesso</string>
   <string name="create_space_loading">A criar Segundo espaço…</string>
   <string name="create_work_space">Criar Espaço de trabalho</string>
   <string name="creating_app_icon">A criar ícone…</string>
@@ -105,6 +106,10 @@ As mensagens apenas vão aparecer no Segundo espaço"</string>
   <string name="guide_pwd_detail_title">"Proteger os seus dados
 Entrar no Segundo espaço através do ecrã de bloqueio"</string>
   <string name="guide_setting_guide_title">Gerir o Segundo espaço</string>
+  <string name="guide_start_ads_text">Um novo nível de segurança</string>
+  <string name="guide_start_text">Dois espaços. Um dispositivo</string>
+  <string name="has_created_second_space">"Pode abrir o Segundo espaço agora.
+Dois espaços. Um dispositivo"</string>
   <string name="hidden_app">Segundo espaço</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicações</string>
@@ -118,6 +123,8 @@ Pode também transferi-las separadamente"</string>
   <string name="import_photo">Importar fotos</string>
   <string name="import_photo_desc">Veja itens partilhados no Segundo espaço</string>
   <string name="import_photo_suc">Fotos importadas</string>
+  <string name="input_space_finger">Definir agora</string>
+  <string name="input_space_password">Definir agora</string>
   <string name="invalid_qr_code">Código QR inválido</string>
   <string name="list_empty_text">Vazio</string>
   <string name="loading">Aguarde…</string>
@@ -159,6 +166,8 @@ Pode também transferi-las separadamente"</string>
 Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã de bloqueio"</string>
   <string name="privacyContactsSummary">Mostrar itens privados no Segundo espaço</string>
   <string name="privacyContactsTitle">Mensagens e contactos privados</string>
+  <string name="privacy_password_fingerprint_dialog_message">Coloque o dedo no sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Digitalize a sua imp. digital</string>
   <string name="private_sms_show_sub_title">Os dados das mensagens vão ser partilhados entre os dois espaços</string>
   <string name="private_sms_show_title">As mensagens privadas são mostradas no Segundo espaço</string>
   <string name="private_space_setting">Gerir</string>
@@ -199,6 +208,9 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="setSecondSpacePasswordGuideDes">Utilizar esta palavra-passe para entrar no Segundo espaço através do ecrã de bloqueio</string>
   <string name="setSpacePasswordGuide">Utilizar diferentes palavras-passe para entrar em ambos os espaços através do ecrã de bloqueio</string>
   <string name="setSuccess">Palavras-passe definidas com sucesso</string>
+  <string name="set_space_finger">Definir imp. digital</string>
+  <string name="set_space_finger_sub_text_suc">Definida com sucesso</string>
+  <string name="set_space_password">Definir palavra-passe</string>
   <string name="set_space_pwd_detail">Pode entrar no Segundo espaço utilizando a palavra-passe</string>
   <string name="set_space_pwd_suc">Palavra-passe do Segundo espaço adicionada</string>
   <string name="setting_finger_print_sub_title">Certifique-se que a impressão digital é diferente da utilizada no Primeiro espaço</string>
@@ -215,13 +227,21 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="settings_status_icon_title">Ícone do Segundo espaço</string>
   <string name="settings_switch_shortcut_summary">Mostrar o atalho do ecrã inicial no Primeiro espaço</string>
   <string name="settings_switch_shortcut_title">Atalho no ecrã inicial</string>
+  <string name="show_decktop_quick_switch_icon">Atalho no ecrã inicial</string>
+  <string name="show_decktop_quick_switch_icon_detail">Mostrar um atalho para trocar de espaços no ecrã inicial do Primeiro espaço</string>
   <string name="show_normal_content">Não mostrar itens privados</string>
+  <string name="show_noti_from_owner">Notificações do outro espaço</string>
+  <string name="show_noti_from_owner_detail">Receber notificações do outro espaço</string>
+  <string name="show_noti_quick_switch_icon">Atalho na área de notificações</string>
+  <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de espaços na área de notificações</string>
   <string name="show_private_content">Mostrar itens privados</string>
   <string name="show_private_msg">Mostrar mensagens privadas</string>
   <string name="show_private_msg_summary">Mostrar mensagens privadas no Segundo espaço</string>
+  <string name="skip">Ignorar</string>
   <string name="spaceSetting">Definições</string>
   <string name="space_deleted">Este espaço foi eliminado</string>
   <string name="space_des_default">Espaço isolado com dados encriptados</string>
+  <string name="space_finger_sub_text">Definir uma imp. digital do Segundo espaço para trocar mais rápido</string>
   <string name="space_name_default">Espaço de trabalho</string>
   <string name="startSet">Definir</string>
   <string name="startTransfer">Mover</string>
@@ -275,7 +295,9 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="xpsace_guide_button">Criar</string>
   <string name="xspace_chocie">Aplicações suportadas</string>
   <string name="xspace_creating">A clonar aplicação…</string>
-  <string name="xspace_description">Clone aplicações para as utilizar separadamente. As aplicações clonadas vão ter um ícone específico no ecrã inicial</string>
+  <string name="xspace_description">"Clone aplicações para as utilizar separadamente. 
+  
+As aplicações clonadas vão ter um ícone específico no ecrã inicial"</string>
   <string name="xspace_guide_des">Utilizar 2 contas ao mesmo tempo</string>
   <string name="xspace_guide_title">Criar aplicação clonada para %s</string>
   <string name="xspace_header">Aplicações clonadas</string>
