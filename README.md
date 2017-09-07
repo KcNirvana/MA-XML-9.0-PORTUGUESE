@@ -2,8 +2,7 @@
 <dl>
   <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/cfZo29t.gif" border="0" alt="MIUI9_logo"></a></dt>
   <dd>
-    MIUI-v9 translation for all supported devices.
-    MIUI Translation: **Efex, KcNirvana, Lippe35**
+    MIUI-v9 translation for all supported devices. MIUI Translation: <b>Efex, KcNirvana, Lippe35</b>
   </dd>
 </dl>
 
