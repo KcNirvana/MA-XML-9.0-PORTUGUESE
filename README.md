@@ -1,6 +1,11 @@
 # MIUI V9 Portuguese Translation
-<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/cfZo29t.gif" border="0" alt="MIUI9_logo"></a></dd></dl>
-MIUI-v9 translation for all supported devices. MIUI Translation: **Efex, KcNirvana, Lippe35**
+<dl>
+  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/cfZo29t.gif" border="0" alt="MIUI9_logo"></a></dt>
+  <dd>
+    MIUI-v9 translation for all supported devices.
+    MIUI Translation: **Efex, KcNirvana, Lippe35**
+  </dd>
+</dl>
 
 [![ghit.me](https://ghit.me/badge.svg?repo=KcNirvana/MA-XML-9.0-PORTUGUESE)](https://ghit.me/repo/KcNirvana/MA-XML-9.0-PORTUGUESE)
 
