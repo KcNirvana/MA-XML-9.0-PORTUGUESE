@@ -7,6 +7,7 @@
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
+  <string name="add_miui_contact">Cartão Mi</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_number_to_sender">Adicionar número a %s</string>
   <string name="add_picture">Adicionar imagem</string>
@@ -390,8 +391,10 @@
   <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes do Mi Message tais como copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
+  <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
+  <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
@@ -409,6 +412,7 @@
   <string name="pref_system_title">Sistema</string>
   <string name="pref_title_about_smart_sms">Acerca dos parceiros de mensagens inteligentes</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
+  <string name="pref_title_auto_delete">Eliminar mensagens antigas</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_fwd_sender_info">Reencaminhar informações do remetente</string>
@@ -417,6 +421,8 @@
   <string name="pref_title_mms_auto_retrieval">Transferir conteúdo MMS automaticamente</string>
   <string name="pref_title_mms_delete">Limite de mensagens de multimédia</string>
   <string name="pref_title_mms_read_reports">Relatórios de leitura MMS</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Transferir conteúdos MMS em roaming internacional</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Transferir conteúdos MMS em roaming nacional</string>
   <string name="pref_title_mms_retrieval_during_roaming">Transferir conteúdo MMS em roaming</string>
   <string name="pref_title_mms_validity_period">Período de validade de MMS</string>
   <string name="pref_title_notification_body_enabled">Mensagens no ecrã de bloqueio</string>
