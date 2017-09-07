@@ -765,6 +765,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bt_rarely_used_device_title">Dispositivos raramente utilizados (%d)</string>
   <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
   <string name="bt_trace_log_summary">Pesquisa do registo do Bluetooth</string>
+  <string name="bug_report_settings">Comentários</string>
   <string name="bugreport_in_power">Atalho do relatório de erros</string>
   <string name="bugreport_in_power_summary">Mostrar um botão no menu de energia para criar um relatório de erros</string>
   <string name="build_number">Número de compilação</string>
@@ -861,6 +862,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="change_storage">Alterar armazenamento</string>
   <string name="charging_sounds_title">Sons de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
+  <string name="check_importance">Verificar importância</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
   <string name="checking_decryption">A verificar…</string>
@@ -2674,15 +2676,6 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="oem_unlock_enable">Desbloqueio de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir o desbloqueio do bootloader</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo vai reiniciar para sair do Modo Leve</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no Modo Leve</string>
-  <string name="oldman_mode_enabled_name">Modo Leve</string>
-  <string name="oldman_mode_entry_name">Modo Leve</string>
-  <string name="oldman_mode_entry_title">Modo Leve</string>
-  <string name="oldman_mode_settings_caption">Definições do Modo Leve</string>
-  <string name="oldman_mode_summary">Utilizar menus simplificados</string>
-  <string name="oldman_mode_summary_cta">O Modo Leve necessita de uma ligação à Internet, ler os seus contactos, mensagens e localização para funcionar normalmente</string>
   <string name="one_cacrt">um certificado da AC</string>
   <string name="one_usercrt">um certificado do utilizador</string>
   <string name="one_userkey">uma chave de utilizador</string>
@@ -3427,6 +3420,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_handy_mode">Modo Uma Mão</string>
   <string name="search_hint">Definições de pesquisa</string>
   <string name="search_home_key">Início</string>
+  <string name="search_input_hint">Definições de pesquisa</string>
   <string name="search_key_settings_title">Botões;Chaves</string>
   <string name="search_lab_functions_title">Funcionalidades Beta;Função laboratório</string>
   <string name="search_label">Definições</string>
@@ -3844,7 +3838,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="spell_checker_not_selected">Não seleccionado</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
-  <string name="spellchecker_security_warning">Este corrector ortográfico vai poder recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
+  <string name="spellchecker_security_warning">Este verificador ortográfico vai poder recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este verificador ortográfico?</string>
   <string name="spellchecker_switch_title">Ligar verificador ortográfico</string>
   <string name="spellcheckers_settings_title">Verificador ortográfico</string>
   <string name="ssid_label">SSID:</string>
@@ -3946,6 +3940,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_wifi_mac_address">Endereço MAC Wi-Fi</string>
   <string name="status_wimax_mac_address">Endereço MAC 4G</string>
   <string name="status_write_success">Sucesso!</string>
+  <string name="statusbar_permission_desc">As permissões apenas estão disponíveis para notificações importantes</string>
   <string name="storage_detail_apps">Aplicações</string>
   <string name="storage_detail_audio">Áudio</string>
   <string name="storage_detail_cached">Dados em cache</string>
@@ -4308,6 +4303,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_on_wifi_dialog_title">Ligar Wi-Fi</string>
   <string name="turn_update_keyguard_password_wait_dialog">A modificar palavra-passe…</string>
   <string name="under_keyguard">Ecrã desligado</string>
+  <string name="unimportant">Não importantes</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_device_admin">Desinstalar aplicação</string>
   <string name="uninstall_dlg_msg">Desinstalar vai eliminar todos os dados da aplicação</string>
@@ -4858,7 +4854,6 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="wifi_eap_ca_cert">Certificado CA</string>
   <string name="wifi_eap_domain">Domínio</string>
   <string name="wifi_eap_identity">Identidade</string>
-  <string name="wifi_eap_info_reconnect">Erro na autenticação. Tente novamente</string>
   <string name="wifi_eap_method">Método EAP</string>
   <string name="wifi_eap_sim_simcard">Escolher SIM</string>
   <string name="wifi_eap_user_cert">Certificado do utilizador</string>
@@ -4886,6 +4881,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="wifi_hotspot_message">%1$s necessita que inicie sessão online antes de se ligar à rede</string>
   <string name="wifi_hotspot_title">Iniciar sessão para ligar?</string>
   <string name="wifi_in_airplane_mode">Em Modo Avião</string>
+  <string name="wifi_info_reconnect">Erro na ligação. Tente novamente</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP:</string>
   <string name="wifi_ip_settings">Definições de IP</string>

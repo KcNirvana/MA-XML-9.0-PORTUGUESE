@@ -275,4 +275,8 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Ainda não adicionou %d jogos</item>
         <item quantity="one">Ainda não adicionou %d jogo</item>
     </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d dias restantes até à sessão do acelerador de rede terminar</item>
+        <item quantity="one">%d dia restantes até à sessão do acelerador de rede terminar</item>
+    </plurals>
 </resources>

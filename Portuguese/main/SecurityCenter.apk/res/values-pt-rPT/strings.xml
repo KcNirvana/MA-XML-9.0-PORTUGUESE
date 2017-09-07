@@ -1007,7 +1007,6 @@ da operadora"</string>
   <string name="name">Nome</string>
   <string name="net_booster">Acelerador de rede</string>
   <string name="net_booster_expire_notification">A sessão do acelerador de rede está a terminar</string>
-  <string name="net_booster_expire_notification_tip">%dd restantes antes da sessão do acelerador de rede terminar. Renove a sessão para evitar problemas de velocidade da rede</string>
   <string name="net_booster_overdue_notification">A sessão do acelerador de rede está prestes a terminar</string>
   <string name="net_booster_overdue_notification_tip">A sessão do acelerador de rede vai terminar. Renovar a sessão?</string>
   <string name="net_booster_tip">Ligue o acelerador de rede para tornar a ligação Wi-Fi mais estável e reduzir o atraso da rede</string>
