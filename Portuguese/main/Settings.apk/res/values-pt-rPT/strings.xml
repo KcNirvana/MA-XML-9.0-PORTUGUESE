@@ -862,7 +862,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="change_storage">Alterar armazenamento</string>
   <string name="charging_sounds_title">Sons de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">Verificar importância</string>
+  <string name="check_importance">Importância</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
   <string name="checking_decryption">A verificar…</string>
@@ -1841,10 +1841,10 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="key_gesture_function_dialog_positive">Substituir</string>
   <string name="key_gesture_function_optional">Gestos e botões opcionais</string>
   <string name="key_gesture_function_preview">Pré-visualização de gestos e botões</string>
-  <string name="key_gesture_function_shortcut">Atalho da função</string>
+  <string name="key_gesture_function_shortcut">Atalhos das funções</string>
   <string name="key_none">Nenhum</string>
-  <string name="key_settings">Atalho de gestos e botões</string>
-  <string name="key_settings_title">Atalho de gestos e botões</string>
+  <string name="key_settings">Gestos e botões</string>
+  <string name="key_settings_title">Gestos e botões</string>
   <string name="key_system_control">Controlo de sistema</string>
   <string name="keyboard_and_input_methods_category">Teclado</string>
   <string name="keyboard_assistance_category">Assistente de teclado</string>
@@ -4299,6 +4299,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_on_keyguard_password_alert_forget_title">Memorizar a sua palavra-passe</string>
   <string name="turn_on_radio">Ligar rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de ecrã</string>
+  <string name="turn_on_torch">Ligar lanterna</string>
   <string name="turn_on_wifi_dialog_text">O Wi-Fi é desligado quando o PA Móvel está activo. Para ligar o Wi-Fi, desligue o PA Móvel</string>
   <string name="turn_on_wifi_dialog_title">Ligar Wi-Fi</string>
   <string name="turn_update_keyguard_password_wait_dialog">A modificar palavra-passe…</string>

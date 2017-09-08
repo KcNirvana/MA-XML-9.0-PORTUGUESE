@@ -124,7 +124,7 @@
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
   <string name="app_manager_app_info_pkg">Nome do ficheiro</string>
-  <string name="app_manager_app_lock">Bloqueio de aplicações</string>
+  <string name="app_manager_app_lock">Bloq. de aplic.</string>
   <string name="app_manager_app_power">"Utilização de bateria: "</string>
   <string name="app_manager_app_storage">"Armazenamento: "</string>
   <string name="app_manager_app_traffic">"Utilização de dados: "</string>
@@ -132,7 +132,7 @@
   <string name="app_manager_app_version_name">Versão:</string>  
   <string name="app_manager_appupdate_remind">Notificar acerca de actualizações</string>
   <string name="app_manager_back">Voltar</string>
-  <string name="app_manager_bipartition">Aplicações clonadas</string>
+  <string name="app_manager_bipartition">Aplic. clonadas</string>
   <string name="app_manager_card_permission_title">Permissões</string>
   <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação vão ser eliminados permanentemente. Isto inclui todos os ficheiros, definições, contas, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Eliminar os dados da aplicação?</string>
@@ -145,7 +145,7 @@
   <string name="app_manager_default_open_title">Limpar predefinições</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Armazenamento</string>
-  <string name="app_manager_details_traffic_title">Utilização de dados neste mês</string>
+  <string name="app_manager_details_traffic_title">Dados neste mês</string>
   <string name="app_manager_disable">Não permitir</string>
   <string name="app_manager_dlg_cancel">Cancelar</string>
   <string name="app_manager_dlg_ok">OK</string>
@@ -739,7 +739,7 @@
   <string name="hints_risk_descx_title">Descrição:</string>
   <string name="hints_risk_name_title">Risco:</string>
   <string name="hints_scan_danger_result">Foram encontrados riscos</string>
-  <string name="hints_scan_result_no_finish">A verificação não foi concluída. Toque para começar de novo</string>
+  <string name="hints_scan_result_no_finish">Verificação não concluída. Toque para começar de novo</string>
   <string name="hints_scan_result_phone_safe">Seguro</string>
   <string name="hints_scan_result_safe">Seguro</string>
   <string name="hints_scanning">A verificar…</string>
@@ -1618,7 +1618,7 @@ do seu dispositivo"</string>
   <string name="st_antispam_title_contact_sms">Mensagens de contactos</string>
   <string name="st_antispam_title_contactandanoy_group">Definições</string>
   <string name="st_antispam_title_null_incoming">Números privados</string>
-  <string name="st_antispam_title_service_sms">Serviço de notificações</string>
+  <string name="st_antispam_title_service_sms">Notificações de serviço</string>
   <string name="st_antispam_title_whitelist">Excepções</string>
   <string name="st_call_backsound_group">Som da lista de bloqueio</string>
   <string name="st_call_intercept_contacts">Bloquear chamadas de contactos</string>

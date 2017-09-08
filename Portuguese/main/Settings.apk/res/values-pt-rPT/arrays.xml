@@ -38,13 +38,13 @@
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="check_importance_entries">
-        <item>Recomendadas</item>
-        <item>Importantes</item>
-        <item>Não importantes</item>
+        <item>Recomendada</item>
+        <item>Importante</item>
+        <item>Não importante</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>Gestão inteligente. As notificações não importantes vão aparecer numa pasta separada</item>
-        <item>As notificações vão aparecer directamente na área de notificações</item>
+        <item>As notificações não importantes vão aparecer numa pasta separada</item>
+        <item>As notificações vão aparecer na área de notificações</item>
         <item>Todas as notificações vão aparecer numa pasta separada</item>
     </string-array>
     <string-array name="timezone_filters">
