@@ -132,7 +132,7 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
-  <string name="internet_access_dspt">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
+  <string name="internet_access_dspt">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente.</string>
   <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações agora, vá a %s</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_hint">A carregar…</string>
@@ -452,7 +452,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="passed_synced_time_min">Sincronizado há %d minutos</string>
   <string name="passed_synced_time_sec">Sincronizado há %d segundos</string>
   <string name="password">Introduzir a sua palavra-passe</string>
-  <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do seu número de telefone "</string>
+  <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do seu número de telefone. "</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone "</string>
   <string name="photo">Fotos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
@@ -500,7 +500,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s adicionado</string>
   <string name="sync_dspt">Sincronizar</string>
-  <string name="sync_dspt_entrance_provision"> Sincronizar as suas fotos, contactos, registos de chamadas e mensagens por todos os seus dispositivos. Aceda aos dados que sincroniza de qualquer navegador em %s</string>
+  <string name="sync_dspt_entrance_provision">"Sincronizar as suas fotos, contactos, registos de chamadas e mensagens por todos os seus dispositivos. Aceda aos dados que sincroniza de qualquer navegador em %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saber mais</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Não utilizar</string>
   <string name="sync_dspt_entrance_provision_confirm_content">As aplicações MIUI integradas necessitam da Mi Cloud para fazer cópias das suas fotos, contactos, notas, etc.</string>
@@ -522,10 +522,10 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
   <string name="sync_resend_sms_dspt_provision">" Se mudar de cartão SIM, a sua operadora pode cobrar uma SMS utilizada para reactivar este serviço"</string>
-  <string name="sync_sub_1_intl_sms">A sua operadora pode cobrar por uma mensagem SMS internacional utilizada para activar este serviço</string>
+  <string name="sync_sub_1_intl_sms">"A sua operadora pode cobrar por uma mensagem SMS internacional utilizada para activar este serviço. "</string>
   <string name="sync_sub_1_sms">A sua operadora pode cobrar por uma mensagem SMS utilizada para activar este serviço</string>
   <string name="sync_sub_1_sms_1_intl_sms">A sua operadora pode cobrar por uma mensagem SMS nacional e uma internacional utilizadas para activar este serviço</string>
-  <string name="sync_sub_2_intl_sms">A sua operadora pode cobrar por duas mensagens SMS internacionais utilizadas para activar este serviço</string>
+  <string name="sync_sub_2_intl_sms">"A sua operadora pode cobrar por duas mensagens SMS internacionais utilizadas para activar este serviço. "</string>
   <string name="sync_sub_2_sms">A sua operadora pode cobrar por duas mensagens SMS utilizadas para activar este serviço</string>
   <string name="sync_sub_dspt">A sua operadora pode cobrar por uma mensagem enviada para activar este serviço</string>
   <string name="sync_sub_dspt_provision">Sincronizar fotos, contactos, músicas, aplicações, e muito mais em todos os dispositivos</string>

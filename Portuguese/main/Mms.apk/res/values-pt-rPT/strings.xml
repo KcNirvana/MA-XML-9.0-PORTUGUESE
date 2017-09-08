@@ -143,7 +143,7 @@
   <string name="duration_sec">Duração (%s seg)</string>
   <string name="duration_selector_title">"Duração por diapositivo "</string>
   <string name="duration_zero">A duração deve ser maior que 0 segundos</string>
-  <string name="earlier">Mais cedo</string>
+  <string name="earlier">Mais antigas</string>
   <string name="edit">Editar</string>
   <string name="edit_phrase">Editar respostas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivo</string>

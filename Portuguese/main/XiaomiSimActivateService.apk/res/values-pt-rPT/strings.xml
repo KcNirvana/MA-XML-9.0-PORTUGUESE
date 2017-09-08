@@ -5,7 +5,7 @@
   <string name="activate_auto_sms_notification_desc_1_card">SMS enviada para activar \"Localizar Dispositivo\"</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS enviada do cartão SIM %s para activar \"Localizar Dispositivo\"</string>
   <string name="activate_auto_sms_notification_title">Activação do cartão SIM</string>
-  <string name="activate_feature_call_log_sync">Sincronizar o registo de chamadas</string>
+  <string name="activate_feature_call_log_sync">Sincronização do registo de chamadas</string>
   <string name="activate_feature_default_name">Serviços Mi</string>
   <string name="activate_feature_find_device">Localizar Dispositivo</string>
   <string name="activate_feature_live_talk">Pacote de carregamento</string>
@@ -106,7 +106,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="agree">Concordar</string>
   <string name="app_name">Serviço Activação SIM</string>
   <string name="explain_send_sms_permission_button">Verificar</string>
-  <string name="explain_send_sms_permission_msg">Para ligar %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser taxada pela sua operadora</string>
+  <string name="explain_send_sms_permission_msg">Para ligar a %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser cobrada pela sua operadora</string>
   <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
   <string name="phone_get_processing">A obter…</string>
   <string name="phone_get_text">Concorda que %1$s obtenha o seu número de telefone: %2$s</string>

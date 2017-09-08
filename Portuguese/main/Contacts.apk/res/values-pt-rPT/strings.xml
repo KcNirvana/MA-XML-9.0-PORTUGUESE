@@ -816,7 +816,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados</string>
   <string name="no_sdcard_message">Armazenamento não encontrado</string>
-  <string name="non_phone_add_to_contacts">Adicionar a um contacto existente</string>
+  <string name="non_phone_add_to_contacts">Adicionar a contacto</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
   <string name="none_paired">Sem dispositivos emparelhados</string>

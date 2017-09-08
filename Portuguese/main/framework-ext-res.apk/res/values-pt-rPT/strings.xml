@@ -76,7 +76,7 @@
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="maml_component_customization_title">Definições</string>
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
-  <string name="memory_clear_result">%1$s B limpos</string>
+  <string name="memory_clear_result">%1$sB limpos</string>
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>

@@ -186,6 +186,7 @@
   <string name="set_lcd_mode">Modo do ecrã</string>
   <string name="settings_safetylegal_activity_loading">Aguarde…</string>
   <string name="show_system_app">Mostrar aplicações de sistema</string>
+  <string name="sleep_config_enhance_description">Prever o tempo de inactividade do utilizador através de aprendizagem. Podem ser limpas algumas aplicações em segundo plano, restringido o acesso a NFC, sincronização, Bluetooth, GPS, etc.</string>
   <string name="sleep_config_enhance_title">Modos de poupança de bateria</string>
   <string name="still">Imagem</string>
   <string name="sucess">Sucesso</string>

@@ -1298,7 +1298,7 @@ do seu dispositivo"</string>
   <string name="power_optimize_save_mode_not_opened">Poupança de bateria desligada</string>
   <string name="power_optimize_save_on_lockscreen">Poupar bateria quando o dispositivo estiver bloqueado</string>
   <string name="power_phone">Chamadas de voz</string>
-  <string name="power_save_mode_auto_exit_summary">Desligar quando a bateria estiver a 60% ou cts background activity an​</string>
+  <string name="power_save_mode_auto_exit_summary">Desligar quando a bateria estiver a 60% ou totalmente carregada​</string>
   <string name="power_save_mode_auto_exit_title">Desligar quando carregada</string>
   <string name="power_save_mode_close_warn_text">A poupança de bateria restringe as actividades e sincronização em segundo plano. Se ligar quando o dispositivo estiver carregado, algumas funcionalidades podem não funcionar correctamente. Manter a poupança de bateria ligada enquanto o dispositivo estiver carregado?</string>
   <string name="power_save_mode_close_warn_title">Poupança de bateria</string>
