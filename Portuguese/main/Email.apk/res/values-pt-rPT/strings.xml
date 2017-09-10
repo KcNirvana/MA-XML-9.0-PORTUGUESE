@@ -46,7 +46,7 @@
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_preference_add_account">Adicionar uma conta</string>
-  <string name="account_settings_preference_head_icon">Interruptor de retrato</string>
+  <string name="account_settings_preference_head_icon">Mostrar fotos de perfil</string>
   <string name="account_settings_preference_notify">Aviso</string>
   <string name="account_settings_retry_label">Tentativa de sincronização</string>
   <string name="account_settings_retry_summary">Toque para sincronizar conta</string>

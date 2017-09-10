@@ -254,9 +254,9 @@ Para activar a sua conta siga o
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
   <string name="passport_input_captcha_hint">Introduzir código</string>
   <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
-  <string name="passport_input_password_hint">Introduzir palavra-passe</string>
-  <string name="passport_input_phone_hint">Introduzir número de telefone</string>
-  <string name="passport_input_vcode_hint">Introduzir código de verificação</string>
+  <string name="passport_input_password_hint">Palavra-passe</string>
+  <string name="passport_input_phone_hint">Número de telefone</string>
+  <string name="passport_input_vcode_hint">Código de verificação</string>
   <string name="passport_instant_login">Iniciar sessão</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_loading">A carregar…</string>

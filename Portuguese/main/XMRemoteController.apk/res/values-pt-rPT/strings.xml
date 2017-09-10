@@ -114,7 +114,7 @@
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Seleccionar fabricante</string>
   <string name="brand_title_all">Tudo</string>
-  <string name="brand_title_hot">Popular</string>
+  <string name="brand_title_hot">Populares</string>
   <string name="brand_title_other">Outros</string>
   <string name="broadcast">Rádio</string>
   <string name="bullet_hint">Mostrar esta mensagem no ecrã</string>
@@ -164,6 +164,7 @@
   <string name="create_shortcut_cancel">Não obrigado</string>
   <string name="create_shortcut_confirm">Criar</string>
   <string name="create_shortcut_done">Criado com sucesso</string>
+  <string name="create_shortcut_failed">Não foi possível adicionar atalho. Certifique-se que o C.Remoto Mi tem as permissões necessárias</string>
   <string name="current_place">"Localização actual: "</string>
   <string name="current_play">A reproduzir: </string>
   <string name="current_stb">"Actual: "</string>
@@ -374,6 +375,7 @@
   <string name="login_done">Com sessão iniciada</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
   <string name="login_failed_tips">Não foi possível obter informações da conta</string>
+  <string name="login_mi_account">Iniciar sessão</string>
   <string name="login_thirdparty">Outros métodos para iniciar sessão</string>
   <string name="login_wxfailed_tips">Não foi possível obter informações da conta. Tente novamente mais tarde</string>
   <string name="logining">A iniciar sessão…</string>
@@ -804,17 +806,21 @@ Para activar a sua conta, siga o
   <string name="screenshot_not_support_video">As capturas de ecrã não suportadas actualmente</string>
   <string name="screenshoting">A capturar imagem de ecrã…</string>
   <string name="search">Pesquisar</string>
+  <string name="search_device">Pesquisar marcas</string>
+  <string name="search_device_hit">Introduza o nome da marca</string>
   <string name="search_failed">Não foi possível obter resultados</string>
   <string name="search_history">Pesquisar histórico</string>
   <string name="search_history_clear">Limpar histórico</string>
   <string name="search_history_empty">Sem histórico de pesquisa</string>
   <string name="search_more_failed">Não foi possível carregar resultados</string>
+  <string name="search_no_device">Não foi possível encontrar dispositivos</string>
   <string name="search_no_result">Sem resultados</string>
   <string name="search_page_all_app_result">Ver tudo</string>
   <string name="search_page_clear_history">Limpar histórico</string>
   <string name="search_rank">Pesquisar por classificação</string>
   <string name="search_video_app_hint">Pesquisar</string>
   <string name="seconds">Segundos</string>
+  <string name="sel_dpad_mode">Seleccionar modo</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_area">Escolher localização</string>
   <string name="select_brand">Seleccionar %s</string>
@@ -939,6 +945,8 @@ Para activar a sua conta, siga o
   <string name="turn_on">Ligar</string>
   <string name="tv">TV</string>
   <string name="tv_broadcast">TV e rádio</string>
+  <string name="tv_dpad_mode_gesture">Toque</string>
+  <string name="tv_dpad_mode_keyboard">Teclado</string>
   <string name="tv_mirror">Mostrar controlos</string>
   <string name="tv_mirror_intro">Mostrar controlos de ecrã no modo paisagem</string>
   <string name="tv_power">Ligar/desligar TV</string>
