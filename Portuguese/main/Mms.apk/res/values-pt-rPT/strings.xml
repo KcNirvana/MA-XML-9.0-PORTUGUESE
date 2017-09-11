@@ -576,7 +576,7 @@
   <string name="sp_category_bank">Mensagens de notificações de bancos</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificações</string>
-  <string name="sp_mark_as_read_menu_title">Marcar como lidas</string>
+  <string name="sp_mark_as_read_menu_title">Marcar como lida</string>
   <string name="sqlite_disk_full">BD ou disco cheios</string>
   <string name="sqlite_low_memory">Memória fraca</string>
   <string name="status_failed">Sem sucesso</string>

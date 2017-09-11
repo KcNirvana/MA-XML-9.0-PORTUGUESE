@@ -1059,6 +1059,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="network_speed_for_apps_others">Outros</string>
   <string name="network_speed_for_apps_title">Ligação</string>
   <string name="network_speed_for_apps_total">Velocidade da ligação</string>
+  <string name="network_test_speed">Testar velocidade Wi-Fi</string>
   <string name="networkchanged_exception_summary">A ligação de rede foi alterada. Por favor, teste novamente</string>
   <string name="networkchanged_exception_title">Ligação alterada</string>
   <string name="never">1 vez</string>
@@ -1699,7 +1700,6 @@ do seu dispositivo"</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_game">Iniciar</string>
-  <string name="start_tc_button">Calibrar</string>
   <string name="still_retain_btn">Manter</string>
   <string name="suggest_app_tolock">Sugestões</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
@@ -1950,12 +1950,13 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Pode ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_purchase_body">Toque para recarregar o seu saldo</string>
   <string name="traffic_setting_fragment_area">Local</string>
-  <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
+  <string name="traffic_setting_fragment_city">Cidade</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Não mostrar novamente</string>
   <string name="traffic_setting_fragment_operator">Operadora</string>
+   <string name="traffic_setting_fragment_province">Província</string>
   <string name="traffic_setting_fragment_send_num">Número de telefone da operadora</string>
   <string name="traffic_setting_fragment_send_num_tips">Introduzir número de telefone</string>
   <string name="traffic_setting_fragment_sms_content">Conteúdo da mensagem</string>

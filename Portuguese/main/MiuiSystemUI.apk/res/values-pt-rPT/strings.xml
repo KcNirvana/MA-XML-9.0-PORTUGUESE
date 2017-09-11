@@ -7,6 +7,7 @@
   <string name="accessibility_bluetooth_connected">Bluetooth ligado</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth desligado</string>
   <string name="accessibility_bluetooth_tether">Partilha de ligação Bluetooth</string>
+  <string name="accessibility_brightness_slider">Controlo de deslize do brilho</string>
   <string name="accessibility_camera_button">Câmara</string>
   <string name="accessibility_clear_all">Limpar todas as notificações</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -42,6 +43,8 @@
   <string name="accessibility_ringer_silent">Silêncio</string>
   <string name="accessibility_ringer_vibrate">Vibração</string>
   <string name="accessibility_search_light">Pesquisar</string>
+  <string name="accessibility_search_scanner">Digitalizador</string>
+  <string name="accessibility_settings">Definições</string>
   <string name="accessibility_tty_enabled">Teletypewriter activado</string>
   <string name="accessibility_wifi_off">Wi-Fi desligado</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi uma barra</string>

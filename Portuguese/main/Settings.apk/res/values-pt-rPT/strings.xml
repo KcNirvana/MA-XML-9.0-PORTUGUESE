@@ -118,14 +118,17 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="add_a_language">Adicionar um idioma</string>
   <string name="add_account_label">Adicionar conta</string>
   <string name="add_auto_startup_application">Adicionar aplicações de início automático</string>
+  <string name="add_back_fingerprint_instruction_msg">Coloque o seu dedo no sensor</string>
   <string name="add_device_admin">Activar a aplicação de administração deste dispositivo</string>
   <string name="add_device_admin_msg">Activar aplicação admin. do dispositivo?</string>
   <string name="add_facerecoginition_text">Adicionar rosto</string>
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
+  <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para que o sensor grave os limites da sua imp. digital</string>
+  <string name="add_fingerprint_edge_instruction_title">Mover o dedo ligeiramente</string>
   <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">Concluído</string>
-  <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
+  <string name="add_fingerprint_instruction_msg">O sensor de imp. digitais está no botão Início do seu dispositivo</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
   <string name="add_fingerprint_name_suggest_text">Nome da imp. digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
@@ -135,6 +138,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="add_fingerprint_success_msg">Adicionada com sucesso</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
+  <string name="add_front_fingerprint_instruction_msg">O sensor de imp. digitais está na parte de trás do seu dispositivo</string>
   <string name="add_virtual_keyboard">Gerir teclados</string>
   <string name="adding_profile_owner_warning">"Ao continuar, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
@@ -3670,6 +3674,19 @@ Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN for
   <string name="settings_safetylegal_title">Informações de segurança</string>
   <string name="settings_shortcut">Atalho das definições</string>
   <string name="settings_toggle_position_divider_list">Os atalhos colocados acima desta barra estão activos</string>
+  <string name="setup_add_fingerprint_failed_retry_text">Não foi possível adicionar imp. digital</string>
+  <string name="setup_choose_unlock_fingerprint_msg">Defina um bloqueio de ecrã antes de adicionar a sua imp. digital</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Palavra-passe&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Palavra-passe&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixpassword_title">Definir palavra-passe</string>
+  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_msg">Introduzir 4 números</string>
+  <string name="setup_choose_unlock_password_title">Definir PIN</string>
+  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Padrão&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Padrão&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_title">Desenhar padrão de desbloqueio</string>
+  <string name="setup_choose_unlock_type_title">Definir palavra-passe</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Optou por utilizar a sua impressão digital como uma forma de desbloquear o telefone. Se ignorar agora, terá de configurar esta opção mais tarde. A configuração demora apenas alguns minutos</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Ignorar configuração de imp. digital?</string>
   <string name="setup_fingerprint_enroll_finish_message">Basta tocar no sensor de impressões digitais para activar e desbloquear o dispositivo</string>
@@ -3678,6 +3695,8 @@ Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN for
   <string name="setup_lock_settings_picker_fingerprint_message">Para maior segurança, configure um bloqueio de ecrã de segurança</string>
   <string name="setup_lock_settings_picker_message">Previna terceiros de utilizarem este telefone sem a sua autorização ao activar as funcionalidades de protecção do dispositivo. Escolha o bloqueio de ecrã que pretende utilizar</string>
   <string name="setup_lock_settings_picker_title">Proteger o seu telefone</string>
+  <string name="setup_password_back">Voltar</string>
+  <string name="setup_password_confirm">OK</string>
   <string name="setup_wifi_nfc_tag">Configurar etiqueta NFC p/ Wi-Fi</string>
   <string name="setup_wizard_back_button_label">Voltar</string>
   <string name="setup_wizard_next_button_label">Seguinte</string>
