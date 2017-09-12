@@ -627,7 +627,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="photo_editor_beautify">Embelezar</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Original</string>
-  <string name="photo_editor_crop_and_rotate">Cortar e rodar</string>
+  <string name="photo_editor_crop_and_rotate">Cortar</string>
   <string name="photo_editor_crop_reset">Repor</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Rabiscar</string>
@@ -944,8 +944,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_text_edit_input_open_hint">Introduzir título</string>
   <string name="video_editor_text_edit_start">Título</string>
   <string name="video_editor_text_input_empty_tips">Ainda não introduziu nenhum texto</string>
-  <string name="video_editor_text_none">Nenhum</string>
-  <string name="video_editor_text_preview_text">Texto</string>
+  <string name="video_editor_text_preview_text">Mi</string>
   <string name="video_editor_trim">Reduzir</string>
   <string name="video_editor_unsupport_audio_file">Ficheiro de áudio não suportado</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>

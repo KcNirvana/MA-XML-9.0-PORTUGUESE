@@ -1075,7 +1075,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_battery_consume_abnormal_title">A bateria está a descarregar muito depressa</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
-  <string name="notification_item">Proteger as aplicações seleccionadas com o Bloqueio de aplicações</string>
+  <string name="notification_item">Proteger aplicações com o Bloqueio de aplicações</string>
   <string name="notification_mask_summary">Não mostrar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
   <string name="notification_mask_title">Ocultar conteúdo</string>
   <string name="notification_subtitle">Toque para ligar</string>

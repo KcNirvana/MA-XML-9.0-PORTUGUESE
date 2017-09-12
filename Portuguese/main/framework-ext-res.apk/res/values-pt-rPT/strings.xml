@@ -40,7 +40,7 @@
   <string name="enable_livetalk_title">Activar pacote de carregamento</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analisar? Este relatório pode conter informações pessoais. O seu relatório vai ser utilizado para ajudar a corrigir este erro e nunca vai ser partilhado em qualquer contexto comercial</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
-  <string name="first_back_long_press_message">Para definir acções personalizadas de pressão longa dos botões de navegação vá a Definições &gt; Definições adicionais &gt; Botões</string>
+  <string name="first_back_long_press_message">Para definir acções personalizadas de toque dos botões de navegação vá a Definições &gt; Definições adicionais &gt; Botões</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
   <string name="force_exit_message">Encerramento forçado de %1$s</string>
   <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema</string>

@@ -74,7 +74,7 @@ O objecto não pode estar a mais de dois metros</string>
 expressão facial para construir uma foto"</string>
   <string name="hibernate_hint">Toque em qualquer sítio para ligar</string>
   <string name="install_confirmed">Instalar</string>
-  <string name="message_snap_double_confirm">Actualmente a pressão longa no botão Volume é o modo NFC. Confirma a substituição?</string>
+  <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
   <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
@@ -87,8 +87,8 @@ expressão facial para construir uma foto"</string>
   <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
   <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>
   <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2.5 metros</string>
-  <string name="portrait_mode_use_hint">"O Modo Retrato ajuda-o a enevoar o fundo
-com um retrato mais bonito"</string>
+  <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
+e traz as pessoas que estão na frente"</string>
   <string name="portrait_with_facebeauty_hint">O Embelezar está agora disponível no Modo Retrato</string>
   <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
@@ -155,7 +155,7 @@ com um retrato mais bonito"</string>
   <string name="pref_camera_focusmode_entry_normal">Padrão</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
-  <string name="pref_camera_groupshot_mode_title">Foto de Grupo</string>
+  <string name="pref_camera_groupshot_mode_title">Selfie de Grupo</string>
   <string name="pref_camera_hand_night_title">Nocturno</string>
   <string name="pref_camera_hdr_entry_off">Deslig.</string>
   <string name="pref_camera_hfr_entry_off">Deslig.</string>
@@ -291,7 +291,7 @@ com um retrato mais bonito"</string>
   <string name="pref_front_mirror_entry_on">Ligado</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Espelhar câmara frontal</string>
-  <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais no Modo Selfies de Grupo</string>
+  <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_priority_storage_title">Guardar no cartão SD</string>
   <string name="pref_qc_focus_position_title">Focar</string>
@@ -345,7 +345,7 @@ com um retrato mais bonito"</string>
   <string name="simple_mode_button_text_fast_video">Desligar Câmara Lenta</string>
   <string name="simple_mode_button_text_fisheye">Desligar Olho-de-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Desligar Endireitar</string>
-  <string name="simple_mode_button_text_groupshot">Desligar Foto de Grupo</string>
+  <string name="simple_mode_button_text_groupshot">Desligar Selfie de Grupo</string>
   <string name="simple_mode_button_text_hand_night">Desligar Nocturno</string>
   <string name="simple_mode_button_text_magic_mirror">Desligar Espelho Mágico</string>
   <string name="simple_mode_button_text_manual">Desligar Manual</string>

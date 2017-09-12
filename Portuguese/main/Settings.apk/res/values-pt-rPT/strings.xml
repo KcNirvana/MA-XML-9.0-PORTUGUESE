@@ -1430,7 +1430,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu padrão</string>
   <string name="enable_service_pin_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu PIN</string>
   <string name="enable_service_title">Utilizar %1$s?</string>
-  <string name="enable_snapshot_screenlock">Pressão longa no botão Voltar para tirar foto</string>
+  <string name="enable_snapshot_screenlock">Toque longo no botão Voltar para tirar foto</string>
   <string name="enable_terminal_summary">Activar terminal para as aplicações que ofereçam acesso a shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
@@ -1611,7 +1611,7 @@ Parecia não haver cavalos ou animais de qualquer espécie. Os homens levavam as
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demonstração</string>
   <string name="force_touch_enable">Ligar 3D Touch</string>
-  <string name="force_touch_enable_tips">Com o 3D Touch ligado, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
+  <string name="force_touch_enable_tips">Com o 3D Touch ligado, o toque longo no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
@@ -2193,12 +2193,12 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Mi Cloud</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_action">Iniciar sessão</string>
-  <string name="long_press_back_key">Pressão longa no botão Voltar</string>
-  <string name="long_press_buttom_key">Pressão longa no botão Voltar quando bloqueado</string>
-  <string name="long_press_home_key">Pressão longa no botão Início</string>
-  <string name="long_press_menu_key">Pressão longa no botão Menu</string>
-  <string name="long_press_menu_key_when_lock">Pressão longa no botão Menu quando bloqueado</string>
-  <string name="long_press_volume_down">Pressão longa no botão Volume Menos</string>
+  <string name="long_press_back_key">Toque longo no botão Voltar</string>
+  <string name="long_press_buttom_key">Toque longo no botão Voltar quando bloqueado</string>
+  <string name="long_press_home_key">Toque longo no botão Início</string>
+  <string name="long_press_menu_key">Toque longo no botão Menu</string>
+  <string name="long_press_menu_key_when_lock">Toque longo no botão Menu quando bloqueado</string>
+  <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
   <string name="lte_4g_settings_4gdisable_summary">4G desactivado</string>
   <string name="lte_4g_settings_4genable_summary">4G activado</string>
   <string name="lte_4g_settings_disable">Modo de Avião ou cartão SIM não disponível</string>
@@ -3236,7 +3236,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
   <string name="screen_compatibility_text">Esta aplicação pode não ter sido definida para este ecrã. Pode controlar como a aplicação se ajusta melhor aqui</string>
   <string name="screen_effect">Contraste e cores</string>
-  <string name="screen_key_long_press">Pressão longa nos botões de navegação</string>
+  <string name="screen_key_long_press">Toque longo nos botões de navegação</string>
   <string name="screen_key_long_press_action">Activar função</string>
   <string name="screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="screen_key_press">Pressão nos botões de navegação</string>

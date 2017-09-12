@@ -20,6 +20,7 @@
   <string name="account_error_user_birthday">A data de nascimento é inválida</string>
   <string name="account_has_been_set">Alterar</string>
   <string name="account_limit_update_birthday">Não é possível actualizar a data de nascimento neste momento</string>
+  <string name="account_mibi_center">Centro Mibi</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Nenhum</string>
   <string name="account_none">Nenhum</string>
@@ -257,7 +258,6 @@ Para activar a sua conta siga o
   <string name="passport_input_password_hint">Palavra-passe</string>
   <string name="passport_input_phone_hint">Número de telefone</string>
   <string name="passport_input_vcode_hint">Código de verificação</string>
-  <string name="passport_instant_login">Iniciar sessão</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão</string>
@@ -270,6 +270,7 @@ Para activar a sua conta siga o
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
   <string name="passport_next">Seguinte</string>
+  <string name="passport_no">Não</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
   <string name="passport_password_phone_login">Iniciar sessão utilizando a Conta Mi</string>
   <string name="passport_password_req_notice">A palavra-passe deve ter 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>
@@ -285,6 +286,7 @@ Para activar a sua conta siga o
   <string name="passport_quick_login_dialog_title">Verificar palavra-passe</string>
   <string name="passport_quick_login_step2_title">Verificação em 2 passos</string>
   <string name="passport_quick_login_title">Introduza a sua palavra-passe</string>
+  <string name="passport_quick_register">Registar</string>
   <string name="passport_quick_register_notice"><u>Não tem uma Conta Mi? Crie uma</u></string>
   <string name="passport_re_get_verify_code">Obter código novamente</string>
   <string name="passport_re_register">Registar-se novamente</string>
@@ -363,6 +365,7 @@ Para activar a sua conta siga o
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
+  <string name="passport_yes">Sim</string>
   <string name="phone_activated">%s activado</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="push_notification_content">Obter código de verificação</string>

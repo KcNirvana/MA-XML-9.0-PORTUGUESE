@@ -163,6 +163,7 @@
   <string name="notif_trans_receiving_failed">Não foi possível receber dados</string>
   <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
   <string name="notif_trans_sending_failed">Não foi possível enviar dados</string>
+  <string name="notif_trans_wait_for_reconnecting">O dispositivo remoto está desligado. Ligue-o novamente</string>
   <string name="page_loading">Aguarde…</string>
   <string name="progress_backup_hint">A copiar…</string>
   <string name="progress_restore_hint">A restaurar…</string>
@@ -170,6 +171,7 @@
   <string name="prompt_sending">A enviar…</string>
   <string name="prompt_writing">A guardar…</string>
   <string name="read_encrypt_fail">Não é possível ler cópias encriptadas</string>
+  <string name="reconnect">Ligar novamente</string>
   <string name="refresh">Actualizar</string>
   <string name="remote_receive">Receber</string>
   <string name="restore">Restaurar</string>
@@ -261,6 +263,7 @@
   <string name="trans_calculating_base_size">A calcular o tamanho dos dados</string>
   <string name="trans_cancel_confirm">Transferência em curso. Parar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
+  <string name="trans_connect_failed_device_incompatible">Dispositivo incompatível. Cancele a transferência e tente novamente</string>
   <string name="trans_connect_failed_message">Não foi possível ligar. Tente novamente ou reinicie o dispositivo. No outro dispositivo, vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] ou execute Mi Mover depois de reiniciar</string>
   <string name="trans_connect_failed_title">Não foi possível ligar</string>
   <string name="trans_connect_failed_toast">Não foi possível ligar</string>
@@ -271,6 +274,7 @@
   <string name="trans_detail_category_sysdata">Dados de sistema</string>
   <string name="trans_detail_category_userdata">Aplicações</string>
   <string name="trans_device_disconnected">Dispositivo desligado</string>
+  <string name="trans_device_wait_for_reconnecting">Dispositivo desligado. Ligue-o novamente</string>
   <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
@@ -285,6 +289,10 @@ Toque [Sou um destinatário] para criar um código QR"</string>
 2. Abrir a aplicação e tocar em Iniciar
 3. Digitalizar o código QR com o seu dispositivo antigo"</string>
   <string name="trans_operate_old_phone_tips2">"Vá a Definições &gt; Definições Adicionais &gt; Mi Mover, Toque [Sou um remetente]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Aguarde até o novo telefone mostrar \"Dispositivo desligado\".
+Toque [Ligar novamente] para criar um código QR"</string>
+  <string name="trans_operate_reconnect_old_tips">"Aguarde até o telefone antigo mostrar \"Dispositivo desligado\".
+Toque [Ligar novamente] para digitalizar o código QR"</string>
   <string name="trans_please_waiting">Aguarde…</string>
   <string name="trans_progress_subdescript_br_receiver">A restaurar %1$s. %2$s concluídos</string>
   <string name="trans_progress_subdescript_br_sender">A copiar %1$s. %2$s concluídos</string>
