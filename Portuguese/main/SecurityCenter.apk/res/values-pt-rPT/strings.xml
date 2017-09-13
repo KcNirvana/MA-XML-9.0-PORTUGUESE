@@ -71,7 +71,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
-  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã</string>
+  <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
   <string name="all_address_choose_hint">Todos os números nesta área</string>
   <string name="anim_gamebooster_text">Aguarde…</string>
   <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
@@ -221,11 +221,11 @@
   <string name="applock_add_account">Adicionar</string>
   <string name="applock_add_account_info">Adicione a Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
   <string name="applock_add_account_setting">Contas e privacidade</string>
-  <string name="applock_bind_account_title">A repor a sua palavra-passe</string>
+  <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
   <string name="applock_close_dialog_summary">As aplicações não vão estar protegidas e a sua palavra-passe vai ser eliminada assim que desligar o Bloqueio de aplicações</string>
   <string name="applock_close_dialog_title">Desligar Bloqueio de aplicações?</string>
   <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
-  <string name="applock_header_text_less_than_half">Muito pouco espaço para esta aplicação. Arraste o separador ainda mais</string>
+  <string name="applock_header_text_less_than_half">Demasiado pequeno. Arraste um bocado mais</string>
   <string name="applock_login_and_add_account">Iníciar sessão e adicionar</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
   <string name="applock_not_login_account">Não tem sessão iniciada</string>
@@ -644,7 +644,7 @@
   <string name="firewall_activity_lable">Restringir utilização de dados por aplicação</string>
   <string name="firewall_allow_all">Permitir que todas as aplicações liguem através do método</string>
   <string name="firewall_allow_data">Permitir utilização de dados móveis</string>
-  <string name="firewall_allow_network">Permitido</string>
+  <string name="firewall_allow_network">Permitir</string>
   <string name="firewall_allow_wlan">Permitir utilizando Wi-Fi</string>
   <string name="firewall_applist">Aplicações</string>
   <string name="firewall_fragment_nonesys_listempty">Vazio</string>
@@ -1793,14 +1793,14 @@ do seu dispositivo"</string>
   <string name="tc_diagnostic_upload_success">Obrigado pelo seu comentário!</string>
   <string name="tc_sms_report_direction">Código do inquérito SMS</string>
   <string name="tc_sms_report_do_report">Enviar</string>
-  <string name="tc_sms_report_get_default">Não vai ter custos nas mensagens SMS utilizadas para obter o saldo e utilização de dados de sua operadora</string>
+  <string name="tc_sms_report_get_default">Não vai ter custos nas mensagens utilizadas para obter o saldo e utilização de dados de sua operadora</string>
   <string name="tc_sms_report_get_sms">Obter SMS</string>
   <string name="tc_sms_report_get_sms2">Obter SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
   <string name="tc_sms_report_get_sms_bill">Obter SMS</string>
   <string name="tc_sms_report_get_sms_calltime">Obter SMS</string>
-  <string name="tc_sms_report_get_sms_failure">Não foi possível obter o formato SMS de utilização de dados</string>
-  <string name="tc_sms_report_get_sms_successs">Formato de utilização de dados SMS actualizado</string>
+  <string name="tc_sms_report_get_sms_failure">Não foi possível obter a utilização de dados</string>
+  <string name="tc_sms_report_get_sms_successs">Utilização de dados actualizada com sucesso</string>
   <string name="tc_sms_report_get_sms_timeout">Pedido expirado</string>
   <string name="tc_sms_report_get_success">Recebida a SMS com o relatório da utilização de dados da sua operadora. Certifique-se de que é detalhado e envie para nós</string>
   <string name="tc_sms_report_get_success_notify_body">Certifique-se que o relatório é detalhado e envie-o para a MIUI</string>
@@ -1919,7 +1919,7 @@ do seu dispositivo"</string>
   <string name="traffic_alert_auto_modify_notification_titile">Plano de dados actualizado</string>
   <string name="traffic_alert_auto_modify_package_summary">Ajustar pacote de dados automaticamente consoante a informação de operadora</string>
   <string name="traffic_config_alert_auto_modify">Actualizar plano de dados automaticamente</string>
-  <string name="traffic_config_alert_body">"A sua conta na operadora mostra :%s
+  <string name="traffic_config_alert_body">"O seu plano na operadora mostra:%s
 
 Vai aproveitar esta?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -1954,9 +1954,11 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
   <string name="traffic_setting_fragment_city">Cidade</string>
+  <string name="traffic_setting_fragment_default">Seleccionar</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Não mostrar novamente</string>
   <string name="traffic_setting_fragment_operator">Operadora</string>
-   <string name="traffic_setting_fragment_province">Província</string>
+  <string name="traffic_setting_fragment_operator_setting">Definições da operadora</string>
+  <string name="traffic_setting_fragment_province">Província</string>
   <string name="traffic_setting_fragment_send_num">Número de telefone da operadora</string>
   <string name="traffic_setting_fragment_send_num_tips">Introduzir número de telefone</string>
   <string name="traffic_setting_fragment_sms_content">Conteúdo da mensagem</string>

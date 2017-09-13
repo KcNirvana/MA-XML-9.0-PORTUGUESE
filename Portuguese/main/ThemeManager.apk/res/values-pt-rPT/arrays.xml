@@ -10,4 +10,11 @@
         <item>Botânica</item>
         <item>Animais</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Paisagens</item>
+        <item>Animais</item>
+        <item>Plantas</item>
+        <item>Criatividade</item>
+        <item>Estilo de vida</item>
+    </string-array>
 </resources>

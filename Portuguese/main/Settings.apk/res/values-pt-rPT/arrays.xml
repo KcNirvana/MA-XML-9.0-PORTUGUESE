@@ -702,10 +702,14 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Ligar automaticamente</item>
         <item>Ligar manualmente</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>Compatibilidade</item>
+        <item>Alta velocidade</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desligado</item>
-        <item>Modo normal</item>
-        <item>Modo leve</item>
+        <item>Normal</item>
+        <item>Extremo</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

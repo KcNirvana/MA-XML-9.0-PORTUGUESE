@@ -130,8 +130,8 @@
   <string name="my_gifts_received">Recebidos</string>
   <string name="no_data">Não é possível ligar à rede</string>
   <string name="online_no_network">Não é possível ligar à Internet</string>
-  <string name="online_precust_dreams">Sonhos</string>
-  <string name="online_precust_midnight">Meia-noite</string>
+  <string name="online_precust_asphalt">Asfalto</string>
+  <string name="online_precust_peach_blossom">Flôr de pêssego</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
   <string name="present_local_themes">Os meus recursos</string>
   <string name="present_online_themes">Obter mais temas gratuitos</string>

@@ -538,6 +538,7 @@
   <string name="no_scanned_songs">Vazio</string>
   <string name="no_song">Sem músicas</string>
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
+  <string name="no_system_cropper_find">O sistema não tem recorte de imagens</string>
   <string name="normal_quality">Boa</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_selected">Escolher música</string>

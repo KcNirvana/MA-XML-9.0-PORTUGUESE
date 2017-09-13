@@ -34,7 +34,7 @@
   <string name="config_restrict_running_warning">A aplicação vai ser fechada quando estiver em segundo plano. Pode não funcionar correctamente</string>
   <string name="config_scenario_policies_title">Cenários</string>
   <string name="config_suggest_description">"Identifica aplicações e actividades para manter os processos importantes em execução.
- A poupança de bateria vai monitorizar as aplicações mais importantes selectivamente"</string>
+A poupança de bateria vai monitorizar as aplicações mais importantes selectivamente"</string>
   <string name="config_suggest_suffix_title">Poupança de bateria MIUI (recomendado)</string>
   <string name="config_suggest_title">Poupança de bateria MIUI</string>
   <string name="confirm">Confirmar</string>

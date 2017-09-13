@@ -126,12 +126,12 @@
   <string name="find_device_io_error">Não é possível ligar à rede</string>
   <string name="find_device_locked_account_email" formatted="false">%s, endereço de email associado: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, número de telefone associado: %s</string>
-  <string name="find_device_message">O dispositivo actual está bloqueado. Mensagem: %1$s. Telefone de contacto: %2$s</string>
+  <string name="find_device_message">O dispositivo está bloqueado. Enviar mensagem: %1$s. Ligar: %2$s</string>
   <string name="find_device_null_credential_error">Não é possível obter a informação do dispositivo. Contacte o serviço de clientes Xiaomi</string>
   <string name="find_device_operation_failed_error">Ocorreu um erro no servidor. Tente novamente mais tarde</string>
   <string name="find_device_operation_failed_error_unknown">Ocorreu um erro. Tente novamente mais tarde</string>
-  <string name="find_device_owner_phone">O dispositivo actual está bloqueado. Telefone de contacto: %1$s</string>
-  <string name="find_device_prompt_message">O dispositivo actual está bloqueado.  Mensagem: %1$s</string>
+  <string name="find_device_owner_phone">O dispositivo está bloqueado. Ligar: %1$s</string>
+  <string name="find_device_prompt_message">O dispositivo está bloqueado. Enviar mensagem: %1$s</string>
   <string name="find_device_remote_exception">Erro de RPC</string>
   <string name="find_device_request_error">Não é possível obter estado devido a um erro no servidor. Tente novamente mais tarde</string>
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
@@ -340,6 +340,8 @@ Para activar a sua conta siga o
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviada</string>
+  <string name="passport_sync_account_data">A sincronizar dados da conta…</string>
+  <string name="passport_sync_account_data_failed_warning">Os dados da sua conta estão a ser sincronizados. Pode iniciar sessão utilizando o seu ID Conta Mi. Se quer utilizar o seu email ou telefonar para iniciar sessão, aguarde até acabar a sincronização</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>
@@ -353,6 +355,7 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p2">Termos de Utilização</string>
   <string name="passport_user_agreement_p3">" e "</string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
+  <string name="passport_user_id_notice">O seu ID Conta Mi é %s</string>
   <string name="passport_user_reg_region">País/Região</string>
   <string name="passport_user_reg_region_warning">Não vai poder alterar o seu país/região assim que a conta for criada</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>

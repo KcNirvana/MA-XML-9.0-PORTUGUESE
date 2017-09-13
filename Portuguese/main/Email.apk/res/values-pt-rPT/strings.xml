@@ -7,7 +7,7 @@
   <string name="accessibility_guide_second">Depois clique em \"Confirmar\" para continuar</string>
   <string name="account_duplicate_dlg_message_fmt">Este nome de utilizador já existe para a conta \"%s\"</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
-  <string name="account_failure">Erro na conta</string>
+  <string name="account_failure">A sessão expirou</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
@@ -70,6 +70,7 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirme se as informações da sua conta estão correctas</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar conta</string>
   <string name="account_setup_basics_email_label">Endereço de email</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Utilizar a ligação actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
   <string name="account_setup_basics_password_label">Palavra-passe</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
@@ -221,7 +222,7 @@
   <string name="auto_remind_discribe_text">Ligar para receber lembretes automáticos</string>
   <string name="auto_remind_text">Lembretes automáticos</string>
   <string name="auto_remind_unbind">Parar</string>
-  <string name="automatic_remind_text">Lembrar</string>
+  <string name="automatic_remind_text">Lembrar automaticamente</string>
   <string name="auto_sync_off">Sincronização automática está desligada</string>
   <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_keywords">Poupança de bateria;bateria do email</string>
@@ -248,7 +249,7 @@
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar definições de sincronização</string>
   <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Verifique o código de verificação de %s e inicie sessão novamente</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Veja o código de verificação em %s e inicie sessão novamente</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>
@@ -341,6 +342,7 @@
   <string name="default_">PREDEFINIDAS</string>
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
+  <string name="default_signature_2">Enviado do meu %s</string>
   <string name="del_account_questionnair_hint">Pode-nos dizer porque está a remover esta conta?</string>
   <string name="delete">Eliminar</string>
   <string name="delete_message_flow">Eliminar fluxo de mensagens</string>
@@ -667,8 +669,13 @@
   <string name="oauth_gmail_login_notify">Introduza o utilizador e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obter código de autorização e iniciar sessão &gt;</string>
+  <string name="oauth_login_usr_proxy">Proxy</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="open_calendar_and_contacts_permission">Active as permissões de contactos e calendário nas definições de sistema</string>
+  <string name="open_external_storage_and_calendar_permission">Active as permissões de armazenamento e calendário nas definições de sistema</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Active as permissões de armazenamento, contactos e calendário nas definições de sistema</string>
+  <string name="open_external_storage_and_contacts_permission">Active as permissões de armazenamento e contactos nas definições de sistema</string>
   <string name="outbox_alert_button_no_resend">Não enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte o seu administrador de sistemas de email e actualize o seu certificado</string>
@@ -973,6 +980,8 @@
   <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, vão ser sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
+  <string name="unbind_dialog_text">"O Email não vai mais analizar os seus emails.
+Remover conta?"</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
   <string name="unread_string">conversa não lida</string>

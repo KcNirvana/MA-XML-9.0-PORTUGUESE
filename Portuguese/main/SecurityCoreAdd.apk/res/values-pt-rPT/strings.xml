@@ -109,7 +109,7 @@ Entrar no Segundo espaço através do ecrã de bloqueio"</string>
   <string name="guide_start_ads_text">Um novo nível de segurança</string>
   <string name="guide_start_text">Dois espaços. Um dispositivo</string>
   <string name="has_created_second_space">"Pode abrir o Segundo espaço agora.
-Dois espaços. Um dispositivo"</string>
+Um dispositivo. Dois espaços"</string>
   <string name="hidden_app">Segundo espaço</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicações</string>
@@ -293,11 +293,12 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="tryNow">Experimentar</string>
   <string name="wating">Aguarde…</string>
   <string name="xpsace_guide_button">Criar</string>
+  <string name="xspace_account">Contas de aplic. clonadas</string>
   <string name="xspace_chocie">Aplicações suportadas</string>
   <string name="xspace_creating">A clonar aplicação…</string>
-  <string name="xspace_description">"Clone aplicações para as utilizar separadamente. 
+  <string name="xspace_description">"As aplicações clonadas cópias das aplicações que pode ser utilizadas separadamente com diferentes contas.
   
-As aplicações clonadas vão ter um ícone específico no ecrã inicial"</string>
+Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses casos, é criada uma aplicação clonada dos serviços Google"</string>
   <string name="xspace_guide_des">Utilizar 2 contas ao mesmo tempo</string>
   <string name="xspace_guide_title">Criar aplicação clonada para %s</string>
   <string name="xspace_header">Aplicações clonadas</string>
@@ -307,6 +308,7 @@ As aplicações clonadas vão ter um ícone específico no ecrã inicial"</strin
   <string name="xspace_introduce">Recomendadas</string>
   <string name="xspace_label">Aplicações clonadas</string>
   <string name="xspace_loading_msg">A carregar aplicações…</string>
+  <string name="xspace_setting_label">Definições das aplic. clonadas</string>
   <string name="xspace_uninstall_completed">Aplicação clonada desinstalada com sucesso</string>
   <string name="xspace_uninstall_dialog_content">Desinstalar aplicação clonada vai remover todos os dados da mesma</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar aplicação clonada</string>
