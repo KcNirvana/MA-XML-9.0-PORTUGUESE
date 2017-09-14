@@ -97,6 +97,7 @@
   <string name="permission_group_title_privacy_related">Privacidade</string>
   <string name="permission_group_title_settings_related">Definições</string>
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
+  <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>

@@ -20,7 +20,7 @@
   <string name="account_error_user_birthday">A data de nascimento é inválida</string>
   <string name="account_has_been_set">Alterar</string>
   <string name="account_limit_update_birthday">Não é possível actualizar a data de nascimento neste momento</string>
-  <string name="account_mibi_center">Centro Mibi</string>
+  <string name="account_mibi_center">Mi Credits</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Nenhum</string>
   <string name="account_none">Nenhum</string>
@@ -67,7 +67,7 @@
   <string name="authorize_title">Autorização</string>
   <string name="bind_facebook">Associar a sua Conta Facebook</string>
   <string name="bind_qq">QQ</string>
-  <string name="bind_safe_phone_msg">Adicionar telefone para o próximo início de sessão</string>
+  <string name="bind_safe_phone_msg">Adicionar o seu número de telefone para poder iniciar a sessão com a sua Conta Mi na próxima vez</string>
   <string name="bind_settings">Contas</string>
   <string name="bind_sina_weibo">Associar Conta Sina Weibo</string>
   <string name="bind_sns_description">Iniciar sessão com %s</string>
@@ -155,6 +155,7 @@
   <string name="logout_account">Terminar sessão</string>
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
+  <string name="mi_vip_info">Ver privilégios</string>
   <string name="mipay">Pagamentos</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Cartão bancário</string>
@@ -210,6 +211,7 @@ Para activar a sua conta siga o
  link que enviámos para o seu email"</string>
   <string name="passport_completed">Terminar</string>
   <string name="passport_confirm_recycle_account">Sim</string>
+  <string name="passport_continue">Continuar</string>
   <string name="passport_copy_message_text_success">Copiado com sucesso</string>
   <string name="passport_copy_message_vcode">Copiar código</string>
   <string name="passport_delete_account">Terminar sessão</string>
@@ -266,6 +268,8 @@ Para activar a sua conta siga o
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
   <string name="passport_login_other_account">Outra conta</string>
   <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
+  <string name="passport_login_recycle_account_no">Não</string>
+  <string name="passport_login_recycle_account_yes">Sim</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
@@ -296,6 +300,8 @@ Para activar a sua conta siga o
   <string name="passport_reg_failed">Não é possível configurar conta</string>
   <string name="passport_reg_new_account">Criar conta</string>
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
+  <string name="passport_reg_recycle_account_no">Não</string>
+  <string name="passport_reg_recycle_account_yes">Sim</string>
   <string name="passport_reg_success">Conta criada</string>
   <string name="passport_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
@@ -334,6 +340,7 @@ Para activar a sua conta siga o
   <string name="passport_send_vcode_failed">Não foi possível enviar código</string>
   <string name="passport_sending_vcode">A enviar código…</string>
   <string name="passport_set">Configurar</string>
+  <string name="passport_set_password_no_phone_msg">Adicione o seu número de telefone para proteger a sua conta</string>
   <string name="passport_setting">A configurar…</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
@@ -430,5 +437,6 @@ Para activar a sua conta siga o
   <string name="verify_phone_prompt">Seleccionar número de telefone para verificar</string>
   <string name="verify_phone_title">Verificar número de telefone</string>
   <string name="vip_account_settings">Definições VIP</string>
+  <string name="vip_settings_info">Definições VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

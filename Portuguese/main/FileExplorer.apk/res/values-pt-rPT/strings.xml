@@ -107,7 +107,7 @@
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">Esta aplicação necessita de uma ligação à Internet através de Wi-Fi para funcionar normalmente</string>
-  <string name="data_consumption_message1">Os Vídeos e Stickers necessitam de ligar à Internet utilizando o Wi-Fi para funcionarem normalmente</string>
+  <string name="data_consumption_message1">O Explorador necessita de ligar à Internet para ter os vídeos e stickers disponíveis</string>
   <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
@@ -430,7 +430,7 @@
   <string name="recommend">Recomendar</string>
   <string name="remote_video_report_success">Obrigado pelo seu comentário! Vamos dar seguimento assim que possível</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro, pode não conseguir abri-lo</string>
-  <string name="rename_alert2">O ficheiro vai ser oculto</string>
+  <string name="rename_alert2">O ficheiro vai ser oculto após alterar a sua extensão</string>
   <string name="rename_failed">Não é possível mudar o nome de %1$s</string>
   <string name="repair_done">Restaurados</string>
   <string name="repair_error">Não foi possível restaurar</string>
