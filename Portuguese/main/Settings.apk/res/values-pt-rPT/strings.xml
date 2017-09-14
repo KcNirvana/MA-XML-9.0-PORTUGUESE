@@ -128,7 +128,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="add_fingerprint_edge_instruction_title">Mover o dedo ligeiramente</string>
   <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">Concluído</string>
-  <string name="add_fingerprint_instruction_msg">O sensor de imp. digitais está no botão Início do seu dispositivo</string>
+  <string name="add_fingerprint_instruction_msg">Utilize a sua imp. digital para desbloquear o seu dispositivo e concluir pagamentos</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
   <string name="add_fingerprint_name_suggest_text">Nome da imp. digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
@@ -510,11 +510,11 @@ Basta aproximar os dispositivos um do outro (normalmente, de costas) e, em segui
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">OK</string>
   <string name="block_list_dialog_title">Desligar agora?</string>
-  <string name="block_list_mtk_dialog_content">Esta acção vai desligar “%s” deste dispositivo</string>
+  <string name="block_list_mtk_dialog_content">Esta acção vai desligar \"%s\" deste dispositivo</string>
   <string name="block_list_no_device">Sem dispositivos ligados na lista de bloqueio</string>
-  <string name="block_list_qcom_dialog_content">Esta acção vai desligar “%s” deste dispositivo e adicioná-lo à lista de bloqueio</string>
-  <string name="block_list_remove_dialog_content">O dispositivo “%s” vai poder ligar a este PA Móvel</string>
-  <string name="block_list_remove_dialog_title">Remover “%s” da lista de bloqueio</string>
+  <string name="block_list_qcom_dialog_content">Esta acção vai desligar \"%s\" deste dispositivo e adicioná-lo à lista de bloqueio</string>
+  <string name="block_list_remove_dialog_content">O dispositivo \"%s\" vai poder ligar a este PA Móvel</string>
+  <string name="block_list_remove_dialog_title">Remover \"%s\" da lista de bloqueio</string>
   <string name="block_list_summary">Ver os dispositivos que não estão permitidos de ligar a este PA Móvel</string>
   <string name="block_list_title">Lista de bloqueio</string>
   <string name="bluetooth">Bluetooth</string>
@@ -595,6 +595,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_enter_passkey_other_device">Pode ter que introduzir esta palavra-chave no outro dispositivo</string>
   <string name="bluetooth_enter_pin_other_device">Pode ter que introduzir este PIN no outro dispositivo</string>
   <string name="bluetooth_error_title"/>
+  <string name="bluetooth_filter_device_display">Mostrar tudo</string>
+  <string name="bluetooth_filter_device_filter">Mostrar recomendações</string>
   <string name="bluetooth_headset_profile_summary_connected">Ligado ao áudio do telefone</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para áudio do telefone</string>
   <string name="bluetooth_hid_profile_summary_connected">Ligado ao dispositivo de entrada</string>
@@ -1377,7 +1379,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="domain_urls_title">Links de abertura</string>
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
-  <string name="double_click_power_key">Duplo clique botão Ligar/Desligar</string>
+  <string name="double_click_power_key">Duplo clique botão no Ligar/Desligar</string>
   <string name="download_current_rom">Obter a última versão MIUI</string>
   <string name="downloading_description">A transferir…</string>
   <string name="doze_summary">Activar o ecrã quando pega no dispositivo ou recebe notificações</string>
@@ -1676,7 +1678,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alteração de idioma</string>
   <string name="go_back_button_label">Voltar</string>
-  <string name="go_to_sleep">Por inactivo</string>
+  <string name="go_to_sleep">Desligar ecrã</string>
   <string name="google_backup_enable">Ligar cópias</string>
   <string name="google_backup_section_title">Cópias e restauro do Google</string>
   <string name="google_title">Google</string>
@@ -1840,7 +1842,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="key_combination_power_back">Ligar/Desligar + Voltar</string>
   <string name="key_combination_power_home">Ligar/Desligar + Início</string>
   <string name="key_combination_power_menu">Ligar/Desligar + Menu</string>
-  <string name="key_gesture_function_dialog_message">%1$s foi definido para %2$s atalhos, se substituído por %3$s</string>
+  <string name="key_gesture_function_dialog_message">%1$s é um atalho para %2$s. Substituir por %3$s</string>
   <string name="key_gesture_function_dialog_negative">Cancelar</string>
   <string name="key_gesture_function_dialog_positive">Substituir</string>
   <string name="key_gesture_function_optional">Gestos e botões opcionais</string>
@@ -2194,10 +2196,10 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_action">Iniciar sessão</string>
   <string name="long_press_back_key">Toque longo no botão Voltar</string>
-  <string name="long_press_buttom_key">Toque longo no botão Voltar quando bloqueado</string>
+  <string name="long_press_buttom_key">Toque longo no botão Voltar no ecrã de bloqueio</string>
   <string name="long_press_home_key">Toque longo no botão Início</string>
   <string name="long_press_menu_key">Toque longo no botão Menu</string>
-  <string name="long_press_menu_key_when_lock">Toque longo no botão Menu quando bloqueado</string>
+  <string name="long_press_menu_key_when_lock">Toque longo no botão Menu no ecrã de bloqueio</string>
   <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
   <string name="lte_4g_settings_4gdisable_summary">4G desactivado</string>
   <string name="lte_4g_settings_4genable_summary">4G activado</string>
