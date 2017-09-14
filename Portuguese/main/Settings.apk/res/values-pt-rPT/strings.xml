@@ -2821,6 +2821,7 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
   <string name="pointer_settings_category">Rato/trackpad</string>
   <string name="pointer_speed">Velocidade do ponteiro</string>
+  <string name="popup_window">Permitir janelas pop-up</string>
   <string name="power_autorun_apps_empty">Vazio</string>
   <string name="power_autorun_empty">Vazio</string>
   <string name="power_bluetooth">Bluetooth</string>
