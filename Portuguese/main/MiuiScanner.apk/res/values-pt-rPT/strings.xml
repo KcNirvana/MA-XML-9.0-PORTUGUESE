@@ -86,11 +86,13 @@
   <string name="impunity_declaration_title">Termos de Serviço</string>
   <string name="keywords_search_code">Digitalizador;Digitalizar;Código QR</string>
   <string name="keywords_search_document">Digitalizador;Digitalizar documentos;OCR;Digitalizar texto</string>
-  <string name="keywords_search_namecard">Digitalizador;Cartão de trabalho;Digitalizar;Digitalizar cartões;Cartões;Contactos</string>
+  <string name="keywords_search_namecard">Leitor QR;Cartão de visita;Cartões de visita;Digitalizar;Digitalizar cartões;Cartão;Cartões;Contatos;Contato</string>
   <string name="keywords_search_settings">Digitalizador;Definições</string>
-  <string name="keywords_search_shopping"/>
-  <string name="keywords_search_study"/>
-  <string name="keywords_search_translation"/>
+  <string name="keywords_search_shopping">Compras;Scanner;Digitalização de produtos;Varredura de produto;Verificar preço;Produtos;Taobao;Tmall;Preços;Compras on-line</string>
+  <string name="keywords_search_study">Leitor QR;Problemas;Solucionar problemas;Trabalhos escolares;Escola;Física;Química;Matemática;Matemática;História;Chinês</string>
+  <string name="keywords_search_translation">Leitor QR;Traduzir;Dicionário;Inglês;Idioma estrangeiro;Idioma;Idiomas;Inglês para Chinês;Italiano;Alemão;Japonês;Coreano;Espanhol;Francês;Baidu Translate;Dicionário Youdao;Dicionário Baidu;Google Translate</string>  
+  <string name="label_choose_picture">Escolher imagem</string>
+  <string name="label_flash_light">Lanterna</string>
   <string name="language_entry_chinese_cn">Chinês Simples</string>
   <string name="language_entry_chinese_tw">Chinês Tradicional</string>
   <string name="language_entry_danish">Dinamarquês</string>

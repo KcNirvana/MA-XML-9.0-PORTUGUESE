@@ -13,7 +13,7 @@
   <string name="accessibility_shutter_button">Botão de disparo</string>
   <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="accessibility_zoom_button">Modo Zoom</string>
-  <string name="audio_focus_exit_button_text">Desligar Focagem com Áudio</string>
+  <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
   <string name="burst_shoot_exit_button_text">Desligar Disparo Contínuo</string>
   <string name="button_fisheye_camera_title">Olho-de-Peixe</string>
   <string name="button_front_camera_title">Tirar uma selfie</string>
@@ -94,7 +94,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Atrás</string>
-  <string name="pref_audio_focus_title">Focagem com Áudio</string>
+  <string name="pref_audio_focus_title">Focagem Áudio</string>
   <string name="pref_burst_shoot_title">Disparo Contínuo</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Definições da câmara</string>

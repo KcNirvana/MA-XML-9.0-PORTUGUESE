@@ -782,7 +782,7 @@
   <string name="item_system_auto_download">Transferir actualizações automaticamente</string>
   <string name="item_usb_debug">Depuração USB</string>
   <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
-  <string name="keywords_antispam">Lista de bloqueio;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes</string>
+  <string name="keywords_antispam">Lista de bloqueio;Bloquear;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes</string>
   <string name="keywords_antivirus">Vírus;Riscos;Antivírus;Verificação</string>
   <string name="keywords_app_permissions">Permissões;Localização;Aceder aos contactos;Permissões;Permissões da aplicação</string>
   <string name="keywords_auto_restart">Início automático;Permissões; Gerir início automático</string>
