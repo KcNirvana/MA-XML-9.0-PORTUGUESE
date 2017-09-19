@@ -15,7 +15,6 @@
   <string name="cancel_edit">Cancelar</string>
   <string name="cannot_change_parames">Não é possível alterar os parâmetros ao gravar</string>
   <string name="cannot_record">Não foi possível gravar. Tente novamente mais tarde</string>
-  <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
   <string name="deselect_all">Desmarcar tudo</string>
@@ -47,6 +46,8 @@
   <string name="operation_delete">Eliminar</string>
   <string name="operation_send">Enviar</string>
   <string name="quit_recording">Sair do Gravador de Ecrã</string>
+  <string name="recording_failure">Erro na última gravação. Tente novamente</string>
+  <string name="recording_max_size">A gravação foi parada devido ao tamanho máximo do vídeo. Pode iniciar outra gravação se quiser continuar a gravar</string>
   <string name="resolution">Resolução</string>
   <string name="resolution_summary">Vídeos com maior resolução parecem mais nítidos</string>
   <string name="screen_orientation">Orientação</string>
@@ -61,8 +62,10 @@
   <string name="sound_source">Origem do som</string>
   <string name="sound_source_summary">Sons de sistema ou microfone</string>
   <string name="start">Iniciar</string>
+  <string name="start_recording">Iniciar gravação</string>
   <string name="stop_by_second_space">Trocar de espaços vai parar a gravação</string>
   <string name="stop_record_while_locking">Bloquear o ecrã para terminar</string>
   <string name="stop_record_while_locking_summary">Terminar gravação e guardar o vídeo quando o ecrã estiver bloqueado</string>
+  <string name="stop_recording">Parar gravação</string>
   <string name="timer_format">%s</string>
 </resources>
