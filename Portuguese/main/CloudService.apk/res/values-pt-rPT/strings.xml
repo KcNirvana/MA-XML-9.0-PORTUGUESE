@@ -57,6 +57,8 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="cloud_storage_is_full">Cheio</string>
   <string name="cloudservice_new_sync">Sincronizar %s com Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Utilizar a Mi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
+  <string name="confirm_delete">Eliminar</string>
+  <string name="confirm_save">Manter</string>
   <string name="connect_network">Ligar ao Wi-Fi ou inserir cartão SIM</string>
   <string name="connect_wlan">Ligar ao Wi-Fi</string>
   <string name="contact">Contactos</string>
@@ -470,6 +472,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="search_finddevice_pref_desc">Ligar/desligar Localizar Dispositivo</string>
   <string name="search_finddevice_pref_key_words">Localizar Dispositivo, Localizar Dispositivo</string>
   <string name="search_finddevice_pref_path">Conta Mi/Mi Cloud/Localizar Dispositivo</string>
+  <string name="secret_photo">Fotos ocultas</string>
   <string name="setting">Definições</string>
   <string name="settings_backup_title">Cópia das definições de sistema</string>
   <string name="share_cancel">Partilha cancelada</string>
@@ -554,10 +557,11 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="virtual_sim_desc">Ligue o SIM Mi para localizar o seu dispositivo sem um cartão SIM</string>
   <string name="voip_choose_sim">Escolher número de telefone para activar o Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
-  <string name="wipe_data_dialog_msg">%s não foram sincronizados e vão se manter no seu telefone</string>
+  <string name="wipe_data_dialog_msg">Alguns itens (%s) não estão sincronizados. Vão ser guardados no seu dispositivo e não vão ser eliminados</string>
   <string name="wipe_data_dialog_msg_and_on">" e outros itens"</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Alguns itens não foram sincronizados</string>
+  <string name="wipe_data_dialog_title">Itens não estão sincronizados</string>
+  <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>
