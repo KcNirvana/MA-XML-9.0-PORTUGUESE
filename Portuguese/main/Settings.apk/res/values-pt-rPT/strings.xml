@@ -2284,7 +2284,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Utilização da memória</string>
   <string name="memory_usage_apps">Memória utilizada pelas aplicações</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s de memória média utilizada nas últimas 3 horas</string>
   <string name="menu_cancel">Rejeitar</string>
   <string name="menu_check">Experiência</string>
@@ -2502,7 +2501,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_how_it_works_got_it">Entendi</string>
   <string name="nfc_how_it_works_title">Pagar num terminal</string>
   <string name="nfc_more_title">Mais…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Pagamento predefinido</string>
   <string name="nfc_payment_default_not_set">Não definida</string>
   <string name="nfc_payment_favor_default">Sempre</string>
@@ -2521,7 +2519,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_se_wallet_title">Carteira predefinida</string>
   <string name="night_mode_auto">Automático</string>
   <string name="night_mode_no">Claro</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Escuro</string>
   <string name="no">Não</string>
@@ -2627,8 +2624,6 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="notifications_priority">Não incomodar substituído</string>
   <string name="notifications_redacted">Conteúdo confidencial não no ecrã de bloqueio</string>
   <string name="notifications_sensitive">Conteúdo confidencial oculto</string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Reiniciar agora</string>
   <string name="nsd_quick_toggle_summary">Permitir que aplicações noutros dispositivos descubram aplicações neste dispositivo</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
@@ -2666,7 +2661,6 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="overlay_settings">Sobrepor a outras aplicações</string>
   <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar no ecrã de bloqueio</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Nenhum</string>
   <string name="owner_info_settings_title">Mensagem no ecrã de bloqueio</string>
   <string name="owner_space">Primeiro espaço</string>
@@ -2942,7 +2936,6 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="private_sms_reset_by_account">Para repor a palavra-passe, inicie a sessão na sua Conta Mi</string>
   <string name="process_dex2oat_label">Optimização de aplicações</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Sistema Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
@@ -3593,11 +3586,9 @@ Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN for
   <string name="selinux_status_enforcing">Forçado</string>
   <string name="selinux_status_permissive">Permissivo</string>
   <string name="service_background_processes">%1$s livre</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s utilizado</string>
   <string name="service_manage">Definições</string>
   <string name="service_manage_description">%1$s: em utilização. Toque em Definições para a controlar</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">A reiniciar</string>
   <string name="service_started_by_app">Iniciado pela aplicação</string>
   <string name="service_stop">Parar</string>
@@ -3754,7 +3745,6 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_reenter_new">Insira novamente o PIN</string>
   <string name="sim_select_card">Seleccionar um cartão SIM</string>
   <string name="sim_selection_required_pref">A selecção é necessária</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">Cartões SIM</string>
   <string name="sim_setup_wizard_title">Cartões SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4087,7 +4077,6 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">A sincronizar…</string>
   <string name="sync_is_failing">A sincronização de momento está com problemas</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancelar sincronização</string>
   <string name="sync_menu_sync_now">Sincronizar agora</string>
   <string name="sync_now">Sincronizar</string>
@@ -5206,8 +5195,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_rule_name_hint">Introduzir nome da regra</string>
   <string name="zen_mode_rule_name_warning">O nome da regra já está a ser utilizado</string>
   <string name="zen_mode_rule_not_found_text">Regra não encontrada</string>
-  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
-  <string name="zen_mode_rule_summary_enabled_combination">On / %1$s</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Ligado / %1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
   <string name="zen_mode_rule_type">Tipo de regra</string>
