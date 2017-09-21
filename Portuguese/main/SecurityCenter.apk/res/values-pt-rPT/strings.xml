@@ -446,7 +446,7 @@
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_netcheck_action">Testar</string>
   <string name="card_main_netcheck_summary">Testar problemas na ligação de rede</string>
-  <string name="card_main_netcheck_title">Testar rede</string>
+  <string name="card_main_netcheck_title">Teste de rede</string>
   <string name="card_main_optimize_manage_action">Aumentar agora</string>
   <string name="card_main_optimize_manage_summary">Limpar cache para acelerar o seu dispositivo</string>
   <string name="card_main_optimize_manage_title">Aumentar velocidade</string>
@@ -938,7 +938,7 @@ da operadora"</string>
   <string name="memory_clean_running_process_title">A monitorizar aplicações (%d)</string>
   <string name="memory_cleaned_memory_info">Memória disponível</string>
   <string name="memory_cleaned_memory_up">Aumento de velocidade</string>
-  <string name="memory_clear_unused">Limpar cache (%s)</string>
+  <string name="memory_clear_unused">Limpeza da cache (%s)</string>
   <string name="menu_add">Adicionar</string>
   <string name="menu_bl_add_contact">Contactos</string>
   <string name="menu_bl_add_manual">Adicionar</string>
@@ -977,13 +977,13 @@ da operadora"</string>
   <string name="menu_report">Reportar erro</string>
   <string name="menu_sms">Enviar mensagem</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
-  <string name="menu_text_antivirus">Verificação de segurança</string>
+  <string name="menu_text_antivirus">Verif. de segurança</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
   <string name="menu_text_garbage_cleanup_danger">Acima de %s</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
-  <string name="menu_text_networkassistants_data">%1$s %2$s</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restantes</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1187,7 +1187,7 @@ do seu dispositivo"</string>
   <string name="optmizingbar_ready">A optimizar…</string>
   <string name="optmizingbar_stop_optmize">Parar</string>
   <string name="optmizingbar_title_acceleration">A optimizar…</string>
-  <string name="optmizingbar_title_clear">Limpar cache</string>
+  <string name="optmizingbar_title_clear">Limpeza da cache</string>
   <string name="optmizingbar_title_security">Segurança</string>
   <string name="optmizingbar_title_system">Segurança do sistema</string>
   <string name="organization">Organização</string>
@@ -1843,7 +1843,7 @@ do seu dispositivo"</string>
   <string name="title_app_lock_disable">Bloquear aplicações</string>
   <string name="title_app_update">Actualizações disponíveis</string>
   <string name="title_auto_update">Actualizar automaticamente</string>
-  <string name="title_chain_start">Restringir início de corrente</string>
+  <string name="title_chain_start">Restrição de início de corrente</string>
   <string name="title_cleaner_cloudscan">Verificação de lixo na Mi Cloud</string>
   <string name="title_cloud_account">Conta Mi</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -1853,7 +1853,7 @@ do seu dispositivo"</string>
   <string name="title_consume_power_rank">Utilização de bateria</string>
   <string name="title_data_flow">Controlar dados móveis</string>
   <string name="title_data_flow_monitor">A monitorização de utilização de dados está ligada</string>
-  <string name="title_dev_model_off">As opções de programador estão desligadas</string>
+  <string name="title_dev_model_off">Opções de programador desligadas</string>
   <string name="title_dev_no">Opções de programador ligadas</string>
   <string name="title_dev_yes">Opções de programador desligadas</string>
   <string name="title_device_not_root">O acesso root não foi concedido</string>
@@ -1864,7 +1864,7 @@ do seu dispositivo"</string>
   <string name="title_flow_verify">Comparar contagem</string>
   <string name="title_flow_verify_failed">Não é possível ajustar 5 dias seguidos</string>
   <string name="title_garbage_clean">O tamanho da cache das aplicações chegou a %s</string>
-  <string name="title_garbage_less">A cache da aplicação é pequeno</string>
+  <string name="title_garbage_less">Cache da aplicação pequena</string>
   <string name="title_garbage_lib">Actualizar as definições do lixo</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>
@@ -1885,14 +1885,14 @@ do seu dispositivo"</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
   <string name="title_realname_verify">Verificação de ID</string>
   <string name="title_show_notification">Widget da área de notificações</string>
-  <string name="title_system_auto_download">As actualizações vão ser transferidas automaticamente</string>
+  <string name="title_system_auto_download">Actualizações transferidas automaticamente</string>
   <string name="title_telecom_operator">Ajustar</string>
   <string name="title_usb_no">Depuração USB ligada</string>
   <string name="title_usb_yes">Depuração USB desligada</string>
   <string name="title_virus_cloudscan">Verificação de vírus na Mi Cloud</string>
   <string name="title_virus_no">Vírus detectados</string>
-  <string name="title_virus_update_no">Actualização automática de definições de vírus desligado</string>
-  <string name="title_virus_update_yes">Actualização automática de definições de vírus ligado</string>
+  <string name="title_virus_update_no">Actual. automática de definições de vírus desligada</string>
+  <string name="title_virus_update_yes">Actual. automática de definições de vírus ligada</string>
   <string name="title_virus_yes">Não foram detectados vírus</string>
   <string name="title_xiaomi_roaming">Roaming Mi</string>
   <string name="toast_add_virus_white_list_no_need_repeat">Esta excepção já existe</string>
