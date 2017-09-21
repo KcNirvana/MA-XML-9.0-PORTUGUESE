@@ -793,7 +793,7 @@
   <string name="push_wps_confirm_title">Experimentar WPS Office</string>
   <string name="push_wps_no_response_app">Sem aplicações para concluir esta acção</string>
   <string name="questionnair_body_invisibility">Mensagens não estão a ser mostradas</string>
-  <string name="questionnair_confirm_delete">Remover</string>
+  <string name="questionnair_confirm_delete">Remover conta</string>
   <string name="questionnair_instability">Pára frequentemente</string>
   <string name="questionnair_not_send">Não é possível enviar emails</string>
   <string name="questionnair_not_sync">Sincronização instável</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Regressar ao ecrã inicial</string>
-  <string name="abc_action_bar_up_description">Navegar até</string>
+  <string name="abc_action_bar_home_description">Ir para início</string>
+  <string name="abc_action_bar_up_description">Ir para cima</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="action_mode_title_empty">Seleccionar itens</string>

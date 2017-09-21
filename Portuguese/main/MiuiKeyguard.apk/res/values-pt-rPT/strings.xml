@@ -122,10 +122,10 @@ Tente novamente dentro de %d segundos"</string>
   <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>
   <string name="phone_locked_foget_password_mehod_back">Voltar</string>
   <string name="phone_locked_foget_password_method">Esqueceu-se da palavra-passe?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;eliminar todos os dados &amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contactos e definir uma nova palavra-passe de ecrã de bloqueio&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;eliminar todos os dados&amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contactos e definir uma nova palavra-passe de ecrã de bloqueio&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Seguinte</string>
   <string name="phone_locked_foget_password_ok">Percebi</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Desligue o seu dispositivo, prima e segure os botões Ligar/Desligar e Volume mais até ver o logo Mi</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Desligue o seu dispositivo, prima e segure os botões &amp;lt;font color=#a5220e&amp;gt;Ligar/Desligar&amp;lt;/font&amp;gt; e &amp;lt;font color=#a5220e&amp;gt;Volume mais&amp;lt;/font&amp;gt; até ver o logo Mi&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
   <string name="phone_locked_forget_password_suggesstions_title">Como eliminar dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
