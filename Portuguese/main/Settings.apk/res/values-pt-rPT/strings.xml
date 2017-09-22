@@ -1206,6 +1206,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="details_title">Detalhes de utilização</string>
   <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
+  <string name="developer_build"/>
   <string name="developer_density_summary">%d dp</string>
   <string name="developer_smallest_width">A menor largura</string>
   <string name="development_enable">Opções de programador</string>
@@ -3369,6 +3370,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_handy_mode">Modo para uma mão;Modo Uma Mão;Uma mão;Mãos pequenas</string>
   <string name="search_hint">Pesquisar definições</string>
   <string name="search_home_key">Início;Botão Início;Botão inicio</string>
+  <string name="search_input_hint">Pesquisar definições</string>
   <string name="search_key_settings_title">Botões;Chaves</string>
   <string name="search_lab_functions_title">Funcionalidades Beta;Função laboratório</string>
   <string name="search_label">Definições</string>

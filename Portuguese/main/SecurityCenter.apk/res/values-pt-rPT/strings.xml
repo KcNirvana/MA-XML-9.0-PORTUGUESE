@@ -673,11 +673,11 @@
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
   <string name="free_send_net_booster">Aumento de velocidade de rede gratuito</string>
   <string name="free_send_net_booster_tip">Disfrute de jogos mais rápidos com o aumento de velocidade de rede gratuito</string>
-  <string name="free_time_traffic">Limite de dados no período de menor tráfego</string>
-  <string name="free_time_traffic_hint">Introduzir o limite de dados no período de menor tráfego</string>
-  <string name="free_time_traffic_settings">Limite de dados do período de menor tráfego</string>
-  <string name="free_time_traffic_title">Introduzir o limite de dados no período de menor tráfego</string>
-  <string name="free_traffic_settings">Definições da utilização de dados no período de menor tráfego</string>
+  <string name="free_time_traffic">Limite de dados por período</string>
+  <string name="free_time_traffic_hint">Introduzir o limite de dados do período</string>
+  <string name="free_time_traffic_settings">Limite de dados no período</string>
+  <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
+  <string name="free_traffic_settings">Limite de dados por período</string>
   <string name="function_close">Desligado</string>
   <string name="fw_blocked">Lista de bloqueio</string>
   <string name="fw_blocked_count">"Bloqueadas "</string>
@@ -1308,7 +1308,7 @@ do seu dispositivo"</string>
   <string name="power_save_mode_ontime_enabled">Definir horário para alternar entre modos</string>
   <string name="power_save_mode_start_time">Início</string>
   <string name="power_save_mode_summary">Monitorizar processos em segundo plano e desligar a sincronização</string>
-  <string name="power_save_on_time_end_time_summary_na">Para</string>
+  <string name="power_save_on_time_end_time_summary_na">Até</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
   <string name="power_save_summary_text">Ligar a poupança de bateria para reduzir a actividade das aplicações em segundo plano, parar a sincronização e ocultar as animações de sistema</string>
   <string name="power_save_title_text">Poupança de bateria</string>
@@ -1349,7 +1349,9 @@ do seu dispositivo"</string>
   <string name="pref_free_adjust">Definir utilização de dados</string>
   <string name="pref_key_daily_package_summary">Ligar para repor o plano de dados diário</string>
   <string name="pref_key_daily_package_switch">Plano de dados diário</string>
-  <string name="pref_key_direction_traffic">Dados móveis definidos</string>
+  <string name="pref_key_daily_package_value">Plano de dados diário</string>
+  <string name="pref_key_direction_traffic">Definição de dados</string>
+  <string name="pref_key_extra_package_value">Tamanho do pacote</string>
   <string name="pref_key_half_year_package_start">Data de início</string>
   <string name="pref_key_half_year_package_switch">Pacote de dados semestral</string>
   <string name="pref_manual_adjust">Definir utilização de dados</string>
