@@ -330,8 +330,8 @@
   <string name="filter_by_folder">Por pasta</string>
   <string name="filter_by_folder_summary">Escolha as pasta a mostrar</string>
   <string name="filter_by_size">Por tamanho</string>
-  <string name="filter_by_size_max">%d MB</string>
-  <string name="filter_by_size_min">%d KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudio</string>
   <string name="find_music">Procurar músicas</string>
@@ -410,7 +410,6 @@
   <string name="list_detail_title">Detalhes</string>
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">A carregar…</string>
   <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading_hint">Aguarde…</string>

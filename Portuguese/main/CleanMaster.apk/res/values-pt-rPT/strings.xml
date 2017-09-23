@@ -118,7 +118,7 @@
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_empty">Verificação concluída</string>
   <string name="deepclean_install_info_desc2">Desinstalar aplicações para libertar espaço</string>
-  <string name="deepclean_large_content">Eliminar ficheiros maiores que 10 MB</string>
+  <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
   <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">App Store</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
@@ -261,7 +261,7 @@
   <string name="login_immediately">Iniciar sessão</string>
   <string name="long_click_dialog_summary">Prima e segure para adicionar às excepções</string>
   <string name="long_click_dialog_title">Aviso</string>
-  <string name="low_memory_clean_dialog_msg">Limpar pelo menos 100 MB primeiro</string>
+  <string name="low_memory_clean_dialog_msg">Limpar pelo menos 100MB primeiro</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">Sem espaço suficiente</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
@@ -294,7 +294,7 @@
   <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
   <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s</string>
   <string name="notification_title_of_garbage_cleanup">Tamanho do lixo</string>
-  <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100 MB</string>
+  <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Ligar</string>
   <string name="open_app">Abrir</string>
@@ -372,7 +372,7 @@
   <string name="sponsored">Patrocinado</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_install">Instalar agora</string>
-  <string name="summary_auto_cleaner">Receber notificações cada vez que o tamanho do lixo atingir 100 MB</string>
+  <string name="summary_auto_cleaner">Receber notificações cada vez que o tamanho do lixo atingir 100MB</string>
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
   <string name="summary_delete_cache">Limpar cache das aplicações seleccionadas?</string>
   <string name="summary_delete_large_file">Eliminar ficheiros seleccionados?</string>

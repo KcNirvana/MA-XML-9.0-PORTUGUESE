@@ -59,7 +59,6 @@
   <string name="favorite_list_format">Adicionar %1$s aos favoritos</string>
   <string name="find_more_wallpapers">Pesquisar mais</string>
   <string name="gift_anonymous">Anónimo</string>
-  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
   <string name="gift_operation_fail_dlg_retry">Tente novamente</string>
   <string name="gift_operation_waiting">Aguarde…</string>
@@ -401,7 +400,6 @@
   <string name="theme_is_external_priority_storage">Guardar no cartão SD</string>
   <string name="theme_is_external_priority_storage_summary">A aplicação Temas vai reiniciar imediatamente para aplicar esta alteração</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
-  <string name="theme_name">%1$s</string>
   <string name="theme_no">Não</string>
   <string name="theme_precast_create_notification_content">Toque para ver novos temas</string>
   <string name="theme_precast_create_notification_title">Actualizado para MIUI 8</string>

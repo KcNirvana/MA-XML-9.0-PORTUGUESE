@@ -352,11 +352,8 @@ e que o Mi Mover está activo"</string>
   <string name="user_notice_message">Algumas funcionalidades necessitam de uma ligação à Internet para funcionar normalmente</string>
   <string name="user_notice_title">Atenção</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar a transferência. Verifique o estado do gestor de transferências</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento não disponível. Verifique o cartão SD</string>
-  <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_router">Router Mi</string>
   <string name="xiaomi_router_location">Router Mi %s</string>
   <string name="xiaomi_update_dialog_message">"A introduzir versão %1$s

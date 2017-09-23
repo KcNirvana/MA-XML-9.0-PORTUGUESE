@@ -34,8 +34,8 @@
   <string name="low_battery">Carregue a bateria antes de começar a gravar</string>
   <string name="low_battery_title">Bateria fraca</string>
   <string name="low_battery_warning">Bateria fraca. A gravação foi parada e o vídeo guardado</string>
-  <string name="low_memory">Tem menos de 200 MB de espaço disponível. Pode apenas gravar até 5 minutos</string>
-  <string name="low_memory_dior">Tem menos de 500 MB de espaço disponível. Pode apenas gravar até 12 minutos</string>
+  <string name="low_memory">Tem menos de 200MB de espaço disponível. Pode apenas gravar até 5 minutos</string>
+  <string name="low_memory_dior">Tem menos de 500MB de espaço disponível. Pode apenas gravar até 12 minutos</string>
   <string name="low_memory_title">Sem espaço suficiente</string>
   <string name="low_momery_warning">Sem espaço suficiente. A gravação foi parada e o vídeo guardado</string>
   <string name="memory_not_allowed">Sem espaço suficiente. Liberte algum espaço e tente novamente</string>

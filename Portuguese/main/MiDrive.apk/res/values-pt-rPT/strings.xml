@@ -23,14 +23,12 @@
   <string name="delete_failed_retry">Não é possível eliminar. Tente novamente após %1$s</string>
   <string name="delete_file">Eliminar este ficheiro?</string>
   <string name="delete_success">Ficheiro eliminado</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Não foi possível transferir</string>
   <string name="downloading">A transferir</string>
   <string name="downloading_in_3g">A transferir em 3G…</string>
   <string name="downloading_in_wifi">A transferir…</string>
   <string name="empty_file_download">Não é possível transferir ficheiros vazios</string>
   <string name="empty_file_upload">Não é possível carregar ficheiros vazios</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Ficheiro guardado em \"%1$s\"</string>
   <string name="file_change_btn_download">Transferir ficheiro</string>
   <string name="file_change_btn_upload">Carregar ficheiro</string>

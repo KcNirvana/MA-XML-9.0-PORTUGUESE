@@ -791,7 +791,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="calendar_sound_title">Som do calendário</string>
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
   <string name="call_manager_enable_title">Activar Gestor de Chamadas</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Gestor de Chamadas</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
@@ -1316,7 +1315,6 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
   <string name="dndm_auto_setting_group">Programado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Até</string>
   <string name="dndm_auto_time_turn_off_title">Desligar automaticamente Não incomodar</string>
   <string name="dndm_auto_time_turn_on">De</string>
@@ -1653,7 +1651,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gadget_picker_title">Escolher gadget</string>
   <string name="gadget_state_off">desligado</string>
   <string name="gadget_state_on">ligado</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">a desligar</string>
   <string name="gadget_state_turning_on">a ligar</string>
   <string name="gadget_sync">Sincronizar</string>
@@ -1928,7 +1925,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lift_to_wake_title">Activar ao levantar</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Velocidade do link:</string>
   <string name="loading_notification_apps">A carregar aplicações…</string>
   <string name="local_auto_backup_off">Desligado</string>
@@ -2756,7 +2752,6 @@ Deste modo, a aplicação também vai poder ligar ou desligar Não incomodar e a
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idiomas</string>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Teclado físico</string>
   <string name="pico_installed">Instalado</string>
   <string name="pico_languages_and_voices">Linguagens e vozes</string>
@@ -3760,7 +3755,6 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Ignorar mesmo assim</string>
   <string name="skip_label">Ignorar</string>
@@ -4050,8 +4044,6 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="suggestions_title">Sugestões (%1$d)</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
   <string name="supl_not_set">&lt;Não definido&gt;</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
@@ -5221,7 +5213,6 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_summary_alarms_only_by_time">Alterar para apenas alarmes, até %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Alterar para apenas alarmes, indefinidamente</string>
   <string name="zen_mode_summary_always">Alterar para interromper sempre</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Bloquear pertubações visuais</string>
   <string name="zen_mode_when">Ligar automaticamente</string>
   <string name="zen_mode_when_every_night">Todas as noites</string>

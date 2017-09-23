@@ -181,7 +181,6 @@
   <string name="favorite_ringtone">Toques</string>
   <string name="favorite_screen_cap">Capturas de ecrã</string>
   <string name="female">Feminino</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">"Leitura: "</string>
   <string name="file_info_canwrite">"Escrita: "</string>
   <string name="file_info_ishidden">"Oculto: "</string>
@@ -366,7 +365,6 @@
   <string name="operation_share">Partilhar</string>
   <string name="operation_show_sys">Mostrar ficheiros ocultos</string>
   <string name="operation_unfavorite">Remover dos favoritos</string>
-  <string name="origin_name">%1$s: </string>
   <string name="other_user_follow_tab">A seguir</string>
   <string name="other_user_liked_topic_tip">Não está a seguir nenhum tópico</string>
   <string name="overwrite_msg">\"%s\" já existe. Toque para o substituir pelo novo ficheiro</string>
@@ -574,7 +572,7 @@
   <string name="upload_external_notification_success">Publicado com sucesso</string>
   <string name="upload_external_notification_title">A publicar</string>
   <string name="upload_failed">Não foi possível enviar</string>
-  <string name="upload_file_toolarge_message">%1$d é demasiado grande. Não é possível enviar ficheiros maiores que 300 MB</string>
+  <string name="upload_file_toolarge_message">%1$d é demasiado grande. Não é possível enviar ficheiros maiores que 300MB</string>
   <string name="upload_local_video">Partilhar vídeo</string>
   <string name="upload_notification_compress_progress">A comprimir %1$s%%</string>
   <string name="upload_notification_compress_title">A comprimir vídeo</string>
@@ -653,7 +651,6 @@
   <string name="video_topic_hint">Pesquisar tópicos</string>
   <string name="video_upload_btn">Seguinte</string>
   <string name="video_upload_btn_hint">Vídeos MP4 devem ter entre 3 a 10 minutos</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_retry_confirm">Tente novamente</string>
   <string name="video_upload_retry_message">Não foi possível enviar. Tentar novamente?</string>
   <string name="video_upload_retry_title">Tente novamente</string>

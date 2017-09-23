@@ -26,7 +26,6 @@
   <string name="button_move">Mover</string>
   <string name="button_retry">Tentar novamente</string>
   <string name="button_select">Seleccionar</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="clipboard_files_cannot_paste">Não é possível colar os ficheiros nesta localização</string>
   <string name="close">Fechar</string>
   <string name="copy_converted_warning_content">Estes ficheiros foram convertidos para outro formato: %1$s</string>

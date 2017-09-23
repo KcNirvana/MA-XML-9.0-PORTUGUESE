@@ -144,7 +144,6 @@ Verifique o seu número de rastreio"</string>
   <string name="express_order_failed">Falhou</string>
   <string name="express_order_ongoing">A encomendar…</string>
   <string name="express_order_result">Resultados</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Aceite</string>
   <string name="express_order_state_allograph">Assinada</string>
   <string name="express_order_state_cancelled">Cancelada</string>
@@ -283,7 +282,6 @@ Verifique o seu número de rastreio"</string>
   <string name="nearby_average_price">Média %d EUR</string>
   <string name="nearby_no_yellow_page">Sem resultados próximos</string>
   <string name="nearby_yellow_page_title">Próximos</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Acesso à rede negado</string>
   <string name="network_unavaliable">Não é possível ligar à rede</string>
   <string name="no_brief">Sem resumo</string>
@@ -299,7 +297,6 @@ Verifique o seu número de rastreio"</string>
   <string name="order_id_label">"Encomenda #: %1$s"</string>
   <string name="order_info">Informação de encomenda</string>
   <string name="order_merchant_title">Minhas encomendas</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Sem encomendas</string>
   <string name="order_price_label">"Preço da encomenda: %1$s"</string>
   <string name="order_product_name_label">"Nome do produto: %1$s"</string>
@@ -348,7 +345,6 @@ Verifique o seu número de rastreio"</string>
   <string name="recharge_payment_result_ok_title">Adicionado %s EUR</string>
   <string name="recharge_payment_result_progress_summary">A verificar o resultado do pagamento…</string>
   <string name="recharge_phone">Número de telefone:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">O número de telefone não pode estar vazio</string>
   <string name="recharge_phone_number_error">O número de telefone que introduziu é inválido</string>
   <string name="recharge_select_money_title">Seleccionar valor de carregamento</string>
@@ -372,7 +368,6 @@ Total: %3$s EUR"</string>
   <string name="send_shortcut_success">Colocado no ecrã inicial</string>
   <string name="sending_shortcut">A enviar…</string>
   <string name="service_unavailiable">Serviço indisponível</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Não foi possível enviar</string>

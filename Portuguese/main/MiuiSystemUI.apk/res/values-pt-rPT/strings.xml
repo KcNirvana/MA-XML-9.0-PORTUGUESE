@@ -218,7 +218,6 @@ Utilize apenas o carregador fornecido"</string>
   <string name="nav_guide_message">Pode utilizar gestos para ocultar/mostrar os botões do ecrã</string>
   <string name="nav_guide_ok">Configurar</string>
   <string name="nav_guide_title">Ocultar botões do ecrã</string>
-  <string name="network_speed_suffix">%1$s %2$s</string>
   <string name="no_multi_window_app">Sem aplicações que suportem o modo ecrã dividido</string>
   <string name="no_notification_tips">Sem notificações</string>
   <string name="no_weather_description">Obter a previsão do tempo</string>
@@ -373,7 +372,6 @@ Deslize para baixo para bloquear"</string>
   <string name="vpn_text_long">Ligado a %s. Toque para ver detalhes</string>
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado às %1$s</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_disabled_generic">Desactivado</string>

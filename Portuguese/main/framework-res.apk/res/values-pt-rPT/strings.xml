@@ -288,7 +288,6 @@ utilizando %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Código de funcionalidade completo</string>
   <string name="fcError">Problema de ligação ou código de funcionalidade inválido</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="find">Localizar</string>
   <string name="find_next">Localizar próximo</string>
   <string name="find_on_page">Localizar na página</string>
@@ -578,7 +577,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_transport_stop_description">Parar</string>
   <string name="lockscreen_unlock_label">Desbloquear</string>
   <string name="low_internal_storage_view_text">Algumas funções do sistema poderão não funcionar</string>
-  <string name="low_internal_storage_view_text_no_boot">Não existe armazenamento suficiente para o sistema. Certifique-se de que tem 250 MB de espaço livre e reinicie</string>
+  <string name="low_internal_storage_view_text_no_boot">Não existe armazenamento suficiente para o sistema. Certifique-se de que tem 250MB de espaço livre e reinicie</string>
   <string name="low_internal_storage_view_title">Está quase sem espaço de armazenamento</string>
   <string name="low_memory">O armazenamento do telefone está cheio. Elimine alguns ficheiros para libertar espaço</string>
   <string name="managed_profile_label">Trabalho</string>
@@ -616,7 +615,6 @@ Tente novamente dentro de %d segundos"</string>
   <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Introduza o código PUK para o desbloquear</string>
   <string name="needPuk2">Introduza o PUK2 para desbloquear o cartão SIM</string>
   <string name="network_available_sign_in">Iniciar sessão na rede</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Iniciar %1$s</string>
   <string name="new_app_description">Parar a aplicação antiga sem guardar</string>
   <string name="next_button_label">Seguinte</string>
@@ -1260,6 +1258,5 @@ Pretende fechá-la?"</string>
   <string name="zen_mode_feature_name">Não incomodar</string>
   <string name="zen_mode_forever">Até que o utilizador desligue</string>
   <string name="zen_mode_forever_dnd">Até desligar Não incomodar</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Até às %1$s</string>
 </resources>

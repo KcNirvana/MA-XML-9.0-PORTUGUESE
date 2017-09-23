@@ -93,7 +93,6 @@
   <string name="menu_title_select_folder">Seleccionar pasta</string>
   <string name="menu_unhide">Mostrar</string>
   <string name="menu_unstick">Soltar</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Agora não</string>
   <string name="note_alert_expired">Expirado</string>
   <string name="note_description_content">A aplicação Notas é uma óptima ferramenta para guardar as suas ideias. Tem lembretes embutidos e sincroniza os seus itens para a Mi Cloud para que os possa aceder a qualquer altura em qualquer lado. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>

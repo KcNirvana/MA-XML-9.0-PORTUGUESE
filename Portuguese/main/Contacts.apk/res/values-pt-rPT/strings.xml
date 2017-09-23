@@ -97,7 +97,6 @@
   <string name="call_sim_menu_title_suffix">(Principal)</string>
   <string name="call_telex">Ligar para o telex</string>
   <string name="call_tty_tdd">Ligar para o TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">Ligar para o telefone do trabalho</string>
   <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
@@ -478,7 +477,6 @@ Motivo: \"%s\""</string>
   <string name="force_touch_new_contact">Novo contacto</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
   <string name="frequentList">Frequentes</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
   <string name="gallery">Galeria</string>
   <string name="generic_no_account_prompt">Mantenha os seus contactos seguros mesmo que perca o seu telefone: sincronize com um serviço online</string>
@@ -1190,7 +1188,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="upgrade_in_progress">A lista de contactos está a ser actualizada</string>
   <string name="upgrade_out_of_memory">"Os contactos estão em processo de actualização.
 
-O processo de actualização requer aproximadamente %s MB de armazenamento interno.
+O processo de actualização requer aproximadamente %sMB de armazenamento interno.
 
 Escolher uma das seguintes opções:"</string>
   <string name="upgrade_out_of_memory_retry">Tentar novamente</string>
@@ -1230,7 +1228,6 @@ Escolher uma das seguintes opções:"</string>
   <string name="voip_audio_description">Chamada VoIP</string>
   <string name="voip_video_description">Videochamada VoIP</string>
   <string name="websiteLabelsGroup">Website</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>

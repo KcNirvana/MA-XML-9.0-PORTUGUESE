@@ -471,7 +471,6 @@
   <string name="folder_trash_name_en2">Mensagem eliminada</string>
   <string name="folder_trash_name_en3">[Gmail]/Caixa</string>
   <string name="formatted_email_address">&lt;%1$s</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reencaminhar</string>
   <string name="forward_attachment">Reencaminhar</string>
   <string name="forward_attribution">---------- Mensagem reencaminhada ----------&lt;br&gt;De: %1$s&lt;br&gt;Data: %2$s&lt;br&gt;Assunto: %3$s&lt;br&gt;Para: %4$s&lt;br&gt;</string>
@@ -523,7 +522,7 @@
   <string name="interact_with_server_error">Não foi possível ligar ao servidor</string>
   <string name="invalid_recipient">O endereço %s é inválido</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
-  <string name="kilobytes">%s KB</string>
+  <string name="kilobytes">%sKB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Pesquisar na caixa de entrada no servidor</string>
   <string name="load_more">Carregar mais</string>
@@ -586,7 +585,7 @@
   <string name="meeting_updated">Actualizado: %s</string>
   <string name="meeting_when">Quando: %s</string>
   <string name="meeting_where">Onde: %s</string>
-  <string name="megabytes">%s MB</string>
+  <string name="megabytes">%sMB</string>
   <string name="menu_att_mgr">Anexos</string>
   <string name="menu_att_mgr_order_default">Vistos recentemente</string>
   <string name="menu_att_mgr_order_mime">Formato</string>
@@ -844,7 +843,7 @@
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_done">Concluída</string>
   <string name="release_to_refresh">Largue para actualizar</string>
-  <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %s MB</string>
+  <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
   <string name="remote_search_result">%s resultados no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
@@ -925,7 +924,6 @@
   <string name="silent_ringtone">Silêncio</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Erro na autenticação. Verifique se o antivírus não interceptou a SMS</string>
   <string name="smtp_password_error">A palavra-passe do servidor de correio de saída está incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>

@@ -37,8 +37,8 @@
         <item quantity="one">A foto seleccionada não está no dispositivo. Transferir utilizando os dados móveis?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">As fotos seleccionadas (%d MB) não estão no dispositivo. Transferir utilizando os dados móveis?</item>
-        <item quantity="one">A foto seleccionada (%d MB) não está no dispositivo. Transferir utilizando os dados móveis?</item>
+        <item quantity="other">As fotos seleccionadas (%dMB) não estão no dispositivo. Transferir utilizando os dados móveis?</item>
+        <item quantity="one">A foto seleccionada (%dMB) não está no dispositivo. Transferir utilizando os dados móveis?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">As fotos seleccionadas não estão no dispositivo. Vão ser transferidas</item>
@@ -57,12 +57,12 @@
         <item quantity="one">Não foi possível transferir %1$d foto</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Não foi possível transferir %1$d fotos (%2$d MB). Tentar novamente?</item>
-        <item quantity="one">Não foi possível transferir foto (%2$d MB). Tentar novamente?</item>
+        <item quantity="other">Não foi possível transferir %1$d fotos (%2$dMB). Tentar novamente?</item>
+        <item quantity="one">Não foi possível transferir foto (%2$dMB). Tentar novamente?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Não foi possível transferir %1$d fotos (%2$d MB)</item>
-        <item quantity="one">Não foi possível transferir foto (%2$d MB)</item>
+        <item quantity="other">Não foi possível transferir %1$d fotos (%2$dMB)</item>
+        <item quantity="one">Não foi possível transferir foto (%2$dMB)</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Cancelar a transferência das %d fotos restantes?</item>

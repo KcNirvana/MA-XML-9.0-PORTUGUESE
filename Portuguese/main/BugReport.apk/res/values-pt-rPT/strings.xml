@@ -185,7 +185,7 @@
   <string name="mobile_data_note_dialog_cancel">Aguardar por Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Carregar</string>
   <string name="mobile_data_note_dialog_content">Utilizar dados móveis para carregar registos pode gerar custos adicionais</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Carregar registos utilizando dados móveis necessita de %s MB</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Carregar registos utilizando dados móveis necessita de %sMB</string>
   <string name="mobile_data_note_dialog_title">Aviso de utilização de dados</string>
   <string name="modem_tool_log_dumping_desc">Clique no ícone para parar</string>
   <string name="modem_tool_log_dumping_title">A capturar registos do modem</string>
@@ -231,7 +231,6 @@
   <string name="packaging_dialog_content">A criar relatório…</string>
   <string name="permission_granted">Permissão de %1$s concedida</string>
   <string name="pic_not_exist">Esta imagem não existe</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores MIUI. Podem conter informações pessoais e dados de localização</string>
   <string name="plus_one_submit_dialog_not_show_again">Memorizar preferência</string>
   <string name="post_miui_bbs_failed">Não foi possível publicar no fórum MIUI</string>
@@ -291,7 +290,7 @@
   <string name="toast_report_copied_to_clipboard">Copiado para a área de transferências</string>
   <string name="toast_report_sent_failed">Não é possível enviar relatório</string>
   <string name="toast_report_sent_succeed">O relatório foi enviado</string>
-  <string name="toast_screenshot_too_large">Não é possível carregar ficheiros maiores que 10 MB</string>
+  <string name="toast_screenshot_too_large">Não é possível carregar ficheiros maiores que 10MB</string>
   <string name="toast_third_packagename_required">Introduza o nome da aplicação</string>
   <string name="toast_title_required">Descreva o seu problema</string>
   <string name="topic_author">1#</string>

@@ -21,7 +21,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s transferências</string>
   <string name="app_label">Transferências</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Conta Xunlei</string>
   <string name="auth_fail">Não foi possível obter autorização</string>
   <string name="bind_xunlei_account">Adicionar conta Xunlei</string>
@@ -99,7 +98,6 @@
   <string name="download_list_title_browser">Transferências</string>
   <string name="download_no_application">Não existem aplicações que suportem este formato</string>
   <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
-  <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Transferência em pausa</string>
   <string name="download_pending">Transferência pendente</string>
   <string name="download_queued">Em espera</string>

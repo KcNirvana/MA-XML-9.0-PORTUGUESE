@@ -983,7 +983,6 @@ da operadora"</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restantes</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1127,7 +1126,6 @@ do seu dispositivo"</string>
   <string name="om_media_scan_timeout_proc_detail">O servidor multimédia trabalha em segundo plano. Pode restringir a sua actividade</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimédia</string>
   <string name="om_memory_clean_cleaning_text">A aumentar velocidade…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Restringir actividades em segundo plano para aumentar a velocidade</string>
   <string name="om_notify_cpu_load_too_high_title">A utilização da CPU de %s é muito elevada</string>
   <string name="om_notify_need_clean_memory_summary">Limpar cache para aumentar velocidade</string>
@@ -1361,7 +1359,6 @@ do seu dispositivo"</string>
   <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados diário</string>
   <string name="pref_open_adjust_traffic">Actualizar utilização de dados todos os dias com estatísticas da sua operadora</string>
   <string name="pref_operator_not_set">A operadora não está definida</string>
-  <string name="pref_operator_setting">%1$s %2$s</string>
   <string name="pref_over_traffic_limit">Quando ultrapassar o seu plano de dados</string>
   <string name="pref_package_traffic_settings">Limite de dados móveis</string>
   <string name="pref_pkg_begin_date">Ciclo utilização de dados</string>
@@ -1424,7 +1421,7 @@ do seu dispositivo"</string>
   <string name="reject_all">Restringir tudo</string>
   <string name="reject_countdown">Negar (%d)</string>
   <string name="reject_usb_install">Foi negada a instalação destas aplicações via USB</string>
-  <string name="release_meminfo">Libertar %d MB</string>
+  <string name="release_meminfo">Libertar %dMB</string>
   <string name="release_memory">Limpar cache</string>
   <string name="renew_ip">Repetir</string>
   <string name="renew_now">Renovar</string>

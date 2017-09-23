@@ -387,14 +387,12 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="face_name_edit">Editar</string>
   <string name="face_name_input">Introduzir nome</string>
   <string name="face_recommend">Recomendações</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">Não foi possível concluir tarefa</string>
   <string name="fail_to_pick_email">Endereço de email inválido</string>
   <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
   <string name="family_member_invitation_text">Outro membro da família</string>
   <string name="fast_share_auto_render">Embelezar</string>
   <string name="fast_share_auto_render_finish">Embelezada</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_category_film">Filmes</string>
   <string name="filter_category_food">Comida</string>
   <string name="filter_category_portrait">Retrato</string>
@@ -655,7 +653,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="picker_image_need_download">%d das fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</string>
   <string name="picker_image_will_download">%d das fotos seleccionadas não estão no dispositivo. A transferir</string>
   <string name="picker_no_network_message">Ligue à rede para transferir</string>
-  <string name="picker_origin_need_download">%1$d das fotos seleccionadas não estão no dispositivo (%2$d MB). Transferir utilizando os dados móveis?</string>
+  <string name="picker_origin_need_download">%1$d das fotos seleccionadas não estão no dispositivo (%2$dMB). Transferir utilizando os dados móveis?</string>
   <string name="picker_title_format">Seleccione %1$d a %2$d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_specify_format">Seleccionar %d fotos</string>
@@ -932,7 +930,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_res_download_failed_tips">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Transferir músicas utilizando dados móveis?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Utilizar dados móveis</string>
-  <string name="video_editor_res_not_load_dialog_msg">Transferir músicas para utilizar esta funcionalidade (mais de 20 MB)</string>
+  <string name="video_editor_res_not_load_dialog_msg">Transferir músicas para utilizar esta funcionalidade (mais de 20MB)</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">Não é possível fazer isto quando estiver a utilizar um template</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
