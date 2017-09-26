@@ -120,7 +120,7 @@
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
   <string name="app_maanger_app_uninstalled_toast">Esta aplicação foi desinstalada</string>
-  <string name="app_manager_app_ifno_version">Versão</string>
+  <string name="app_manager_app_ifno_version">"Versão "</string>
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
   <string name="app_manager_app_info_pkg">Nome do ficheiro</string>
@@ -129,7 +129,7 @@
   <string name="app_manager_app_storage">"Armazenamento: "</string>
   <string name="app_manager_app_traffic">"Utilização de dados: "</string>
   <string name="app_manager_app_update">Actualizações</string>
-  <string name="app_manager_app_version_name">Versão:</string>  
+  <string name="app_manager_app_version_name">"Versão: "</string>
   <string name="app_manager_appupdate_remind">Notificar acerca de actualizações</string>
   <string name="app_manager_back">Voltar</string>
   <string name="app_manager_bipartition">Aplic. clonadas</string>

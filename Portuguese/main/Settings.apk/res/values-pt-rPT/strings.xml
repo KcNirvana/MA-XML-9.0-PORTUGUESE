@@ -4529,7 +4529,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_you">Você (%s)</string>
   <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
-  <string name="version_text">versão %1$s</string>
+  <string name="version_text">Versão %1$s</string>
   <string name="vibrate_category_title">Vibração</string>
   <string name="vibrate_in_normal_title">Vibrar quando estiver a tocar</string>
   <string name="vibrate_in_silent_title">Vibrar em modo silêncio</string>
