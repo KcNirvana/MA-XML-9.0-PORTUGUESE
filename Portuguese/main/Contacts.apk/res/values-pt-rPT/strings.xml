@@ -497,8 +497,6 @@ Motivo: \"%s\""</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
   <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
-  <string name="group_member_remove_fail_toast">Não removido do grupo</string>
-  <string name="group_member_remove_success_toast">Removido do grupo</string>
   <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários</string>
   <string name="group_sms_progress_msg">A agrupar…</string>
   <string name="groupsLabel">Grupos</string>
