@@ -470,7 +470,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
   <string name="hac_mode_summary">Activar compatibilidade com aparelho auditivo</string>
   <string name="hac_mode_title">Aparelhos auditivos</string>
-  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Apenas funciona quando a vibração para chamadas recebidas está desligada</string>
+  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado</string>
   <string name="handon_ringer_title">Parar de tocar ao levantar</string>
   <string name="hintName">Nome</string>
   <string name="hintPhonenumber">Número de telefone</string>
@@ -1126,7 +1126,7 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">Não é permitido alterar o modo TTY durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir o modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
-  <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar. Apenas funciona quando a vibração para chamadas recebidas está desligada</string>
+  <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar</string>
   <string name="turnover_mute_title">Inverter para silenciar</string>
   <string name="undefined">Nada</string>
   <string name="unknown">Número privado</string>

@@ -163,7 +163,7 @@
   <string name="notif_trans_receiving_failed">Não foi possível receber dados</string>
   <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
   <string name="notif_trans_sending_failed">Não foi possível enviar dados</string>
-  <string name="notif_trans_wait_for_reconnecting">O dispositivo remoto está desligado. Ligue-o novamente</string>
+  <string name="notif_trans_wait_for_reconnecting">A ligação foi interrompida. Ligue novamente</string>
   <string name="page_loading">Aguarde…</string>
   <string name="progress_backup_hint">A copiar…</string>
   <string name="progress_restore_hint">A restaurar…</string>
@@ -263,19 +263,46 @@
   <string name="trans_calculating_base_size">A calcular o tamanho dos dados</string>
   <string name="trans_cancel_confirm">Transferência em curso. Parar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
-  <string name="trans_connect_failed_device_incompatible">Dispositivo incompatível. Cancele a transferência e tente novamente</string>
+  <string name="trans_connect_failed_device_incompatible">O dispositivo não é compatível. Cancele a transferência e tente novamente</string>
   <string name="trans_connect_failed_message">Não foi possível ligar. Tente novamente ou reinicie o dispositivo. No outro dispositivo, vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] ou execute Mi Mover depois de reiniciar</string>
   <string name="trans_connect_failed_title">Não foi possível ligar</string>
   <string name="trans_connect_failed_toast">Não foi possível ligar</string>
   <string name="trans_connecting_toast">A ligar…</string>
-  <string name="trans_connection_failed">Dispositivo desligado</string>
+  <string name="trans_connection_failed">Ligação interrompida</string>
   <string name="trans_detail_category_account">Contas e contactos</string>
   <string name="trans_detail_category_files">Ficheiros</string>
   <string name="trans_detail_category_sysdata">Dados de sistema</string>
   <string name="trans_detail_category_userdata">Aplicações</string>
-  <string name="trans_device_disconnected">Dispositivo desligado</string>
-  <string name="trans_device_wait_for_reconnecting">Dispositivo desligado. Ligue-o novamente</string>
+  <string name="trans_device_disconnected">Ligação interrompida</string>
+  <string name="trans_device_wait_for_reconnecting">Ligação interrompida. Ligue novamente para continuar</string>
   <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
+  <string name="trans_intro_desc_2">Cancelar a transferência, sair do Mi Mover e começar de novo. Os ficheiros duplicados vão ser substituídos durante a nova transferência</string>
+  <string name="trans_intro_desc_3">O Mi Mover utiliza o Wi-Fi para transferir ficheiros. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
+  <string name="trans_intro_desc_4">O espaço de armazenamento nos dispositivos antigos é utilizado para criar pacotes de transferência. Certifique-se que tem pelo menos 500 MB - 1 GB de espaço disponível no seu telefone antigo antes de iniciar a transferência</string>
+  <string name="trans_intro_desc_5">Existem vários motivos para isso ter acontecido: problemas de compatibilidade de versões de sistema e aplicação, problemas de rede, etc.</string>
+  <string name="trans_intro_desc_6">Alguns perfis de aplicações (e-banking, finanças, etc.) estão associados com um dispositivo específico devido a motivos de segurança. Tente limpar os dados da aplicação ou reinstalá-la num novo dispositivo</string>
+  <string name="trans_intro_desc_7">Os dados e histórico da aplicação WeChat podem não ser totalmente transferidos utilizando o Mi Mover. Vá às definições do WeChat e termine a sessão para ter maiores chances de uma transferência com sucesso</string>
+  <string name="trans_intro_desc_account">Tem de iniciar sessão novamente nas suas contas (p.e., Conta Mi, Exchange, Google, etc.) num novo dispositivo devido a motivos de segurança</string>
+  <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados das aplicações clonadas para evitar conflitos entre ficheiros</string>
+  <string name="trans_intro_desc_multiuser">O Mi Mover não consegue aceder aos itens do Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover lá</string>
+  <string name="trans_intro_desc_new">"Toque \"Sou um destinatário\". Vai ser gerado um código QR"</string>
+  <string name="trans_intro_desc_old">Toque \"Sou um remetente\". Digitalize o código QR no novo telefone e aguarde até o Mi Mover descubra os ficheiros a enviar e toque \"Enviar\"</string>
+  <string name="trans_intro_desc_private">O Mi Mover não consegue aceder às fotos nos álbuns ocultos porque estão encriptadas. Pode restaurar estas fotos da Mi Cloud num novo dispositivo</string>
+  <string name="trans_intro_question_1">1. Como utilizo o Mi Mover?</string>
+  <string name="trans_intro_question_2">2. Que devo fazer se o Mi Mover ficar bloqueado num determinado passo?</string>
+  <string name="trans_intro_question_3">3. Porque é que não posso utilizar Wi-Fi durante as transferências?</string>
+  <string name="trans_intro_question_4">4. Porque é que o Mi Mover diz que não existe espaço suficiente no meu telefone antigo?</string>
+  <string name="trans_intro_question_5">5. Porque é que algumas aplicações não foram transferidas?</string>
+  <string name="trans_intro_question_6">6. Porque é que algumas aplicações não iniciam no novo dispositivo?</string>
+  <string name="trans_intro_question_7">7. Porque é que o todo o histórico do WeChat não é transferido?</string>
+  <string name="trans_intro_question_8">8. Que itens não podem ser transferidos?</string>
+  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title_account">Contas e palavras-passe:</string>
+  <string name="trans_intro_title_multiapp">Dados das aplicações clonadas:</string>
+  <string name="trans_intro_title_multiuser">Dados do Segundo espaço:</string>
+  <string name="trans_intro_title_new">Num novo telefone:</string>
+  <string name="trans_intro_title_old">Num telefone antigo:</string>
+  <string name="trans_intro_title_private">Álbum oculto:</string>
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
   <string name="trans_native_no_space">"Sem espaço suficiente neste dispositivo.
@@ -289,9 +316,9 @@ Toque [Sou um destinatário] para criar um código QR"</string>
 2. Abrir a aplicação e tocar em Iniciar
 3. Digitalizar o código QR com o seu dispositivo antigo"</string>
   <string name="trans_operate_old_phone_tips2">"Vá a Definições &gt; Definições Adicionais &gt; Mi Mover, Toque [Sou um remetente]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Aguarde até o novo telefone mostrar \"Dispositivo desligado\".
+  <string name="trans_operate_reconnect_new_tips">"Aguarde até o novo telefone mostrar \"Ligação interrompida\".
 Toque [Ligar novamente] para criar um código QR"</string>
-  <string name="trans_operate_reconnect_old_tips">"Aguarde até o telefone antigo mostrar \"Dispositivo desligado\".
+  <string name="trans_operate_reconnect_old_tips">"Aguarde até o telefone antigo mostrar \"Ligação interrompida\".
 Toque [Ligar novamente] para digitalizar o código QR"</string>
   <string name="trans_please_waiting">Aguarde…</string>
   <string name="trans_progress_subdescript_br_receiver">A restaurar %1$s. %2$s concluídos</string>

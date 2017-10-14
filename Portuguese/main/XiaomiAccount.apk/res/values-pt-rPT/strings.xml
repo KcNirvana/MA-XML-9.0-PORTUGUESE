@@ -159,9 +159,9 @@
   <string name="mipay">Pagamentos</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Cartão bancário</string>
-  <string name="mipay_identitiy_no">Número</string>
+  <string name="mipay_identitiy_no">Não verificado</string>
   <string name="mipay_identity">Verificação de ID</string>
-  <string name="mipay_indentity_done">Concluído</string>
+  <string name="mipay_indentity_done">Verificado</string>
   <string name="mipay_others">Outros</string>
   <string name="mipay_transit_card">Cartão de transporte</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar a sua Conta Mi do Primeiro espaço</string>
@@ -417,6 +417,7 @@ Para activar a sua conta siga o
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
+  <string name="talkback_scan_barcode">Digitalizar o código QR</string>
   <string name="trusted_browsers">Navegadores confiáveis</string>
   <string name="trusted_browsers_prompt">O navegador não vai ser confiável se eliminar os cookies</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>

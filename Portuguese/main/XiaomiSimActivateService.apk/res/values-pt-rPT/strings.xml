@@ -103,16 +103,16 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_wait_for_sms_success">Recebida SMS de activação do servidor</string>
   <string name="activate_status_title_activating">A activar cartão SIM</string>
   <string name="activate_status_title_activating_msim">A activar cartão SIM %d</string>
-  <string name="agree">Concordar</string>
+  <string name="agree">Permitir</string>
   <string name="app_name">Serviço Activação SIM</string>
   <string name="explain_send_sms_permission_button">Verificar</string>
   <string name="explain_send_sms_permission_msg">Para ligar a %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser cobrada pela sua operadora</string>
   <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
   <string name="phone_get_processing">A obter…</string>
-  <string name="phone_get_text">Concorda que %1$s obtenha o seu número de telefone: %2$s</string>
-  <string name="phone_get_title">Concorda que %1$s obtenha o seu número de telefone</string>
+  <string name="phone_get_text">Permitir que %1$s obtenha o seu número de telefone (%2$s)</string>
+  <string name="phone_get_title">Permitir que %1$s obtenha o seu número de telefone</string>
   <string name="phone_verify_processing">A verificar…</string>
-  <string name="phone_verify_text">%1$s não vai obter o seu número de telefone apenas verificar se corresponde</string>
-  <string name="phone_verify_title">Concorda que %1$s verifique o seu número de telefone</string>
+  <string name="phone_verify_text">%1$s não vai obter o seu número de telefone apenas verificar se é válido. Concorda?</string>
+  <string name="phone_verify_title">Permitir que %1$s verifique o seu número de telefone</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
 </resources>

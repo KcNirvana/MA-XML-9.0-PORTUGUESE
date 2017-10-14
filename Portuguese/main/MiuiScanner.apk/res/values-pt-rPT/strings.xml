@@ -54,7 +54,7 @@
   <string name="document_ocr_result_title">Foto do documento</string>
   <string name="document_ocr_tip_msg">A ler…</string>
   <string name="document_recognize_fail_tip">Não foi possível ler o documento</string>
-  <string name="document_recognize_null_tip">O documento está vazio</string>
+  <string name="document_recognize_null_tip">Não foi possível reconhecer o documento</string>
   <string name="document_rectify">Ajustar</string>
   <string name="document_rectify_tip_msg">A ajustar…</string>
   <string name="document_save_succeed_tip">Documento guardado para %1$s</string>
@@ -67,7 +67,7 @@
   <string name="error_cannot_connect_camera">Não é possível ligar à Câmara</string>
   <string name="error_day_limit">Demasiadas tentativas num dia</string>
   <string name="error_empty_result">Não foi possível encontrar resultados</string>
-  <string name="error_get_image">Erro ao obter imagem</string>
+  <string name="error_get_image">Não foi possível obter imagem</string>
   <string name="error_hour_limit">Demasiadas tentativas numa hora</string>
   <string name="error_image_error">Não foi possível reconhecer esta foto</string>
   <string name="error_invalid_request">Erro de autenticação</string>

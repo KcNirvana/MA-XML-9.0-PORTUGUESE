@@ -103,6 +103,8 @@
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
+  <string name="request_permission_msg">Permitir que o Mi Drive aceda às suas informações de conta para funcionar normalmente</string>
+  <string name="request_permission_title">Permissões necessárias</string>
   <string name="sd_full">O cartão SD está cheio</string>
   <string name="sd_invalid">O cartão SD está corrompido</string>
   <string name="send_to_midrive_failed">Este tipo de ficheiro não é suportado</string>
@@ -124,6 +126,8 @@
   <string name="wait_wifi">A aguardar por Wi-Fi…</string>
   <string name="waiting">A aguardar</string>
   <string name="wangpan_root_path">O meu disco</string>
+  <string name="xiaomi_drive_description_content">O Mi Drive é uma ferramenta de armazenamento online que permite guardar ficheiros e libertar espaço no seu dispositivo. Para de utlizar o Mi Drive?</string>
+  <string name="xiaomi_drive_description_title">Acerca de Mi Drive</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Ontem</string>
 </resources>

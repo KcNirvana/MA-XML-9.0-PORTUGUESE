@@ -364,6 +364,7 @@ Total: %3$s EUR"</string>
   <string name="rmb">EUR</string>
   <string name="scan">Verificar</string>
   <string name="select_package_before_buy">Seleccionar pacote</string>
+  <string name="send_shortcut_already_exists">O ecrã inicial já existe</string>
   <string name="send_shortcut_failed">Não é possível enviar</string>
   <string name="send_shortcut_success">Colocado no ecrã inicial</string>
   <string name="sending_shortcut">A enviar…</string>

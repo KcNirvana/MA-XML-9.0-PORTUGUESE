@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>Nada</item>
         <item>Predefinido</item>
-        <item>Imagem</item>
-        <item>Filme</item>
+        <item>Imagens</item>
+        <item>Filmes</item>
         <item>Poupança de bateria</item>
         <item>Equilibrado</item>
         <item>Desempenho</item>
@@ -67,12 +67,12 @@
         <item>A ligar o dispositivo frequentemente</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>Pesquisa Wi-Fi</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Ligado</item>
+        <item>A bloquear modo inactivo</item>
+        <item>A bloquear modo inactivo</item>
+        <item>A pesquisar por Wi-Fi</item>
+        <item>A utilizar GPS</item>
+        <item>A utilizar a CPU</item>
+        <item>A manter activo</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -88,7 +88,7 @@
         <item>Modo desempenho</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Modo prefefinido</item>
+        <item>Modo predefinido</item>
         <item>Modo desempenho actual</item>
     </string-array>
 </resources>

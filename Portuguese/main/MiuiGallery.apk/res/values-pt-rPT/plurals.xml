@@ -184,4 +184,20 @@
         <item quantity="other">Encontrou %1$d novas fotos</item>
         <item quantity="one">Encontrou uma nova foto</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Removidas %1$d fotos de \"%2$s\"</item>
+        <item quantity="one">Removida %1$d foto de \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Removidas %1$d fotos de \"%2$s\" e adicionadas à base de dados</item>
+        <item quantity="one">Removida %1$d foto de \"%2$s\" e adicionada à base de dados</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Adicionadas %1$d fotos a \"%2$s\"</item>
+        <item quantity="one">Adicionada %1$d foto a \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Adicionadas %1$d fotos a \"%2$s\" e adicionadas à base de dados</item>
+        <item quantity="one">Adicionada %1$d foto a \"%2$s\" e adicionada à base de dados</item>
+    </plurals>
 </resources>

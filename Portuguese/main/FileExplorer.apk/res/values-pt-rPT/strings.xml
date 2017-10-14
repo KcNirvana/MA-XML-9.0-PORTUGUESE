@@ -487,9 +487,9 @@
   <string name="server_control_charset">Codificação da transferência</string>
   <string name="server_control_settings">Definições</string>
   <string name="server_error">Erro de servidor (Erro %s)</string>
-  <string name="set_pattern">O padrão foi actualizado</string>
+  <string name="set_pattern">Padrão actualizado</string>
   <string name="set_pattern_btn">Definir</string>
-  <string name="set_pattern_msg">Definir o padrão novamente. O padrão de Protecção de Privacidade também funciona para fotos e mensagens</string>
+  <string name="set_pattern_msg">Defina seu o padrão novamente. O padrão de Protecção de Privacidade também funciona para fotos e mensagens</string>
   <string name="setting">Definições</string>
   <string name="setting_account_bind">Adicionar conta</string>
   <string name="setting_message_notify">Notificações</string>

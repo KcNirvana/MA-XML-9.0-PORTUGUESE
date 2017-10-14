@@ -49,8 +49,8 @@
         <item quantity="one">A receber %1$s ficheiro…</item>
     </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$s ficheiros não transferidos</item>
-        <item quantity="one">%1$s ficheiro não transferido</item>
+        <item quantity="other">Transferência de %1$s foi cancelada</item>
+        <item quantity="one">Transferência de %1$s foi cancelada</item>
     </plurals>
     <plurals name="notif_receive_success">
         <item quantity="other">Recebidos %1$s ficheiros</item>

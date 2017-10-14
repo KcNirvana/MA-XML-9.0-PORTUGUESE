@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_hide_mode">Acerca de poupança de bateria MIUI</string>
+  <string name="about_hide_mode">Acerca de poupança de bateria</string>
   <string name="action_bar_delete">Eliminar</string>
   <string name="action_settings">Definições</string>
   <string name="activity_title_poweranalyze">Testar bateria</string>
@@ -31,23 +31,23 @@
   <string name="config_restrict_function_title">Restringir aplicações em segundo plano</string>
   <string name="config_restrict_running_description">Aplicações vão ser fechadas para poupar bateria</string>
   <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>
-  <string name="config_restrict_running_warning">A aplicação vai ser fechada quando estiver em segundo plano. Pode não funcionar correctamente</string>
+  <string name="config_restrict_running_warning">As aplicações vão ser fechadas quando estiverem em segundo plano. Podem não funcionar correctamente</string>
   <string name="config_scenario_policies_title">Cenários</string>
   <string name="config_suggest_description">"Identifica aplicações e actividades para manter os processos importantes em execução.
 A poupança de bateria vai monitorizar as aplicações mais importantes selectivamente"</string>
-  <string name="config_suggest_suffix_title">Poupança de bateria MIUI (recomendado)</string>
-  <string name="config_suggest_title">Poupança de bateria MIUI</string>
-  <string name="confirm">Confirmar</string>
+  <string name="config_suggest_suffix_title">Poupança de bateria (recomendado)</string>
+  <string name="config_suggest_title">Poupança de bateria</string>
+  <string name="confirm">OK</string>
   <string name="current_cloud_addr_is">O servidor de controlo da nuvem é:</string>
-  <string name="disable_hide_mode">Desactivar poupança de bateria MIUI</string>
-  <string name="disable_hide_mode_warning">Desactivar poupança de bateria MIUI pode causar mais consumo de bateria</string>
+  <string name="disable_hide_mode">Desligar a poupança de bateria</string>
+  <string name="disable_hide_mode_warning">Desligar a poupança de bateria pode aumentar o consumo de bateria</string>
   <string name="disabled">Desligado</string>
   <string name="empty_title_apps_container_list">Sem aplicações</string>
-  <string name="enable_hide_mode">Activar poupança de bateria MIUI</string>
+  <string name="enable_hide_mode">Ligar poupança de bateria</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
-  <string name="extreme_power_config_mode_category">Poupança de bateria extrema</string>
-  <string name="extreme_power_config_mode_desc">Activar esta funcionalidade vai desactivar a sincronização, Bluetooth, GPS, NFC, luz dos botões, etc. e o modo poupança de bateria vai ser definido para ultimate</string>
-  <string name="extreme_power_config_mode_title">Modo poupança de bateria extrema</string>
+  <string name="extreme_power_config_mode_category">Modo Extremo</string>
+  <string name="extreme_power_config_mode_desc">Altera para o Modo Extremo para desligar a sincronização, Bluetooth, GPS, NFC e a luz dos botões e notificações</string>
+  <string name="extreme_power_config_mode_title">Modo Extremo</string>
   <string name="failure">Erro</string>
   <string name="foreground_change">Aplicação está a executar em primeiro plano</string>
   <string name="fragment_nonesys_listempty">Sem aplicações instaladas</string>
@@ -61,8 +61,10 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde…</string>
-  <string name="important_warning">Aviso</string>
+  <string name="important_warning">Atenção</string>
   <string name="invalid_size_value">Não foi possível obter o tamanho do pacote</string>
+  <string name="lasttime_applist_cloud">Aplicações actualizadas:</string>
+  <string name="lasttime_feature_cloud">Funcionalidades actualizadas:</string>
   <string name="location_disable_description">Aplicações em segundo plano apenas podem aceder aos serviços de localização por um breve período de tempo enquanto que o acesso contínuo está restrito</string>
   <string name="location_disable_title">Restringir</string>
   <string name="location_enable_description">Aplicações podem utilizar serviços de localização em segundo plano</string>
@@ -81,6 +83,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="new_group_name">Modo Personalizado</string>
   <string name="no_applications">Vazio</string>
   <string name="none">Sem processos</string>
+  <string name="nonui_mode_config_description">Não liga o ecrã para notificações, desliga a luz de notificações e os controlos de toque quando o dispositivo está no bolso</string>
+  <string name="nonui_mode_config_title">Modo Não-Interactivo</string>
   <string name="normal">Modo Predefinido</string>
   <string name="operation_create_group">Nome</string>
   <string name="operation_create_group_message">Introduza um novo nome de grupo</string>
@@ -94,11 +98,11 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_checker_notify_summary">Optimize as aplicações com demasiado consumo de bateria</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s previne a inactividade do sistema</string>
   <string name="power_checker_partial_wakelock_title">%1$s previne a inactividade do sistema</string>
-  <string name="power_checker_recent_btn_title">Definições de energia</string>
+  <string name="power_checker_recent_btn_title">Definir utilização de bateria</string>
   <string name="power_checker_recent_group_title">Recentemente</string>
-  <string name="power_checker_running_btn_title">Matar processo</string>
+  <string name="power_checker_running_btn_title">Matar processos</string>
   <string name="power_checker_running_group_title">Em execução</string>
-  <string name="power_checker_title">Controlo de energia</string>
+  <string name="power_checker_title">Teste de utilização de bateria</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s activa-se frequentemente</string>
   <string name="power_checker_wakeup_alarm_title">%1$s activa-se frequentemente</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s pesquisa Wi-Fi frequentemente</string>
@@ -109,7 +113,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_config_app_background_title">Segundo plano</string>
   <string name="power_config_app_full_screen_title">Ecrã inteiro</string>
   <string name="power_config_app_launch_title">Primeiro plano</string>
-  <string name="power_config_apps">Poupança de bateria MIUI</string>
+  <string name="power_config_apps">Poupança de bateria</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Seleccionar hora para restringir os dados em segundo plano</string>
   <string name="power_config_bg_data_delay_time_title">Restringir dados em segundo plano</string>
   <string name="power_config_choose_apps">Escolher aplicações</string>
@@ -174,8 +178,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_optimize_activity_profile_file_error">Erro na poupança de bateria</string>
   <string name="ragment_sys_listempty">Sem aplicações de sistema</string>
   <string name="reading">Modo de Leitura</string>
-  <string name="scenario_policies_summary">Poupar energia de acordo com o cenário</string>
-  <string name="scenario_policies_title">Cenários para poupança de energia</string>
+  <string name="scenario_policies_summary">Aplicar diferentes poupanças de bateria para diferentes cenários</string>
+  <string name="scenario_policies_title">Cenários inteligentes</string>
   <string name="scenario_policies_warmcontrol">Controlo de temperatura</string>
   <string name="screen_off">O ecrã está desligado</string>
   <string name="screen_off_10_min">O ecrã está desligado há 10 minutos</string>
@@ -186,16 +190,16 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="set_lcd_mode">Modo do ecrã</string>
   <string name="settings_safetylegal_activity_loading">Aguarde…</string>
   <string name="show_system_app">Mostrar aplicações de sistema</string>
-  <string name="sleep_config_enhance_description">Prever o tempo de inactividade do utilizador através de aprendizagem. Podem ser limpas algumas aplicações em segundo plano, restringido o acesso a NFC, sincronização, Bluetooth, GPS, etc.</string>
-  <string name="sleep_config_enhance_title">Modos de poupança de bateria</string>
+  <string name="sleep_config_enhance_description">Sempre que a MIUI detectar inactividade, vai fechar aplicações em segundo, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
+  <string name="sleep_config_enhance_title">Modo Inactivo</string>
   <string name="still">Imagem</string>
-  <string name="sucess">Sucesso</string>
+  <string name="sucess">Concluído</string>
   <string name="ui">Predefinido</string>
-  <string name="update_profile_failture_not_connect_wifi">Erro ao actualizar. Sem ligação ao Wi-Fi</string>
+  <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>
   <string name="update_profile_sucess">Actualizado com sucesso</string>
   <string name="user_define_mode">Nome</string>
   <string name="vip_feedback">Comentários VIP</string>
-  <string name="vip_feedback_enable">Activar comentários VIP</string>
-  <string name="warm_configure">Configurar controlo de temperatura</string>
-  <string name="warm_performance_tip">Em cenários de sobrecarregamento, a temperatura do telefone é mais elevadado que no modo predefinido</string>
+  <string name="vip_feedback_enable">Ligar comentários VIP</string>
+  <string name="warm_configure">Definições de controlo de temperatura</string>
+  <string name="warm_performance_tip">O dispositivo vai aquecer mais quando estiver a executar muitos processos</string>
 </resources>

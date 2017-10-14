@@ -21,6 +21,9 @@
   <string name="cta_dialog_content">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="cta_dialog_title">Ligação à Internet</string>
   <string name="cta_not_show_again">Memorizar preferência</string>
+  <string name="customer_service_apply">Pedir serviço de clientes</string>
+  <string name="customer_service_complain">Reportar ao serviço de clientes</string>
+  <string name="customer_service_station">Localizações do serviço</string>
   <string name="description">Descreva o problema</string>
   <string name="dialog_ask_delete">Eliminar</string>
   <string name="dialog_ask_quit">Sair</string>

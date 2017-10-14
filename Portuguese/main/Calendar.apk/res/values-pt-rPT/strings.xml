@@ -160,6 +160,7 @@
   <string name="edit_event_tab_event">Evento</string>
   <string name="edit_event_to_label">Data de fim</string>
   <string name="email_guests_label">Enviar email para convidados</string>
+  <string name="email_install_hint">O Email foi desinstalado. Ao reinstalar, pode restaurar todos os dados do calendário ou adicionar uma nova conta</string>
   <string name="email_picker_label">Enviar email com</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Evento vazio não foi criado</string>
@@ -225,6 +226,9 @@
   <string name="insert_event_dialog_title">Atenção</string>
   <string name="insert_event_toast_add_failed">Não foi possível adicionar</string>
   <string name="insert_event_toast_add_success">Evento criado</string>
+  <string name="install_email_app">Instalar Email</string>
+  <string name="install_email_finished">Email instalado</string>
+  <string name="installing_email">A instalar…</string>
   <string name="item_num_selected">%1$d seleccionados</string>
   <string name="jump_date_full">Ir para a data</string>
   <string name="live_text">Ao vivo</string>
@@ -397,7 +401,6 @@
   <string name="travel_event_title_flight">Voo: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Comboio: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Comboio: %1$s %2$s</string>
-  <string name="travel_item_hotel">Hotel</string>
   <string name="travel_item_reminder">Lembrete</string>
   <string name="travel_item_reminder_overdue">Lembrete</string>
   <string name="travel_item_trafic">Tráfego</string>

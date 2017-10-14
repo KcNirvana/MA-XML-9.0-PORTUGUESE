@@ -497,7 +497,8 @@ Motivo: \"%s\""</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
   <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
-  <string name="group_member_remove_toast">Removed from group</string>
+  <string name="group_member_remove_fail_toast">Não removido do grupo</string>
+  <string name="group_member_remove_success_toast">Removido do grupo</string>
   <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários</string>
   <string name="group_sms_progress_msg">A agrupar…</string>
   <string name="groupsLabel">Grupos</string>
@@ -897,7 +898,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_region">Estado</string>
   <string name="postal_street">Rua</string>
   <string name="pref_key_photo">Foto</string>
-  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos que não têm foto</string>
+  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma foto para os contactos que não tenham</string>
   <string name="pref_key_photo_word_title">Atribuir fotos aos contactos</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
@@ -931,7 +932,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
-  <string name="preference_show_yellowpage_tab_description">Se fechar o separador páginas amarelas, pode não funcionar correctamente</string>
+  <string name="preference_show_yellowpage_tab_description">As páginas amarelas podem não funcionar correctamente se esta funcionalidade estiver desligada</string>
   <string name="preference_show_yellowpage_tab_title">Mostrar as páginas amarelas</string>
   <string name="preference_simple_mode_description">Mostrar fotos e outras informações na lista de contactos</string>
   <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
@@ -1057,7 +1058,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="service_provider_detail">Detalhes das páginas amarelas</string>
   <string name="set_data_package">Definir um plano de dados primeiro</string>
   <string name="set_default">Definir como predefinido</string>
-  <string name="set_photo_failed_msg">Não foi possível atribuir imagem</string>
+  <string name="set_photo_failed_msg">Não foi possível atribuir foto</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
   <string name="share_over_limit">Não é possível partilhar mais de 1000 contactos</string>
   <string name="share_via">Enviar via</string>
@@ -1144,7 +1145,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="success_message_import_from_account">Contacto importado</string>
   <string name="summary_kind_title">Resumo</string>
   <string name="t9_search_empty_create_contact">Novo contacto</string>
-  <string name="t9_search_empty_edit_contact">Adicionar ao contacto</string>
+  <string name="t9_search_empty_edit_contact">Adicionar aos contactos</string>
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
@@ -1177,12 +1178,13 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="type_outgoing">Chamada efectuada</string>
   <string name="type_voicemail">Mensagens de voz</string>
   <string name="unable_get_device_id">Não foi possível obter IMEI</string>
-  <string name="unfold_all">Expandir tudo</string>
+  <string name="unfold_all">Mostrar tudo</string>
   <string name="unknow_phone_number_call_failed">Não é possível ligar para números desconhecidos</string>
   <string name="unknow_phone_number_mms_failed">Não é possível enviar mensagens para números desconhecidos</string>
   <string name="unknown">Número privado</string>
   <string name="unknown_contact_name">Contacto desconhecido</string>
-  <string name="unknown_details_new_contact">Novo contacto</string>
+  <string name="unknown_details_add_to_contact">Existente</string>
+  <string name="unknown_details_new_contact">Novo</string>
   <string name="update_sim_contact_photo_toast">Não é possível definir fotos para contactos do SIM</string>
   <string name="upgrade_in_progress">A lista de contactos está a ser actualizada</string>
   <string name="upgrade_out_of_memory">"Os contactos estão em processo de actualização.

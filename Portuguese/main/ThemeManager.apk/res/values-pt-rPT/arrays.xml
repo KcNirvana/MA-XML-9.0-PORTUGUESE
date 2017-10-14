@@ -3,18 +3,4 @@
     <string-array name="disable_package_replacement">
         <item>Desactivar o nome do pacote</item>
     </string-array>
-    <string-array name="wallpaper_settings_precust_cover_name">
-        <item>Entretenimento</item>
-        <item>Panorama</item>
-        <item>Céu estrelado</item>
-        <item>Botânica</item>
-        <item>Animais</item>
-    </string-array>
-    <string-array name="wallpaper_settings_precust_global_cover_name">
-        <item>Paisagens</item>
-        <item>Animais</item>
-        <item>Plantas</item>
-        <item>Criatividade</item>
-        <item>Estilo de vida</item>
-    </string-array>
 </resources>

@@ -18,7 +18,7 @@
   <string name="enable_accessibility_dialog_message">Ligou o TalkBack ao premir o ecrã com 2 dedos por mais de 10 segundos. O TalkBack fornece uma voz para pessoas invisuais. Se o ligou por acidente, toque no botao Cancelar e depois duplo toque no ecrã</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Erro ao gerar código QR. Entre novamente na página</string>
+  <string name="fail_to_generate_qr_code">Não foi possíve gerar código QR. Abra a página novamente</string>
   <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
   <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s</string>
   <string name="input_method_category">Escolha o teclado predefinido para escrever emails ou notas. Pode instalar teclados de terceiros mais tarde</string>
@@ -27,7 +27,7 @@
   <string name="item_fingerprint">Impressão digital</string>
   <string name="item_lock_screen_password">Apenas bloqueio de ecrã</string>
   <string name="language_picker_other_languages_title">Mais idiomas</string>
-  <string name="language_settings">Seleccionar idioma</string>
+  <string name="language_settings">Escolher idioma</string>
   <string name="locale_picker_title">Escolher a sua região</string>
   <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Serviço em %s</string>
@@ -61,11 +61,11 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="skip_underline">Ignorar este passo</string>
   <string name="summary_not_set">Não definido</string>
   <string name="terms_of_use">Termos de Serviço</string>
-  <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor, leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
+  <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
 
-Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Durante a activação os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
+Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
   <string name="title_fingerprint">Definir palavra-passe</string>
-  <string name="two_dimensional_code_scan">Digitalização de código QR</string>
+  <string name="two_dimensional_code_scan">Digitalizar código QR</string>
   <string name="user_agreement">Termos de Serviço</string>
   <string name="user_strayed_warning">Esta página foi feita para testes. Clique no botão Voltar para sair</string>
   <string name="welcome">Bem-vindo</string>

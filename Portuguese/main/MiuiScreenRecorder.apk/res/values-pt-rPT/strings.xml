@@ -21,7 +21,7 @@
   <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
   <string name="frames">Frame rate</string>
   <string name="frames_summary">Frame rates mais altos reduzem o lag de movimento</string>
-  <string name="frequently_click_toast">Serviço a inicializar, aguarde um momento</string>
+  <string name="frequently_click_toast">Aguarde…</string>
   <string name="gleam_led_while_recording">Acender LED de notificações ao gravar</string>
   <string name="hint_back">Voltar</string>
   <string name="hint_home">Início</string>
@@ -46,8 +46,8 @@
   <string name="operation_delete">Eliminar</string>
   <string name="operation_send">Enviar</string>
   <string name="quit_recording">Sair do Gravador de Ecrã</string>
-  <string name="recording_failure">Erro na última gravação. Tente novamente</string>
-  <string name="recording_max_size">A gravação foi parada devido ao tamanho máximo do vídeo. Pode iniciar outra gravação se quiser continuar a gravar</string>
+  <string name="recording_failure">Não foi possível gravar. Comece de novo</string>
+  <string name="recording_max_size">A gravação foi parada e guardada porque o vídeo atingiu o tamanho máximo. Comece a gravar de onde ficou se ainda não terminou</string>
   <string name="resolution">Resolução</string>
   <string name="resolution_summary">Vídeos com maior resolução parecem mais nítidos</string>
   <string name="screen_orientation">Orientação</string>

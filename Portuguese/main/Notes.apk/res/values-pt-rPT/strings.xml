@@ -77,7 +77,7 @@
   <string name="menu_add_folder_description">Adicionar pasta</string>
   <string name="menu_create_folder">Nova pasta</string>
   <string name="menu_delete">Eliminar</string>
-  <string name="menu_delete_forever">Eliminar permanentemente</string>
+  <string name="menu_delete_forever">Eliminar</string>
   <string name="menu_folders">Pastas</string>
   <string name="menu_hide">Ocultar</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
@@ -189,7 +189,7 @@
   <string name="toolbar_theme_description">Escolher um tema</string>
   <string name="toolbar_undo_description">Anular</string>
   <string name="trash_folder_name">Lixo</string>
-  <string name="trash_folder_reminder">As notas eliminadas vão ser eliminadas permamentemente em 30 dias</string>
+  <string name="trash_folder_reminder">As notas que eliminar vão ser eliminadas de vez em 30 dias</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="welcome_note_for_cm">"E mais grandes funcionalidades!

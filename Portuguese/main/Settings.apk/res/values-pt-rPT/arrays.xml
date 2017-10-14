@@ -38,14 +38,14 @@
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="check_importance_entries">
-        <item>Recomendada</item>
+        <item>Recomendadas</item>
         <item>Importante</item>
         <item>Não importante</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>As notificações não importantes vão aparecer numa pasta separada</item>
+        <item>A MIUI decide que notificações devem aparecer</item>
         <item>As notificações vão aparecer na área de notificações</item>
-        <item>Todas as notificações vão aparecer numa pasta separada</item>
+        <item>As notificações vão aparecer numa pasta separada</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -521,7 +521,6 @@
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferencial</item>
         <item>Móvel preferencial</item>
-        <item>Apenas Wi-Fi</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Desligada</item>
@@ -1133,9 +1132,5 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Ecrã</item>
         <item>Resolução</item>
         <item>Android</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Wi-Fi preferencial</item>
-        <item>Móvel preferencial</item>
     </string-array>
 </resources>

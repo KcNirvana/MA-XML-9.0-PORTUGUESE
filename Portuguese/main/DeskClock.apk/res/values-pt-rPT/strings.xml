@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Adicionar alarme</string>
+  <string name="add_timezone_title">Adicionar fuso horário</string>
   <string name="alarm_alert_alert_silenced">O alarme desliga em %d minutos</string>
   <string name="alarm_alert_snooze_set">Suspender por %d minutos</string>
   <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
@@ -55,6 +56,7 @@
   <string name="force_touch_enter_stopwatch">Cronómetro</string>
   <string name="force_touch_enter_timer">Temporizador</string>
   <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
+  <string name="go_back">Voltar</string>
   <string name="hour">1 hora</string>
   <string name="hour_unit">H +</string>
   <string name="hours">%d horas</string>
@@ -72,6 +74,7 @@
   <string name="legal_workday_invalidate_message">(Data expirada. Actualize nas Definições)</string>
   <string name="legal_workday_message">" (desligado em feriados)"</string>
   <string name="life_post_setting">Relatório matinal</string>
+  <string name="life_post_setting_close_title">Fechar relatórios matinais</string>
   <string name="life_post_setting_open_subtitle">Receba informações acerca do tempo quando desliga o alarme entre as 4:00 e 9:30</string>
   <string name="life_post_setting_open_title">Receber relatórios matinais</string>
   <string name="life_post_setting_wake_up_list_title">Histórico de acordar</string>
@@ -97,6 +100,7 @@
   <string name="menu_item_sort_by_name">Ordenar por nome</string>
   <string name="minute">1 minuto</string>
   <string name="minutes">%d minutos</string>
+  <string name="more_setting">Mais definições</string>
   <string name="more_settings">Definições</string>
   <string name="never">Uma vez</string>
   <string name="oneshot_alarm">Eliminar após desligado</string>

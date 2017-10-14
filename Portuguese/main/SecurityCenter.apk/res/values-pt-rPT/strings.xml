@@ -16,7 +16,7 @@
   <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">É necessário palavra-passe para abrir as aplicações</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Desenhe o seu padrão de desbloqueio para utilizar uma nova imp. digital</string>
   <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a imp. digital</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
@@ -88,6 +88,7 @@
   <string name="antivirus_choose_engine_title">Definições</string>
   <string name="antivirus_longtime_no_update">As suas definições de vírus estão desactualizadas. Permitir que Segurança se ligue à Internet e actualize as definições de vírus?</string>
   <string name="antivirus_longtime_no_update1">As suas definições de vírus estão desactualizadas. Actualize as definições e tente novamente</string>
+  <string name="antivirus_main_activity_back">Voltar da verificação de segurança</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Eliminar aplicações em risco</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Eliminar vírus</string>
   <string name="antivirus_monitor_clean_tips">Itens eliminados: %s</string>
@@ -134,6 +135,7 @@
   <string name="app_manager_back">Voltar</string>
   <string name="app_manager_bipartition">Aplic. clonadas</string>
   <string name="app_manager_card_permission_title">Permissões</string>
+  <string name="app_manager_clear_cache">Limpar cache</string>
   <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação vão ser eliminados permanentemente. Isto inclui todos os ficheiros, definições, contas, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Eliminar os dados da aplicação?</string>
   <string name="app_manager_clear_failed_dlg_message">Não foi possível limpar os dados da aplicação</string>
@@ -143,17 +145,27 @@
   <string name="app_manager_default_open">Iniciar por predefinição</string>
   <string name="app_manager_default_open_summary">Optou por iniciar esta aplicação por predefinição para algumas acções</string>
   <string name="app_manager_default_open_title">Limpar predefinições</string>
+  <string name="app_manager_defaults_setting">Predefinições</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Armazenamento</string>
-  <string name="app_manager_details_traffic_title">Dados neste mês</string>
+  <string name="app_manager_details_traffic_title">Utilização de dados</string>
   <string name="app_manager_disable">Não permitir</string>
+  <string name="app_manager_disable_dlg_text">Se desactivar esta aplicação, outras podem não funcionar correctamente</string>
+  <string name="app_manager_disable_dlg_title">Desactivar aplicação?</string>
+  <string name="app_manager_disable_text">Desactivar</string>
+  <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_dlg_cancel">Cancelar</string>
   <string name="app_manager_dlg_ok">OK</string>
+  <string name="app_manager_enable_text">Activar</string>
+  <string name="app_manager_enabled">Activada</string>
   <string name="app_manager_factory_reset">Desinstalar actualizações</string>
   <string name="app_manager_factory_reset_dlg_msg">Todas as actualizações desta aplicação vão ser desinstaladas</string>
   <string name="app_manager_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_manager_force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
   <string name="app_manager_force_stop_dlg_title">Forçar paragem</string>
+  <string name="app_manager_globel_other_perm_title">Outras permissões</string>
+  <string name="app_manager_globel_perm_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
+  <string name="app_manager_globel_perm_title">Permissões da aplicação</string>
   <string name="app_manager_have_not_consume">Nenhuma</string>
   <string name="app_manager_hide_system_server">Ocultar serviços de sistema</string>
   <string name="app_manager_instruction">Instruções</string>
@@ -183,7 +195,18 @@
   <string name="app_manager_rebide_wakepath">Restringir</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimizar início sequencial</string>
   <string name="app_manager_reduce_wakepath_summary">Restringir o início automático vai minimizar o início sequencial. Restringir o início automático para %s?</string>
-  <string name="app_manager_reject_count_over">Bloqueou 100000 vezes</string>
+  <string name="app_manager_reject_count_over">Bloqueado 100000 vezes</string>
+  <string name="app_manager_reset_app_preferences">Repor preferências da aplicação</string>
+  <string name="app_manager_reset_app_preferences_button">Repor aplicações</string>
+  <string name="app_manager_reset_app_preferences_desc">"Isto vai repor todas as preferências para:
+
+ "&lt;li&gt;Aplicações desactivadas&lt;/li&gt;"
+ "&lt;li&gt;Notificações desactivadas da aplicação&lt;/li&gt;"
+ "&lt;li&gt;Aplicações predefinidas para acções&lt;/li&gt;"
+ "&lt;li&gt;Restrições em segundo plano das aplicações&lt;/li&gt;"
+
+ Nai vai perder dados das aplicações"</string>
+  <string name="app_manager_reset_app_preferences_title">Repor preferências da aplicação?</string>
   <string name="app_manager_show_all_apps">Mostrar todas as aplicações</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_sort">Ordenar por</string>
@@ -191,12 +214,14 @@
   <string name="app_manager_start_count_over">100000 vezes</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Desinstalar %s para restringir o início sequencial?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Restringir início sequencial</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Desinstalar esta aplicação vai restringir o início sequencial. As aplicações clonadas relacionadas vão ser desinstaladas também Desinstalar %s?</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Desinstalar esta aplicação vai restringir o início sequencial. As aplicações clonadas relacionadas vão ser desinstaladas também. Desinstalar %s?</string>
   <string name="app_manager_stop_wakepath_success">Restringido com sucesso</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancelar</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstalar</string>
   <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
   <string name="app_manager_title">Gerir aplicações</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar aplicações de sistema pode fazer com que alguns componentes MIUI deixem de funcionar. Desinstalar mesmo assim?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Desinstalar aplicações de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">As aplicações clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
@@ -311,6 +336,8 @@
   <string name="auto_task_operation_sync">Sincronizar</string>
   <string name="auto_task_operation_vibration">Vibração</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="back_app_name">Voltar para Bloqueio de aplicações</string>
+  <string name="back_modifypassword">Voltar para alteração de palavra-passe</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que a aplicação deixe de funcionar correctamente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">Definir a sua mensagem de ausência para %s?</string>
@@ -518,6 +545,8 @@
   <string name="daily_limit_network_available_body">Toque para ver as estatísticas de utilização de dados</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
   <string name="daily_pkg_traffic">Limite de dados mensal</string>
+  <string name="data_booster_desc">Desactivar outros SIMs para manter a ligação estável</string>
+  <string name="data_booster_title">Estabilizar ligação de dados</string>
   <string name="data_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
   <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização do seu pacote de dados. Se excedeu o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
@@ -682,6 +711,7 @@
   <string name="fw_blocked">Lista de bloqueio</string>
   <string name="fw_blocked_count">"Bloqueadas "</string>
   <string name="fw_blocked_join">" e "</string>
+  <string name="game_anti_disturb_msg">Não incomodar Jogos</string>
   <string name="game_booster">Acelerador de jogos</string>
   <string name="game_booster_intro">Acerca do Acelerador de jogos</string>
   <string name="game_booster_title">Acelerador de jogos</string>
@@ -693,6 +723,7 @@
   <string name="game_net_text2">Aumentar a velocidade de ligação do jogo enquanto limita a velocidade de transferências para reduzir o atraso de rede</string>
   <string name="game_net_title">Optimização da velocidade da ligação</string>
   <string name="game_setting">Definições de jogos</string>
+  <string name="gamebooster_main_activity_back">Voltar a Acelerador de jogos</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
@@ -771,6 +802,7 @@
   <string name="install_sucess">%s instalado com sucesso</string>
   <string name="install_title">Instalação via USB</string>
   <string name="installing">A instalar</string>
+  <string name="international_Ad">Anúncios</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="intro_improve">Aumente a sua experiência de jogo a nível do sistema</string>
   <string name="intro_skip">Ignorar</string>
@@ -1137,7 +1169,7 @@ do seu dispositivo"</string>
   <string name="om_settings_lock_app">Bloquear aplicações</string>
   <string name="om_settings_lock_app_manage">Bloquear aplicações</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Notificar quando o tamanho da cache for alto</string>
-  <string name="om_settings_memory_clean_lock_screen">Limpar cache com o ecrã desligado</string>
+  <string name="om_settings_memory_clean_lock_screen">Limpar cache com o ecrã bloqueado</string>
   <string name="om_settings_memory_occupy_notify">Tamanho de cache alto</string>
   <string name="om_settings_memory_occupy_notify_never">Nunca</string>
   <string name="om_settings_notify_manage">Notificações</string>
@@ -1495,6 +1527,7 @@ do seu dispositivo"</string>
   <string name="save_energy_title">Optimizar bateria</string>
   <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
+  <string name="sc_system_risk_fix_info_xspace">O risco não pode ser corrigido no Segundo espaço. Troque para o Primeiro espaço para o corrigir</string>
   <string name="scan_installed_games">A verificar jogos instalados…</string>
   <string name="scan_status_risk">Perigoso</string>
   <string name="scan_status_safe">Seguro</string>
@@ -2028,4 +2061,5 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wlan_change_protection_detail">Não trocar para Wi-Fi automaticamente quando ligado a dados móveis</string>
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
+  <string name="xunyou_server_expired">A sessão expirou</string>
 </resources>

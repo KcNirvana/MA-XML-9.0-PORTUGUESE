@@ -72,6 +72,7 @@
   <string name="battery_profiles">Utilizar perfis de bateria</string>
   <string name="block_notification_content_text">As notificações de %1$s não vão ser mostradas novamente. Pode alterar esta opção nas Definições</string>
   <string name="block_notification_text">Ocultar</string>
+  <string name="block_notification_desc">As notificações da aplicação não vão ser mostradas novamente. Pode alterar esta opção nas Definições</string>
   <string name="block_record_notification_text">A ocultar notificações de %1$s</string>
   <string name="block_record_notification_title">Notificações ocultas</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
@@ -285,6 +286,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="screenshot_insert_failed">Não foi possível ao carregar a captura de ecrã. Tire uma nova ou veja a imagem no álbum</string>
   <string name="screenshot_long_screenshot">Estender</string>
   <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã</string>
+  <string name="search_hint">Pesquise por sites, aplicações, contactos</string>
   <string name="screenshot_send">Enviar</string>
   <string name="settings_custom_notification">Gerir notificações</string>
   <string name="settings_toggle_position">Gerir atalhos</string>

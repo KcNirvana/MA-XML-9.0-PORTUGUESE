@@ -9,8 +9,8 @@
         <item quantity="one">%d aplicação pode mostrar notificações</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d atalhos acima desta barra estão activos</item>
-        <item quantity="one">%1$d atalho acima desta barra está activo</item>
+        <item quantity="other">Os %1$d atalhos acima estão activos</item>
+        <item quantity="one">O %1$d atalho acima está activo</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Está agora a %1$d passos de se tornar um programador</item>
@@ -128,69 +128,5 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">Tente novamente dentro de %d segundos</item>
         <item quantity="one">Tente novamente dentro de %d segundo</item>
-    </plurals>
-    <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Remover os idiomas seleccionados?</item>
-        <item quantity="one">Remover o idioma seleccionado?</item>
-    </plurals>
-    <plurals name="uri_permissions_text">
-        <item quantity="other">%d itens</item>
-        <item quantity="one">1 item</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Atraso extremamente curto (%1$d ms)</item>
-        <item quantity="one">Atraso extremamente curto (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Atraso muito curto (%1$d ms)</item>
-        <item quantity="one">Atraso muito curto (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Atraso curto (%1$d ms)</item>
-        <item quantity="one">Atraso curto (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Atraso longo (%1$d ms)</item>
-        <item quantity="one">Atraso longo (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Atraso muito longo (%1$d ms)</item>
-        <item quantity="one">Atraso muito longo (%1$d ms)</item>
-    </plurals>
-    <plurals name="print_settings_title">
-        <item quantity="other">%d serviços de impressão</item>
-        <item quantity="one">1 serviço de impressão</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_dialog_title">
-        <item quantity="other">Confiar ou remover certificados</item>
-        <item quantity="one">Confiar ou remover certificado</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s instalou autoridades de certificação no seu dispositivo que dão permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
-
-Para mais informações acerca destes certificados, contacte o seu administrador"</item>
-        <item quantity="one">"%s instalou uma autoridade de certificação no seu dispositivo que dá permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
-
-Para mais informações acerca deste certificado, contacte o seu administrador"</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s instalou autoridades de certificação no seu perfil de trabalho que dão permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
-
-Para mais informações acerca destes certificados, contacte o seu administrador"</item>
-        <item quantity="one">"%s instalou uma autoridade de certificação no seu perfil de trabalho que dá permissão a monitorizar a sua actividade na rede incluindo emails, aplicações e sites seguros.
-
-Para mais informações acerca deste certificado, contacte o seu administrador"</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_settings_button">
-        <item quantity="other">Verificar certificados</item>
-        <item quantity="one">Verificar certificado</item>
-    </plurals>
-    <plurals name="notification_summary">
-        <item quantity="other">%d aplicações com bloqueio de envio</item>
-        <item quantity="one">%d aplicação com bloqueio de envio</item>
-    </plurals>
-    <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d aplicações com permissão de utilizar dados com a poupança de dados ligada</item>
-        <item quantity="one">1 aplicação com permissão de utilizar dados com a poupança de dados ligada</item>
     </plurals>
 </resources>
