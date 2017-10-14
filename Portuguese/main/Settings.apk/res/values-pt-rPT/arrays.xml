@@ -38,7 +38,7 @@
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="check_importance_entries">
-        <item>Recomendadas</item>
+        <item>Recomendada</item>
         <item>Importante</item>
         <item>Não importante</item>
     </string-array>
