@@ -151,6 +151,8 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="demo_mode">Modo demonstração</string>
   <string name="description_direction_left">Deslize para a esquerda para %s</string>
   <string name="description_direction_up">Deslize para cima para %s</string>
+  <string name="description_image_button_answer">Atender</string>
+  <string name="description_image_button_reject">Rejeitar</string>
   <string name="description_target_search">Pesquisar</string>
   <string name="disable_notification_summary">Nunca mostrar notificações das aplicações seleccionadas</string>
   <string name="disable_notification_title">Ocultar notificações</string>

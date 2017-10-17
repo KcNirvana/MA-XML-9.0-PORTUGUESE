@@ -696,6 +696,7 @@
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
+  <string name="forbid_autobright_title">Corrigir brilho de ecrã</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
   <string name="forget_password_button_text_normal">Esqueceu a palavra-passe?</string>
@@ -714,7 +715,10 @@
   <string name="game_anti_disturb_msg">Não incomodar Jogos</string>
   <string name="game_booster">Acelerador de jogos</string>
   <string name="game_booster_intro">Acerca do Acelerador de jogos</string>
+  <string name="game_booster_jump_webview">Aguarde…</string>
+  <string name="game_booster_tab_top">Topo</string>
   <string name="game_booster_title">Acelerador de jogos</string>
+  <string name="game_bootser_tab_settings">Definições do acel. de jogos</string>
   <string name="game_improve_text1">Limpar a cache em segundo plano para libertar a memória para jogar</string>
   <string name="game_improve_text2">Limpar a cache em segundo plano para libertar a memória para jogar e melhorar o desempenho do CPU</string>
   <string name="game_improve_title">Optimização de desempenho</string>
@@ -723,7 +727,9 @@
   <string name="game_net_text2">Aumentar a velocidade de ligação do jogo enquanto limita a velocidade de transferências para reduzir o atraso de rede</string>
   <string name="game_net_title">Optimização da velocidade da ligação</string>
   <string name="game_setting">Definições de jogos</string>
-  <string name="gamebooster_main_activity_back">Voltar a Acelerador de jogos</string>
+  <string name="gamebooster_lowbattery_notification_summary">Carreguea a sua bateria antes que desligue</string>
+  <string name="gamebooster_lowbattery_notification_title">A sua bateria é inferior a 5%%</string>
+  <string name="gamebooster_main_activity_back">Voltar</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
@@ -738,8 +744,11 @@
   <string name="gs_app_back_self_start">Poupança de bateria</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
   <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
+  <string name="gs_call_handsfree">Mãos livres</string>
+  <string name="gs_call_handsfree_mute">Modo silêncio</string>
   <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do ecrã inicial. Vá a Segurança &gt; Definições para o restaurar</string>
   <string name="gs_dialog_confirm_close_title">Desligar</string>
+  <string name="gs_forbid_autosync">Restringir sincronização em segundo plano</string>
   <string name="gs_game_disturb_msg">Não incomodar</string>
   <string name="gs_game_duration">Duração</string>
   <string name="gs_game_net_priority">Prioridades de ligação</string>
@@ -802,6 +811,7 @@
   <string name="install_sucess">%s instalado com sucesso</string>
   <string name="install_title">Instalação via USB</string>
   <string name="installing">A instalar</string>
+  <string name="international_Ad">Anúncios</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="intro_improve">Aumente a sua experiência de jogo a nível do sistema</string>
   <string name="intro_skip">Ignorar</string>
@@ -819,6 +829,7 @@
   <string name="keywords_auto_restart">Início automático;Permissões; Gerir início automático</string>
   <string name="keywords_buy_flow">Dados móveis;Comprar dados móveis;Plano de dados</string>
   <string name="keywords_cleanmaster">Lixo;Limpar;Velocidade;Armazenamento;Cache;Limpar armazenamento;Limpar lixo;Limpeza Profunda;Limpeza</string>
+  <string name="keywords_gamebooster">Jogos;acelerador;Glória do Rei;Modo desempenho;Não incomodar</string>
   <string name="keywords_networkassistant_1">Dados;Tráfego</string>
   <string name="keywords_networkassistant_2">Dados;Calibrar</string>
   <string name="keywords_networkassistant_4">Ligação;Internet;Testar</string>
@@ -1037,6 +1048,7 @@ da operadora"</string>
   <string name="name">Nome</string>
   <string name="net_booster">Acelerador de rede</string>
   <string name="net_booster_expire_notification">A sessão do acelerador de rede está a terminar</string>
+  <string name="net_booster_expire_notification_tip">%dd restantes antes da sessão do acelerador de rede terminar. Renove a sessão para evitar problemas de rede</string>
   <string name="net_booster_overdue_notification">A sessão do acelerador de rede está prestes a terminar</string>
   <string name="net_booster_overdue_notification_tip">A sessão do acelerador de rede vai terminar. Renovar a sessão?</string>
   <string name="net_booster_tip">Ligue o acelerador de rede para tornar a ligação Wi-Fi mais estável e reduzir o atraso da rede</string>
@@ -1244,6 +1256,7 @@ do seu dispositivo"</string>
   <string name="path_auto_restart">Aplicações de sistema/Segurança/Permissões/Início automático</string>
   <string name="path_buy_flow">Aplicações de sistema/Segurança/Utilização de dados/Comprar dados móveis</string>
   <string name="path_cleanmaster">Aplicações de sistema/Segurança/Limpeza</string>
+  <string name="path_gamebooster">Aplicações de sistema/Segurança/Acelerador de jogos</string>
   <string name="path_networkassistant_1">Aplicações de sistema/Segurança/Utilização de dados</string>
   <string name="path_networkassistant_2">Aplicações de sistema/Segurança/Utilização de dados</string>
   <string name="path_networkassistant_4">Aplicações de sistema/Segurança/Utilização de dados/Testar rede</string>
@@ -1475,6 +1488,7 @@ do seu dispositivo"</string>
   <string name="resource_auto_restart">Início automático</string>
   <string name="resource_buy_flow">Comprar dados móveis</string>
   <string name="resource_cleanmaster">Limpeza</string>
+  <string name="resource_gamebooster">Acelerador de jogos</string>
   <string name="resource_networkassistant_1">Utilização de dados</string>
   <string name="resource_networkassistant_2">Calibrar plano de dados</string>
   <string name="resource_networkassistant_4">Testar rede</string>
@@ -1861,6 +1875,8 @@ do seu dispositivo"</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
   <string name="text_lock_info">Desenhar padrão de desbloqueio</string>
+  <string name="thermal_tips_message">Jogar no modo desempenho pode levar a sobreaquecimento</string>
+  <string name="thermal_tips_title">Atenção</string>
   <string name="third_application">Aplicações instaladas</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -2037,8 +2053,8 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="virus_ad_icon_text">Anúncios</string>
   <string name="virus_auto_update_engine">Actualizações: %s</string>
   <string name="virus_scan_process_pre">%</string>
-  <string name="virus_update_tips_title">Ligar ao Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">As actualizações são demasiado grandes. Ligue-se ao Wi-Fi para as transferir</string>
+  <string name="virus_update_tips_title">Aviso</string>
+  <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Vai utilizar dados móveis. Continuar?</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
   <string name="website">Website</string>

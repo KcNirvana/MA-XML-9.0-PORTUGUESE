@@ -66,6 +66,7 @@
         <item>Espaço utilizado</item>
         <item>Utilização de dados</item>
         <item>Utilização de bateria</item>
+        <item>Tempo de instalação</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por estado</item>
@@ -74,6 +75,7 @@
         <item>Ordenar por espaço utilizado</item>
         <item>Ordenar por utilização de dados</item>
         <item>Ordenar por utilização de bateria</item>
+        <item>Ordenar por tempo de instalação</item>
     </string-array>    
     <string-array name="title_app_info">
         <item>Origem da instalação</item>

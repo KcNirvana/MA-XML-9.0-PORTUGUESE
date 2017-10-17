@@ -2070,7 +2070,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="memory_media_usage">Multimédia</string>
   <string name="memory_music_usage">Áudio (música, toques, podcasts, etc.)</string>
   <string name="memory_performance">Desempenho</string>
-  <string name="memory_rightvalue">Disponível: %s</string>
+  <string name="memory_rightvalue">Total: %s</string>
   <string name="memory_settings_title">Memória</string>
   <string name="memory_size">Espaço total</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>

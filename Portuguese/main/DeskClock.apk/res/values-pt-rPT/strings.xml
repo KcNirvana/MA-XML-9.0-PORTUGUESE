@@ -166,7 +166,7 @@
   <string name="tomorrow">Amanhã</string>
   <string name="turn_off_a_repeat_alarm">Desligar um alarme repetitivo</string>
   <string name="turn_off_this_repeat_alarm">Desligar este alarme repetitivo</string>
-  <string name="upcoming_alarm"> Próximo alarme</string>
+  <string name="upcoming_alarm">Próximo alarme %s</string>
   <string name="upcoming_alarm_hint">Pode desligar este alarme com antecedência</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>
