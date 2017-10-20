@@ -2309,6 +2309,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Escuro</string>
   <string name="no">Não</string>
+  <string name="no_account_found">Sem aplicações que suportem a adição de contas</string>
   <string name="no_application">Nenhuma</string>
   <string name="no_applications">Não existem aplicações</string>
   <string name="no_battery_summary">Não utilizou bateria desde o último carregamento completo</string>

@@ -1112,25 +1112,9 @@ Nota: Apenas para Ubuntu 8.04!"</item>
        <item>Ficheiros</item>
        <item>Notas</item>
     </string-array>
-    <string-array name="standard_configuration_version_description_primary">
-        <item>CPU</item>
-        <item>Bateria</item>
-        <item>Câmara</item>
-        <item>Ecrã</item>
-        <item>Resolução</item>
-        <item>Android</item>
-    </string-array>
     <string-array name="miracast_policies">
        <item>Rapidez</item>
        <item>Standard</item>
        <item>Qualidade</item>
-    </string-array>
-    <string-array name="standard_configuration_version_description_primary_mi3">
-        <item>CPU</item>
-        <item>Bateria</item>
-        <item>Câmara</item>
-        <item>Ecrã</item>
-        <item>Resolução</item>
-        <item>Android</item>
     </string-array>
 </resources>

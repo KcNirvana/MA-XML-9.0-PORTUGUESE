@@ -559,6 +559,9 @@
   <string name="notification_recommend_title">Notificações importantes</string>
   <string name="notification_setting">Definições das notificações</string>
   <string name="notification_title_no_song">Verifique o que toda a gente anda a ouvir!</string>
+  <string name="nowplaying_circle_style">Tipo de estilo</string>
+  <string name="nowplaying_circle_style_rainbow">Arco-íris</string>
+  <string name="nowplaying_circle_style_wave">Ondas</string>
   <string name="nowplaying_dialog_title_delete_tracks">Limpar a lista de reprodução actual?</string>
   <string name="nowplaying_menu_item_delete">Limpar</string>
   <string name="ok">OK</string>
