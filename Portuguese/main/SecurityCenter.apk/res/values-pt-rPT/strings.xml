@@ -902,12 +902,15 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
   <string name="main_alert_message_open_traffic_ctrl">É recomendada a restrição da utilização de dados</string>
   <string name="main_bill_remained">Saldo</string>
+  <string name="main_button_mi_sim_close">Activar Mi SIM</string>
+  <string name="main_button_mi_sim_open">Ver detalhes</string>
   <string name="main_button_usage_adjust">Sincronizar utilização de dados móveis</string>
   <string name="main_button_usage_adjust_manual">Definir limite de dados</string>
   <string name="main_button_usage_adjusting">A alterar…</string>
   <string name="main_button_usage_adjusting_bill">A alterar…</string>
   <string name="main_button_usage_package_setting">Definir limite de dados</string>
   <string name="main_daily_package">Plano de dados diário</string>
+  <string name="main_indicator_title">A aguardar activação</string>
   <string name="main_leisure_remained">Dados restantes</string>
   <string name="main_month_total_used">Utilizado este mês</string>
   <string name="main_month_used">Plano de dados</string>
@@ -926,6 +929,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
 para calibrar"</string>
   <string name="main_tc_wait_result">"A aguardar uma resposta
 da operadora"</string>
+  <string name="main_tobe_added_desc">Dados móveis desde ¥0.03/MB</string>
   <string name="main_today_used">Utilizado hoje</string>
   <string name="main_toolbar_firewall">Restringir utilização de dados</string>
   <string name="main_toolbar_internet_by_mobiledata">Dados móveis</string>
@@ -1193,7 +1197,7 @@ do seu dispositivo"</string>
   <string name="open_game">Abrir</string>
   <string name="open_now">Permitir que a aplicação utilize dados móveis</string>
   <string name="operator_diagnostic">Diagnósticos da operadora</string>
-  <string name="operator_mi_sim">SIM Mi</string>
+  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -1397,7 +1401,7 @@ do seu dispositivo"</string>
   <string name="pref_key_half_year_package_start">Data de início</string>
   <string name="pref_key_half_year_package_switch">Pacote de dados semestral</string>
   <string name="pref_manual_adjust">Definir utilização de dados</string>
-  <string name="pref_mi_sim_settings">Definições do SIM Mi</string>
+  <string name="pref_mi_sim_settings">Definições do Mi SIM</string>
   <string name="pref_more_settings">Definições adicionais</string>
   <string name="pref_new_installed_preconfig_title">Definições predefinidas para novas aplicações</string>
   <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados diário</string>
@@ -2056,6 +2060,8 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="virus_update_tips_title">Aviso</string>
   <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Vai utilizar dados móveis. Continuar?</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">A ligação de dados está desligada</string>
+  <string name="vpn_unbale_get_phonenum">Não é possível obter números de telefone com os planos de dados atribuídos</string>
   <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
   <string name="website">Website</string>
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com este prefixo às excepções</string>

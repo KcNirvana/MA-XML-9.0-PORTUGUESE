@@ -129,7 +129,7 @@
   <string name="callrecordview_menu_delete_stranger">Eliminar números desconhecidos</string>
   <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
   <string name="callrecordview_menu_ip">Marc. auto. de IP</string>
-  <string name="callrecordview_menu_misim">SIM Mi</string>
+  <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Comprar dados</string>
   <string name="callrecordview_menu_livetalk">Pacote de carregamento</string>
   <string name="callrecordview_menu_paste">Colar</string>

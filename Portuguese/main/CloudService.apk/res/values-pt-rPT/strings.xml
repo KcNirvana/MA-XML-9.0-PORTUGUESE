@@ -554,7 +554,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="vcode">Código de verificação</string>
   <string name="verify">Verificar</string>
   <string name="view_storage_title">Espaço de armazenamento</string>
-  <string name="virtual_sim_desc">Ligue o SIM Mi para localizar o seu dispositivo sem um cartão SIM</string>
+  <string name="virtual_sim_desc">Ligue o Mi SIM para localizar o seu dispositivo sem um cartão SIM</string>
   <string name="voip_choose_sim">Escolher número de telefone para activar o Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
   <string name="wipe_data_dialog_msg">Alguns itens (%s) não estão sincronizados. Vão ser guardados no seu dispositivo e não vão ser eliminados</string>

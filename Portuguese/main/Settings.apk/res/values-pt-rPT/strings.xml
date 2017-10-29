@@ -1801,7 +1801,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="location_agps_pref_reset_type_title">Tipo de reposição preferida</string>
   <string name="location_agps_pref_si_title">Modo preferido</string>
   <string name="location_agps_register_network_type">Acesso ao tipo de rede</string>
-  <string name="location_agps_register_network_type_dialog_summary">Escolher uma rede</string>
   <string name="location_agps_register_network_type_dialog_title">Escolher rede</string>
   <string name="location_agps_register_network_type_summary">Escolher rede para utilização de AGPS</string>
   <string name="location_agps_reset_type">Repor tipos</string>
@@ -3154,7 +3153,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_status_bar_settings_style">Estilo da barra de estadoatalhos;Layout de atalhos;Atalhos separados;Combinado;Separado;Combinar</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Recolher depois de tocar;Recolher;Ocultar</string>
   <string name="search_status_bar_settings_toggle_position">Posição dos atalhos;Atalhos;Atalhos;Alterar atalhos</string>
-  <string name="search_storage_settings">Limpeza;Limpar cache;Cache</string>
+  <string name="search_storage_settings">Armazenamento;Memória</string>
   <string name="search_sync_settings">Sincronização;Auto;Apenas em Wi-Fi</string>
   <string name="search_system_app_settings">Aplicações de sistema</string>
   <string name="search_theme_settings_title">Temas;Tema;Personalização;Personalizar</string>
@@ -4123,7 +4122,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="virtual_keyboard_category">Teclado virtual</string>
   <string name="virtual_sim_category_title">Roaming Mi</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
-  <string name="virtual_sim_global_category_title">SIM Mi</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">Ligar a uma rede de dados sem cartão SIM</string>
   <string name="virtual_sim_global_title">Serviço de dados móveis</string>
   <string name="virtual_sim_title">Rede de dados roaming</string>

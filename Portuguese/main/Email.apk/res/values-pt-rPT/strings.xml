@@ -72,6 +72,7 @@
   <string name="account_setup_basics_email_label">Introduzir ID da conta</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Utilizar a ligação actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
+  <string name="account_setup_basics_mi_mail_login_help">Pode ser necessário autorizar por mensagem de texto a recepção de emails após iniciar sessão na sua Conta Mi</string>
   <string name="account_setup_basics_password_label">Introduzir palavra-passe</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
   <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
@@ -582,6 +583,7 @@
   <string name="meeting_canceled">Cancelado: %s</string>
   <string name="meeting_declined">Recusado: %s</string>
   <string name="meeting_recurring">Quando: %s (recorrente)</string>
+  <string name="meeting_responded_failed">Erro na resposta</string>
   <string name="meeting_tentative">Tentativa: %s</string>
   <string name="meeting_updated">Actualizado: %s</string>
   <string name="meeting_when">Quando: %s</string>
