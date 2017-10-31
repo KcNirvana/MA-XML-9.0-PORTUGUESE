@@ -13,8 +13,10 @@
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Definir um padrão para proteger as suas aplicações</string>
+  <string name="ac_mask_all_apps">Ocultar para todas as aplicações</string>
   <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
+  <string name="ac_unmask_all_apps">Mostrar para todas as aplicações</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Desenhe o seu padrão de desbloqueio para utilizar uma nova imp. digital</string>
   <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a imp. digital</string>
@@ -132,6 +134,8 @@
   <string name="app_manager_app_update">Actualizações</string>
   <string name="app_manager_app_version_name">"Versão: "</string>
   <string name="app_manager_appupdate_remind">Notificar acerca de actualizações</string>
+  <string name="app_manager_as_dlg_msg">Permitir que as aplicações iniciem automaticamente requer RAM e bateria adicional. Permitir mesmo assim?</string>
+  <string name="app_manager_as_dlg_title">Atenção</string>
   <string name="app_manager_back">Voltar</string>
   <string name="app_manager_bipartition">Aplic. clonadas</string>
   <string name="app_manager_card_permission_title">Permissões</string>
@@ -141,6 +145,7 @@
   <string name="app_manager_clear_failed_dlg_message">Não foi possível limpar os dados da aplicação</string>
   <string name="app_manager_clear_failed_dlg_title">Limpar dados</string>
   <string name="app_manager_copy_pkg_to_clip">Copiado para a área de transferências</string>
+  <string name="app_manager_default_cleared">Limpas</string>
   <string name="app_manager_default_close_summary">Sem predefinições definidas</string>
   <string name="app_manager_default_open">Iniciar por predefinição</string>
   <string name="app_manager_default_open_summary">Optou por iniciar esta aplicação por predefinição para algumas acções</string>
@@ -166,11 +171,13 @@
   <string name="app_manager_globel_other_perm_title">Outras permissões</string>
   <string name="app_manager_globel_perm_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
   <string name="app_manager_globel_perm_title">Permissões da aplicação</string>
+  <string name="app_manager_has_not_data">Sem dados</string>
   <string name="app_manager_have_not_consume">Nenhuma</string>
   <string name="app_manager_hide_system_server">Ocultar serviços de sistema</string>
   <string name="app_manager_instruction">Instruções</string>
   <string name="app_manager_loading_data">A carregar dados…</string>
   <string name="app_manager_manage_space">Gerir espaço</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Limpar dados</string>
   <string name="app_manager_net_control_title">Permitir utilização de dados</string>
   <string name="app_manager_net_mobile">Dados móveis</string>
@@ -1049,6 +1056,7 @@ da operadora"</string>
   <string name="monitor_app_more">Mais</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="more_game">Mais jogos</string>
+  <string name="more_lock">Mais</string>
   <string name="name">Nome</string>
   <string name="net_booster">Acelerador de rede</string>
   <string name="net_booster_expire_notification">A sessão do acelerador de rede está a terminar</string>
@@ -1122,8 +1130,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
   <string name="notification_item">Proteger aplicações com o Bloqueio de aplicações</string>
-  <string name="notification_mask_summary">Não mostrar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
+  <string name="notification_mask_summary">Ocultar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
   <string name="notification_mask_title">Ocultar conteúdo</string>
+  <string name="notification_masked_item">Ocultar notificações</string>
+  <string name="notification_masked_subtitle">Ocultar notificações de aplicações protegidas com o Bloqueio de aplicações</string>
   <string name="notification_subtitle">Toque para ligar</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal</string>
@@ -1749,8 +1759,17 @@ do seu dispositivo"</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_game">Iniciar</string>
+  <string name="status_bar_network_flow_content">Hoje: %1$s&amp;nbsp;|&amp;nbsp;Restante: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Hoje: %1$s&amp;nbsp;|&amp;nbsp;&amp;nbsp;Este mês: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;|&amp;nbsp;Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
+  <string name="status_bar_network_flow_today">Hoje: %1$s</string>
   <string name="still_retain_btn">Manter</string>
   <string name="suggest_app_tolock">Sugestões</string>
+  <string name="suggest_app_tolock_masked">Ocultas</string>
+  <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
   <string name="summary_app_lock_disable">Proteger os seus dados com o Bloqueio de aplicações</string>
   <string name="summary_auto_update">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>

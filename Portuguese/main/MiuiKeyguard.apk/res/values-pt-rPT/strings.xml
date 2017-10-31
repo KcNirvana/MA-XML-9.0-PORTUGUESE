@@ -67,7 +67,7 @@
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
-  <string name="input_password_handle_sdcard_fs">Desligar \"Optimização de cartão SD fictício\" em Definições &gt; Definições adicionais &gt; Opções de programador antes de entrar no Segundo espaço</string>
+  <string name="input_password_handle_sdcard_fs">Não é possível entrar no Segundo espaço através do ecrã de bloqueio. Entre pelo Primeiro espaço</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
   <string name="input_pin_code">PIN</string>

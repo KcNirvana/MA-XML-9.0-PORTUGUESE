@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
   <string name="activity_not_found">A aplicação não está instalada no seu dispositivo</string>
   <string name="add_screen">Adicionar ecrã</string>
   <string name="app_already_exist">A aplicação já existe</string>

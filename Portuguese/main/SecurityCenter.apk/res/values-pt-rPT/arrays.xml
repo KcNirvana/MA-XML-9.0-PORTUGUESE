@@ -64,8 +64,6 @@
         <item>Nome da aplicação</item>
         <item>Utilização</item>
         <item>Espaço utilizado</item>
-        <item>Utilização de dados</item>
-        <item>Utilização de bateria</item>
         <item>Data de instalação</item>
     </string-array>
     <string-array name="sort_title">
@@ -73,8 +71,6 @@
         <item>Ordenar por nome da aplicação</item>
         <item>Ordenar por utilização</item>
         <item>Ordenar por espaço utilizado</item>
-        <item>Ordenar por utilização de dados</item>
-        <item>Ordenar por utilização de bateria</item>
         <item>Ordenar por data de instalação</item>
     </string-array>    
     <string-array name="title_app_info">

@@ -206,6 +206,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">"Aguarde %d segundos e tente novamente "</item>
         <item quantity="one">"Aguarde %d segundo e tente novamente "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplicações</item>
+        <item quantity="one">%d aplicação</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicações bloqueadas</item>
         <item quantity="one">%d aplicação bloqueada</item>
@@ -213,6 +217,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <plurals name="number_to_lock">
         <item quantity="other">%d aplicações não bloqueadas</item>
         <item quantity="one">%d aplicação não bloqueada</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d notificações foram ocultas</item>
+        <item quantity="one">%d notificação foi oculta</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notificações estão visíveis</item>
+        <item quantity="one">%d notificação está vísivel</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d aplicações</item>
