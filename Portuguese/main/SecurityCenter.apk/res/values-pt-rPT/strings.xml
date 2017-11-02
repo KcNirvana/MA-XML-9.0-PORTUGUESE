@@ -75,6 +75,7 @@
   <string name="adjust_traffic_data">Definir utilização de dados</string>
   <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
   <string name="all_address_choose_hint">Todos os números nesta área</string>
+  <string name="already_close_gamebooster">O acelerador de jogos está desligado</string>
   <string name="anim_gamebooster_text">Aguarde…</string>
   <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
   <string name="anti_disturb_msg_title">Não incomodar</string>
@@ -398,6 +399,7 @@
   <string name="blacklist_prefix_add_hint">Bloquear todos os números que comecem com este prefixo</string>
   <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_stop">Desligar acelerador</string>
   <string name="boost_done">Aumentado com sucesso</string>
   <string name="booster_immediately">Aumentar</string>
   <string name="booster_suc">Aumentado com sucesso</string>
@@ -569,6 +571,8 @@
   <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
   <string name="data_usage_warning_title">Aviso de utilização de dados</string>
   <string name="data_usage_warning_title_notify">Passou o limite de utilização de dados</string>
+  <string name="databooster_tips_message">Ligar para restringir todos os cartões SIM except o de dados. Desligue esta funcionalidade se ocorrerem erros nos seus jogos</string>
+  <string name="databooster_tips_title">Atenção</string>
   <string name="declaration_dialog_msg">Esta funcionalidade pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador</string>
   <string name="deep_clean_disconnect_data_title">Desligar dados móveis quando o dispositivo estiver bloqueado</string>
   <string name="deep_clean_memory_clean_title">Limpar cache quando o dispositivo estiver bloqueado</string>
@@ -703,6 +707,7 @@
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
+  <string name="forbid_autobright_summary">O brilho do ecrã vai-se manter enquanto estiver a jogar</string>
   <string name="forbid_autobright_title">Corrigir brilho de ecrã</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
@@ -721,6 +726,7 @@
   <string name="fw_blocked_join">" e "</string>
   <string name="game_anti_disturb_msg">Não incomodar Jogos</string>
   <string name="game_booster">Acelerador de jogos</string>
+  <string name="game_booster_close">Acelerador de jogos desligado</string>
   <string name="game_booster_intro">Acerca do Acelerador de jogos</string>
   <string name="game_booster_jump_webview">Aguarde…</string>
   <string name="game_booster_tab_top">Topo</string>
@@ -2100,6 +2106,8 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wlan_booster">Optimização Wi-Fi</string>
   <string name="wlan_change_protection_detail">Não trocar para Wi-Fi automaticamente quando ligado a dados móveis</string>
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
+  <string name="xunyou_net_booster">Acelerador de rede</string>
+  <string name="xunyou_net_booster_detail">Utilizar o acelerador de rede Xunyou para jogos</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
   <string name="xunyou_server_expired">A sessão expirou</string>
 </resources>

@@ -2448,7 +2448,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_page2_small_title">Muito pequeno</string>
   <string name="page_layout_page2_title">Pré-visualizar</string>
   <string name="page_layout_small_title">Muito pequeno</string>
-  <string name="palm_enabled">Tape o ecrã para o desligar</string>
   <string name="paper_mode_auto_twilight_summary">Trocar automaticamente para o Modo de Leitura após o pôr do sol</string>
   <string name="paper_mode_auto_twilight_title">Leitura nocturna</string>
   <string name="paper_mode_customize_time_summary">Ligar o Modo de Leitura por um período personalizado</string>
@@ -3696,7 +3695,6 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="supl_not_set">&lt;Não definido&gt;</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="sure_sync_now">Sincronizar itens agora?</string>
-  <string name="suspend_gesture_enabled">Vire o ecrã do telefone para o desligar</string>
   <string name="suspension_ball_enable">Atalho do menu flutuante</string>
   <string name="suspension_ball_enable_desc">Ligar/desligar o menu flutuante utilizando o atalho</string>
   <string name="suw_back_button_label">Voltar</string>

@@ -37,8 +37,8 @@
         <item quantity="one">%d item importado e restaurado</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d itens importados, "</item>
-        <item quantity="one">"%d item importado, "</item>
+        <item quantity="other">"%d itens importados "</item>
+        <item quantity="one">"%d item importado "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">%d itens necessitam de ser importados novamente</item>
