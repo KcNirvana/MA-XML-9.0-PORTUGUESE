@@ -107,7 +107,7 @@
     <plurals name="delete_media_from_this_album_and_cloud_msg">
         <item quantity="other">Eliminar %d itens deste álbum e Mi Cloud?</item>
         <item quantity="one">Eliminar %d item deste álbum e Mi Cloud?</item>
-    </plurals>        
+    </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d itens)</item>
         <item quantity="one">(%d item)</item>
