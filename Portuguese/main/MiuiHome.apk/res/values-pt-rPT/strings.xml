@@ -51,7 +51,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">As aplicações clonadas vão ser desinstaladas juntamente com estas</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">A aplicação clonada vai ser desinstalada juntamente com esta</string>
-  <string name="confirm_uninstall_dialog_title">A aplicação clonada correspondente vai ser removida</string>
+  <string name="confirm_uninstall_dialog_title">As aplicações clonadas vão ser desinstaladas</string>
   <string name="current_preview">Pré-visualizar</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Explorar</string>

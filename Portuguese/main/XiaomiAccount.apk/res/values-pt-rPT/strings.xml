@@ -27,7 +27,7 @@
   <string name="account_none_binded_info">Nenhum</string>
   <string name="account_none_binded_secure_phone">Sem número de telefone</string>
   <string name="account_none_user_name">Nenhum</string>
-  <string name="account_notification_message">O ID da Conta Mi expirou. Inicie sessão novamente</string>
+  <string name="account_notification_message">A sessão expirou. Inicie sessão novamente</string>
   <string name="account_protection">Protecção de conta</string>
   <string name="account_protection_off">Desligada</string>
   <string name="account_protection_on">Ligada</string>
@@ -171,7 +171,7 @@
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
-  <string name="no_response_retry">Sem resposta. Por favor, repita</string>
+  <string name="no_response_retry">Sem resposta. Tente novamente</string>
   <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
   <string name="nobind">Não associada</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>

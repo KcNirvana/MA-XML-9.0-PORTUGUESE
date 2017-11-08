@@ -138,5 +138,6 @@ Tente novamente dentro de %d segundos"</string>
   <string name="unlockscreen_low_battery">Ligar carregador</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">A carregar %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Soltar para ver detalhes</string>
   <string name="wrong_password">Palavra-passe incorrecta</string>
 </resources>

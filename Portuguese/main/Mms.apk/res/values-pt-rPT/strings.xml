@@ -128,6 +128,7 @@
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
+  <string name="dialog_message_sms_report">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar. Apenas vão ser utilizadas para melhorar os filtros de spam da MIUI</string>
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir da aplicação de mensagens predefinida?</string>
   <string name="disabled">Desligado</string>
   <string name="discard">Rejeitar</string>
@@ -379,7 +380,7 @@
   <string name="pref_hide_verification_code_summary">Ocultar automaticamente OTP nas notificações de mensagens no bloqueio de ecrã com segurança</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
   <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
-  <string name="pref_msg_trash_bin_title">Mensagens eliminadas recentemente</string>
+  <string name="pref_msg_trash_bin_title">Mensagens eliminadas</string>
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Definições adicionais</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
@@ -392,6 +393,7 @@
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
+  <string name="pref_summary_allow_upload_message_info">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar</string>
   <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
@@ -561,6 +563,7 @@
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>
   <string name="sms_rejected_body">A mensagem de texto a receber foi rejeitada</string>
   <string name="sms_rejected_title">A mensagem de texto foi rejeitada</string>
+  <string name="sms_report">Reportar mensagens de spam</string>
   <string name="sms_report_dialog_content">Não foi possível enviar relatório. Tente novamente</string>
   <string name="sms_report_dialog_retry">Tente novamente</string>
   <string name="sms_report_dialog_title">Tentar novamente</string>

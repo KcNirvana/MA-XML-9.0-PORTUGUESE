@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
-  <string name="account_info">Eu</string>
+  <string name="account_info">A minha conta</string>
   <string name="account_name_not_login">Iniciar sessão</string>
   <string name="account_unactivated">Conta não activada</string>
   <string name="ad_app_download_start">A iniciar transferência…</string>
@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Papéis de parede</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
-  <string name="current_version_incompatible">Versão incompatível</string>
+  <string name="current_version_incompatible">Tema incompatível</string>
   <string name="deleting">A eliminar…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Desenhador</string>
@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
   <string name="gift_use_fail_dlg_title">Erro</string>
   <string name="gift_used">Enviar</string>
-  <string name="hide_free">"Ocultar gratuitos "</string>
-  <string name="hide_incompatible">"Ocultar incompatíveis "</string>
+  <string name="hide_free">Ocultar temas gratuitos</string>
+  <string name="hide_incompatible">Ocultar temas incompatíveis</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>
@@ -150,7 +150,7 @@
   <string name="online_precust_tiny">Pequenos</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
   <string name="present_local_themes">Os meus temas</string>
-  <string name="present_official_themes">Selecção oficial</string>
+  <string name="present_official_themes">As nossas escolhas</string>
   <string name="present_online_themes">Obter mais temas online</string>
   <string name="provision_default_theme_title">Predefinido</string>
   <string name="provision_loading_tips">Aguarde…</string>

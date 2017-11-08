@@ -164,7 +164,7 @@
   <string name="encrypt_success">Ocultados com sucesso</string>
   <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Explorador</string>
   <string name="encrypting">A encriptar…</string>
-  <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra directoria e tente novamente</string>
+  <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra pasta e tente novamente</string>
   <string name="error_create_dir">Não foi possível criar pasta</string>
   <string name="error_create_file">Não foi possível criar ficheiro</string>
   <string name="error_delete_failed">Não foi possível eliminar ficheiro</string>
@@ -174,6 +174,13 @@
   <string name="error_invalid_path">Caminho incorrecto</string>
   <string name="error_not_support">Não suportado</string>
   <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção</string>
+  <string name="exo_controls_fastforward_description">Avanço rápido</string>
+  <string name="exo_controls_next_description">Música seguinte</string>
+  <string name="exo_controls_pause_description">Pausar</string>
+  <string name="exo_controls_play_description">Reproduzir</string>
+  <string name="exo_controls_previous_description">Música anterior</string>
+  <string name="exo_controls_rewind_description">Rebobinar</string>
+  <string name="exo_controls_stop_description">Parar</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
@@ -252,7 +259,7 @@
   <string name="login_account_bind_title">Adicionar uma conta de outra aplicação</string>
   <string name="login_account_bind_wx">Utilizar WeChat</string>
   <string name="login_account_bind_xm">Utilizar Conta Mi</string>
-  <string name="login_expired">Sessão expirada. Inicie sessão novamente</string>
+  <string name="login_expired">A sessão expirou. Inicie sessão novamente</string>
   <string name="login_failed_tip">Não foi possível iniciar sessão. Tente novamente mais tarde</string>
   <string name="login_success_tip">Sessão iniciada</string>
   <string name="make_private">Ocultar</string>
@@ -298,7 +305,7 @@
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
   <string name="mtp_device">Dispositivo multimédia (MTP)</string>
   <string name="mtp_label">MTP</string>
-  <string name="name_empty">Deve introduzir um nome</string>
+  <string name="name_empty">Introduzir nome</string>
   <string name="need_read_storage_permission">Explorador necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
   <string name="network_dialog_checkbox_tip">Não mostrar novamente</string>
   <string name="network_not_available">Não é possível ligar à rede</string>

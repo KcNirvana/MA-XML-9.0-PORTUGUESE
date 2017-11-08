@@ -1626,7 +1626,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="install_applications_title">Permitir todas as fontes de aplicações</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>
   <string name="install_no_market_app_title">Verificar aplicações de terceiros</string>
-  <string name="install_preinstall_app">A carregar aplicações…</string>
+  <string name="install_preinstall_app">A trocar região…</string>
   <string name="install_text">Instalar</string>
   <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
@@ -1851,7 +1851,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_screen_notifications_summary_hide">Mostra todas as notificações mas oculta o conteúdo</string>
   <string name="lock_screen_notifications_summary_show">Mostra todas as notificações e o seu conteúdo</string>
   <string name="lock_screen_notifications_title">Com o dispositivo bloqueado</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Palavra-passe exigida imediatamente</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nunca exigir palavra-passe</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Exigir palavra-passe imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">Palavra-passe exigida em %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
   <string name="lock_screen_signature_summary">Mostrar mensagem no ecrã de bloqueio</string>
@@ -2375,10 +2376,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Fechar</string>
-  <string name="open_personal_assistant_dialog_desc">Não vai poder utilizar os Cartões rápidos e receber as actualizações. Desligar agora?</string>
-  <string name="open_personal_assistant_dialog_title">Desligar Cartões rápidos</string>
-  <string name="open_personal_assistant_title">Ligar Cartões rápidos</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Desligar</string>
+  <string name="open_personal_assistant_dialog_desc">Não vai poder utilizar o Assistente e receber as actualizações. Desligar agora?</string>
+  <string name="open_personal_assistant_dialog_title">Desligar Assistente</string>
+  <string name="open_personal_assistant_title">Ligar Assistente</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Este perfil de trabalho é gerido por:</string>
@@ -2486,6 +2487,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>
   <string name="physical_keyboard_title">Teclado físico</string>
+  <string name="pick_up_gesture_wakeup_title">Escolha um gesto para ligar</string>
   <string name="pico_installed">Instalado</string>
   <string name="pico_languages_and_voices">Linguagens e vozes</string>
   <string name="pico_not_installed">Não instalado</string>
@@ -2536,7 +2538,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_usage_summary_title">Bateria e desempenho</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
-  <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
+  <string name="pref_button_light_summary">Ligar luz dos botões Menu, %1$ e Voltar</string>
+  <string name="pref_button_light_summary_sub">Início</string>
   <string name="pref_edge_handgrip">Definições do limite</string>
   <string name="pref_operational_key">Botões de navegação</string>
   <string name="pref_volume_launch_camera_summary">Premir duas vezes o botão Volume Menos para iniciar a câmara</string>

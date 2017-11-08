@@ -91,7 +91,7 @@
   <string name="antivirus_choose_engine_title">Definições</string>
   <string name="antivirus_longtime_no_update">As suas definições de vírus estão desactualizadas. Permitir que Segurança se ligue à Internet e actualize as definições de vírus?</string>
   <string name="antivirus_longtime_no_update1">As suas definições de vírus estão desactualizadas. Actualize as definições e tente novamente</string>
-  <string name="antivirus_main_activity_back">Voltar da verificação de segurança</string>
+  <string name="antivirus_main_activity_back">Voltar</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Eliminar aplicações em risco</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Eliminar vírus</string>
   <string name="antivirus_monitor_clean_tips">Itens eliminados: %s</string>
@@ -124,6 +124,8 @@
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
   <string name="app_maanger_app_uninstalled_toast">Esta aplicação foi desinstalada</string>
+  <string name="app_manager_advanced_setting">Definições avançadas</string>
+  <string name="app_manager_allow">Sim</string>
   <string name="app_manager_app_ifno_version">"Versão "</string>
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
@@ -148,7 +150,6 @@
   <string name="app_manager_copy_pkg_to_clip">Copiado para a área de transferências</string>
   <string name="app_manager_default_cleared">Limpas</string>
   <string name="app_manager_default_close_summary">Sem predefinições definidas</string>
-  <string name="app_manager_default_open">Iniciar por predefinição</string>
   <string name="app_manager_default_open_summary">Optou por iniciar esta aplicação por predefinição para algumas acções</string>
   <string name="app_manager_default_open_title">Limpar predefinições</string>
   <string name="app_manager_defaults_setting">Predefinições</string>
@@ -160,6 +161,7 @@
   <string name="app_manager_disable_dlg_title">Desactivar aplicação?</string>
   <string name="app_manager_disable_text">Desactivar</string>
   <string name="app_manager_disabled">Desactivada</string>
+  <string name="app_manager_disabled_by_admin">Desactivada pelo administrador</string>
   <string name="app_manager_dlg_cancel">Cancelar</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_enable_text">Activar</string>
@@ -175,6 +177,7 @@
   <string name="app_manager_has_not_data">Sem dados</string>
   <string name="app_manager_have_not_consume">Nenhuma</string>
   <string name="app_manager_hide_system_server">Ocultar serviços de sistema</string>
+  <string name="app_manager_install_other_app">Instalar aplicações de fontes desconhecidas</string>
   <string name="app_manager_instruction">Instruções</string>
   <string name="app_manager_loading_data">A carregar dados…</string>
   <string name="app_manager_manage_space">Gerir espaço</string>
@@ -183,6 +186,7 @@
   <string name="app_manager_net_control_title">Permitir utilização de dados</string>
   <string name="app_manager_net_mobile">Dados móveis</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">Não</string>
   <string name="app_manager_not_record">Sem aplicações que necessitem de permissões</string>
   <string name="app_manager_notify_bar">Ícones</string>
   <string name="app_manager_notify_floating">Flutuantes</string>
@@ -210,7 +214,7 @@
 
  "&lt;li&gt;Aplicações desactivadas&lt;/li&gt;"
  "&lt;li&gt;Notificações desactivadas da aplicação&lt;/li&gt;"
- "&lt;li&gt;Aplicações predefinidas para acções&lt;/li&gt;"
+ "&lt;li&gt;Aplicações predefinidas&lt;/li&gt;"
  "&lt;li&gt;Restrições em segundo plano das aplicações&lt;/li&gt;"
 
  Nai vai perder dados das aplicações"</string>
@@ -591,6 +595,7 @@
   <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
   <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
   <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
+  <string name="dialog_no_longer_alert">Não mostrar novamente</string>
   <string name="dialog_roaming_message">Permitir que esta aplicação utilize dados móveis em roaming?</string>
   <string name="dialog_roaming_title">Dados em roaming</string>
   <string name="dialog_text">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
@@ -1555,12 +1560,12 @@ do seu dispositivo"</string>
   <string name="safe_result_item_info_system_scan">Monitorização dos pagamentos está ligada</string>
   <string name="safe_result_item_info_system_version">A versão MIUI está actualizada</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
-  <string name="safepay_alert_dialog_button_risk">Corrigir</string>
+  <string name="safepay_alert_dialog_button_fix">Corrigir</string>
   <string name="save_energy_text">Restringir início automático e sincronização das aplicações em segundo plano para obter o máximo de bateria</string>
   <string name="save_energy_title">Optimizar bateria</string>
   <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
-  <string name="sc_system_risk_fix_info_xspace">O risco não pode ser corrigido no Segundo espaço. Troque para o Primeiro espaço para o corrigir</string>
+  <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>
   <string name="scan_installed_games">A verificar jogos instalados…</string>
   <string name="scan_status_risk">Perigoso</string>
   <string name="scan_status_safe">Seguro</string>
@@ -1622,7 +1627,9 @@ do seu dispositivo"</string>
   <string name="sms_stranger_block">Bloquear SMS de desconhecidos</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Está ligado a uma rede pública Wi-Fi que pode ser insegura. Certifique-se que o seu pagamento está protegido antes de o concluir</string>
   <string name="sp_background_risk_dialog_title">Atenção</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi</string>
   <string name="sp_background_risk_type_messaging">A aplicação de mensagens do sistema foi substituída</string>
   <string name="sp_background_risk_type_root">O sistema está com root</string>
   <string name="sp_background_risk_type_sign">Uma aplicação não oficial está em execução</string>
@@ -2083,7 +2090,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="virus_auto_update_engine">Actualizações: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Aviso</string>
-  <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Vai utilizar dados móveis. Continuar?</string>
+  <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">A ligação de dados está desligada</string>
   <string name="vpn_unbale_get_phonenum">Não é possível obter números de telefone com os planos de dados atribuídos</string>
