@@ -2537,8 +2537,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_usage_summary_title">Bateria e desempenho</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
-  <string name="pref_button_light_summary">Ligar luz dos botões Menu, %1$ e Voltar</string>
-  <string name="pref_button_light_summary_sub">Início</string>
+  <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
   <string name="pref_edge_handgrip">Definições do limite</string>
   <string name="pref_operational_key">Botões de navegação</string>
   <string name="pref_volume_launch_camera_summary">Premir duas vezes o botão Volume Menos para iniciar a câmara</string>
