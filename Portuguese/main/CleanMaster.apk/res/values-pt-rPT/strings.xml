@@ -149,9 +149,9 @@
   <string name="dialog_msg_add_white_list_error">Não é possível adicionar este ficheiro às excepções</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirme para seleccionar %1$s que contém %2$d itens</string>
-  <string name="dialog_msg_esc_cleanmaster">Parar a verificação de limpeza em curso?</string>
+  <string name="dialog_msg_esc_cleanmaster">Parar a limpeza e sair?</string>
   <string name="dialog_msg_load_cleanup_engine_error">O motor de limpeza foi interrompido devido a um erro</string>
-  <string name="dialog_msg_stop_scan">Parar a verificação em curso?</string>
+  <string name="dialog_msg_stop_scan">Parar a verificação?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estas aplicações?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estas aplicações incluindo aplicações clonadas?</string>
   <string name="dialog_ok_add_white_list_error">Percebi</string>

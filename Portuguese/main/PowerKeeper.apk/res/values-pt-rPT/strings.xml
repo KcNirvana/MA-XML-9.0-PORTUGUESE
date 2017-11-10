@@ -83,7 +83,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="new_group_name">Modo Personalizado</string>
   <string name="no_applications">Vazio</string>
   <string name="none">Sem processos</string>
-  <string name="nonui_mode_config_description">Não liga o ecrã para notificações, desliga a luz de notificações e os controlos de toque quando o dispositivo está no bolso</string>
+  <string name="nonui_mode_config_description">Não liga o ecrã para notificações, desliga a luz de notificações e os controlos de toque quando o não estiver a utilizar o dispositivo</string>
   <string name="nonui_mode_config_title">Modo Não-Interactivo</string>
   <string name="normal">Modo Predefinido</string>
   <string name="operation_create_group">Nome</string>

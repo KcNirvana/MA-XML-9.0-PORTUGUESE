@@ -1111,7 +1111,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
   <string name="device_admin_title">Administração do dispositivo</string>
   <string name="device_admin_warning">A activação deste administrador vai permitir que a aplicação %1$s execute as seguintes operações:</string>
-  <string name="device_available_memory">Memória disponível</string>
+  <string name="device_available_memory">Armazenamento disponível</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número de versão</string>
   <string name="device_complete_parameters">Especificações</string>
@@ -1147,7 +1147,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
   <string name="device_status_summary">Número de telefone, sinal, etc.</string>
-  <string name="device_total_memory">Memória total</string>
+  <string name="device_total_memory">Armazenamento total</string>
   <string name="dial_pad_tones_title">Sons do teclado</string>
   <string name="dial_application_title">Telefone</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
@@ -2487,7 +2487,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>
   <string name="physical_keyboard_title">Teclado físico</string>
-  <string name="pick_up_gesture_wakeup_title">Escolha um gesto para ligar</string>
   <string name="pico_installed">Instalado</string>
   <string name="pico_languages_and_voices">Linguagens e vozes</string>
   <string name="pico_not_installed">Não instalado</string>
@@ -3286,7 +3285,7 @@ Para utilizar a fixação no ecrã:
   <string name="settings_backup">Definições das cópias de segurança</string>
   <string name="settings_backup_summary">Fazer cópias das definições</string>
   <string name="settings_button">Definições</string>
-  <string name="settings_forbidden_message">Esta definição está desactivada</string>
+  <string name="settings_forbidden_message">Esta definição está restricta</string>
   <string name="settings_label">Definições</string>
   <string name="settings_label_launcher">Definições</string>
   <string name="settings_license_activity_loading">A carregar…</string>

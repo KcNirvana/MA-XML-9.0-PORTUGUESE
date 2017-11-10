@@ -387,7 +387,7 @@
   <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
   <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Armazenamento interno</string>
+  <string name="phone">Dispositivo</string>
   <string name="phone_bind_skip">Ignorar</string>
   <string name="phone_bind_tip">Adicionar número de telefone para ganhar prémios</string>
   <string name="phone_bind_title">Adicionar número de telefone</string>
@@ -470,6 +470,7 @@
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Fotos</string>
   <string name="search_file_type_video">Vídeo</string>
+  <string name="search_guid_hint">Pesquisar ficheiros</string>
   <string name="search_hint">Pesquisar</string>
   <string name="search_history">Pesquisar histórico</string>
   <string name="search_hot_sticker">Stickers; Transferir stickers</string>

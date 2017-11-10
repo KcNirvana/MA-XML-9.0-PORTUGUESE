@@ -48,7 +48,7 @@
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_preference_add_account">Adicionar conta</string>
-  <string name="account_settings_preference_att_save_path">Localização predefinida para anexos</string>
+  <string name="account_settings_preference_att_save_path">Localização predefinida dos anexos</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Notificar</string>
   <string name="account_settings_retry_label">Tentativa de sincronização</string>
@@ -434,7 +434,7 @@
   <string name="feedback_user_edit_tag">De MIUI </string>
   <string name="fetching_attachment">A obter anexo</string>
   <string name="file_defailt_save_path">Os anexos vão ser guardados na pasta %s por defeito. Pode alterar a pasta nas Definições</string>
-  <string name="file_default_save_path_title">Localização predefinida para anexos</string>
+  <string name="file_default_save_path_title">Localização predefinida dos anexos</string>
   <string name="file_deleted_success">Ficheiro eliminado</string>
   <string name="file_not_found">Não foi possível encontrar o ficheiro</string>
   <string name="file_not_found_redownload">Não foi possível encontrar o ficheiro</string>
@@ -964,7 +964,7 @@
   <string name="system_folders_trash_dlg">Seleccione a pasta de lixo do servidor</string>
   <string name="system_folders_trash_summary">Seleccione a pasta de lixo do servidor</string>
   <string name="system_folders_trash_title">Pasta lixo</string>
-  <string name="system_root_path">Definições de armazenamento interno</string>
+  <string name="system_root_path">Armazenamento interno</string>
   <string name="system_security_open_error">Para ajustar definições de segurança, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="system_setup_open_error">Desligar a sincronização de Email nas Definições</string>
   <string name="tablet">tablet</string>
