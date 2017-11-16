@@ -230,7 +230,7 @@
   <string name="handsome_boy">Masculino</string>
   <string name="has_installed">Instalado</string>
   <string name="homepage_tab_category">Categorias</string>
-  <string name="homepage_tab_file_view_phone">Armazenamento</string>
+  <string name="homepage_tab_file_view_phone">Dispositivo</string>
   <string name="homepage_tab_recent">Recentes</string>
   <string name="hot_comments">Comentários em destaque</string>
   <string name="hot_sticker">Stickers</string>
@@ -387,7 +387,7 @@
   <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
   <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Dispositivo</string>
+  <string name="phone">Armazenamento interno</string>
   <string name="phone_bind_skip">Ignorar</string>
   <string name="phone_bind_tip">Adicionar número de telefone para ganhar prémios</string>
   <string name="phone_bind_title">Adicionar número de telefone</string>

@@ -203,7 +203,7 @@
   <string name="onscreen_add_call_text">Adicionar chamada</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conferência</string>
-  <string name="onscreen_audio_mode_handset">Mãos livres</string>
+  <string name="onscreen_audio_mode_handset">Fones de ouvido</string>
   <string name="onscreen_audio_mode_headset">Auriculares</string>
   <string name="onscreen_audio_mode_speaker">Alta voz</string>
   <string name="onscreen_audio_switch_mode">Trocar áudio</string>

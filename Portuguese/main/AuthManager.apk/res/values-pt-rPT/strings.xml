@@ -69,7 +69,7 @@
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder à aplicação Telefone</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizar e terminar chamadas</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">atender, monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_read_notification_sms">SMS de serviços</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">ler SMS de serviços</string>
   <string name="HIPS_Perm_service_foreground">Serviços em primeiro plano</string>
@@ -85,7 +85,7 @@
   <string name="Su_Package_Forbidden2">não tem acesso root</string>
   <string name="app_name">Gestor de Permissões</string>
   <string name="current_permission_template">%1$s de %2$s</string>
-  <string name="default_permission_description">executar uma acção desconhecida</string>
+  <string name="default_permission_description">executar acções desconhecidas</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="location_settings">Definições de localização</string>
@@ -100,6 +100,6 @@
   <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s</string>
   <string name="screen_overlay_button">Abrir definições</string>
-  <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
+  <string name="screen_overlay_message">Para alterar esta permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
 </resources>

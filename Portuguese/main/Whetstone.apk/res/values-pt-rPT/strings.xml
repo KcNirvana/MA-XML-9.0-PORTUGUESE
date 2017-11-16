@@ -3,6 +3,4 @@
   <string name="app_name">Whetstone</string>
   <string name="permstep_description">Permitir que a aplicação leia as informações dos passos do seu telefone</string>
   <string name="permstep_label">ler passos</string>
-  <string name="whetstone_accessibility_desc">Função de assistência Whetstone</string>
-  <string name="whetstone_accessibility_label">Serviço de assistência Whetstone</string>
 </resources>

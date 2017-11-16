@@ -210,7 +210,7 @@
   <string name="cloudfolder_contain_invalidate_char">"O nome do álbum não pode conter '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
-  <string name="collage_choose">Escolher</string>
+  <string name="collage_choose">Seleccionar</string>
   <string name="collage_margin_text">Margens</string>
   <string name="collage_mirror">Espelho</string>
   <string name="collage_poster_global_cat_text">Animais domésticos</string>

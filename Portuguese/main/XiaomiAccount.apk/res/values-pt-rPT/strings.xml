@@ -216,7 +216,7 @@ Para activar a sua conta siga o
   <string name="passport_copy_message_text_success">Copiado com sucesso</string>
   <string name="passport_copy_message_vcode">Copiar código</string>
   <string name="passport_delete_account">Terminar sessão</string>
-  <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
+  <string name="passport_downlink_reg">Número de telefone</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>

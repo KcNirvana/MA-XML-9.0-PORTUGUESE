@@ -20,6 +20,7 @@
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>
+  <string name="autofill">Preenchimento automático</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Desinstalar</string>
   <string name="button_text_delete_timer">Desinstalar (%d)</string>

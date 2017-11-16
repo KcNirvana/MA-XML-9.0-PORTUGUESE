@@ -177,6 +177,8 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="public_app">Ambos os espaços</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
   <string name="remove_second_space_msg">Todos os dados das aplicações do Segundo espaço vão ser perdidas após eliminar o Segundo espaço. Eliminar o Segundo espaço?</string>
+  <string name="remove_user_click_message">"*Se não tem itens importantes no Segundo espaço, %s"</string>
+  <string name="remove_user_click_message_action">pode eliminar o Segundo espaço e reiniciar o seu dispositivo</string>
   <string name="removingSpace">A eliminar…</string>
   <string name="repeat_scanner_fingerprint">Adicionar novamente</string>
   <string name="reset_passwd_success">Reposição de palavra-passe com sucesso</string>
@@ -197,7 +199,14 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="scanner_fingerprint_tips_desc">Seleccionar uma impressão digital existente para entrar no Segundo espaço. Não vai poder utilizá-la no Primeiro espaço</string>
   <string name="scanner_fingerprint_tips_title">Ir para o Segundo espaço através de impressão digital</string>
   <string name="scanner_second_space_fingerprint">Digitalizar impressão digital do Segundo espaço</string>
-  <string name="sdcardfs_dialog_message">Os seus dados podem ser incompatíveis com o novo sistema de ficheiros. Optimize os dados antes de entrar no Segundo espaço</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 tem um novo sistema de ficheiros. Os seus dados antigos podem ser incompatíveis. Para resolver este problema, siga os passos para instalar uma actualização. O seu dispositivo vai reiniciar duas vezes durante a instalação</string>
+  <string name="sdcardfs_dialog_title">Actualização importante</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 tem um novo sistema de ficheiros. Os seus dados antigos podem ser incompatíveis. Para actualizar, mova os dados do Segundo espaço, reinicie o seu dispositivo e crie o Segundo espaço novamente.
+Se não actualizar, as aplicações clonadas podem não funcionar correctamente também"</string>
+  <string name="sdcradfs_dialog_in_owner_title">Segundo espaço</string>
+  <string name="sdcradfs_dialog_in_sec_message">Para actualizar, deve eliminar o Segundo espaço e criá-lo novamente. Mova os dados do Segundo espaço para o Primeiro e reinicie o seu dispositivo.
+Se não actualizar, as aplicações clonadas podem não funcionar correctamente também"</string>
+  <string name="sdcradfs_dialog_in_sec_title">Actualização importante</string>
   <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
   <string name="search_result_text">Não foi possível encontrar aplicações</string>
   <string name="secondSpace">Segundo espaço</string>
