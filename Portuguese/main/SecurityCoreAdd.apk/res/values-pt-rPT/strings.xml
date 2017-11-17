@@ -251,6 +251,7 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="show_private_msg_summary">Mostrar mensagens privadas no Segundo espaço</string>
   <string name="skip">Ignorar</string>
   <string name="spaceSetting">Definições</string>
+  <string name="space_created_success">Segundo espaço criado com sucesso</string>
   <string name="space_deleted">Este espaço foi eliminado</string>
   <string name="space_des_default">Espaço isolado com dados encriptados</string>
   <string name="space_finger_sub_text">Definir uma imp. digital do Segundo espaço para trocar mais rápido</string>

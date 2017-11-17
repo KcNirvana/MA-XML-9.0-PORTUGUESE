@@ -898,7 +898,7 @@
   <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a requisitos de segurança</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
-  <string name="select_path">Seleccionar caminho</string>
+  <string name="select_path">Seleccionar pasta</string>
   <string name="send">Enviar</string>
   <string name="send_failed">A mensagem não foi enviada</string>
   <string name="send_feed_back">Enviar comentários</string>
