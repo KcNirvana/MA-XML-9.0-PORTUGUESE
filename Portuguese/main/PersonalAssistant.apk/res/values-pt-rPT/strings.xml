@@ -36,6 +36,7 @@
   <string name="agenda_settings_credit">Mostrar contas do cartão de crédito</string>
   <string name="agenda_settings_elecbill">Mostrar contas de gás e electricidade</string>
   <string name="agenda_settings_loan">Mostar pagamento de empréstimos</string>
+  <string name="alipay_scan">Digitalizador</string>
   <string name="app_label">Assistente</string>
   <string name="apps">Sugestões da aplicação</string>
   <string name="apps_label">Aplicações</string>
@@ -89,6 +90,7 @@
   <string name="cleanup_garbage">Limpeza</string>
   <string name="cleanup_memory">Limpar cache</string>
   <string name="cleanup_power">Limp. prof.</string>
+  <string name="function_tools_parent">Ferramentas</string>
   <string name="clear">Limpar</string>
   <string name="closed">Desligado</string>
   <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
@@ -353,6 +355,7 @@
   <string name="req_no_sdata">"Couldn't find results"</string>
   <string name="retry">Tente novamente</string>
   <string name="scan">Digitalizar</string>
+  <string name="scan_app">Digitalizador</string>
   <string name="scan_card">Cartões</string>
   <string name="scan_code">Códigos QR</string>
   <string name="scan_doc">Documentos</string>
@@ -479,6 +482,7 @@
   <string name="stock_web_bottom_btn">Open</string>
   <string name="stock_web_bottom_text">Open the client to view more info</string>
   <string name="stock_web_lable">Stocks</string>
+  <string name="study_parent">Documentos</string>
   <string name="system_favorite_dialog_link">Security &amp; privacy</string>
   <string name="system_favorite_dialog_message">Add your favorites from other apps here.</string>
   <string name="system_favorite_dialog_negative">Cancel</string>
@@ -535,7 +539,7 @@
   <string name="wx_parent">WeChat</string>
   <string name="wx_paycode">Pagamentos</string>
   <string name="wx_scan">Digitalizador</string>
-  <string name="wx_timeline">Momentos</string>
+  <string name="wx_timeline">Bateria</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>
