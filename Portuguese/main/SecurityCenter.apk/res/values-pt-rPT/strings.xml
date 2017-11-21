@@ -1789,7 +1789,7 @@ do seu dispositivo"</string>
   <string name="summary_cleaner_cloudscan">Enviar e comparar os nomes das pastas com definições online</string>
   <string name="summary_cloud_account">Tire o máximo proveito do seu dispositivo Mi</string>
   <string name="summary_cloud_service">Sincronizar as suas fotos, contactos e muito mais em todos os seus dispositivos</string>
-  <string name="summary_cloud_space_almost_full">Obter mais espaço de armazenamento</string>
+  <string name="summary_cloud_space_almost_full">Obter armazenamento</string>
   <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais funcionalidades</string>
   <string name="summary_cmcc_app_check">Algumas aplicações não puderam ser verificadas</string>
   <string name="summary_consume_power">Foram detectados problemas de aquecimento</string>

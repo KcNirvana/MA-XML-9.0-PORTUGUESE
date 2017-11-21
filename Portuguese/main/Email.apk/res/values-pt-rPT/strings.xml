@@ -406,7 +406,7 @@
   <string name="email_setting">Email</string>
   <string name="email_setting_keywords">Contas;Adicionar conta;contas de email;adicionar conta de email;confirmar antes de enviar;eliminar confirmação;confirmar antes de enviar;confirmação de envio;eliminar fluxo de mensagens;eliminar redireccionamento;vista de conversa;conversas de email;poupança de bateria;bateria do email;enviar comentários;enviar registos</string>
   <string name="email_sina">Email Sina</string>
-  <string name="eml_parse_message">A carregar ficheiros eml. Aguarde…</string>
+  <string name="eml_parse_message">A abrir ficheiro EML…</string>
   <string name="empty_account_tip">Não foi possível encontrar a conta</string>
   <string name="empty_email_tip">Não é possível enviar uma mensagem em branco</string>
   <string name="empty_spam">Esvaziar spam</string>
@@ -423,7 +423,7 @@
   <string name="expand_recipient_details">Expandir detalhes do destinatário</string>
   <string name="fail_get_email_message">Erro na obtenção da mensagem</string>
   <string name="failed">Não foi possível carregar a imagem</string>
-  <string name="failed_parse_eml_file">Erro na resolução do email. Tente novamente</string>
+  <string name="failed_parse_eml_file">Não foi possível abrir o ficheiro EML. Tente novamente</string>
   <string name="failed_read_phone_state_permission">Não tem permissões para aceder ao estado do telefone</string>
   <string name="failed_read_write_calendar_permission">Não tem permissões para aceder ao calendário</string>
   <string name="failed_read_write_contacts_permission">Não tem permissões para aceder aos contactos</string>
@@ -898,6 +898,7 @@
   <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a requisitos de segurança</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
+  <string name="select_path">Seleccionar pasta</string>
   <string name="send">Enviar</string>
   <string name="send_failed">A mensagem não foi enviada</string>
   <string name="send_feed_back">Enviar comentários</string>
@@ -1048,6 +1049,6 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
-  <string name="you_are_in_mobile_network">Enviar registo utilizando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
+  <string name="you_are_in_mobile_network">Utilizar dados móveis para enviar registos?</string>
   <string name="zip_viewer_no_file">Sem ficheiros</string>
 </resources>
