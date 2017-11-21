@@ -15,4 +15,9 @@
         <item>Os dados da aplicação vão ser perdidos após mover as aplicações para o espaço actual</item>
         <item>As aplicações são utilizadas em ambos os espaços</item>
     </string-array>
+    <string-array name="choose_ask_type">
+        <item>Perguntar sempre</item>
+        <item>Aplicação predefinida</item>
+        <item>Aplicação clonada</item>
+    </string-array>
 </resources>

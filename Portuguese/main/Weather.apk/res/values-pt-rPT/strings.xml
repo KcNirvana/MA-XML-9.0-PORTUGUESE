@@ -72,6 +72,8 @@
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%2$s° / %1$s°</string>
+  <string name="daily_forcast_temperature_transfer_C">%2$s / %1$s℃</string>
+  <string name="daily_forcast_temperature_transfer_F">%2$s / %1$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
@@ -175,9 +177,13 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="precipitation_degree_three">moderada</string>
   <string name="precipitation_degree_two">leve</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="pull_fresh_updated">Actualizado com sucesso</string>
+  <string name="pull_fresh_updating">A actualizar…</string>
   <string name="radar_cloud_image_title">Mapa</string>
   <string name="rainfall_settings_summary">Alertas de precipitação</string>
   <string name="rainfall_settings_title">Precipitação</string>
+  <string name="real_time_sunrise">Nascer do sol %1$s</string>
+  <string name="real_time_sunset">Pôr do sol %1$s</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_temperature_no_data">Sem dados</string>
@@ -205,7 +211,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="some_where_on_earth">Algures na Terra</string>
   <string name="sunrise">Nascer do sol</string>
   <string name="sunset">Pôr do sol</string>
-  <string name="temperature_unit">%1$s°</string>
+  <string name="temperature_unit_C">%1$s℃</string>
+  <string name="temperature_unit_F">%1$s℉</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -224,6 +231,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="update_night_setting_summary_text">Actualizar automaticamente informações do tempo entre as 23:00 e a 7:00</string>
   <string name="update_night_setting_title_text">Actualizar à noite automaticamente</string>
   <string name="update_setting_title_text">Informações de actualização do tempo</string>
+  <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
+  <string name="updating">A actualizar…</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

@@ -123,6 +123,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="err_unknown">Erro desconhecido</string>
   <string name="err_version_too_old">O ficheiro da cópia é muito antigo</string>
   <string name="err_version_unsupported">A versão da cópia não é suportada</string>
+  <string name="error_permissions">Esta aplicação não tem as permissões necessárias para aceder ao Calendário. Vá a Definições e verifique as permissões para continuar</string>
   <string name="every_day">Todos os dias</string>
   <string name="exchange_account">Trocar contas</string>
   <string name="fail">Erro</string>
@@ -157,8 +158,8 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="hsa_verify_shutdown">Desactivar</string>
   <string name="icloud_backup_tip">Iniciar sessão na iCloud do dispositivo Apple antigo</string>
   <string name="icloud_how_to_backup_tip_steps">"1.Vá às Definições no seu dispositivo iOS e escolha iCloud.
-2.Ligue os Contactos.
-3.Seleccione Fotos e ligue a biblioteca de fotos da iCloud"</string>
+2. Ligue os contactos e outros itens.
+3. Seleccione Fotos e ligue a biblioteca de fotos da iCloud"</string>
   <string name="icloud_how_to_backup_tip_summary">Para importar dados do iOS, é necessário carregar dados dos dispositivos para a iCloud</string>
   <string name="icloud_how_to_backup_tip_title">Dicas:</string>
   <string name="icloud_login_title">Iniciar sessão na iCloud</string>
@@ -286,8 +287,10 @@ Liberte pelo menos %s"</string>
   <string name="select_all">Seleccionar todos</string>
   <string name="select_backup_item">Escolher dados</string>
   <string name="select_empty">Seleccione itens para importar</string>
+  <string name="select_item_calendar">Calendário</string>
   <string name="select_item_contacts">Contactos</string>
-  <string name="select_item_empty_summary">Sem itens</string>
+  <string name="select_item_empty_summary">Sem conteúdo</string>
+  <string name="select_item_notes">Notas</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">A carregar dados…</string>
   <string name="select_item_summary_wait">A aguardar…</string>

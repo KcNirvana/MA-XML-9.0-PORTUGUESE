@@ -1429,6 +1429,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_manage_tittle">Impressões digitais</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
+  <string name="fingerprint_payment">Pagamentos com imp. digital</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_usage_category_title">Utilizar impressões digitais para</string>
   <string name="finish_application">Forçar paragem</string>

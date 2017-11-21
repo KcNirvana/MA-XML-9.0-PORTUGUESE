@@ -349,6 +349,7 @@
   <string name="auto_task_operation_vibration">Vibração</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Voltar para Bloqueio de aplicações</string>
+  <string name="back_description_securitycenter">Voltar</string>
   <string name="back_modifypassword">Voltar para alteração de palavra-passe</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que a aplicação deixe de funcionar correctamente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
@@ -862,7 +863,7 @@
   <string name="label_mi_stats">Analítica Mi</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
   <string name="left_precent">60%</string>
-  <string name="legal_workday">Feriados</string>
+  <string name="legal_workday">Dias úteis</string>
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
   <string name="legal_workday_invalidate_message">Toque para actualizar os feriados</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>

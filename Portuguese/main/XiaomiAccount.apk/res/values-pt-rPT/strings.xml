@@ -5,12 +5,10 @@
   <string name="access_token_invalid_warning">A sua conta Weibo é inválida</string>
   <string name="account">Conta</string>
   <string name="account_bind_devices">Dispositivos</string>
-  <string name="account_bind_new_phone">Adicionar novo telefone</string>
-  <string name="account_bind_phone_notice">Utilizar este número de telefone para iniciar sessão na sua conta, repor a sua palavra-passe ou alterar as definições de segurança</string>
+
   <string name="account_bind_secure_email_title">Adicionar email</string>
   <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
   <string name="account_bind_settings">Contas</string>
-  <string name="account_binded_phone">Telefone %d</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
   <string name="account_empty_user_name">Introduzir o nome de utilizador da Conta Mi</string>
   <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
@@ -60,6 +58,8 @@
   <string name="account_user_using_qq_avatar">Utilizar foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilizar foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Serviços</string>
+  <string name="action_add_phone">Associar número de telefone</string>
+  <string name="action_update_phone">Alterar número de telefone</string>
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
   <string name="add_account">Associar conta</string>
@@ -80,7 +80,6 @@
   <string name="change_email_address">Alterar endereço de email</string>
   <string name="change_password">Alterar palavra-passe</string>
   <string name="change_phone_number">Alterar número de telefone</string>
-  <string name="checking_phone_num_availible">A verificar telefone…</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
@@ -138,10 +137,12 @@
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
   <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
   <string name="first_login_time">Primeira tentativa de início de sessão: %s</string>
+  <string name="get_back_pwd">Voltar para palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="guest_account_label">Conta Mi de Convidado</string>
+  <string name="identity">Identificação</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
   <string name="io_error_title">Confirme a sua rede</string>
   <string name="just_a_second">Aguarde…</string>
@@ -171,6 +172,7 @@
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
+  <string name="no_phone">Sem telefone</string>
   <string name="no_response_retry">Sem resposta. Tente novamente</string>
   <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
   <string name="nobind">Não associada</string>
@@ -378,6 +380,7 @@ Para activar a sua conta siga o
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="passport_yes">Sim</string>
   <string name="phone_activated">%s activado</string>
+  <string name="phone_num_use_for">Número de telefone utilizado para:</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="push_notification_content">Obter código de verificação</string>
   <string name="push_notification_title">Iniciou sessão na Conta Mi num dispositivo desconhecido</string>
@@ -415,6 +418,8 @@ Para activar a sua conta siga o
   <string name="select_location_title">Seleccionar a sua localização</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
+  <string name="set_success">Sucesso</string>
+  <string name="sign_in">Iniciar sessão</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
@@ -430,6 +435,7 @@ Para activar a sua conta siga o
   <string name="update_contacts">Actualizar contactos</string>
   <string name="update_email_address_dialog_message">É necessário verificar a sua identidade antes de poder actualizar o seu email</string>
   <string name="update_email_address_dialog_title">Actualizar email</string>
+  <string name="update_phone_notice">Alterar definições de segurança</string>
   <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
   <string name="updated_nothing">Actualizado</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>

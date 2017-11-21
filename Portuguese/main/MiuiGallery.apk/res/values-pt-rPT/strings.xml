@@ -179,7 +179,7 @@
   <string name="cannot_send_message_reason">Sem destinatários válidos</string>
   <string name="change_to_face_mode">Mostrar apenas pessoas</string>
   <string name="change_to_photo_mode">Mostrar pré-visualizações completas</string>
-   <string name="change_to_visible">Restaurar esta pessoa?</string>
+  <string name="change_to_visible">Restaurar esta pessoa?</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
@@ -454,6 +454,7 @@ Tire mais fotos dos seus amigos!"</string>
 %s
  para funcionar normalmente. Toque \"Definir\" para ir para as Permissões"</string>
   <string name="grant_permission_title">Permissão de acesso</string>
+  <string name="grant_permission_unlock_and_set">Desbloquear e definir</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="have_known">Entendi</string>
   <string name="hidden_album_display_name">Álbum oculto</string>
@@ -777,9 +778,12 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="search_feedback_false_positive_title">Parece que estes são \"%s\"</string>
   <string name="search_feedback_likely_check_title">Verificar</string>
   <string name="search_feedback_likely_title">Parece que estas fotos podem ter \"%s\"</string>
-  <string name="search_feedback_task_finish_title">Toque para receber a recompensa</string>
+  <string name="search_feedback_task_complete">Todas as missões estão concluídas</string>
+  <string name="search_feedback_task_progress">Missões %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Não foi possível receber a recompensa. Tente novamente mais tarde"</string>
   <string name="search_feedback_task_requesting_award">A receber recompensa…</string>
+  <string name="search_feedback_user_notice">Eu li e aceitei a %s</string>
+  <string name="search_feedback_user_policy">Política de Privacidade da AI da Galeria MIUI</string>
   <string name="search_hint">Pesquisar fotos</string>
   <string name="search_image_result_title">Pesquisar resultados</string>
   <string name="search_login_now">Iniciar sessão</string>

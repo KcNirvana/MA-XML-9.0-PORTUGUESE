@@ -29,6 +29,7 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="closeSecondSpace">Eliminar Segundo espaço</string>
   <string name="closeSecondSpaceSummary">Eliminar Segundo espaço e os seus dados</string>
   <string name="closeSuccess">Desligado</string>
+  <string name="close_second_space">Segundo espaço eliminado</string>
   <string name="close_second_space_success">Segundo espaço eliminado</string>
   <string name="closed">Desligado</string>
   <string name="complete_setting">Concluir</string>
@@ -129,6 +130,7 @@ Pode também transferi-las separadamente"</string>
   <string name="input_space_password">Definir agora</string>
   <string name="invalid_qr_code">Código QR inválido</string>
   <string name="list_empty_text">Vazio</string>
+  <string name="list_empty_text_xspace">Instale WeChat/QQ/Weibo, crie aplicações clonadas e tente novamente</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_apps">A carregar aplicações…</string>
   <string name="loading_space">Aguarde…</string>
@@ -175,6 +177,7 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="private_sms_show_title">As mensagens privadas são mostradas no Segundo espaço</string>
   <string name="private_space_setting">Gerir</string>
   <string name="public_app">Ambos os espaços</string>
+  <string name="qq_send">Enviar amigos/dispositivos QQ</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
   <string name="remove_second_space_msg">Todos os dados das aplicações do Segundo espaço vão ser perdidas após eliminar o Segundo espaço. Eliminar o Segundo espaço?</string>
   <string name="remove_user_click_message">"*Se não tem itens importantes no Segundo espaço, %s"</string>
@@ -305,10 +308,17 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="transferMessage">As mensagens do Segundo espaço vão ser movidas para o Primeiro espaço</string>
   <string name="tryNow">Experimentar</string>
   <string name="wating">Aguarde…</string>
+  <string name="weibo_send">Enviar para Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
+  <string name="weixin_share">Partilhar para Momentos</string>
   <string name="xpsace_guide_button">Criar</string>
   <string name="xspace_account">Contas de aplic. clonadas</string>
   <string name="xspace_chocie">Aplicações suportadas</string>
   <string name="xspace_creating">A clonar aplicação…</string>
+  <string name="xspace_default_app_summary">Definir aplicação predefinida para pagamentos, partilha, favoritos e mais</string>
+  <string name="xspace_default_app_title">Aplicação predefinida</string>
+  <string name="xspace_default_setting_dialog_title">Predefinições</string>
+  <string name="xspace_default_setting_label">Aplicação predefinida</string>
   <string name="xspace_description">"As aplicações clonadas cópias das aplicações que pode ser utilizadas separadamente com diferentes contas.
   
 Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses casos, é criada uma aplicação clonada dos serviços Google"</string>
@@ -321,9 +331,12 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_introduce">Recomendadas</string>
   <string name="xspace_label">Aplicações clonadas</string>
   <string name="xspace_loading_msg">A carregar aplicações…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Definições das aplic. clonadas</string>
   <string name="xspace_uninstall_completed">Aplicação clonada desinstalada com sucesso</string>
   <string name="xspace_uninstall_dialog_content">Desinstalar aplicação clonada vai remover todos os dados da mesma</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar aplicação clonada</string>
   <string name="xspace_uninstalling">A desinstalar…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>
