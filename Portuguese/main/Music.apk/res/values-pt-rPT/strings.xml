@@ -348,6 +348,7 @@
   <string name="fragment_title_channel">Rádio</string>
   <string name="fragment_title_personal">Pessoal</string>
   <string name="fragment_title_recommend">Recomendado</string>
+  <string name="headset_settings">Auriculares e efeitos de áudio</string>
   <string name="garbage_cleanup">Limpeza</string>
   <string name="global_search_app_name">Música</string>
   <string name="global_search_description_entry">Disfrute da música</string>
@@ -552,6 +553,7 @@
   <string name="notification_download_failed">Transferência não efectuada</string>
   <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
   <string name="notification_download_success_more">%1$d transferido</string>
+  <string name="notification_headset_info">Toque para ver definições</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de uma ligação Wi-Fi</string>
   <string name="notification_play_summary">Ver a música actual e a próxima e mostrar letras no ecrã inicial</string>
   <string name="notification_play_title">Widget na área de notificações</string>
