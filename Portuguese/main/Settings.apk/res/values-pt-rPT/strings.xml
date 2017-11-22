@@ -1257,19 +1257,6 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="doze_title">Visualização de ambiente</string>
   <string name="draw_overlay">Sobrepor a outras aplicações</string>
   <string name="draw_overlay_title">Aplicações que se podem sobrepor a outras aplicações</string>
-  <string name="drive_mode">Modo Condução</string>
-  <string name="drive_mode_auto_reply">Resposta rápida</string>
-  <string name="drive_mode_auto_sms_reply_content">Não posso atender agora… Ligo mais tarde</string>
-  <string name="drive_mode_auto_sms_reply_content_title">Resposta rápida</string>
-  <string name="drive_mode_calling_auto_sms_reply">Responder às chamadas</string>
-  <string name="drive_mode_invert_stop_report">Inverter telefone para silenciar</string>
-  <string name="drive_mode_only_contact_reply">Responder apenas aos Contactos</string>
-  <string name="drive_mode_phone_report">Relatório de chamadas recebidas</string>
-  <string name="drive_mode_settings">Definições do Modo Condução</string>
-  <string name="drive_mode_sms_auto_sms_reply">Resposta às SMS</string>
-  <string name="drive_mode_sms_report">Mensagens</string>
-  <string name="drive_mode_title">Modo Condução</string>
-  <string name="drive_mode_voice_report">Saída de texto para voz</string>
   <string name="dtmf_tone_enable_title">Tons de marcação</string>
   <string name="edge_mode_back">Voltar</string>
   <string name="edge_mode_back_summary">Duplo toque na lateral do seu telefone para voltar</string>
@@ -1291,7 +1278,6 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_adb">Depuração USB</string>
   <string name="enable_adb_summary">Modo de depuração quando o USB está ligado</string>
   <string name="enable_compatibility">Redimensionar aplicação</string>
-  <string name="enable_drive_mode">Modo Condução</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
   <string name="enable_multi_window">Modo multi-janelas</string>
   <string name="enable_multi_window_summary">Várias actividades no ecrã ao mesmo tempo</string>

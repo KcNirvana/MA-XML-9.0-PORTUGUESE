@@ -88,6 +88,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="normal">Modo Predefinido</string>
   <string name="operation_create_group">Nome</string>
   <string name="operation_create_group_message">Introduza um novo nome de grupo</string>
+  <string name="performance_category">Desempenho</string>
+  <string name="power_center">Bateria</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s corre anormalmente</string>
   <string name="power_checker_background_cpu_title">%1$s corre anormalmente</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s acede à localização frequentemente</string>
@@ -164,7 +166,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_event_view_event_title">Activadores</string>
   <string name="power_hide_mode_app_list_summary">Poupança de bateria em segundo plano</string>
   <string name="power_hide_mode_summary">Poupar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS</string>
-  <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
+  <string name="power_hide_mode_title">Bateria e desempenho</string>
+  <string name="power_mode">Definições de bateria</string>
   <string name="power_keeper">Poupança de bateria</string>
   <string name="power_mode_cpu_state_high">Desempenho</string>
   <string name="power_mode_cpu_state_high_desc">Dar prioridade ao desempenho sobre a duração de bateria</string>
@@ -176,6 +179,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_mode_view_event_title">Eventos</string>
   <string name="power_mode_view_user_define_title">Novo evento</string>
   <string name="power_optimize_activity_profile_file_error">Erro na poupança de bateria</string>
+  <string name="power_usage">Utilização de bateria</string>
   <string name="ragment_sys_listempty">Sem aplicações de sistema</string>
   <string name="reading">Modo de Leitura</string>
   <string name="scenario_policies_summary">Aplicar diferentes poupanças de bateria para diferentes cenários</string>

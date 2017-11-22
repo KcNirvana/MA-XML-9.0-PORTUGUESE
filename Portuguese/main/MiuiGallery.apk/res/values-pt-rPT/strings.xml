@@ -933,6 +933,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="tip_file_path">Caminho:</string>
   <string name="tip_not_download">Não está no dispositivo. Vai transferir automaticamente da Mi Cloud durante a reprodução</string>
   <string name="title_set_name">Introduzir nome</string>
+  <string name="title_tip">Dicas</string>
   <string name="title_warn">Aviso</string>
   <string name="to_count">%d total</string>
   <string name="to_enable_gallery_sync_dialog_message">Ligar primeiro a sincronização da Galeria</string>

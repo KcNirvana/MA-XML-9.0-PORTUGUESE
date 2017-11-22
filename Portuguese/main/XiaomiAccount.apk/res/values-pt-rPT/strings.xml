@@ -58,7 +58,7 @@
   <string name="account_user_using_qq_avatar">Utilizar foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilizar foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Serviços</string>
-  <string name="action_add_phone">Associar número de telefone</string>
+  <string name="action_add_phone">Adicionar número de telefone</string>
   <string name="action_update_phone">Alterar número de telefone</string>
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
@@ -137,7 +137,7 @@
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
   <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
   <string name="first_login_time">Primeira tentativa de início de sessão: %s</string>
-  <string name="get_back_pwd">Voltar para palavra-passe</string>
+  <string name="get_back_pwd">A repor palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
@@ -172,7 +172,7 @@
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
-  <string name="no_phone">Sem telefone</string>
+  <string name="no_phone">Sem número de telefone</string>
   <string name="no_response_retry">Sem resposta. Tente novamente</string>
   <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
   <string name="nobind">Não associada</string>
@@ -418,8 +418,8 @@ Para activar a sua conta siga o
   <string name="select_location_title">Seleccionar a sua localização</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
-  <string name="set_success">Sucesso</string>
-  <string name="sign_in">Iniciar sessão</string>
+  <string name="set_success">Alterado com sucesso</string>
+  <string name="sign_in">A iniciar sessão</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>

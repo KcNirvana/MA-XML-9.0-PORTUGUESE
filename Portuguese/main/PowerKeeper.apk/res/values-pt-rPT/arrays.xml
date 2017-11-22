@@ -91,4 +91,8 @@
         <item>Modo predefinido</item>
         <item>Modo desempenho actual</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Desempenho</item>
+        <item>Equilibrado</item>
+    </string-array>
 </resources>
