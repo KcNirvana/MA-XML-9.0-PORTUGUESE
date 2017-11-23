@@ -16,7 +16,7 @@
   <string name="alter_message_switch_mode_message">Quando alternar entre modos, as definições anteriores não vão ser aplicáveis a esta aplicação</string>
   <string name="app_invisible_title">Aplicações invisíveis</string>
   <string name="app_list_title">Escolher aplicações</string>
-  <string name="app_name">Poupança de bateria</string>
+  <string name="app_name">Bateria e desempenho</string>
   <string name="background">Aplicação está a executar em segundo plano</string>
   <string name="base_info">Informação de base</string>
   <string name="cloud_addr_info">Informação da nuvem</string>
