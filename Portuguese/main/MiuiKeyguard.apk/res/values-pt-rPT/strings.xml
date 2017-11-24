@@ -94,10 +94,10 @@
   <string name="keyguard_charging_info_tip_text4">Não utilize o seu dispositivo activamente enquanto estiver a carregar</string>
   <string name="keyguard_charging_info_tip_text5">As baterias demoram mais tempo a carregar quando estão quentes</string>
   <string name="keyguard_charging_info_tip_text6">Desligue o ecrã para refrescar o seu dispositivo</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Cartão de transporte</string>
-  <string name="keyguard_left_remotecentral">C.Remoto Mi</string>
-  <string name="keyguard_left_smarthome">Casa Mi</string>
+  <string name="keyguard_left_bankcard">Calculadora</string>
+  <string name="keyguard_left_buscard">Notas</string>
+  <string name="keyguard_left_remotecentral">Calendário</string>
+  <string name="keyguard_left_smarthome">Contactos</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Carregamento rápido. Toque para ver detalhes</string>
   <string name="keyguard_quickly_charging_info_charging_text">Carregamento rápido…</string>
   <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
