@@ -90,8 +90,6 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="find_device_dspt">Localizar, bloquear ou reiniciar o seu dispositivo remotamente</string>
   <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições
 "</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Pode em qualquer altura ligar ou desligar esta funcionalidade nas Definições</string>
   <string name="find_device_dspt_provision_4">Se trocar de cartão SIM, vai ser enviada uma mensagem para reactivar esta funcionalidade</string>
   <string name="find_device_enabling">A ligar…</string>
@@ -100,7 +98,6 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="find_device_error_server">Erro de servidor</string>
   <string name="find_device_error_unknown">Erro desconhecido</string>
   <string name="find_device_notice_p1">Vá a</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
 Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para reactivar esta funcionalidade"</string>
   <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
@@ -251,8 +248,6 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Reactivar Localizar Dispositivo</string>
   <string name="micloud_find_device_verify_close">Desligar Localizar Dispositivo</string>
   <string name="micloud_find_device_verify_fail">Não foi possível reactivar Localizar Dispositivo</string>
@@ -512,8 +507,6 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_dspt_entrance_provision_network">Esta aplicação necessita de aceder à Internet para funcionar normalmente</string>
   <string name="sync_dspt_entrance_provision_skip">Ignorar este passo</string>
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições.
 "</string>
   <string name="sync_dspt_provision_header">Sincronizar</string>

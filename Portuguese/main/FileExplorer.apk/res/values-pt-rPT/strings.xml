@@ -145,7 +145,6 @@
   <string name="dialog_type_image">Imagens</string>
   <string name="dialog_type_text">Documentos</string>
   <string name="dialog_type_video">Vídeos</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">"Disponível: "</string>
   <string name="disk_total">"Total: "</string>
   <string name="dislike_toast">Este tipo de vídeos não são recomendados para si</string>
@@ -282,11 +281,9 @@
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comentar: "</string>
   <string name="message_my_received_praise">Os meus gostos</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" gostou deste comentário</string>
   <string name="message_praise_video">" gostou deste vídeo"</string>
   <string name="message_reply_prefix">Responder</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>

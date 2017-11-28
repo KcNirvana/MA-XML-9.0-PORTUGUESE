@@ -839,7 +839,7 @@
   <string name="intro_skip">Ignorar</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="item_app_permission">Permissões de aplicação</string>
-  <string name="item_dev_mode">Opções de desenvolvimento</string>
+  <string name="item_dev_mode">Opções de programador</string>
   <string name="item_install_monitor">Monitor de instalação</string>
   <string name="item_mms">Filtrar mensagens indesejadas</string>
   <string name="item_system_auto_download">Transferir actualizações automaticamente</string>

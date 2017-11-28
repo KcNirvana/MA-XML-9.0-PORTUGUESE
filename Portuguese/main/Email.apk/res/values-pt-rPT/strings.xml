@@ -231,8 +231,6 @@
   <string name="auto_sync_off">Sincronização automática está desligada</string>
   <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_keywords">Poupança de bateria;bateria do email</string>
-  <string name="bcc">Bcc</string>
-  <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Deve escrever um comentário</string>
   <string name="body_forward_email_text">[Avançar]</string>
   <string name="body_hint">Escrever email</string>
@@ -247,9 +245,6 @@
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar a transferência de anexos em contas do tipo POP3</string>
   <string name="cant_move_or_change_labels">Não é possível mover itens de várias contas</string>
-  <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
-  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar definições de sincronização</string>
@@ -536,7 +531,6 @@
   <string name="invalid_recipient">O endereço %s é inválido</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
   <string name="kilobytes">%sKB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Pesquisar na caixa de entrada no servidor</string>
   <string name="load_more">Carregar mais</string>
   <string name="loading_conversation">A carregar…</string>
@@ -971,7 +965,6 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Toque para configurar</string>
   <string name="tap_to_enable_sync">Toque para activar</string>
-  <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">Não é possível ligar à rede</string>
   <string name="toast_bar_insufficient_memory_space">Não é possível receber emails. Sem espaço suficiente</string>
@@ -1000,9 +993,6 @@
   <string name="translation_query_failure">Não foi possível encontrar resultados</string>
   <string name="translation_technology_support">Suporte técnico por iciba.com</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Iniciar sessão com EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, vão ser sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>

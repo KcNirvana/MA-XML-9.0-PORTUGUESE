@@ -449,7 +449,6 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Definir</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"A Galeria necessita de acesso a
 %s
  para funcionar normalmente. Toque \"Definir\" para ir para as Permissões"</string>
@@ -779,7 +778,6 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="search_feedback_likely_check_title">Verificar</string>
   <string name="search_feedback_likely_title">Parece que estas fotos podem ter \"%s\"</string>
   <string name="search_feedback_task_complete">Todas as missões estão concluídas</string>
-  <string name="search_feedback_task_progress">Missões %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Não foi possível receber a recompensa. Tente novamente mais tarde"</string>
   <string name="search_feedback_task_requesting_award">A receber recompensa…</string>
   <string name="search_feedback_user_notice">Eu li e aceitei a %s</string>

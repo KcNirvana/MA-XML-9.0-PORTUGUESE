@@ -270,9 +270,6 @@
   <string name="downloaded_empty">Vazio</string>
   <string name="downloading_empty">Vazio</string>
   <string name="downloads_operating">A processar…</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Partilhar</string>
   <string name="empty_page_no_album">Sem álbuns</string>
