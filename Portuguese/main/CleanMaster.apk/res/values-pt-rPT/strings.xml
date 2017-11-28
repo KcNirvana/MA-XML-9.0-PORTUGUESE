@@ -292,8 +292,8 @@
   <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
-  <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s</string>
-  <string name="notification_title_of_garbage_cleanup">Tamanho do lixo</string>
+  <string name="notification_summary_of_garbage_cleanup">Toque para libertar espaço</string>
+  <string name="notification_title_of_garbage_cleanup">%s de lixo</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Ligar</string>
@@ -431,7 +431,7 @@
   <string name="total_clean">Total limpo: %s</string>
   <string name="total_clean_text">Limpar</string>
   <string name="update_date_format">dd-MM-yyyy</string>
-  <string name="virus_scan">Verificar vírus</string>
+  <string name="virus_scan">Verificação de segurança</string>
   <string name="vungle_ad_name">Vungle广告</string>
   <string name="white_list_ad_header">Ficheiros de anúncios: %d</string>
   <string name="white_list_apk_header">Instalar pacotes: %d</string>

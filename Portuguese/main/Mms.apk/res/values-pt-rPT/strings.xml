@@ -571,6 +571,7 @@
   <string name="sms_report_success">Relatório enviado</string>
   <string name="snippet_audio">[Áudio]</string>
   <string name="snippet_picture">[Imagem]</string>
+  <string name="snippet_timed">[Programada]</string>
   <string name="sp_category_all">Todas as mensagens de serviço</string>
   <string name="sp_category_bank">Mensagens de notificações de bancos</string>
   <string name="sp_category_title_prefix">%s</string>

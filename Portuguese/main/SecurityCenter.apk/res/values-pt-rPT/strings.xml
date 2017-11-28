@@ -463,6 +463,7 @@
   <string name="call_contact_block">Bloquear chamadas de contactos</string>
   <string name="call_delete_hint">Eliminar todas as chamadas bloqueadas deste número?</string>
   <string name="call_delete_title">Eliminar registos de chamadas</string>
+  <string name="call_oversea_block">Bloquear chamadas do estrangeiro</string>
   <string name="call_prefix">Lista de bloqueio de prefixos</string>
   <string name="call_private">Bloquear chamadas de números privados</string>
   <string name="call_stranger_block">Bloquear chamadas de desconhecidos</string>
@@ -730,6 +731,8 @@
   <string name="fw_blocked">Lista de bloqueio</string>
   <string name="fw_blocked_count">"Bloqueadas "</string>
   <string name="fw_blocked_join">" e "</string>
+  <string name="fw_oversea">Bloquear chamadas do estrangeiro</string>
+  <string name="fw_oversea_content">Bloquear chamadas recebidas do estrangeiro</string>
   <string name="game_anti_disturb_msg">Não incomodar Jogos</string>
   <string name="game_booster">Acelerador de jogos</string>
   <string name="game_booster_close">Acelerador de jogos desligado</string>
@@ -1697,6 +1700,7 @@ do seu dispositivo"</string>
   <string name="st_call_backsound_group">Som da lista de bloqueio</string>
   <string name="st_call_intercept_contacts">Bloquear chamadas de contactos</string>
   <string name="st_call_intercept_forwarding">Bloquear chamadas reencaminhadas</string>
+  <string name="st_call_intercept_oversea">Bloquear chamadas do estrangeiro</string>
   <string name="st_call_intercept_reported">Bloquear chamadas de números reportados</string>
   <string name="st_call_intercept_stranger">Bloquear chamadas de desconhecidos</string>
   <string name="st_call_intercept_unknown">Bloquear chamadas de privados</string>
@@ -1705,6 +1709,7 @@ do seu dispositivo"</string>
   <string name="st_call_stranger_group">Bloquear chamadas de desconhecidos</string>
   <string name="st_confirm_dialog_btn_open">Abrir</string>
   <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contactos vão ser bloqueadas</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Ligar para bloquear todas as chamadas recebidas do estrangeiro</string>
   <string name="st_confirm_dialog_summary_stranger_call">Todas as chamadas de desconhecidos bloqueadas</string>
   <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave vão ser bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">"

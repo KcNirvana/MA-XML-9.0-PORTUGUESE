@@ -1595,6 +1595,9 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
   <string name="incoming_call_volume_title">Toques</string>
+  <string name="infinity_display_settings">Ecrã em tamanho inteiro</string>
+  <string name="infinity_display_slogan">Crescimento contínuo na tecnologia inexplorada</string>
+  <string name="infinity_display_title">Ecrã em tamanho inteiro</string>
   <string name="information_dialog_button_text">Entendi</string>
   <string name="input_method">Teclado</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
@@ -2152,6 +2155,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mock_location_app">Seleccionar aplicação de localização fictícia</string>
   <string name="mock_location_app_not_set">Aplicação de localização fictícia não definida</string>
   <string name="mock_location_app_set">Aplicação de localização fictícia: %1$s</string>
+  <string name="mode_disable">Desligado</string>
+  <string name="mode_enable">Ligado</string>
+  <string name="model_name">Nome do modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
   <string name="modify_instruction_password_settings">Definições do padrão</string>
   <string name="modify_privacy_password">Alterar padrão</string>
@@ -2212,6 +2218,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dirac_mode_piston_color">Edição colorida</string>
   <string name="music_dirac_mode_piston_standard">Edição genérica</string>
   <string name="music_dirac_mode_piston_youth">Edição jovem</string>
+  <string name="music_dirac_mode_reduction_noise">Reduzir ruído TypeC</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Desligado</string>
@@ -3468,7 +3475,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_key_position_custom">Alterar a posição dos botões</string>
   <string name="status_bar_screen_button_desc">Deslizar para baixo para ocultar os botões do ecrã</string>
-  <string name="status_bar_screen_button_key">Botões do ecrã</string>
   <string name="status_bar_screen_button_key_can_hide">Os botões do ecrã podem ser ocultados</string>
   <string name="status_bar_screen_key_back">Botão de Voltar</string>
   <string name="status_bar_screen_key_home">Botão de Início</string>

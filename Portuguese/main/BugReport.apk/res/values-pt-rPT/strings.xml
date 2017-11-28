@@ -55,6 +55,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Seleccionar item</string>
   <string name="feedback_choose_module_hint">Necessário</string>
+  <string name="feedback_choose_reproductivity">Reprodutividade</string>
   <string name="feedback_choose_third_app_name">Seleccionar o nome da aplicação</string>
   <string name="feedback_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_contact_info_hint">Número de telefone/Email</string>
@@ -111,6 +112,7 @@
   <string name="feedback_third_packagename_hint">Que aplicação está a causar problemas?</string>
   <string name="feedback_title">Título</string>
   <string name="feedback_title_hint">Descreva detalhadamente o problema</string>
+  <string name="feedback_title_reproductivity">Seleccionar reprodutividade</string>
   <string name="feedback_tracking">Seguir problemas</string>
   <string name="feedback_version_label">Versão</string>
   <string name="feesback_list">Relatórios</string>

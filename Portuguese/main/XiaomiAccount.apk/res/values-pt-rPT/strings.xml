@@ -16,6 +16,7 @@
   <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
   <string name="account_error_shorter_user_name">O nome tem de ter no mínimo 2 caracteres</string>
   <string name="account_error_user_birthday">A data de nascimento é inválida</string>
+  <string name="account_global_region">Roaming</string>
   <string name="account_has_been_set">Alterar</string>
   <string name="account_limit_update_birthday">Não é possível actualizar a data de nascimento neste momento</string>
   <string name="account_mibi_center">Mi Credits</string>
@@ -307,7 +308,7 @@ Para activar a sua conta siga o
   <string name="passport_reg_recycle_account_yes">Sim</string>
   <string name="passport_reg_success">Conta criada</string>
   <string name="passport_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
-  <string name="passport_reg_type_email">Utilizar endereço de email</string>
+  <string name="passport_reg_type_email">Email</string>
   <string name="passport_reg_using_other_phone"><u>Utilizar número de telefone alternativo</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta utilizando "</string>
   <string name="passport_reg_using_phone_number_prompt">Criar conta utilizando número de telefone</string>

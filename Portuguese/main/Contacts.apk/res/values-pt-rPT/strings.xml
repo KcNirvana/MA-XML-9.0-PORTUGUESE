@@ -43,6 +43,7 @@
   <string name="audio_chat">Conversa de voz</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_description">Voltar</string>
   <string name="back_view_description">Voltar</string>
   <string name="batch_delete">Eliminar contactos</string>
   <string name="blacklist">Bloquear</string>
@@ -89,7 +90,6 @@
   <string name="call_radio">Ligar para o rádio</string>
   <string name="call_record_setting_miui">Definições de gravação</string>
   <string name="call_settings">Definições</string>
-  <string name="call_settings_primary_user_only">As definições de chamadas apenas podem ser alteradas pelo utilizador primário</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Utilizar o SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -101,6 +101,8 @@
   <string name="call_work">Ligar para o telefone do trabalho</string>
   <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>
+  <string name="calllog_call_note_menu">Notas de chamada</string>
+  <string name="calllog_call_record_menu">Chamadas gravadas</string>
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
@@ -247,6 +249,9 @@
   <string name="contact_editor_prompt_multiple_accounts">Guardar contacto para</string>
   <string name="contact_editor_prompt_one_account">O novo contacto vai ser sincronizado %1$s</string>
   <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou numa nova conta online</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+  <string name="contact_import_methods_dialog_title">Seleccionar método de importação</string>
   <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -265,6 +270,8 @@
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar dum ficheiro</string>
+  <string name="contacts_unavailable_import_from_old_device">Importar dum dispositivo antigo</string>
+  <string name="contacts_unavailable_import_sim_contacts">Importar contactos do SIM</string>
   <string name="convenient_service">Serviços</string>
   <string name="copy_number">Copiar</string>
   <string name="copy_text">Copiar para área de transferências</string>
@@ -535,6 +542,7 @@ Motivo: \"%s\""</string>
   <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importar contactos seleccionados</string>
+  <string name="import_sim_contacts_hint_title">Importar contactos do SIM</string>
   <string name="import_sim_entries_finish">Contactos importados do cartão SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
@@ -738,56 +746,6 @@ Motivo: \"%s\""</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos da Conta Mi</string>
   <string name="noContacts">Sem contactos</string>
-  <string name="noContactsHelpText">"Não tem contactos para mostrar.
-
-Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Novo contacto, para criar um novo contacto a partir do início
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
-"</b></font></li>"
-"</string>
-  <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar</string>
-  <string name="noContactsHelpTextWithSync">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)
-
-Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Novo contacto. para criar um novo contacto a partir do início
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
-"</b></font></li>"
-"</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)"</string>
-  <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para mostrar.
-
-Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
-"</b></font></li>"
-"</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)
-
-Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
-"</b></font></li>"
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
-"</b></font></li>"
-"</string>
   <string name="noContactsWithPhoneNumbers">Sem contactos com números de telefone</string>
   <string name="noFavoritesHelpText">"Não tem favoritos.
 
@@ -812,7 +770,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_message">"Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do telefone e depois tente novamente "</string>
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados</string>
-  <string name="no_sdcard_message">Armazenamento não encontrado</string>
+  <string name="no_sdcard_message">Cartão SD não encontrado</string>
   <string name="non_phone_add_to_contacts">Adicionar a contacto</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>

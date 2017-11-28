@@ -121,6 +121,7 @@
   <string name="mark_number_feedback_success">Marcador enviado com sucesso</string>
   <string name="mark_number_marked_maintitle">Alterar marcador</string>
   <string name="mark_number_marked_subtitle">%s (marcador actual)</string>
+  <string name="mark_number_notification_title">Reportar número suspeito</string>
   <string name="mark_number_remove">Remover marcador</string>
   <string name="mark_title_null_hint">Introduzir marcador</string>
   <string name="menu_add_black_list">Adicionar à lista de bloqueio</string>

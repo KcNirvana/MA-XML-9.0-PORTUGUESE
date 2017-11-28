@@ -741,6 +741,7 @@ Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operad
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
 Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"</string>
+  <string name="other_available_phone_accounts">Outras contas disponíveis</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
@@ -789,6 +790,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="payphone">Telefone público</string>
   <string name="phoneAppLabel">Telefone</string>
   <string name="phoneIconLabel">Telefone</string>
+  <string name="phone_account_settings">Contas de chamadas</string>
   <string name="phone_accounts">Contas de chamadas</string>
   <string name="phone_accounts_add_sip_account">Adicionar conta SIP</string>
   <string name="phone_accounts_all_calling_accounts">Todas as contas de chamadas</string>
@@ -883,6 +885,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_pref_entries_only_3g">Rede 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
+  <string name="preferred_phone_account">Conta de chamadas preferida</string>
   <string name="private_num">Número privado</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
   <string name="proxy_address">Endereço proxy</string>
@@ -923,7 +926,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_server_unreachable">Não é possível registar conta. Verifique se o nome do servidor está correcto</string>
   <string name="registration_status_still_trying">Aguarde…</string>
   <string name="reject_via_sms">Respostas rápidas</string>
-  <string name="reject_via_sms_summary">Editar respostas de texto predefinidas</string>
+  <string name="reject_via_sms_summary">Mostrar botões para terminar chamada e enviar mensagem</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="remove">Eliminar</string>
   <string name="remove_sip_account">Remover conta</string>
@@ -999,6 +1002,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="simContacts_emptyLoading">A ler a partir do cartão SIM…</string>
   <string name="simContacts_title">Gerir contactos do cartão SIM</string>
   <string name="simFdnContacts_empty">Sem contactos de marcação fixa</string>
+  <string name="sim_accounts">Contas SIM</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nome</string>
   <string name="sim_contact_number">Número</string>
@@ -1171,6 +1175,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="volte_provision_text">As chamadas Voz 4G fornecem melhor qualidade que as chamadas normais. Enviar SMS para activar?</string>
   <string name="volte_provision_title">Activação de Voz 4G</string>
   <string name="volte_switch_not_support_summary">As chamadas Voz 4G não são suportadas para os dados móveis do cartão SIM</string>
+  <string name="volte_switch_not_support_summary2">As chamadas Voz 4G não são suportadas pela operadora</string>
   <string name="volte_switch_summary">Utilizar Voz 4G para melhorar a qualidade das chamadas e videochamadas</string>
   <string name="volte_switch_title">Voz 4G activado</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?

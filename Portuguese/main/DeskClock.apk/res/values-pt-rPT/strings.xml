@@ -62,6 +62,7 @@
   <string name="hours">%d horas</string>
   <string name="install_weather_app_error">Não foi possível carregar a aplicação</string>
   <string name="install_weather_app_loading">Aguarde…</string>
+  <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
   <string name="label_pref_summary">Nome</string>

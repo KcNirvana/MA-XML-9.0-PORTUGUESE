@@ -156,7 +156,7 @@
   <string name="entrance">Card shortcuts</string>
   <string name="error_share_not_support">Such items arent supported in favorites.</string>
   <string name="exercise_setting_brief">Medir distâncias e contar os passos que faz diáriamente</string>
-  <string name="exercise_setting_misport_detail">Measure distance and count the steps you make daily (Allow Mi Fit to autostart in Security - Permissions).</string>
+  <string name="exercise_setting_misport_detail">Medir distâncias e contar os passos que faz diáriamente (Tem de permitir o início automático de Mi Fit em Segurança - Permissões)</string>
   <string name="express">Express delivery</string>
   <string name="express_authorized">Allowed</string>
   <string name="express_jd">JD</string>
