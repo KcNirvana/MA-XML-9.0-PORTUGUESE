@@ -670,7 +670,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
   <string name="bluetooth_untether_blank">%1$s vai ser desligado</string>
-  <string name="bluetooth_visibility_timeout">Visibilidade expirou</string>
+  <string name="bluetooth_visibility_timeout">A visibilidade expirou</string>
+  <string name="bluetooth_wake">Ligar com áudio Bluetooth</string>
   <string name="bootloader">Modo Fastboot</string>
   <string name="bootloader_apply_step_1">Ligar o modo Fastboot?</string>
   <string name="bootloader_apply_step_2">Quando o seu dispositivo estiver no modo Fastboot e ligado ao computador</string>
@@ -3279,6 +3280,8 @@ Para utilizar a fixação no ecrã:
   <string name="settings_license_activity_loading">A carregar…</string>
   <string name="settings_license_activity_title">Licenças open source</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
+  <string name="settings_notify_need_backup">Faça uma cópia das suas definições para a Mi Cloud para as aceder após trocar de telefone</string>
+  <string name="settings_notify_phone_recycled">O seu número de telefone foi reciclado. Tente adicionar um número de telefone diferente</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
   <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet</string>
@@ -3445,6 +3448,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="spellchecker_security_warning">Este verificador ortográfico vai poder recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este verificador ortográfico?</string>
   <string name="spellchecker_switch_title">Ligar verificador ortográfico</string>
   <string name="spellcheckers_settings_title">Verificador ortográfico</string>
+  <string name="split_screen">Entrar no ecrã dividido</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
@@ -3677,6 +3681,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="storageuse_settings_title">Armazenamento utilizado</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
+  <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
@@ -3727,6 +3732,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_apps_updater">Actualizar aplicações de sistema</string>
   <string name="system_backup_section_title">Cópias de segurança</string>
   <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas</string>
+  <string name="system_shortcut_wake">Ligar com os atalhos dos botões</string>
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
   <string name="system_update_settings_list_item_title">Actualizar sistema</string>
@@ -4146,6 +4152,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="virus_scanner_title">Antivírus</string>
   <string name="virus_scanner_update_lib">Actualizar definições</string>
   <string name="voice_category">Voz</string>
+  <string name="voice_helper_title">Assistente de voz</string>
   <string name="voice_input_output_settings">Entrada e saída de voz</string>
   <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
   <string name="voice_input_settings">Definições de entrada de texto por voz</string>

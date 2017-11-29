@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
   <string name="gift_use_fail_dlg_title">Erro</string>
   <string name="gift_used">Enviar</string>
-  <string name="hide_free">Ocultar temas gratuitos</string>
-  <string name="hide_incompatible">Ocultar temas incompatíveis</string>
+  <string name="hide_free">Ocultar %1$s gratuitos</string>
+  <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>

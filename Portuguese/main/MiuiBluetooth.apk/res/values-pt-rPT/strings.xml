@@ -8,6 +8,7 @@
   <string name="ble_device_rename">Mudar o nome</string>
   <string name="bluetooth_connected">Emparelhado</string>
   <string name="bluetooth_connecting">A emparelhar…</string>
+  <string name="bluetooth_device_context_unpair">Desemparelhar</string>
   <string name="bluetooth_disconnected">Desemparelhado</string>
   <string name="bluetooth_disconnecting">A desemparelhar…</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
