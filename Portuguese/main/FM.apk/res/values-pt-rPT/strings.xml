@@ -21,6 +21,7 @@
   <string name="label_recording">A gravar: %s</string>
   <string name="menu_exit">Sair</string>
   <string name="menu_headset">Trocar para auriculares</string>
+  <string name="menu_label">Menu</string>
   <string name="menu_new_station">Adicionar</string>
   <string name="menu_record_list">Gravações</string>
   <string name="menu_record_start">Iniciar gravação</string>

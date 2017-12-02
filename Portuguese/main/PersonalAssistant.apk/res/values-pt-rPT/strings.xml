@@ -115,7 +115,7 @@
   <string name="detail_action_report_format_problem">The format is invalid</string>
   <string name="detail_action_settings">Open Settings</string>
   <string name="detail_action_share">Share</string>
-  <string name="detail_title">Favorites</string>
+  <string name="detail_title">Favoritos</string>
   <string name="dialog_cancel_like">Deleted mark successfully</string>
   <string name="dialog_delete_cancel">Cancelar</string>
   <string name="dialog_delete_delete">Eliminar</string>
@@ -183,7 +183,7 @@
   <string name="fav_nodata_tip">No favorites</string>
   <string name="fav_search_nodata_tip">Couldnt find results</string>
   <string name="fav_success">Added to favorites successfully</string>
-  <string name="favorite">Favorites</string>
+  <string name="favorite">Favoritos</string>
   <string name="favorite_add_home">Add to Home screen</string>
   <string name="favorite_add_home_add">Add</string>
   <string name="favorite_add_home_cancel">Cancel</string>
@@ -194,7 +194,7 @@
   <string name="favorite_clipboard_tip">Add the address from the clipboard to favorites?</string>
   <string name="favorite_delete">Delete</string>
   <string name="favorite_important">Important</string>
-  <string name="favorite_label">Favorites</string>
+  <string name="favorite_label">Favoritos</string>
   <string name="favorite_main">History</string>
   <string name="favorite_mark_important">Marked as important</string>
   <string name="flow_open">Show mobile data card</string>
@@ -368,7 +368,7 @@
   <string name="search_category_video">Videos</string>
   <string name="search_hint">Search in favorites</string>
   <string name="search_label">Searching…</string>
-  <string name="search_setting_description">Titles in favorites</string>
+  <string name="search_setting_description">Títulos nos favoritos</string>
   <string name="search_tip">A pesquisar…</string>
   <string name="security">Segurança</string>
   <string name="send_action_title">Add to favorites</string>
@@ -487,7 +487,7 @@
   <string name="system_favorite_dialog_message">Add your favorites from other apps here.</string>
   <string name="system_favorite_dialog_negative">Cancel</string>
   <string name="system_favorite_dialog_positive">Allow</string>
-  <string name="system_favorite_dialog_title_confirm">Favorites</string>
+  <string name="system_favorite_dialog_title_confirm">Favoritos</string>
   <string name="taxi">Taxi</string>
   <string name="taxi_open">Show taxi card</string>
   <string name="taxi_setting_brief">Get a taxi in a single tap.</string>

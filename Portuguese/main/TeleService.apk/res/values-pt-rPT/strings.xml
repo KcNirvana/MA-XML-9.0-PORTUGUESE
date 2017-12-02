@@ -927,7 +927,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_server_unreachable">Não é possível registar conta. Verifique se o nome do servidor está correcto</string>
   <string name="registration_status_still_trying">Aguarde…</string>
   <string name="reject_via_sms">Respostas rápidas</string>
-  <string name="reject_via_sms_summary">Mostrar botões para terminar chamada e enviar mensagem</string>
+  <string name="reject_via_sms_summary">Mostrar botão para terminar chamada e enviar mensagem</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="remove">Eliminar</string>
   <string name="remove_sip_account">Remover conta</string>
