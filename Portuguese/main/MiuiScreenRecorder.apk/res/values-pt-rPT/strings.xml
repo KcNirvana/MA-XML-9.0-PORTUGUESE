@@ -17,6 +17,8 @@
   <string name="cannot_record">Não foi possível gravar. Tente novamente mais tarde</string>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
+  <string name="description_content">O gravador de ecrã fornece capacidades de gravação ao nível do sistema. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
+  <string name="description_title">Acerca de Gravador de Ecrã</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
   <string name="frames">Frame rate</string>

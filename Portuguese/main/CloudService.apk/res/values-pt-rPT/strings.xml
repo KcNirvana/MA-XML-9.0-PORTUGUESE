@@ -71,7 +71,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="enable_cloud_service_notification">É necessário activar a Mi Cloud</string>
   <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
-  <string name="enable_micloud">Utilizar a Mi Cloud</string>
+  <string name="enable_micloud">Inicie sessão para utilizar a Mi Cloud</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_dspt">Não sincronizar</string>
   <string name="error_data_in_transfer">A sincronização vai terminar em %s horas</string>
@@ -527,6 +527,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_sub_dspt">A sua operadora pode cobrar por uma mensagem enviada para activar este serviço</string>
   <string name="sync_sub_dspt_provision">Sincronizar fotos, contactos, músicas, aplicações, e muito mais em todos os dispositivos</string>
   <string name="sync_sub_int_dspt">A sua operadora pode cobrar por uma mensagem internacional enviada para activar este serviço</string>
+  <string name="title_back">Voltar</string>
   <string name="title_reg">Criar Conta Mi</string>
   <string name="total_space_upgraded_to">Total: %s</string>
   <string name="trying_to_connect_to_network">A ligar à rede…</string>
@@ -556,5 +557,6 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="wipe_data_dialog_title">Itens não estão sincronizados</string>
   <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_subtitle">Todos os dados importantes num só sítio</string>
   <string name="xmpp_server_addr"/>
 </resources>

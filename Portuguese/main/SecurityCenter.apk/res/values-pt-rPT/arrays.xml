@@ -65,6 +65,7 @@
         <item>Utilização</item>
         <item>Espaço utilizado</item>
         <item>Data de instalação</item>
+        <item>Pode desinstalar estas aplicações</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por estado</item>
@@ -72,6 +73,7 @@
         <item>Ordenar por utilização</item>
         <item>Ordenar por espaço utilizado</item>
         <item>Ordenar por data de instalação</item>
+        <item>Mostrar aplicações que podem ser desinstaladas</item>
     </string-array>    
     <string-array name="title_app_info">
         <item>Origem da instalação</item>

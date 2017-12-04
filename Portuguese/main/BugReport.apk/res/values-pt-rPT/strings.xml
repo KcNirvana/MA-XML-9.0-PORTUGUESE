@@ -3,9 +3,10 @@
   <string name="action_cancel">Cancelar</string>
   <string name="action_submit">Enviar</string>
   <string name="announcement">Atenção</string>
-  <string name="app_empty">Não transferiu nenhuma aplicação</string>
+  <string name="app_empty">Não foi possível encontrar aplicações</string>
   <string name="app_label">Comentários</string>
   <string name="app_name">Comentários</string>
+  <string name="app_search">Pequisar aplicações</string>
   <string name="btn_send">Enviar</string>
   <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
   <string name="bugreport_dialog_submit_content">O seu comentário pode ter informações pessoais e dados de localização</string>
