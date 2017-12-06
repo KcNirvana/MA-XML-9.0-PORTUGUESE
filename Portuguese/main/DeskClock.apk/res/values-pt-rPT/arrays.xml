@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="weather_tips_value">
+        <item>Reduza as actividades ao ar livre</item>
+        <item>As estradas estão escorregadias</item>
+        <item>O tempo está de tempestade</item>
+        <item>O ar está poluído. Utilize uma máscara!</item>
+        <item>Leve um guarda-chuva quando sairake an umbrella when you go out</item>
+        <item>Tenha cuidado na estrada</item>
+        <item>Vem aí uma tempestade de areia. Utilize uma máscara!</item>
+        <item>Tenha um bom dia!</item>
+    </string-array>
     <string-array name="alarm_in_furture">
        <item>O alarme vai tocar em menos de 1 minuto</item>
        <item>O alarme vai tocar em %1$s</item>

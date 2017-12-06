@@ -1596,8 +1596,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
   <string name="incoming_call_volume_title">Toques</string>
-  <string name="infinity_display_settings">Ecrã em tamanho inteiro</string>
-  <string name="infinity_display_slogan">Crescimento contínuo na tecnologia inexplorada</string>
+  <string name="infinity_display_settings">Ecrã inteiro</string>
+  <string name="infinity_display_slogan">A inovação em ecrã inteiro</string>
   <string name="infinity_display_title">Ecrã em tamanho inteiro</string>
   <string name="information_dialog_button_text">Entendi</string>
   <string name="input_method">Teclado</string>
@@ -3413,7 +3413,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_label">Ignorar</string>
-  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
+  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e atalhos não vão ser mostrados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>

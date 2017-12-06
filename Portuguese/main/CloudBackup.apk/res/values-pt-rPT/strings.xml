@@ -72,8 +72,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="cloud_backup_have_data">Cópia encontrada na Mi Cloud</string>
   <string name="cloud_backup_in_cancel">Cancelar</string>
   <string name="cloud_backup_in_process">A copiar…</string>
-  <string name="cloud_backup_select_recover">Escolher cópia da Mi Cloud</string>
-  <string name="cloud_backup_title">Cópias da Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Escolher cópia da Mi Cloud</string>  
   <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possível reverter esta acção</string>
   <string name="cloud_restore_task">A restaurar…</string>
   <string name="cloud_task_in_process">Parar %s e eliminar esta cópia de segurança? Não é possível reverter esta acção</string>
@@ -124,7 +123,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
-  <string name="query_restore_back_view">Cópias da Mi Cloud</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Mi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Mi Cloud anteriores?</string>
   <string name="recover_from_micloud">Restaurar da cópia da Mi Cloud</string>

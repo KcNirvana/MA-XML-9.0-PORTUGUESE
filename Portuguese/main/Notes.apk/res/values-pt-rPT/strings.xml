@@ -21,6 +21,7 @@
   <string name="app_widget">Notas</string>
   <string name="call_folder_name">Notas de chamada</string>
   <string name="cancel_alarm_description">Cancelar alarme</string>
+  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar notas</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Mi Cloud</string>
   <string name="cta_reminder">Esta aplicação necessita de ligar à Internet para copiar notas para a Mi Cloud, assim como, ler os seus contactos para etiquetar as notas que tira durante as chamadas</string>
   <string name="db_downgrade_clear_button">Limpar dados da aplicação</string>

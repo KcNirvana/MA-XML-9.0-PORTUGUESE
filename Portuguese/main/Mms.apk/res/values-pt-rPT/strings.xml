@@ -65,7 +65,7 @@
   <string name="class_0_message_activity">Mensagem de classe 0</string>
   <string name="close">Fechar</string>
   <string name="cloud_recommend_msg">Toque para sincronizar mensagens com a Mi Cloud</string>
-  <string name="cloud_state_disabled">Sincronização com a Mi Cloud está desligada</string>
+  <string name="cloud_state_disabled">Ligue a sincronização com a Mi Cloud para sincronizar mensagens</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Mi Cloud…</string>
   <string name="compressing">A imagem é demasiado grande. A comprimir…</string>

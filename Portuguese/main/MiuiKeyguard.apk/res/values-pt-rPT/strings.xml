@@ -103,6 +103,7 @@
   <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
+  <string name="lock_screen_no_sim_card">Sem cartão SIM</string>
   <string name="lock_wallpaper_enter">Entrar</string>
   <string name="lock_wallpaper_learn_more">Mais</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>

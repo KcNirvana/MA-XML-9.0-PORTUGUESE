@@ -5,8 +5,8 @@
         <item>Separada</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Ecrã de bloqueio e painel de notificações</item>
-        <item>Sempre</item>
+        <item>Ecrã de bloqueio</item>
+        <item>Barra de estado</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_status">

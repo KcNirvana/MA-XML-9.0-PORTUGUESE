@@ -10,9 +10,10 @@
   <string name="accessibility_sync_cal">Sincronizar calendário</string>
   <string name="account_and_calendar">Contas</string>
   <string name="accounts">Contas e sincronização</string>
-  <string name="acct_not_synced">Esta conta não está a ser sincronizada por isso os seus calendários podem não estar actualizados</string>
+  <string name="acct_not_synced">Esta conta não está a ser sincronizada. Os seus calendários podem não estar actualizados</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
   <string name="action_bar_more_menu_view_description">Mais</string>
+  <string name="action_bar_return">Voltar</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_today">Hoje</string>
   <string name="ad_card_connecting">A ligar…</string>
@@ -83,7 +84,7 @@
 • Aceda-o de qualquer navegador
 • Faça cópia dos seus eventos de forma segura"</string>
   <string name="creating_event">Evento criado</string>
-  <string name="creating_event_with_guest">Convites vão ser enviados</string>
+  <string name="creating_event_with_guest">A enviar convites…</string>
   <string name="credit">Cartão de crédito</string>
   <string name="credit_card_date_label">Data de reembolso:</string>
   <string name="credit_card_number_label">Número do cartão:</string>
@@ -98,6 +99,7 @@
   <string name="date_calculate_days">Introduzir número de dias</string>
   <string name="date_calculate_description">Saiba que data é antes ou após um certo dia</string>
   <string name="date_calculate_direction">Direcção</string>
+  <string name="date_calculate_direction_content_description">Direcção. Actualmente é %1s</string>
   <string name="date_calculate_result">Resultado</string>
   <string name="date_calculate_tab">Cálculo de datas</string>
   <string name="date_calculate_today">0 dias</string>
@@ -160,10 +162,10 @@
   <string name="edit_event_tab_event">Evento</string>
   <string name="edit_event_to_label">Data de fim</string>
   <string name="email_guests_label">Enviar email para convidados</string>
-  <string name="email_install_hint">O Email foi desinstalado. Ao reinstalar, pode restaurar todos os dados do calendário ou adicionar uma nova conta</string>
+  <string name="email_install_hint">O Email foi desinstalado. Instale o Email novamente para restaurar calendários ou adicionar um novo</string>
   <string name="email_picker_label">Enviar email com</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Evento vazio não foi criado</string>
+  <string name="empty_event">Não é possível criar eventos vazios</string>
   <string name="event_account">Conta</string>
   <string name="event_action_delete">Eliminar</string>
   <string name="event_action_edit">Editar</string>
@@ -227,7 +229,7 @@
   <string name="insert_event_toast_add_failed">Não foi possível adicionar</string>
   <string name="insert_event_toast_add_success">Evento criado</string>
   <string name="install_email_app">Instalar Email</string>
-  <string name="install_email_finished">Email instalado</string>
+  <string name="install_email_finished">Instalado com sucesso</string>
   <string name="installing_email">A instalar…</string>
   <string name="item_num_selected">%1$d seleccionados</string>
   <string name="jump_date_full">Ir para a data</string>
@@ -278,9 +280,9 @@
  Verifique as definições de rede e tente novamente"</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_title_label">(Sem título)</string>
-  <string name="no_visiable_calendar_message">É necessário seleccionar uma conta do calendário. Clique em Seleccionar conta para continuar</string>
-  <string name="no_visiable_calendar_select_account">Seleccionar conta</string>
-  <string name="no_visiable_calendar_title">Seleccionar uma conta do calendário</string>
+  <string name="no_visiable_calendar_message">É necessário adicionar uma conta do calendário. Clique em Adicionar conta para continuar</string>
+  <string name="no_visiable_calendar_select_account">Adicionar conta</string>
+  <string name="no_visiable_calendar_title">Adicionar conta</string>
   <string name="not_synced">Não sincronizado</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>
@@ -344,7 +346,7 @@
   <string name="response_yes">Sim</string>
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">Evento guardado</string>
-  <string name="saving_event_with_guest">Actualizações vão ser enviadas</string>
+  <string name="saving_event_with_guest">A enviar actualizações…</string>
   <string name="search">Pesquisar</string>
   <string name="search_calendar">Data;Agenda;Reunião;Lembretes;Férias;Aniversários;2016;2017</string>
   <string name="search_calendar_edit_event">Reunião;Agenda</string>
@@ -374,6 +376,7 @@
   <string name="swipe_up_guide_hint_text">Puxe para ver mais</string>
   <string name="synced">sincronizado</string>
   <string name="taishen">Filho de Deus</string>
+  <string name="talk_back_read_date">"A data actual é %1$s, %2$s, "</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s</string>
   <string name="template_week_num">Semana %1$s</string>
   <string name="text_year">Ano</string>
