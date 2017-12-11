@@ -1920,7 +1920,6 @@ do seu dispositivo"</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
   <string name="tether_limit_dialog_title">Limite de dados móveis</string>
-  <string name="tether_limit_value_custom">Personalizado</string>
   <string name="tether_over_limit_dialog_cancle_btn">Repor PA Móvel</string>
   <string name="tether_over_limit_dialog_message">Chegou ao limite de dados do PA Móvel</string>
   <string name="tether_over_limit_dialog_title">Aviso de utilização de dados</string>
