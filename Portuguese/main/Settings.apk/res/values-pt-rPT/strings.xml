@@ -3745,6 +3745,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
   <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso Móvel</string>
+  <string name="tether_data_usage_limit">Limite de dados</string>
+  <string name="tether_data_usage_limit_summary">O limite de dados vai ser aplicado da próxima vez que ligar o PA Móvel</string>
   <string name="tether_devices_management_title">Gestão de dispositivos</string>
   <string name="tether_devices_max_number">Limite de dispositivos ligados</string>
   <string name="tether_settings_disabled">PA Móvel desligado</string>

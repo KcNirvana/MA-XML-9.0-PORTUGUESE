@@ -82,8 +82,8 @@
         <item quantity="one">Não foi possível exportar %d vídeo. Liberte espaço e tente novamente</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d ficheiros vazios) %2$s</item>
-        <item quantity="one">(%1$d ficheiro vazio) %2$s</item>
+        <item quantity="other">(%1$d ficheiros vazios)</item>
+        <item quantity="one">(%1$d ficheiro vazio)</item>
     </plurals>
     <plurals name="app_usage_day">
          <item quantity="other">Não utilizada há %d dias</item>

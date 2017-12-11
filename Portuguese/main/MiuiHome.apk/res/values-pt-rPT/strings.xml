@@ -70,6 +70,11 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Editar nome da pasta</string>
+  <string name="edit_mode_group">Grupos</string>
+  <string name="edit_mode_group_error_full">Sem espaço suficiente</string>
+  <string name="edit_mode_group_error_in_folder">Feche a pasta antes de agrupar ícones</string>
+  <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones seleccionados</string>
+  <string name="edit_mode_uninstall">Desinstalar</string>
   <string name="editing_add_widget_tips">Editar widgets</string>
   <string name="editing_mode_enter_tip_text">Junte ou afaste dois ou mais dedos para editar o ecrã inicial</string>
   <string name="editing_mode_title_empty">0 seleccionadas</string>
@@ -154,6 +159,8 @@
   <string name="lock_screen_failed_message">Não foi possível definir</string>
   <string name="lock_screen_success_message">Aplicado</string>
   <string name="lock_screen_wallpaper">Papel de parede do ecrã de bloqueio</string>
+  <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
+  <string name="memory_clear_result">%1$sB limpos</string>
   <string name="menu_add">Adicionar</string>
   <string name="menu_auto_fill">Preencher auto.</string>
   <string name="menu_back_desktop">Voltar para o ecrã inicial</string>

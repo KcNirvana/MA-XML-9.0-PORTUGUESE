@@ -361,6 +361,8 @@
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Definir a duração dos tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
+  <string name="dual_4g_switch_summary">Permitir conectividade 4G para ambos os SIM</string>
+  <string name="dual_4g_switch_title">Duplo 4G</string>
   <string name="duration_disable_summary">Mostrar duração está desligada</string>
   <string name="duration_enable_summary">Mostrar duração está ligada</string>
   <string name="editContact">Editar</string>
@@ -399,6 +401,7 @@
   <string name="enable_disable_retail_directory">Directório de retalho</string>
   <string name="enable_disable_stock_quotes">Cotação de acções</string>
   <string name="enable_disable_technology_news">Notícias sobre tecnologia</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">Voz 4G necessita da conectividade para ambos os SIM. Trocar para Duplo 4G agora?</string>
   <string name="enable_fdn">Activar FDN</string>
   <string name="enable_fdn_ok">Desactivar FDN</string>
   <string name="enable_in_progress">A definir o PIN…</string>
@@ -1132,6 +1135,8 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">Não é permitido alterar o modo TTY durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir o modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
+  <string name="turn_off_dual_4g_failed">Não é possível desligar o Duplo 4G</string>
+  <string name="turn_on_dual_4g_failed">Não é possível ligar o Duplo 4G</string>
   <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar</string>
   <string name="turnover_mute_title">Inverter para silenciar</string>
   <string name="undefined">Nada</string>

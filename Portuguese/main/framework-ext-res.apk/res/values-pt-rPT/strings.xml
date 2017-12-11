@@ -81,7 +81,7 @@
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>
-  <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar umaa visualização incorrecta. Pode alterar isto em Definições &gt; Definições adicionais &gt; Botões</string>
+  <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar umaa visualização incorrecta. Pode alterar isto em Definições &gt; Ecrã em tamanho inteiro</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">A carregar sistema. Algumas funcionalidades podem estar limitadas</string>
   <string name="onehour">30 minutos</string>

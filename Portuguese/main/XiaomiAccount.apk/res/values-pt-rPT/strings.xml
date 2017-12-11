@@ -188,7 +188,7 @@
   <string name="oauth_title">Iniciar sessão com a Conta Mi</string>
   <string name="other_devices_title">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
-  <string name="passport_account_hint_text">Endereço de email, número de telefone ou ID da Conta Mi</string>
+  <string name="passport_account_hint_text">Email/Número de telefone/ID da Conta Mi</string>
   <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
   <string name="passport_account_name">Conta: %1$s</string>
@@ -223,7 +223,7 @@ Para activar a sua conta siga o
   <string name="passport_delete_account">Terminar sessão</string>
   <string name="passport_downlink_reg">Número de telefone</string>
   <string name="passport_email">Endereço de email</string>
-  <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
+  <string name="passport_email_or_id_hint_text">Email/ID da Conta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
   <string name="passport_error_auth_fail">A sessão expirou. Inicie sessão mais tarde</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>

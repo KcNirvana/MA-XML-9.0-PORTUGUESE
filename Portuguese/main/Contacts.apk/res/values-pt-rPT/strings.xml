@@ -179,7 +179,7 @@
   <string name="cloud_antispam_marked">Marcado</string>
   <string name="cloud_antispam_title">Identificação de chamadas</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Mi Cloud</string>
-  <string name="cloud_state_disabled">Sincronização com a Mi Cloud está desligada</string>
+  <string name="cloud_state_disabled">Ligar a Mi Cloud</string>
   <string name="cloud_state_loading">Aguarde…</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Mi Cloud</string>

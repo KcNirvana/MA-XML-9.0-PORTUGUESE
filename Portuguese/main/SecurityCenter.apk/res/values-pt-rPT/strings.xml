@@ -701,8 +701,7 @@
   <string name="firewall_applist">Aplicações</string>
   <string name="firewall_fragment_nonesys_listempty">Vazio</string>
   <string name="firewall_fragment_sys_listempty">Vazio</string>
-  <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
-  <string name="firewall_fragment_tab_title_sys">Sistema</string>
+  <string name="firewall_mobile">Dados móveis</string>
   <string name="firewall_mobile_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando dados móveis</string>
   <string name="firewall_network_allow">Permitiu %1$s utilizar %2$s ligação</string>
   <string name="firewall_partial">Permitir que algumas aplicações liguem através do método</string>
@@ -714,9 +713,9 @@
   <string name="firewall_restrict_data">Restringir a utilização de dados móveis</string>
   <string name="firewall_restrict_notify_title">%s não pode utilizar a rede</string>
   <string name="firewall_restrict_wlan">Restringir utilizando o Wi-Fi</string>
-  <string name="firewall_rule_group_title_mobile">Móvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
-  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
+  <string name="firewall_system_title">Utilização de dados para aplicações de sistema</string>
+  <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
   <string name="forbid_autobright_summary">O brilho do ecrã vai-se manter enquanto estiver a jogar</string>
@@ -1080,7 +1079,6 @@ da operadora"</string>
   <string name="name">Nome</string>
   <string name="net_booster">Acelerador de rede</string>
   <string name="net_booster_expire_notification">A sessão do acelerador de rede está a terminar</string>
-  <string name="net_booster_expire_notification_tip">%dd restantes antes da sessão do acelerador de rede terminar. Renove a sessão para evitar problemas de rede</string>
   <string name="net_booster_overdue_notification">A sessão do acelerador de rede está prestes a terminar</string>
   <string name="net_booster_overdue_notification_tip">A sessão do acelerador de rede vai terminar. Renovar a sessão?</string>
   <string name="net_booster_tip">Ligue o acelerador de rede para tornar a ligação Wi-Fi mais estável e reduzir o atraso da rede</string>
@@ -1430,6 +1428,8 @@ do seu dispositivo"</string>
   <string name="pref_key_extra_package_value">Tamanho do pacote</string>
   <string name="pref_key_half_year_package_start">Data de início</string>
   <string name="pref_key_half_year_package_switch">Pacote de dados semestral</string>
+  <string name="pref_key_tethering_setting">Limite de dados</string>
+  <string name="pref_key_tethering_title">Limite de dados</string>
   <string name="pref_manual_adjust">Definir utilização de dados</string>
   <string name="pref_mi_sim_settings">Definições do Mi SIM</string>
   <string name="pref_more_settings">Definições adicionais</string>
@@ -1918,6 +1918,14 @@ do seu dispositivo"</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
+  <string name="tether_custom_dialog_title">Limite de dados móveis</string>
+  <string name="tether_limit_dialog_title">Limite de dados móveis</string>
+  <string name="tether_limit_value_custom">Personalizado</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Repor PA Móvel</string>
+  <string name="tether_over_limit_dialog_message">Chegou ao limite de dados do PA Móvel</string>
+  <string name="tether_over_limit_dialog_title">Aviso de utilização de dados</string>
+  <string name="tether_over_limit_warning_notify_message">Desligue o PA Móvel</string>
+  <string name="tether_over_limit_warning_notify_title">Chegou ao limite de dados do PA Móvel</string>
   <string name="text_button">Entendi</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>

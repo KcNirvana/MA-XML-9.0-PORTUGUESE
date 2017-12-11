@@ -122,6 +122,7 @@
   <string name="from">de %1$s</string>
   <string name="goon_feedback_main">Continuar</string>
   <string name="hint_feedback_main">Descreva o problema</string>
+  <string name="issue_search">Pesquisar</string>
   <string name="loading_apps">A carregar lista…</string>
   <string name="login_system_failed">Não foi possível iniciar sessão</string>
   <string name="logo_title">Comentários</string>
