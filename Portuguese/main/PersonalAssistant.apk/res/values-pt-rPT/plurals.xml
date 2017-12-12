@@ -46,9 +46,9 @@
         <item quantity="other">%1$d dias atrás</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d passos</item>
-        <item quantity="zero">%d passos</item>
-        <item quantity="one">%d passo</item>
+        <item quantity="other">%d|passos</item>
+        <item quantity="zero">%d|passos</item>
+        <item quantity="one">%d|passo</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Em %d dias</item>
