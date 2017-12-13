@@ -90,6 +90,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="desktop_installing">A instalar</string>
   <string name="desktop_wait_wifi">A aguardar</string>
   <string name="desktop_waiting">A aguardar</string>
+  <string name="device_corrupt">Telefone Mi (Dados corrompidos)</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
@@ -145,10 +146,10 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="restore_task_cancelling">A cancelar…</string>
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
-  <string name="restoring_file_tile">A restaurar %d ficheiros</string>
   <string name="retry">Tentar novamente</string>
   <string name="self_phone">Este telefone</string>
   <string name="settings_backup">Definições do sistema</string>
+  <string name="size_unknown">Tamanho desconhecido</string>
   <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Mi Cloud</string>
   <string name="start_recover">Restaurar %s</string>
   <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do ecrã inicial</string>

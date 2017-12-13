@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Parse_error_dlg_text">Ocorreu um problema ao analisar o pacote</string>
-  <string name="abc_action_bar_home_description">Ir para início</string>
+  <string name="abc_action_bar_home_description">Ir para o início</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Ir para cima</string>
