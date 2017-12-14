@@ -7,6 +7,8 @@
   <string name="custom_lock_wallpaper_enter">Introduzir</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="delete">Eliminar</string>
+  <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
+  <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
   <string name="emergency_call_string">Emergência</string>
   <string name="face_data_input_camera_fail">Não foi possível carregar a câmara</string>
   <string name="face_data_input_camera_ok">A carregar a câmara…</string>

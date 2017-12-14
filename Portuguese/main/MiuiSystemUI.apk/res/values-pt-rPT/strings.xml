@@ -35,6 +35,7 @@
   <string name="accessibility_desc_select_block_notification">Seleccionar notificações para ocultar</string>
   <string name="accessibility_desc_uncheck_block_notification">Desmarcar notificações de %1$s</string>
   <string name="accessibility_desc_weather_temperature">%1s graus de temperatura</string>
+  <string name="accessibility_desc_work_lock">Ecrã de bloqueio de trabalho</string>
   <string name="accessibility_home">Início</string>
   <string name="accessibility_ime_switch_button">Trocar o botão do método de entrada</string>
   <string name="accessibility_managed_profile">Perfil de trabalho</string>

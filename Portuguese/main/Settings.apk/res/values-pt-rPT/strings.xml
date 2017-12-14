@@ -698,7 +698,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bootloader_status_unlocked">Desbloqueado</string>
   <string name="bootloader_status_unlocked_info">Este dispositivo está desbloqueado</string>
   <string name="bootloader_summary">Restaurar ou actualizar o dispositivo via USB</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Cor do LED</string>
   <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
   <string name="breathing_light_freq_summary">Pulsar quando houver novas notificações</string>
@@ -2219,7 +2218,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dirac_mode_piston_color">Edição colorida</string>
   <string name="music_dirac_mode_piston_standard">Edição genérica</string>
   <string name="music_dirac_mode_piston_youth">Edição jovem</string>
-  <string name="music_dirac_mode_reduction_noise">Reduzir ruído TypeC</string>
+  <string name="music_dirac_mode_reduction_noise">Reduzir ruído (USB-C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Desligado</string>
@@ -3921,6 +3920,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_none_summary">Sem segurança</string>
   <string name="unlock_set_unlock_none_title">Nenhum</string>
   <string name="unlock_set_unlock_off_title">Nenhum</string>
+  <string name="unlock_set_unlock_password_none">Nenhum</string>
   <string name="unlock_set_unlock_password_summary">Segurança elevada</string>
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
   <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
