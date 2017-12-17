@@ -67,12 +67,12 @@
   <string name="dialog_insufficient_space_on_external">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
   <string name="dialog_msg_disabled_net">%1$s transferências restritas na rede actual. Toque nas definições de rede para ir para a aplicação de Segurança</string>
-  <string name="dialog_msg_recommend">Não vai poder ver as fontes recomendadas depois de desligar</string>
+  <string name="dialog_msg_recommend">Não vai poder ver anúncios depois de desligar</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_title_disabled_net">Acesso à Internet</string>
   <string name="dialog_title_not_available">A transferência falhou</string>
   <string name="dialog_title_queued_body">O ficheiro ainda não está disponível</string>
-  <string name="dialog_title_recommend">Desligar fontes recomendadas</string>
+  <string name="dialog_title_recommend">Desligar anúncios</string>
   <string name="disable">Desligado</string>
   <string name="display_expire_netiv1">Este mês</string>
   <string name="do_not_support_url">Este tipo de URL não é suportado</string>
@@ -166,9 +166,9 @@
   <string name="high_speed_tryout_time">Tempo gratuito restante: %1$s. Torne-se um membro Xunlei</string>
   <string name="hint">Atenção</string>
   <string name="immediately_a_renewal">Renovar agora</string>
-  <string name="info_flow_only_load_wifi">Carregar fontes recomendadas quando ligado ao Wi-Fi</string>
+  <string name="info_flow_only_load_wifi">Carregar anúncios quando ligado ao Wi-Fi</string>
   <string name="info_flow_setting">Definições</string>
-  <string name="info_flow_show">Fontes recomendadas</string>
+  <string name="info_flow_show">Anúncios</string>
   <string name="input_valid_address">Introduzir um caminho de ficheiro</string>
   <string name="install">Instalar</string>
   <string name="install_failed">Não foi possível instalar %1$s</string>

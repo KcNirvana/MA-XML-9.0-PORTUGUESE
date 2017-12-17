@@ -134,8 +134,8 @@
   <string name="deepclean_similar_ignore">Ignorar</string>
   <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar​</string>
   <string name="deepclean_size_summary_less">O dispositivo está a ficar sem espaço livre</string>
-  <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
-  <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
+  <string name="deepclean_size_summary_more">Espaço disponível suficiente</string>
+  <string name="deepclean_size_summary_normal">Espaço disponível</string>
   <string name="deepclean_size_summary_not_enough">Sem espaço suficiente</string>
   <string name="deepclean_title_large_file">Eliminar ficheiros grandes</string>
   <string name="deepclean_title_uninstall_apps">Aplicações raramente utilizadas</string>
