@@ -101,7 +101,7 @@
   <string name="company_or_school">Work or school</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
-  <string name="cta_dialog_text_all">Para utilizar o assistente, deve ler e concordar com \"Termos de Utilização\" e \"Política de Privacidade\". Este serviço necessita de ligação à Internet e acesso aos serviços de localização</string>
+  <string name="cta_dialog_text_all">Para utilizar o assistente, deve ler e concordar com %1$s\"Termos de Utilização\" %2$s e %3$s \"Política de Privacidade\" %4$s. Este serviço necessita de ligação à Internet e acesso aos serviços de localização</string>
   <string name="cta_dialog_title">Termos e Condições</string>
   <string name="cta_negative">Fechar</string>
   <string name="cta_positive">Detalhes</string>

@@ -149,7 +149,7 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="micloud_battery_low_notification_message">Ligar carregador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Bateria fraca</string>
   <string name="micloud_buy_member">Comprar subscrição Mi Cloud</string>
-  <string name="micloud_buy_member_safe">Comprar subscrição Mi Cloud</string>
+  <string name="micloud_buy_member_safe">Aumentar o armazenamento Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Parece que mudou os cartões SIM. Inicie sessão
 na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_check_sim_notify_title">Reactivar a Mi Cloud</string>
@@ -273,6 +273,11 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_error_activated_fail">Active o seu cartão SIM</string>
   <string name="micloud_main_error_network_disallowed">Certifique-se que deu permissão de acesso à Internet</string>
   <string name="micloud_main_error_permission_limit">Permita o acesso da Mi Cloud ao armazenamento</string>
+  <string name="micloud_main_head_menu_cloud_backup">Cópias Mi Cloud</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Copiar contactos e fotos</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Reciclagem</string>
+  <string name="micloud_main_head_menu_state_close">Fechado</string>
+  <string name="micloud_main_head_menu_state_open">Aberto</string>
   <string name="micloud_main_last_sync_time">Última sincronização %s</string>
   <string name="micloud_main_master_sync_on">Sincronização ligada</string>
   <string name="micloud_main_memory_low_message">Não é possível sincronizar. Limpe alguns dados da Mi Cloud</string>
@@ -321,6 +326,7 @@ Utilize uma conta diferente"</string>
   <string name="micloud_main_wait_wlan_charge">Ligue-se ao Wi-Fi e carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Ligue-se ao Wi-Fi, desligue o ecrã e carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wlan_sync_data_count">Itens a aguardar sincronização: %d</string>
+  <string name="micloud_manage_space_data">Gerir dados da Mi Cloud</string>
   <string name="micloud_member">Subscrição Mi Cloud</string>
   <string name="micloud_member_advantage">Obter mais espaço de armazenamento</string>
   <string name="micloud_member_buy_content" formatted="false">"Válido até %s-%s-%s
@@ -551,10 +557,10 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="virtual_sim_desc">Ligue o Mi SIM para localizar o seu dispositivo sem um cartão SIM</string>
   <string name="voip_choose_sim">Escolher número de telefone para activar o Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
-  <string name="wipe_data_dialog_msg">Alguns itens (%s) não estão sincronizados. Vão ser guardados no seu dispositivo e não vão ser eliminados</string>
+  <string name="wipe_data_dialog_msg">%s não foram sincronizados e vão manter-se no seu telefone</string>
   <string name="wipe_data_dialog_msg_and_on">" e outros itens"</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Itens não estão sincronizados</string>
+  <string name="wipe_data_dialog_title">Itens não sincronizados</string>
   <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Todos os dados importantes num só sítio</string>

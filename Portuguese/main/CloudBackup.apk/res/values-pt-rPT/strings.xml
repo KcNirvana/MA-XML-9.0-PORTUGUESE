@@ -18,6 +18,9 @@
   <string name="backup_success">Cópia feita com sucesso</string>
   <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
+  <string name="btn_continue">Continuar</string>
+  <string name="btn_retry">Verificar novamente</string>
+  <string name="btn_skip">Ignorar este passo</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Eliminar</string>
   <string name="button_next">Seguinte</string>
@@ -124,6 +127,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
+  <string name="provision_error_connect_msg">Pode testar a rede e tentar novamente. A função de cópia não vai funcionar sem uma rede válida</string>
+  <string name="provision_error_connect_title">Não é possível ligar à rede</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Mi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Mi Cloud anteriores?</string>
   <string name="recover_from_micloud">Restaurar da cópia da Mi Cloud</string>

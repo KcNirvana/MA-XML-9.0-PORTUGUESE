@@ -125,12 +125,7 @@
   <string name="indices_title_sport">Desportos</string>
   <string name="indices_title_uv">Indíce UV</string>
   <string name="indices_title_visibility">Visibilidade</string>
-  <string name="information_manager_default_weather_bg">Imagem de fundo do tempo</string>
   <string name="information_manager_extension">Extensão do tempo</string>
-  <string name="information_manager_information">Informação do tempo</string>
-  <string name="information_manager_wlan">Mostrar quando ligado ao Wi-Fi</string>
-  <string name="information_menu_title"/>
-  <string name="information_set">Outras definições</string>
   <string name="information_views"/>
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>

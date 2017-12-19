@@ -162,7 +162,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
   <string name="pref_camera_histogram_entry_enable">Ligar</string>
   <string name="pref_camera_iso_entry_auto">Automático</string>
-  <string name="pref_camera_iso_title">Seleccionar ISO</string>
+  <string name="pref_camera_iso_title">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Média (padrão)</string>
@@ -184,6 +184,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_multilevel_entry_middle">Médio (padrão)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_parallel_process_enable_title">Activar processo de imagens paralelas</string>
   <string name="pref_camera_peak_entry_off">Desligado</string>
   <string name="pref_camera_peak_entry_on">Ligado</string>
   <string name="pref_camera_peak_title">Focagem máxima</string>

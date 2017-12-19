@@ -214,7 +214,8 @@
 
 Para activar a sua conta siga o 
  link que enviámos para o seu email"</string>
-  <string name="passport_completed">Terminar</string>
+  <string name="passport_completed">Concluir</string>
+  <string name="passport_confirm_login">Continuar</string>
   <string name="passport_confirm_recycle_account">Sim</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Parece que&lt;/font&gt; o número %s foi reciclado pela sua operadora e existe uma Conta Mi associada ao mesmo. Esta conta é sua?"</string>
   <string name="passport_continue">Continuar</string>

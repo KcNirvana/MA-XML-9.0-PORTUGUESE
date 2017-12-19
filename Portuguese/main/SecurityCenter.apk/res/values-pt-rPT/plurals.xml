@@ -263,10 +263,6 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d vezes</item>
         <item quantity="one">%d vez</item>
     </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">Bloqueada %d vezes</item>
-        <item quantity="one">Bloqueada %d vez</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Utilizada há %d dias</item>
         <item quantity="one">Utilizada há %d dia</item>

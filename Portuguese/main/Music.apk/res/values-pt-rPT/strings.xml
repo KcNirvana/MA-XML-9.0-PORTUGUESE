@@ -405,7 +405,6 @@
   <string name="ktv_playlist">Lista de reprodução KTV</string>
   <string name="latest_song">Reproduzir histórico (%d)</string>
   <string name="like">Gosto</string>
-  <string name="list_detail_title">Detalhes</string>
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="load_shuffle">A carregar…</string>
@@ -770,10 +769,7 @@
   <string name="tab_album_list">Álbum</string>
   <string name="tab_artist">Artistas</string>
   <string name="tab_artist_list">Artista</string>
-  <string name="tab_chinese">Chineses</string>
-  <string name="tab_europa_america">Ocidentais</string>
   <string name="tab_folder">Pastas</string>
-  <string name="tab_japanese_korean">J-Pop/K-Pop</string>
   <string name="tab_local_folder_list">Pastas</string>
   <string name="tab_local_track_list">Músicas</string>
   <string name="tab_track">Músicas</string>

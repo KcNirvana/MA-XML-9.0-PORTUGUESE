@@ -123,7 +123,6 @@
   <string name="app_install_intercept">Bloquear instalação</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
-  <string name="app_maanger_app_uninstalled_toast">Esta aplicação foi desinstalada</string>
   <string name="app_manager_advanced_setting">Definições avançadas</string>
   <string name="app_manager_allow">Sim</string>
   <string name="app_manager_app_ifno_version">"Versão "</string>
@@ -184,8 +183,6 @@
   <string name="app_manager_have_not_consume">Nenhuma</string>
   <string name="app_manager_hide_system_server">Ocultar serviços de sistema</string>
   <string name="app_manager_install_other_app">Instalar aplicações de fontes desconhecidas</string>
-  <string name="app_manager_instruction">Instruções</string>
-  <string name="app_manager_loading_data">A carregar dados…</string>
   <string name="app_manager_manage_space">Gerir espaço</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Limpar dados</string>
@@ -208,10 +205,6 @@
   <string name="app_manager_powerkeeper_no_restrict">Sem restrições</string>
   <string name="app_manager_powerkeeper_restrict_bg">Restringir aplicações em segundo plano</string>
   <string name="app_manager_pref_ads">Recomendações</string>
-  <string name="app_manager_rebide_wakepath">Restringir</string>
-  <string name="app_manager_reduce_wakepath_dialog">Minimizar início sequencial</string>
-  <string name="app_manager_reduce_wakepath_summary">Restringir o início automático vai minimizar o início sequencial. Restringir o início automático para %s?</string>
-  <string name="app_manager_reject_count_over">Bloqueado 100000 vezes</string>
   <string name="app_manager_reset_app_preferences">Repor preferências da aplicação</string>
   <string name="app_manager_reset_app_preferences_button">Repor aplicações</string>
   <string name="app_manager_reset_app_preferences_desc">"Isto vai repor todas as preferências para:
@@ -226,13 +219,6 @@
   <string name="app_manager_show_all_apps">Mostrar todas as aplicações</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
-  <string name="app_manager_start_count_over">100000 vezes</string>
-  <string name="app_manager_stop_wakepath_dialog_summary">Desinstalar %s para restringir o início sequencial?</string>
-  <string name="app_manager_stop_wakepath_dialog_title">Restringir início sequencial</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Desinstalar esta aplicação vai restringir o início sequencial. As aplicações clonadas relacionadas vão ser desinstaladas também. Desinstalar %s?</string>
-  <string name="app_manager_stop_wakepath_success">Restringido com sucesso</string>
-  <string name="app_manager_stop_wp_dialog_cancel">Cancelar</string>
-  <string name="app_manager_stop_wp_dialog_uninstall">Desinstalar</string>
   <string name="app_manager_support_uninstall">Pode desinstalar estas aplicações</string>
   <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
   <string name="app_manager_title">Gerir aplicações</string>
@@ -637,7 +623,8 @@
   <string name="dlg_import_whitelist">A adicionar…</string>
   <string name="dlg_keyword_ok">Guardar</string>
   <string name="dlg_message_not_open_stranger_identify">Para ligar esta funcionalidade, vá a Definições &gt; Telefone</string>
-  <string name="dlg_no_block">Desbloquear este número e restaurar as chamadas para o registo de chamadas?</string>
+  <string name="dlg_no_block">"Desbloquear este número e restaurar as chamadas para o registo de chamadas?
+(O número vai ser adicionado à lista de excepções)"</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_remove_address_blacklist">Remover esta localização da lista de bloqueio?</string>
   <string name="dlg_remove_address_whitelist">Remover esta localização das excepções?</string>
@@ -1720,6 +1707,7 @@ do seu dispositivo"</string>
   <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave vão ser bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Utilize uma vírgula para separar múltiplas palavras)"</string>
+  <string name="st_filter_keywords_setting_summary3">Mensagens de números desconhecidos que contenham as palavras nesta lista vão ser permitidas</string>
   <string name="st_group_list_management">Gerir lista de bloqueio</string>
   <string name="st_hint_add_head_number">Introduzir prefixo</string>
   <string name="st_hint_add_phonenumber">Introduzir número telefone</string>
@@ -1728,7 +1716,9 @@ do seu dispositivo"</string>
   <string name="st_message_phone_AntiSpam">Bloquear chamadas</string>
   <string name="st_message_phonepass">Permitir chamadas</string>
   <string name="st_msg_intercept_contacts">Bloquear SMS de contactos</string>
-  <string name="st_msg_keyword_group">Lista de bloqueio de palavra-chave</string>
+  <string name="st_msg_keyword_black">Lista de bloq. de palavras-chave</string>
+  <string name="st_msg_keyword_group">Palavras-chave</string>
+  <string name="st_msg_keyword_white">Excepções de palavras-chave</string>
   <string name="st_msg_other_group">Outros</string>
   <string name="st_msg_settings">Lista de bloqueio de SMS</string>
   <string name="st_msg_stranger_group">Bloquear SMS de desconhecidos</string>
@@ -1763,7 +1753,8 @@ do seu dispositivo"</string>
   <string name="st_title_call_wait_setting">Chamada em espera</string>
   <string name="st_title_editblacklist">Editar lista de bloqueio</string>
   <string name="st_title_editwhitelist">Editar excepções</string>
-  <string name="st_title_keywords_blacklist">Filtro de palavras-chave</string>
+  <string name="st_title_keywords_blacklist">Lista de bloq. de palavras-chave</string>
+  <string name="st_title_keywords_whitelist">Excepções de palavras-chave</string>
   <string name="st_title_man_addblacklist">Adicionar número à lista de bloqueio</string>
   <string name="st_title_man_addwhitelist">Adicionar número de telefone às excepções</string>
   <string name="st_title_man_editblacklist">Escolher um código de área para adicionar à lista de bloqueio</string>
@@ -2111,8 +2102,6 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="virus_update_tips_title">Aviso</string>
   <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>
   <string name="voltage_symbol">V</string>
-  <string name="vpn_disabled_by_user">A ligação de dados está desligada</string>
-  <string name="vpn_unbale_get_phonenum">Não é possível obter números de telefone com os planos de dados atribuídos</string>
   <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
   <string name="website">Website</string>
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com este prefixo às excepções</string>

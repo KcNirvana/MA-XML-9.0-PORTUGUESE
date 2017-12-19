@@ -70,7 +70,7 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Editar nome da pasta</string>
-  <string name="edit_mode_group">Grupos</string>
+  <string name="edit_mode_group">Agrupar</string>
   <string name="edit_mode_group_error_full">Sem espaço suficiente</string>
   <string name="edit_mode_group_error_in_folder">Feche a pasta antes de agrupar ícones</string>
   <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones seleccionados</string>

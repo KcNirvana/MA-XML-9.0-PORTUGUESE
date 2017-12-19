@@ -691,11 +691,11 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="photomovie_audio_custom">Local</string>
   <string name="photomovie_audio_none">Nenhum</string>
   <string name="photomovie_audio_unsupport">Tipo de áudio não suportado</string>
-  <string name="photomovie_cancel_download">Cancelar transferência</string>
+  <string name="photomovie_cancel_download">Cancelar</string>
   <string name="photomovie_delete_disable">É necessário pelo menos 3 fotos para criar um clipe</string>
   <string name="photomovie_download">Transferir</string>
   <string name="photomovie_download_failed">Não foi possível transferir</string>
-  <string name="photomovie_download_failed_for_notwork">Não foi possível transferir. Verifiqe a sua ligação de rede</string>
+  <string name="photomovie_download_failed_for_notwork">Não foi possível transferir. Ligue-se à rede e tente novamente</string>
   <string name="photomovie_download_without_wifi_msg">Utilizar dados móveis para transferir ficheiros pode gerar custos adicionais</string>
   <string name="photomovie_download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="photomovie_item_name">Clipes</string>
