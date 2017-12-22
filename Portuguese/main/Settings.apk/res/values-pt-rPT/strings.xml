@@ -333,6 +333,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="average_used">Utilização média (%)</string>
   <string name="avoid_ui">Bloqueio de toque</string>
   <string name="awake">Tempo activo do dispositivo</string>
+  <string name="back_button">Voltar</string>
   <string name="back_key">Voltar</string>
   <string name="background_data">Dados em segundo plano</string>
   <string name="background_data_dialog_message">Desactivar dados em segundo plano aumenta a vida útil da bateria e reduz a utilização de dados. Algumas aplicações podem ainda utilizar a ligação de dados em segundo plano</string>
