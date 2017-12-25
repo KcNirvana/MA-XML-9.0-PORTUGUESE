@@ -274,10 +274,10 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_error_network_disallowed">Certifique-se que deu permissão de acesso à Internet</string>
   <string name="micloud_main_error_permission_limit">Permita o acesso da Mi Cloud ao armazenamento</string>
   <string name="micloud_main_head_menu_cloud_backup">Cópias Mi Cloud</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Copiar contactos e fotos</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Reciclagem</string>
-  <string name="micloud_main_head_menu_state_close">Fechado</string>
-  <string name="micloud_main_head_menu_state_open">Aberto</string>
+  <string name="micloud_main_head_menu_state_close">Desligado</string>
+  <string name="micloud_main_head_menu_state_open">Ligado</string>
   <string name="micloud_main_last_sync_time">Última sincronização %s</string>
   <string name="micloud_main_master_sync_on">Sincronização ligada</string>
   <string name="micloud_main_memory_low_message">Não é possível sincronizar. Limpe alguns dados da Mi Cloud</string>

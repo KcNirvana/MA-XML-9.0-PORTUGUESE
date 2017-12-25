@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Introduzir localização</string>
-  <string name="act_find_city_hot_attractions_title">Sites recomendados</string>
-  <string name="act_find_city_hot_city_title">Cidades recomendadas</string>
+  <string name="act_find_city_hot_attractions_title">Sites populares</string>
+  <string name="act_find_city_hot_city_title">Cidades populares</string>
   <string name="act_set_city_find_side">A localizar</string>
   <string name="act_set_city_find_side_error">Não é possível localizar dispositivo</string>
   <string name="act_weather_find_city_added">Adicionado</string>
