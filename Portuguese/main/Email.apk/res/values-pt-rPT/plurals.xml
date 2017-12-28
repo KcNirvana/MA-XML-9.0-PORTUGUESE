@@ -131,4 +131,36 @@
         <item quantity="few">%1$d mensagens antigas</item>
         <item quantity="many">%1$d mensagens antigas</item>
     </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ não lidas</item>
+        <item quantity="one">%1$d+ não lida</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Ocultar %1$d anexos</item>
+        <item quantity="one">Ocultar %1$d anexo</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s resultados nos emails sincronizados</item>
+        <item quantity="one">%s resultado nos emails sincronizados</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d restantes</item>
+        <item quantity="one">%1$d restante</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d novas mensagens</item>
+        <item quantity="one">%1$d nova mensagem</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Responder a %1$d pessoas</item>
+        <item quantity="one">Responder a %1$d pessoa</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s resultados no servidor</item>
+        <item quantity="one">%s resultado no servidor</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s não enviadas em %2$s</item>
+        <item quantity="one">%1$s não enviada em %2$s</item>
+    </plurals>
 </resources>

@@ -79,7 +79,7 @@
   <string name="account_setup_basics_password_label">Introduzir palavra-passe</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
   <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições smtp…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições SMTP…</string>
   <string name="account_setup_check_settings_retr_info_msg">A recuperar informações da conta…</string>
   <string name="account_setup_correct_address_tips">Insira o endereço de email</string>
   <string name="account_setup_creating_account_msg">A criar a conta…</string>
@@ -158,8 +158,7 @@
   <string name="account_sync_off">A sincronização da conta está desactivada</string>
   <string name="account_sync_settings_settings">Sincronizar contactos e calendário</string>
   <string name="account_sync_settingstip_description">Sincronização</string>
-  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>
-  <string name="actionbar_large_unread_count">%1$d+ não lidas</string>
+  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>  
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
   <string name="ad_merge">Anúncios e notificações</string>
@@ -214,6 +213,8 @@
   <string name="auto_advance_help_title">Avançar para…</string>
   <string name="auto_advance_label">Avanço automático</string>
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
+  <string name="auto_login_fail">Erro no início de sessão automático</string>
+  <string name="auto_login_fail_to_retry">Erro no início de sessão automático. Tente novamente</string>
   <string name="auto_mail_describe">A configuração automática de email pode ajudá-lo a preencher a informação de início de sessão da sua caixa de entrada. Quer activar esta funcionalidade?</string>
   <string name="auto_mail_disable_txt">Desactivado</string>
   <string name="auto_mail_enable_txt">Iniciar definições</string>
@@ -508,7 +509,6 @@
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
   <string name="help_config">Ajuda da configuração</string>
-  <string name="hide_atts_remaining">Ocultar %1$d anexos</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_password">Ocultar palavra-passe</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -535,8 +535,7 @@
   <string name="loading_conversation">A carregar…</string>
   <string name="loading_conversations">A carregar…</string>
   <string name="loading_from_remote">A carregar…</string>
-  <string name="local_search">Pesquisa local</string>
-  <string name="local_search_result">%s resultados nos emails sincronizados</string>
+  <string name="local_search">Pesquisa local</string>  
   <string name="login">Iniciar sessão</string>
   <string name="login139">Iniciar sessão com China Mobile</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
@@ -631,7 +630,6 @@
   <string name="mibill_privacy_policy_description">Permitir que a Mi Wallet analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactiva por defeito para endereços de email empresariais</string>
   <string name="mibill_privacy_policy_link">Ao utilizar esta funcionalidade, está a concordar com os nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
-  <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_context">Mais</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
@@ -645,7 +643,6 @@
   <string name="network_unavailable">Rede indisponível</string>
   <string name="network_tip">Erro na autenticação. Verifique a sua ligação de rede</string>
   <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar</string>
-  <string name="new_messages">%1$d novas mensagens</string>
   <string name="new_signature_has_saved">Guardada com sucesso</string>
   <string name="next_action">Seguinte</string>
   <string name="no">Não</string>
@@ -813,7 +810,6 @@
   <string name="quick_3">Irei ler isso mais tarde e dar-lhe-ei uma resposta</string>
   <string name="quick_4">Podemos marcar uma reunião para discutir isso</string>
   <string name="quick_reply_dialog_title">Escolher uma resposta</string>
-  <string name="quick_reply_hint">Responder a %1$d pessoas</string>
   <string name="quick_reply_hint_bcc">(Em BCC)</string>
   <string name="quick_reply_hint_cc">(Em CC)</string>
   <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas remetente)</string>
@@ -852,7 +848,6 @@
   <string name="refreshing_done">Concluída</string>
   <string name="release_to_refresh">Largue para actualizar</string>
   <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
-  <string name="remote_search_result">%s resultados no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
   <string name="remove_star">Remover estrela</string>
@@ -864,7 +859,8 @@
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="request_permission_activity">Pedido de permissão</string>
-  <string name="respond_inline">Responder inline</string>
+  <string name="respond_inline">"   Responder inline"</string>
+  <string name="retry_login">Inicie sessão novamente</string>
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Erro ao guardar rascunho</string>
@@ -1001,7 +997,6 @@ Remover conta?"</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
   <string name="unread_string">conversa não lida</string>
-  <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
   <string name="update_to_wps_mail">Disfrute de mais funcionalidades com WPS-Mail</string>

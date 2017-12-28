@@ -23,6 +23,7 @@
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduza o padrão do Bloqueio de aplicações</string>
+  <string name="accessibility_gameboosterservice_description"/>
   <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimizar</string>
   <string name="action_button_text_60">Corrigir</string>
@@ -116,6 +117,7 @@
   <string name="antivirus_update_btn_update">Actualizar</string>
   <string name="apn_exception_summary">Testar configurações APN da operadora</string>
   <string name="apn_exception_title">Verificar as configurações de APN</string>
+  <string name="app_bg_restrict_dialog_message">Restringir o acesso à rede em segundo plano pode fazer com que a aplicação deixe de funcionar normalmente. Restringir mesmo assim?</string>
   <string name="app_check_no_issue">Não existem problemas de bateria</string>
   <string name="app_detail">Detalhes</string>
   <string name="app_error_tip_for_launcher">O hardware do seu dispositivo ou a sua versão Android pode causar problemas de incompatibilidade. Se encontrar problemas, partilhe os seus comentários com os programadores da aplicação</string>
@@ -194,6 +196,7 @@
   <string name="app_manager_notify_bar">Ícones</string>
   <string name="app_manager_notify_floating">Flutuantes</string>
   <string name="app_manager_notify_keyguard">Ecrã de bloqueio</string>
+  <string name="app_manager_open_show_all_apps_immediate">Mostrar todos os resultados</string>
   <string name="app_manager_perm">Permissões</string>
   <string name="app_manager_permission_manager_title">Permissões</string>
   <string name="app_manager_permission_notify_title">Notificações</string>
@@ -216,7 +219,9 @@
 
  Nai vai perder dados das aplicações"</string>
   <string name="app_manager_reset_app_preferences_title">Repor preferências da aplicação?</string>
+  <string name="app_manager_search_prompt">Não encontrou resultados? Tente mostrar resultados de todas as aplicações</string>
   <string name="app_manager_show_all_apps">Mostrar todas as aplicações</string>
+  <string name="app_manager_show_all_apps_opened">A mostrar resultados de todas as aplicações…</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
   <string name="app_manager_support_uninstall">Pode desinstalar estas aplicações</string>
@@ -275,6 +280,8 @@
   <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria chegar a %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
+  <string name="auto_back_booster">Parar aumento</string>
+  <string name="auto_booster_suc">Aumentado com sucesso</string>
   <string name="auto_clean_close">A limpeza automática está desligada</string>
   <string name="auto_handle_title">Geral</string>
   <string name="auto_import_games">Ponha todos os seus jogos num único sítio</string>
@@ -342,6 +349,10 @@
   <string name="back_app_name">Voltar para Bloqueio de aplicações</string>
   <string name="back_description_securitycenter">Voltar</string>
   <string name="back_modifypassword">Voltar para alteração de palavra-passe</string>
+  <string name="back_sound_data">É necessário dados móveis. Tente novamente</string>
+  <string name="back_sound_fail">Erro</string>
+  <string name="back_sound_success">Sucesso</string>
+  <string name="back_sound_support">Não é suportado pela operadora!</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que a aplicação deixe de funcionar correctamente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">Definir a sua mensagem de ausência para %s?</string>
@@ -382,6 +393,7 @@
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Dia de reposição do ciclo de utilização</string>
   <string name="best_booster_status">A velocidade de jogo é a melhor neste momento</string>
+  <string name="bg_network_exception_title">Ligação em segundo plano restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
   <string name="bind_xiaomi_account_confirm">Adicionar</string>
   <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
@@ -599,6 +611,7 @@
   <string name="dlg_add_blacklist">Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
+  <string name="dlg_add_white">Apenas as novas chamadas e mensagens de números adicionados às excepções vão ser mostradas no registo de chamadas e mensagens. Adicionar os números seleccionados às excepções?</string>
   <string name="dlg_add_manual_hint">Introduzir número de telefone</string>
   <string name="dlg_add_manual_ok">Adicionar</string>
   <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas</string>
@@ -623,9 +636,12 @@
   <string name="dlg_import_whitelist">A adicionar…</string>
   <string name="dlg_keyword_ok">Guardar</string>
   <string name="dlg_message_not_open_stranger_identify">Para ligar esta funcionalidade, vá a Definições &gt; Telefone</string>
-  <string name="dlg_no_block">"Desbloquear este número e restaurar as chamadas para o registo de chamadas?
-(O número vai ser adicionado à lista de excepções)"</string>
+  <string name="dlg_move_to_white">Adicionar às excepções</string>
+  <string name="dlg_no_block">"Desbloquear este número de telefone?
+Vai ser adicionado às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
+  <string name="dlg_not_block_call">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer</string>
+  <string name="dlg_not_block_sms">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
   <string name="dlg_remove_address_blacklist">Remover esta localização da lista de bloqueio?</string>
   <string name="dlg_remove_address_whitelist">Remover esta localização das excepções?</string>
   <string name="dlg_remove_blacklist">Remover estes números da lista de bloqueio?</string>
@@ -748,8 +764,13 @@
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
+  <string name="gb_description_image_button_answer">Atender</string>
+  <string name="gb_description_image_button_reject">Rejeitar</string>
+  <string name="gb_description_image_button_video_answer">Videochamada</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
+  <string name="gmscore_support_service">Serviços Google</string>
   <string name="go_to">Continuar</string>
   <string name="go_to_setting_fingerprint">Definições</string>
   <string name="google_base_app_install_choice">\"%s\" necessita da Framework de serviços Google Service Framework para funcionar normalmente. Transferir e instalar?</string>
@@ -757,6 +778,8 @@
   <string name="gs_app_back_self_start">Poupança de bateria</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
   <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
+  <string name="gs_autobooster">Aumentar automaticamente</string>
+  <string name="gs_autobooster_detail">Aumentar velocidade automaticamente para os jogos seleccionados</string>
   <string name="gs_call_handsfree">Mãos livres</string>
   <string name="gs_call_handsfree_mute">Modo silêncio</string>
   <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do ecrã inicial. Vá a Segurança &gt; Definições para o restaurar</string>
@@ -1299,8 +1322,7 @@ do seu dispositivo"</string>
   <string name="permission_action_reject">Negar</string>
   <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_close_permission_control_dialog_title">Desligar?</string>
-  <string name="permission_exception_summary">Algumas aplicações não têm permissão para ligar à Internet</string>
-  <string name="permission_exception_title">Ver permissões de rede</string>
+  <string name="permission_exception_title">Aplicações com ligação restringida</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">As aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo. Pode activar esta função em - Definições de Permissões</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permissões</string>
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
@@ -1392,6 +1414,7 @@ do seu dispositivo"</string>
   <string name="pref_auto_adjust_traffic">Ajuste automático das estatísticas de utilização de dados</string>
   <string name="pref_automatic_adjust">Sincronizar utilização de dados da operadora</string>
   <string name="pref_avaible_traffic">Plano de dados</string>
+  <string name="pref_bg_network_title">Ligação em segundo plano</string>
   <string name="pref_category_daily_package_tile">Plano de dados diário</string>
   <string name="pref_category_extra_package_tile">Pacotes de carregamento</string>
   <string name="pref_category_half_year_package_tile">Pacote de dados semestral</string>
@@ -1422,11 +1445,11 @@ do seu dispositivo"</string>
   <string name="pref_mi_sim_settings">Definições do Mi SIM</string>
   <string name="pref_more_settings">Definições adicionais</string>
   <string name="pref_new_installed_preconfig_title">Definições predefinidas para novas aplicações</string>
-  <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados diário</string>
+  <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados</string>
   <string name="pref_open_adjust_traffic">Actualizar utilização de dados todos os dias com estatísticas da sua operadora</string>
   <string name="pref_operator_not_set">A operadora não está definida</string>
-  <string name="pref_over_traffic_limit">Quando ultrapassar o seu plano de dados</string>
-  <string name="pref_package_traffic_settings">Limite de dados móveis</string>
+  <string name="pref_over_traffic_limit">Quando atingir o seu plano de dados</string>
+  <string name="pref_package_traffic_settings">Plano de dados</string>
   <string name="pref_pkg_begin_date">Ciclo utilização de dados</string>
   <string name="pref_roaming_daily_limit_setting">Definir limite diário de dados em roaming</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Limite diário de dados</string>
@@ -1438,7 +1461,7 @@ do seu dispositivo"</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificações flutuantes</string>
   <string name="pref_title_manual_check_virus_db_update">Verificar actualizações</string>
   <string name="pref_title_over_traffic_limit_warning">Quando excedido</string>
-  <string name="pref_title_traffic_limit_number">Tamanho</string>
+  <string name="pref_title_traffic_limit_number">Limite diário de dados</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar na área de notificações</string>
   <string name="pref_title_upload_data_usage">Reportar estatísticas de utilização de dados</string>
@@ -2126,3 +2149,4 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
   <string name="xunyou_server_expired">A sessão expirou</string>
 </resources>
+

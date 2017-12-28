@@ -230,7 +230,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="miui_uninstall_success">Desinstalado com sucesso</string>
   <string name="miui_uninstalling">A desinstalar…</string>
   <string name="miui_virus_deleted">Vírus eliminado(s) com sucesso</string>
-  <string name="miui_virus_install"><u>Instalar na mesma</u></string>
+  <string name="miui_virus_install"><u>Instalar mesmo assim</u></string>
   <string name="miui_virus_scanning">A verificar…</string>
   <string name="miui_virus_title">Alto risco</string>
   <string name="never_ask_again">Não perguntar novamente</string>
@@ -321,7 +321,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="v7_preference_on">Ligado</string>
   <string name="virus_scan_caller_unknown">Desconhecido</string>
   <string name="virus_scan_clear">Remover</string>
-  <string name="virus_scan_install"><u>Instalar na mesma</u></string>
+  <string name="virus_scan_install"><u>Instalar mesmo assim</u></string>
   <string name="virus_scan_is_risk">Esta aplicação representa um risco para a segurança do seu dispositivo</string>
   <string name="virus_scan_is_virus">Esta aplicação contem vírus</string>
   <string name="waiting_tip">Isto pode demorar um bocado</string>

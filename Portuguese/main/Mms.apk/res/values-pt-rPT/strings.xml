@@ -649,7 +649,7 @@ Tentativas efectuadas: %s"</string>
   <string name="url_fraud_risky_alert">"O Website que está a tentar visitar pode ser perigoso. Visitar mesmo assim? 
 %s"</string>
   <string name="url_fraud_title">O Website pode ser falso</string>
-  <string name="url_fraud_visit"><u>Visitar na mesma</u></string>
+  <string name="url_fraud_visit"><u>Visitar mesmo assim</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
   <string name="verification_code_icon_name">V</string>

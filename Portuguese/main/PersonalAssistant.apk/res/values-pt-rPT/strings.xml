@@ -179,6 +179,7 @@
   <string name="fav_category_video">Videos</string>
   <string name="fav_detail_nodata">Couldnt find info</string>
   <string name="fav_init_guide_title">About favorites</string>
+  <string name="fav_label">Favoritos</string>
   <string name="fav_network_error">Network error</string>
   <string name="fav_nodata_tip">No favorites</string>
   <string name="fav_search_nodata_tip">Couldnt find results</string>
@@ -201,6 +202,8 @@
   <string name="flow_setting_brief">View your mobile data info (Add your data plan in Security &gt; Data usage).</string>
   <string name="focus">Follow status</string>
   <string name="focus_stocks">My companies</string>
+  <string name="function_jd_attention">Favoritos</string>
+  <string name="function_mistore_favorite">Favoritos</string>
   <string name="gmail_compose">Compose</string>
   <string name="gmail_parent">Gmail</string>
   <string name="go_to_school">To and from work or school</string>

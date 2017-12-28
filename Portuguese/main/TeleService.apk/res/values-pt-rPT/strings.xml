@@ -298,7 +298,9 @@
   <string name="dial_emergency_error">Não é possível ligar. %s não é um número de emergência</string>
   <string name="dial_related_setting_catory">Marcação</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
+  <string name="dialog_cancel">Cancelar</string>
   <string name="dialog_network_priority_title">Rede prioritária</string>
+  <string name="dialog_report">Reportar</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_labels"/>
@@ -612,6 +614,8 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mmiStarted">Código MMI iniciado</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
   <string name="mobile_networks">Redes móveis</string>
+  <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
+  <string name="modem_dialog_title">Rede móvel instável</string>
   <string name="msim_apn_not_set">Não definido</string>
   <string name="msim_default_setting">Definições predefinidas</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>

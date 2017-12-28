@@ -15,7 +15,7 @@
   <string name="check_new_version">Verificar</string>
   <string name="dialog_3g_desc">Tenha atenção que utilizar dados móveis para transferir ROMs pode consumir todo o seu pacote de dados</string>
   <string name="dialog_3g_title">Aviso!</string>
-  <string name="dialog_btn_3g">Continuar na mesma</string>
+  <string name="dialog_btn_3g">Continuar mesmo assim</string>
   <string name="dialog_btn_wifi">Trocar para Wi-Fi</string>
   <string name="dialog_stop_desc">Tem a certeza que quer parar a transferência? Todo o progresso vai ser perdido e não pode retomar. A próxima transferência vai começar do início</string>
   <string name="dialog_stop_title">Para transferência?</string>

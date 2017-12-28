@@ -76,7 +76,7 @@
         <item>Telemóvel:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Código Postal:</item>
+        <item>Código postal:</item>
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Aviso Legal:</item>

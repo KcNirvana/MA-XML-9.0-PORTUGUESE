@@ -820,6 +820,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_app">Fechar a aplicação actual</string>
+  <string name="close_demo_mode">Cancelar</string>
   <string name="close_gesture">Fechar utilizando gestos</string>
   <string name="cloud_backup_section_title">Cópias da Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
@@ -2368,6 +2369,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
+  <string name="open_demo_mode">Abrir</string>
+  <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
@@ -4542,7 +4545,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_show_password">Mostrar palavra-passe</string>
   <string name="wifi_signal">Potência do sinal</string>
   <string name="wifi_signal_found_msg">Ligar a um PA Wi-Fi?</string>
-  <string name="wifi_skip_anyway">Ignorar na mesma</string>
+  <string name="wifi_skip_anyway">Ignorar mesmo assim</string>
   <string name="wifi_skipped_message">AVISO: Se ignorar o Wi-Fi, o dispositivo apenas vai utilizar dados de rede móvel para as transferências e actualizações iniciais. Para evitar possíveis taxas de dados, estabeleça ligação a uma rede Wi-Fi</string>
   <string name="wifi_speed">Velocidade da ligação</string>
   <string name="wifi_ssid">SSID</string>

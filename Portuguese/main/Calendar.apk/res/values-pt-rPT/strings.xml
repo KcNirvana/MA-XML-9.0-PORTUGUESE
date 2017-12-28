@@ -99,7 +99,7 @@
   <string name="date_calculate_days">Introduzir número de dias</string>
   <string name="date_calculate_description">Saiba que data é antes ou após um certo dia</string>
   <string name="date_calculate_direction">Direcção</string>
-  <string name="date_calculate_direction_content_description">Direcção. Actualmente é %1s</string>
+  <string name="date_calculate_direction_content_description">Direcção actual: %1s</string>
   <string name="date_calculate_result">Resultado</string>
   <string name="date_calculate_tab">Cálculo de datas</string>
   <string name="date_calculate_today">0 dias</string>
@@ -235,7 +235,7 @@
   <string name="jump_date_full">Ir para a data</string>
   <string name="live_text">Ao vivo</string>
   <string name="living_text">No ar</string>
-  <string name="load_more_hint">Actualizar eventos de %1$d</string>
+  <string name="load_more_hint">Carregar eventos de %1$d</string>
   <string name="loading">Aguarde…</string>
   <string name="local_calendar_display_name">Calendário local</string>
   <string name="local_owner_account_name">Guardados neste dispositivo</string>
@@ -249,6 +249,19 @@
   <string name="menu_preferences">Definições</string>
   <string name="menu_reminder_preferences">Lembretes</string>
   <string name="missing_name">(Sem nome)</string>
+  <string name="missing_required_permission">Restringiu permissões necessárias</string>
+  <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
+  <string name="miuishare_account_activate_ok">Activar</string>
+  <string name="miuishare_account_login_cancel">Cancelar</string>
+  <string name="miuishare_account_login_confirmation">Iniciar sessão na Conta Mi</string>
+  <string name="miuishare_account_login_ok">Iniciar sessão</string>
+  <string name="miuishare_app_name">Partilha MIUI</string>
+  <string name="miuishare_no_network">Não foi possível ligar à rede</string>
+  <string name="miuishare_publish">Enviar</string>
+  <string name="miuishare_share_done">Partilhado com sucesso</string>
+  <string name="miuishare_share_editor_title">Partilhar</string>
+  <string name="miuishare_title_more">Mais</string>
+  <string name="miuishare_title_share">Partilhar</string>
   <string name="modify_all">Alterar todos os eventos da série</string>
   <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
   <string name="modify_event">Alterar apenas este evento</string>
@@ -311,9 +324,9 @@
   <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
-  <string name="pull_to_refresh_hint">Puxe para actualizar eventos de %1$d</string>
+  <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
-  <string name="refreshing_hint">A actualizar</string>
+  <string name="refreshing_hint">Aguarde…</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
   <string name="repeat_custom_prompt">a cada %1$s em %2$s</string>
@@ -366,6 +379,7 @@
   <string name="setting_sms_import">Importar eventos de SMS</string>
   <string name="setting_title_about">Acerca de</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>
+  <string name="share_title">Partilhar</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="sms_import_description">Melhorar a gestão de envio das SMS</string>
   <string name="solar_lunar_convert_date"/>
@@ -376,7 +390,7 @@
   <string name="swipe_up_guide_hint_text">Puxe para ver mais</string>
   <string name="synced">sincronizado</string>
   <string name="taishen">Filho de Deus</string>
-  <string name="talk_back_read_date">"A data actual é %1$s, %2$s, "</string>
+  <string name="talk_back_read_date">Data actual: %1$s (%2$s segundo o calendário lunar)</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s</string>
   <string name="template_week_num">Semana %1$s</string>
   <string name="text_year">Ano</string>

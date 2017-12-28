@@ -9,6 +9,7 @@
   <string name="delete">Eliminar</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
+  <string name="doze_pickup_subtype_performs_proximity_check"/>
   <string name="emergency_call_string">Emergência</string>
   <string name="face_data_input_camera_fail">Não foi possível carregar a câmara</string>
   <string name="face_data_input_camera_ok">A carregar a câmara…</string>
@@ -17,6 +18,8 @@
   <string name="face_data_input_msg">Coloque o seu rosto dentro do quadrado</string>
   <string name="face_data_input_ok">Concluído</string>
   <string name="face_data_input_ok_msg">Ligue o ecrã para desbloquear o dispositivo utilizando o seu rosto</string>
+  <string name="face_data_input_ok_msg_angle">"Desbloqueie o seu dispositivo com o seu rosto quando o ecrã estiver ligado.
+(Grave os dados do seu rosto, incluindo todos os ângulos necessários)​"</string>
   <string name="face_data_input_ok_title">Adicionado com sucesso</string>
   <string name="face_data_input_title">Adicionar rosto</string>
   <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma palavra-passe de ecrã de bloqueio antes de adicionar o seu rosto</string>
@@ -28,6 +31,8 @@
   <string name="face_data_manage_delete_title">Dados do rosto</string>
   <string name="face_data_manage_unlock_msg">Desbloquear dispositivo utilizando o seu rosto</string>
   <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
+  <string name="face_data_siggesstion_next">Seguinte</string>
+  <string name="face_data_siggesstion_next_time">Seguinte(%ds)</string>
   <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de ecrã de bloqueio</string>
   <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
   <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o ecrã é boa</string>
@@ -47,6 +52,8 @@
   <string name="face_unlock_passwork">Utilizar palavra-passe</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou rosto</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
+  <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser actualizado. Toque para gravar os dados novamente</string>
+  <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
   <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
   <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
   <string name="face_unlock_rise">Abaixe a sua cabeça</string>

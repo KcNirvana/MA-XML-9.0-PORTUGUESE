@@ -358,6 +358,7 @@ Para activar a sua conta siga o
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviada</string>
+  <string name="passport_sms_verification_code_login">Código de verificação SMS</string>
   <string name="passport_sync_account_data">A sincronizar dados da conta…</string>
   <string name="passport_sync_account_data_failed_warning">Os dados da sua conta estão a ser sincronizados. Pode iniciar sessão utilizando o seu ID Conta Mi. Se quer utilizar o seu email ou telefonar para iniciar sessão, aguarde até acabar a sincronização</string>
   <string name="passport_title_reg">Criar uma conta</string>
