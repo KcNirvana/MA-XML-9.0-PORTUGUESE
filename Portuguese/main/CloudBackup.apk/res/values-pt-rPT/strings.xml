@@ -14,7 +14,6 @@
   <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="backup_now">Fazer cópia agora</string>
   <string name="backup_size">Tamanho: %s</string>
-  <string name="backup_size_summary">Tamanho: %s</string>
   <string name="backup_success">Cópia feita com sucesso</string>
   <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
@@ -54,8 +53,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todos os dias</string>
-  <string name="cloud_back_up_interval_long">a cada 7 dias</string>
-  <string name="cloud_back_up_interval_short">todos os dias</string>
   <string name="cloud_back_up_no_network_warn">Não é possível ligar ao Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
@@ -64,10 +61,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="cloud_back_up_share_activity_title">Actualizar Conta Mi</string>
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup">Cópias da Mi Cloud</string>
+  <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
-  <string name="cloud_backup_detail_frequence_day">Fazer cópias %1$s</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
-  <string name="cloud_backup_detail_manage_summary">Cópias: %1$s Tamanho: %2$s</string>
   <string name="cloud_backup_detail_state">Cópias automáticas</string>
   <string name="cloud_backup_detail_state_summary">Criar cópias da Mi Cloud automaticamente quando ligado ao Wi-Fi</string>
   <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
@@ -127,7 +123,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
-  <string name="provision_error_connect_msg">Pode testar a rede e tentar novamente. A função de cópia não vai funcionar sem uma rede válida</string>
+  <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
   <string name="provision_error_connect_title">Não é possível ligar à rede</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Mi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Mi Cloud anteriores?</string>

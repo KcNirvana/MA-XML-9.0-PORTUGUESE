@@ -114,6 +114,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_beautify_entry_high">Alto</string>
   <string name="pref_camera_beautify_entry_low">Baixo</string>
   <string name="pref_camera_beautify_entry_normal">Médio</string>
+  <string name="pref_camera_bokeh_title">Retrato</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Aumentar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Preto e branco</string>
@@ -154,6 +155,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
   <string name="pref_camera_focusmode_entry_normal">Padrão</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
+  <string name="pref_camera_front_bokeh_entry_off">Desligado</string>
+  <string name="pref_camera_front_bokeh_entry_on">Ligado</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_groupshot_mode_title">Selfie de Grupo</string>
   <string name="pref_camera_hand_night_title">Nocturno</string>

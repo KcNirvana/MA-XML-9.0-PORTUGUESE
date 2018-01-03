@@ -12,15 +12,18 @@
   <string name="add_to_album_failed">Não foi possível adicionar ao álbum</string>
   <string name="add_to_album_success">Adicionado ao álbum</string>
   <string name="add_to_album_tip">Fotos da Mi Cloud</string>
+  <string name="add_to_favorites_failed">Não foi possível adicionar aos favoritos</string>
   <string name="add_to_secret_exist">A foto já existe no álbum oculto</string>
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
   <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
   <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos Álbuns partilhados</string>
+  <string name="added_to_favorites_tip">Adicionado ao álbum \"Favoritos\"</string>
   <string name="adding">A adicionar…</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adding_to_album">A adicionar fotos…</string>
+  <string name="adding_to_favorites">A adicionar aos favoritos…</string>
   <string name="adjust_brightness">Brilho</string>
   <string name="adjust_contrast">Contraste</string>
   <string name="adjust_saturation">Saturação</string>
@@ -29,12 +32,17 @@
   <string name="album_already_exists_check">Ver</string>
   <string name="album_already_exists_msg">O álbum \"%s\" já existe</string>
   <string name="album_already_forced_top">Já está no topo</string>
+  <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Câmara</string>
+  <string name="album_creative">As minhas fotos editadas</string>
   <string name="album_detail_page_empty">Sem fotos ou vídeos</string>
+  <string name="album_download">Transferências</string>
   <string name="album_faces_name">Pessoas</string>
+  <string name="album_favorites_name">Favoritos</string>
   <string name="album_from_format">De %s</string>
   <string name="album_jump_failed">Aguarde até os álbuns estarem sincronizados com a Mi Cloud e tente novamente</string>
   <string name="album_member">Membros do álbum %s</string>
+  <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Nome do álbum</string>
   <string name="album_name_locations">Locais</string>
   <string name="album_name_people">Pessoas</string>
@@ -46,6 +54,8 @@
   <string name="album_page_empty">Vazio</string>
   <string name="album_page_label">Álbuns</string>
   <string name="album_quota_fulfiled">Demasiados álbuns. Elimine alguns álbuns e tente novamente</string>
+  <string name="album_scanner">Digitalizador</string>
+  <string name="album_screen_recorder">Gravador de ecrã</string>
   <string name="album_screenshot_name">Capturas de ecrã</string>
   <string name="album_share_exit_confirm">Sair deste álbum?</string>
   <string name="album_share_kicked">%1$s está fechado</string>
@@ -64,6 +74,7 @@
   <string name="album_type_share">Álbuns partilhados</string>
   <string name="album_type_system">Álbuns de sistema</string>
   <string name="album_videos_name">Vídeos</string>
+  <string name="album_wallpaper">Papéis de parede</string>
   <string name="alert_secret_album_enter">Entendi</string>
   <string name="alert_secret_album_message">Puxe para ver álbuns ocultos</string>
   <string name="alert_secret_album_message_lower_case">Puxe para ver álbuns ocultos</string>
@@ -142,6 +153,7 @@
   <string name="backup_no_wifi_title">Toque para ligar ao Wi-Fi</string>
   <string name="backup_only_in_wifi">Utilizar apenas Wi-Fi para fazer cópias de fotos ou vídeos</string>
   <string name="backup_only_in_wifi_summary">Nunca utilizar dados móveis para fazer cópias de fotos ou vídeos</string>
+  <string name="backup_only_wifi_dialog_message">Utilizar dados móveis para fazer cópias de fotos ou vídeos?</string>
   <string name="backup_pause">Pausar cópia</string>
   <string name="backup_pause_title">Copiar em %s</string>
   <string name="backup_pending">Vão ser copiados automaticamente</string>
@@ -179,6 +191,8 @@
   <string name="cannot_remove_creator">Não é possível remover o criador</string>
   <string name="cannot_send_message">Não é possível enviar mensagem</string>
   <string name="cannot_send_message_reason">Sem destinatários válidos</string>
+  <string name="cast_devices_unavailable_desc">Certifique-se que tanto o dispositivo como o projector estão ligados à mesma rede Wi-Fi</string>
+  <string name="cast_devices_unavailable_title">Não foi possível encontrar um projector</string>
   <string name="change_to_face_mode">Mostrar apenas pessoas</string>
   <string name="change_to_photo_mode">Mostrar pré-visualizações completas</string>
   <string name="change_to_visible">Restaurar esta pessoa?</string>
@@ -594,6 +608,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_add_picture">Adicionar itens</string>
   <string name="operation_add_secret">Ocultar</string>
   <string name="operation_back">Voltar</string>
+  <string name="operation_cast_connected_format">Transmitir - %s</string>
+  <string name="operation_cast_connecting_format">A ligar a %s</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalhes</string>
   <string name="operation_disable_auto_upload">Desligue a sincronização com a Mi Cloud</string>
@@ -662,11 +678,13 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Olhos grandes</string>
   <string name="photo_editor_miui_beauty_menu_face_thin">Fino</string>
   <string name="photo_editor_miui_beauty_menu_lip_beauty">Lábios</string>
+  <string name="photo_editor_miui_beauty_menu_nose_thin">Contornos do nariz</string>
   <string name="photo_editor_miui_beauty_menu_relighting">Preenchimento de luz</string>
   <string name="photo_editor_miui_beauty_menu_skin_ruddy">Corado</string>
   <string name="photo_editor_miui_beauty_menu_skin_white">Tonalidade</string>
   <string name="photo_editor_miui_beauty_menu_smart_beauty">Inteligente</string>
   <string name="photo_editor_miui_beauty_menu_smooth">Suave</string>
+  <string name="photo_editor_miui_beauty_no_face">Não foi possível detectar rosto</string>
   <string name="photo_editor_mosaic">Mosaico</string>
   <string name="photo_editor_navigator_cancel">Cancelar</string>
   <string name="photo_editor_navigator_download_network_metered_msg">Para transferir %s é necessário 4MB de dados móveis. Transferir agora?</string>
@@ -727,6 +745,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="picker_title_unlimit">Seleccionar fotos</string>
   <string name="places_album_empty_title">As fotos podem ser ordenadas por localização</string>
   <string name="preparing_data">Aguarde…</string>
+  <string name="projection_cancel">Cancelar</string>
   <string name="projection_checkbox_text">Memorizar este ecrã</string>
   <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>
   <string name="projection_local_mobile">Este telefone</string>
@@ -735,6 +754,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="projection_slide_exit">Parar apresentação</string>
   <string name="projection_slide_fail_cause_loading">Reiniciar a apresentação depois de carregar imagem</string>
   <string name="projection_slide_playing">A apresentação está a ser reproduzida em %s</string>
+  <string name="projection_stop">Parar transmissão</string>
+  <string name="projection_switch_title">Trocar para</string>
   <string name="projection_video_quit">Toque para sair</string>
   <string name="public_url_descript">Qualquer um pode ver o seu álbum utilizando este URL</string>
   <string name="publish_failed">Não foi possível publicar</string>
@@ -761,6 +782,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="remove_from_album_message">Esta foto já não vai ser mostrada aqui</string>
   <string name="remove_from_album_title">Remover deste álbum</string>
   <string name="remove_from_current_album">Remover deste álbum</string>
+  <string name="remove_from_favorites_failed">Não foi possível remover dos favoritos</string>
   <string name="remove_from_other_albums_tip">Mover este álbum de Outros álbuns?</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
@@ -772,6 +794,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="remover_edit_type_line">Linhas</string>
   <string name="remover_erase_aera_too_big">A área de remoção é demasiado grande</string>
   <string name="remover_menu_processing">A processar</string>
+  <string name="removing_from_favorites">A remover dos favoritos…</string>
   <string name="rename_album">Mudar nome do álbum</string>
   <string name="rename_album_failed">Não foi possível mudar o nome</string>
   <string name="rename_album_succeeded">Nome mudado com sucesso</string>
@@ -813,7 +836,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="search_feedback_task_requesting_award">A receber recompensa…</string>
   <string name="search_feedback_user_notice">Eu li e aceitei a %s</string>
   <string name="search_feedback_user_policy">Política de Privacidade da AI da Galeria MIUI</string>
-  <string name="search_hint">Pesquisar fotos</string>
+  <string name="search_hint">Toque para pesquisar</string>
   <string name="search_image_result_title">Pesquisar resultados</string>
   <string name="search_login_now">Iniciar sessão</string>
   <string name="search_login_sub_title">Inicie sessão para encontrar mais fotos</string>
@@ -841,6 +864,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="search_title_recommend">Recomendado</string>
   <string name="search_title_suggestion">Sugestões</string>
   <string name="search_title_tag">Objectos</string>
+  <string name="searching_cast_devices">A procurar projector…</string>
   <string name="secret_album_card_description">O melhor sítio para os seus segredos</string>
   <string name="secret_album_card_title">Álbuns ocultos</string>
   <string name="secret_album_display_name">Álbum oculto</string>

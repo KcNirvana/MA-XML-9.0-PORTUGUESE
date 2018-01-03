@@ -106,8 +106,6 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="find_device_pref_alert_positive">OK</string>
   <string name="find_device_pref_alert_title">Memorizar o seu ID Conta Mi e palavra-passe</string>
   <string name="find_device_pref_initializing">A inicializar…</string>
-  <string name="find_device_reading_status">A carregar estado…</string>
-  <string name="find_device_reading_status_failure">Não foi possível carregar estado</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, pode ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_service_summary">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
   <string name="find_device_service_summary_international">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
@@ -278,6 +276,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_head_menu_recycle_bin_title">Reciclagem</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>
   <string name="micloud_main_head_menu_state_open">Ligado</string>
+  <string name="micloud_main_head_menu_state_unavailable">Indisponível</string>
   <string name="micloud_main_last_sync_time">Última sincronização %s</string>
   <string name="micloud_main_master_sync_on">Sincronização ligada</string>
   <string name="micloud_main_memory_low_message">Não é possível sincronizar. Limpe alguns dados da Mi Cloud</string>
@@ -462,6 +461,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="reading_status">A carregar estado…</string>
+  <string name="reading_status_failure">Não foi possível carregar estado</string>
   <string name="recommend_open_all_sync">Sincronizar todos os itens</string>
   <string name="remind_later">Agora não</string>
   <string name="restoreSync">Sincronizar agora</string>
