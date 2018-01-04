@@ -1586,6 +1586,7 @@ do seu dispositivo"</string>
   <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
   <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>
+  <string name="sc_warning_updater_not_found">Não existe a aplicação Actualizações. Não é possível actualizar!</string>
   <string name="scan_installed_games">A verificar jogos instalados…</string>
   <string name="scan_status_risk">Perigoso</string>
   <string name="scan_status_safe">Seguro</string>

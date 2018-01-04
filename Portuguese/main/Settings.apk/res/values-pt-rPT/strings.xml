@@ -296,7 +296,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="assistant_security_warning_disagree">Não aceitar</string>
   <string name="assistant_security_warning_title">Tornar %s o seu assistente?</string>
   <string name="assisted_gps">Utilizar GPS assistido</string>
-  <string name="assisted_gps_disabled">Utilizar servidor para assistir GPS (desactivar para melhorar o desempenho do GPS)</string>
+  <string name="assisted_gps_disabled">Utilizar servidor para assistir GPS (activar para melhorar o desempenho do GPS)</string>
   <string name="assisted_gps_enabled">Utilizar servidor para assistir GPS (desactivar para reduzir a utilização de rede)</string>
   <string name="attempt_other_network">Tentar outra rede</string>
   <string name="audio_list_loading">A carregar…</string>
@@ -1797,7 +1797,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="location_agps_register_network_type_summary">Escolher rede para utilização de AGPS</string>
   <string name="location_agps_reset_type">Repor tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Repor tipos</string>
-  <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
+  <string name="location_agps_reset_type_summary">Escolha o tipo de reposição preferido</string>
   <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Pode ter custos adicionais se exceder o limite subscrito no seu plano de dados</string>
   <string name="location_agps_si_mode">Modo AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Método AGPS</string>
