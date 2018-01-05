@@ -175,8 +175,8 @@
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
   <string name="dialog_file_missing_title">Erro ao abrir ficheiro</string>
   <string name="dialog_hint_music_error">Não foram encontradas músicas</string>
-  <string name="dialog_insufficient_space_on_cache">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento interno</string>
-  <string name="dialog_insufficient_space_on_external">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento externo</string>
+  <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
+  <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
@@ -227,7 +227,7 @@
   <string name="download_complete_btn">Instalado</string>
   <string name="download_confirm_button_text">Instalar</string>
   <string name="download_confirm_text">Mi Música vai transferir e instalar %s</string>
-  <string name="download_error">Erro</string>
+  <string name="download_error">Sem sucesso</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
   <string name="download_fail_to_fetch_info">Não foi possível transferir. Tente novamente</string>
   <string name="download_filesize_unknown">Desconhecido</string>

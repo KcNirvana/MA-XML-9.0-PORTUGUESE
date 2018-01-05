@@ -85,7 +85,7 @@
   <string name="app_local">Local</string>
   <string name="app_manager_get_data_failed">Não foi possível obter a informação da aplicação</string>
   <string name="app_manager_no_data">Não foram encontradas aplicações</string>
-  <string name="app_name">C.Remoto Mi</string>
+  <string name="app_name">C.Remoto</string>
   <string name="app_name_for_airkan">Transmissão de ecrã</string>
   <string name="app_open">Abrir</string>
   <string name="app_open_inbox">Abrir utilizando Mi Box</string>
@@ -166,7 +166,7 @@
   <string name="create_shortcut_cancel">Não obrigado</string>
   <string name="create_shortcut_confirm">Criar</string>
   <string name="create_shortcut_done">Criado com sucesso</string>
-  <string name="create_shortcut_failed">Não foi possível adicionar atalho. Certifique-se que o C.Remoto Mi tem as permissões necessárias</string>
+  <string name="create_shortcut_failed">Não foi possível adicionar atalho. Certifique-se que o C.Remoto tem as permissões necessárias</string>
   <string name="ctrl_mode_setting">Seleccionar modo</string>
   <string name="current_place">"Localização actual: "</string>
   <string name="current_play">A reproduzir: </string>
@@ -177,7 +177,7 @@
   <string name="day_string">d</string>
   <string name="delete">Eliminar</string>
   <string name="delete_confirm">Eliminar dispositivo?</string>
-  <string name="delete_desc">"Não é possível controlar “%s” utilizando C.Remoto Mi"</string>
+  <string name="delete_desc">"Não é possível controlar “%s” utilizando C.Remoto"</string>
   <string name="delete_device_frame">Eliminar %1$s?</string>
   <string name="delete_frame">Eliminar \"%1$s\"?</string>
   <string name="delete_navigate_view_cancel_button_text">Cancelar</string>
@@ -487,7 +487,7 @@ aguarde um momento depois da acção"</string>
   <string name="mi_account">Conta Mi</string>
   <string name="mi_account_name">Conta Mi</string>
   <string name="mi_brand">Mi</string>
-  <string name="mi_rc">C.Remoto Mi</string>
+  <string name="mi_rc">C.Remoto</string>
   <string name="mibox">Mi Box</string>
   <string name="milink_device_newfound">Novo dispositivo</string>
   <string name="milink_device_offline">Desligados</string>
@@ -550,7 +550,7 @@ Verifique as permissões ou reinicie o dispositivo"</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_respond">Sem resposta</string>
   <string name="not_updated_yet">Sem actualizações</string>
-  <string name="notification_found_device_text">Pode utilizar o C.Remoto Mi para controlar o dispositivo</string>
+  <string name="notification_found_device_text">Pode utilizar o C.Remoto para controlar o dispositivo</string>
   <string name="notification_found_device_title">Encontrado novo dispositivo: %1$s</string>
   <string name="notification_found_shared_remote_text">Toque para o controlar</string>
   <string name="notification_found_shared_remote_title">Encontrou um %1$s próximo</string>
@@ -785,7 +785,7 @@ Para activar a sua conta, siga o
   <string name="power_on">Ligado</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
-  <string name="privacy_content">Ler <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
+  <string name="privacy_content">Ler <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
   <string name="program_booking_book_filter_book_status">Estado da verificação</string>
@@ -819,7 +819,7 @@ Para activar a sua conta, siga o
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
-  <string name="rc_name">C.Remoto Mi</string>
+  <string name="rc_name">C.Remoto</string>
   <string name="receive_share_cancel">Cancelar</string>
   <string name="receive_share_done">Partilhado com sucesso</string>
   <string name="receive_share_ok">Aceitar</string>
@@ -832,7 +832,7 @@ Para activar a sua conta, siga o
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
   <string name="release_to_refresh">Largue para actualizar</string>
   <string name="rematch">Emparelhar novamente</string>
-  <string name="remote_controller_name">C.Remoto Mi</string>
+  <string name="remote_controller_name">C.Remoto</string>
   <string name="remove_fav_channel">Remover dos favoritos</string>
   <string name="rename">Mudar o nome</string>
   <string name="rename_hint">Introduzir nome do dispositivo</string>
@@ -922,7 +922,7 @@ Abra as definições do controlo e toque \"Partilhar\""</string>
   <string name="setting_common">Geral</string>
   <string name="setting_sharerc">Partilhado por pessoas</string>
   <string name="setting_sharerc_tips">Aceitar controlo remoto partilhado de uma pessoa próxima</string>
-  <string name="setting_version">C.Remoto Mi versão %1$s</string>
+  <string name="setting_version">C.Remoto versão %1$s</string>
   <string name="share">Partilhar</string>
   <string name="share_action_cancel">Cancelar</string>
   <string name="share_action_confirm">Enviar</string>
@@ -979,7 +979,7 @@ Vá a página inicial &gt; \"+\" &gt; Digitalizador"</string>
   <string name="share_title_to_sina_weibo">Partilhar utilizando Sina Weibo</string>
   <string name="share_to_others">Partilhar</string>
   <string name="sharerc_tips">Após partilhar este controlo remoto, as pessoas próximas vão poder utilizá-lo</string>
-  <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto Mi frequentemente. Criar um atalho no ecrã principal?</string>
+  <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto frequentemente. Criar um atalho no ecrã principal?</string>
   <string name="shortcut_pop_title">Atalho</string>
   <string name="show_all_episodes">Todos os episódios</string>
   <string name="show_remote_when_lock_screen">Mostrar controlos no ecrã de bloqueio</string>
