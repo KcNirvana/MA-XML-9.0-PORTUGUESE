@@ -960,6 +960,7 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Toque para configurar</string>
   <string name="tap_to_enable_sync">Toque para activar</string>
+  <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">Não é possível ligar à rede</string>
   <string name="toast_bar_insufficient_memory_space">Não é possível receber emails. Sem espaço suficiente</string>
