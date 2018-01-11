@@ -4,6 +4,10 @@
         <item quantity="other">%1$d chamadas de %2$s e outros</item>
         <item quantity="one">%1$d chamada de %2$s</item>
     </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d chamadas de %2$s e outros</item>
+        <item quantity="one">%1$d chamada de %2$s</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mensagens</item>
         <item quantity="one">%d mensagem</item>
@@ -113,6 +117,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Transferido por %1$d pessoas</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d pessoas estão a jogar</item>
+        <item quantity="one">%1$d pessoa está a jogar</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d pessoas estão a jogar</item>
+        <item quantity="one">%1$d pessoa está a jogar</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizações</item>

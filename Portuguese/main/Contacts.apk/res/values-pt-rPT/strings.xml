@@ -344,6 +344,7 @@
   <string name="description_minus_button">Menos</string>
   <string name="description_plus_button">Mais</string>
   <string name="description_quick_contact_for">Contacto rápido para %1$s</string>
+  <string name="description_quick_dial_button">Marcação rápida</string>
   <string name="description_search_button">Pesquisa</string>
   <string name="description_send_message">Enviar mensagem para %1$s</string>
   <string name="description_send_text_message">Enviar mensagem de texto para %1$s</string>
@@ -392,6 +393,7 @@
   <string name="dialer_empty_text_loading">Aguarde…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
+  <string name="dialer_firewall_entry_name">Chamadas bloqueadas</string>
   <string name="dialer_menu_description">Mostrar menus</string>
   <string name="dialer_menu_title">Opções do menu</string>
   <string name="dialer_returnToInCallScreen">Retorno da chamada em curso</string>
@@ -814,6 +816,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="path_key_rebuild_t9_index_title">Aplicações de sistema/Contactos/Organizar contactos/Reconstruir dados do índice</string>
   <string name="path_key_sim_manage">Aplicações de sistema/Contactos/Organizar contactos/Cartões SIM</string>
   <string name="path_preference_contacts_filter">Aplicações de sistema/Contactos/Preferências de visualização/Configurar lista de contactos</string>
+  <string name="path_quick_dial_setting">Aplicações de sistema/Contactos/Marcação rápida</string>
   <string name="path_remove_duplicate">Aplicações de sistema/Contactos/Organizar contactos/Unir contactos duplicados</string>
   <string name="path_share_visible_contacts">Aplicações de sistema/Contactos/Importar/Exportar contactos/Partilhar contactos</string>
   <string name="path_sim_capacity">Aplicações de sistema/Contactos/Armazenamento do cartão SIM</string>
@@ -922,6 +925,12 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="pull_to_refresh_release_label">Largue para actualizar</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Código QR</string>
+  <string name="quick_dial_setting_delete_dialog_message">Eliminar número atribuido?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Eliminar</string>
+  <string name="quick_dial_setting_hint">Toque no botão para atribuir ou remover um número de marcação rápida. Prima e segure no botão para ligar</string>
+  <string name="quick_dial_setting_set_dialog_message">Atribuir um número de marcação rápida a este botão?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Sim</string>
+  <string name="quick_dial_setting_title">Quick dial</string>
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="quit_dialog_confirm_message">"Não uniu nenhum contacto"</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contactos</string>
@@ -989,6 +998,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_key_rebuild_t9_index_title">Organizar;Contactos;t9</string>
   <string name="search_key_sim_manage">Organizar;Contactos</string>
   <string name="search_preference_contacts_filter">Contactos;Mostrar</string>
+  <string name="search_quick_dial_setting">Contactos</string>
   <string name="search_remove_duplicate">Organizar;Contactos</string>
   <string name="search_results_searching">A pesquisar…</string>
   <string name="search_settings_description">Nomes dos seus contactos</string>

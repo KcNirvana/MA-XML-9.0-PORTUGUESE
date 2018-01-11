@@ -17,6 +17,14 @@
   <string name="agree_to_turn_on">Concordar</string>
   <string name="all_services">Todos</string>
   <string name="allow">Permitir</string>
+  <string name="antispam_curr_version">Versão actual: %d</string>
+  <string name="antispam_data_downloading">A transferir informação do autor da chamada</string>
+  <string name="antispam_data_downloading_error">Não foi possível ligar à rede</string>
+  <string name="antispam_local_newest">A versão actual está actualizada</string>
+  <string name="antispam_network_remind_summary">Transferir actualizações utilizando dados móveis?</string>
+  <string name="antispam_network_remind_title">Aviso de utilização de dados</string>
+  <string name="antispam_pull_newest">Actualizar para a versão %d com sucesso</string>
+  <string name="antispam_update_version">Verificar actualizações</string>
   <string name="app_label">Páginas amarelas</string>
   <string name="app_recommendation_install">Instalar</string>
   <string name="average_price">Média %d EUR</string>

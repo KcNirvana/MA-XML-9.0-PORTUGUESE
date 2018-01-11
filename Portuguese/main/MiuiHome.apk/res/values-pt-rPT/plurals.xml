@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="announce_for_drag">
+        <item quantity="other">A arrastar %1$d itens</item>
+        <item quantity="one">A arrastar</item>
+    </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Eliminar %1$d papéis de parede?</item>
         <item quantity="one">Eliminar %1$d papel de parede?</item>

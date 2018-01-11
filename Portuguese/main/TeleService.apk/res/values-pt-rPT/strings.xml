@@ -915,6 +915,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
+  <string name="quick_dial_setting_title">Marcação rápida</string>
   <string name="radio_off_error">Ligar o rádio antes de ver estas definições</string>
   <string name="rc_unlock_failed">O pedido de desbloqueio do cartão RUIM da empresa falhou</string>
   <string name="rc_unlock_success">Cartão SIM da empresa desbloqueado</string>

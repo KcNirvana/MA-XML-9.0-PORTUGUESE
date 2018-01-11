@@ -10,13 +10,13 @@
   <string name="add_to_album_bulk_result">Erro (%d)</string>
   <string name="add_to_album_exist">Esta foto já existe</string>
   <string name="add_to_album_failed">Não foi possível adicionar ao álbum</string>
+  <string name="add_to_album_failed_with_reason">Não é possível adicionar ao álbum %1$s</string>
   <string name="add_to_album_success">Adicionado ao álbum</string>
   <string name="add_to_album_tip">Fotos da Mi Cloud</string>
   <string name="add_to_favorites_failed">Não foi possível adicionar aos favoritos</string>
   <string name="add_to_secret_exist">A foto já existe no álbum oculto</string>
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
-  <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
   <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos Álbuns partilhados</string>
   <string name="added_to_favorites_tip">Adicionado ao álbum \"Favoritos\"</string>
@@ -549,7 +549,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="loading_gif_thumbnail">A transferir miniatura GIF…</string>
   <string name="loading_image">A transferir imagem…</string>
   <string name="loading_image_thumbnail">A transferir miniaturas…</string>
-  <string name="loading_members">A carregar membros026</string>
+  <string name="loading_members">A carregar membros…</string>
+  <string name="loading_processing_tip">A processar foto…</string>
   <string name="loading_suspend">Transferência em pausa. Vai ser retomada quando o Wi-Fi estiver disponível</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_fail_sync_without_network">Ligue-se à rede para transferir os metadados</string>
@@ -604,6 +605,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="open">Ligar</string>
   <string name="open_public_message">Criar URL para partilhar com os seus amigos</string>
   <string name="open_public_title">Partilhar</string>
+  <string name="operate_processing_file_error">Aguarde até as fotos estarem processadas</string>
   <string name="operation_add_album">Adicionar ao álbum</string>
   <string name="operation_add_picture">Adicionar itens</string>
   <string name="operation_add_secret">Ocultar</string>
@@ -786,7 +788,6 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="remove_from_other_albums_tip">Mover este álbum de Outros álbuns?</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
   <string name="remove_from_secret_successful">Removido do álbum oculto</string>
   <string name="remove_to_album_title">Unir com</string>
   <string name="remove_to_other_album">Unir com uma pessoa diferente</string>

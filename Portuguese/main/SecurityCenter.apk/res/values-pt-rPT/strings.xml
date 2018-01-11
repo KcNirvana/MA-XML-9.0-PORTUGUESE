@@ -18,7 +18,7 @@
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="ac_unmask_all_apps">Mostrar para todas as aplicações</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Desenhe o seu padrão de desbloqueio para utilizar uma nova imp. digital</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Introduza a palavra-passe antes de utilizar uma nova imp. digital</string>
   <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a imp. digital</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
@@ -29,6 +29,7 @@
   <string name="action_button_text_60">Corrigir</string>
   <string name="action_button_text_60_80">Corrigir</string>
   <string name="action_button_text_80_100">Optimizar</string>
+  <string name="action_source_call_title">Chamadas bloqueadas</string>
   <string name="action_source_sms_title">Mensagens bloqueadas</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Verificação de segurança</string>
@@ -77,7 +78,6 @@
   <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
   <string name="all_address_choose_hint">Todos os números nesta área</string>
   <string name="already_close_gamebooster">O acelerador de jogos está desligado</string>
-  <string name="anim_gamebooster_text">Aguarde…</string>
   <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
   <string name="anti_disturb_msg_title">Não incomodar</string>
   <string name="antispam_mode_details">Detalhes da lista de bloqueio</string>
@@ -188,6 +188,8 @@
   <string name="app_manager_manage_space">Gerir espaço</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Limpar dados</string>
+  <string name="app_manager_mobile_slot1">Dados móveis (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">Dados móveis (SIM 2)</string>
   <string name="app_manager_net_control_title">Permitir utilização de dados</string>
   <string name="app_manager_net_mobile">Dados móveis</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
@@ -591,6 +593,7 @@
   <string name="delete">Eliminar</string>
   <string name="deleted_apps">Aplicações eliminadas</string>
   <string name="delete_from_manual_item_white_list">Remover de excepções</string>
+  <string name="delete_input">Eliminar</string>
   <string name="descx_quick_scan_cancel">Verificação cancelada</string>
   <string name="descx_quick_scan_preparation">Aguarde…</string>
   <string name="detail_app_button">Informações da aplicação</string>
@@ -718,6 +721,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="firewall_restrict_wlan">Restringir utilizando o Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_system_title">Utilização de dados para aplicações de sistema</string>
+  <string name="firewall_temp_rule_reason">%2$s ligação à Internet restringida para %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
@@ -764,9 +768,12 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
+  <string name="gb_ad_game_size">MB</string>
+  <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
+  <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
@@ -840,6 +847,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="info_unantispam_sms">Permitir mensagens</string>
   <string name="information_setting">Recomendações</string>
   <string name="input_aviable_traffic">Introduzir utilização de dados</string>
+  <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_traffic_pkg">Introduzir utilização de dados</string>
   <string name="input_used_hint">Introduzir utilização de dados</string>
   <string name="input_used_max_hint">Introduzir utilização de dados (menos de %s)</string>
@@ -946,7 +954,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="main_button_usage_adjusting_bill">A alterar…</string>
   <string name="main_button_usage_package_setting">Definir limite de dados</string>
   <string name="main_daily_package">Plano de dados diário</string>
-  <string name="main_indicator_title">A aguardar activação</string>
+  <string name="main_indicator_title">Activação</string>
   <string name="main_leisure_remained">Dados restantes</string>
   <string name="main_month_total_used">Utilizado este mês</string>
   <string name="main_month_used">Plano de dados</string>
@@ -1080,6 +1088,14 @@ da operadora"</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
   <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
+  <string name="mixed_need_to_confirm">Introduza novamente para confirmar</string>
+  <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
+  <string name="mixed_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
+  <string name="mixed_pattern_entered_header">Definido com sucesso</string>
+  <string name="mixed_recording_incorrect_too_short">Introduza pelo menos %d caracteres</string>
+  <string name="mixed_recording_intro_header">Introduza pelo menos 4 caracteres</string>
+  <string name="mixed_retry_button_text">Cancelar</string>
+  <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
   <string name="modifypassword">Alterar padrão</string>
   <string name="monitor_app_add">Adicionar</string>
   <string name="monitor_app_more">Mais</string>
@@ -1175,6 +1191,14 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notify_weekly_traffic_body">Para limitar a utilização de dados automaticamente defina um plano de dados mensal</string>
   <string name="notify_weekly_traffic_title">Utilizados %s esta semana</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizados %2$s esta semana</string>
+  <string name="numeric_need_to_confirm">Introduza novamente para confirmar</string>
+  <string name="numeric_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
+  <string name="numeric_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
+  <string name="numeric_pattern_entered_header">Definido com sucesso</string>
+  <string name="numeric_recording_incorrect_too_short">Introduza pelo menos %d dígitos</string>
+  <string name="numeric_recording_intro_header">Introduza palavra-passe</string>
+  <string name="numeric_retry_button_text">Cancelar</string>
+  <string name="numeric_settings_help_how_to_record">Como definir um PIN</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">A aplicação não é compatível com os requisitos de permissão Android. As permissões negadas podem afectar o funcionamento desta aplicação</string>
@@ -1292,7 +1316,9 @@ do seu dispositivo"</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Adicione a sua Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
   <string name="password_promotion_postbutton_text">Adicionar</string>
   <string name="password_promotion_title">Adicionar Conta Mi</string>
-  <string name="password_xspace_forget_pattern_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
+  <string name="password_type">Alterar palavra-passe</string>
+  <string name="password_type_underline"><u>Alterar palavra-passe</u></string>
+  <string name="password_xspace_forget_pattern_message">Para alterar a palavra-passe do Segundo espaço, deve eliminar o Segundo espaço actual e criar um novo</string>
   <string name="path_antispam">Aplicações de sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Aplicações de sistema/Segurança/Antivírus</string>
   <string name="path_app_permissions">Aplicações de sistema/Segurança/Permissões/Permissões da aplicação</string>
@@ -1498,6 +1524,7 @@ do seu dispositivo"</string>
   <string name="quick_optimize_sub_summary_text">Adicionado %s à vida da bateria</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">O telefone está a consumir muita bateria</string>
   <string name="quick_optimize_suggest_battery_over_heat">O telefone está a sobreaquecer</string>
+  <string name="quite_all_string">Cancelar</string>
   <string name="reach_daily_limit_value_body">Reduzir a sua utilização de dados móveis</string>
   <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>
   <string name="read_all_sms">Ler tudo</string>
@@ -1603,6 +1630,9 @@ do seu dispositivo"</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
   <string name="set_applock_password">Definir padrão</string>
+  <string name="set_mixed_password_name">Definir palavra-passe</string>
+  <string name="set_numeric_password_name">Definir PIN</string>
+  <string name="set_pattern_password_name">Definir padrão</string>
   <string name="setting">Definições</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
   <string name="settings">Definições de utilização de dados</string>
@@ -2096,6 +2126,12 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="unlike">Não, obrigado</string>
   <string name="unlock_pattern"><u>Padrão</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar imp. digital</string>
+  <string name="unlock_set_unlock_password_summary">Combinar diferentes caracteres</string>
+  <string name="unlock_set_unlock_password_title">Palavra-passe</string>
+  <string name="unlock_set_unlock_pattern_summary">Ligue pelo menos 4 pontos</string>
+  <string name="unlock_set_unlock_pattern_title">Padrão</string>
+  <string name="unlock_set_unlock_pin_summary">Introduza 4 dígitos</string>
+  <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>
@@ -2145,6 +2181,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wlan_booster">Optimização Wi-Fi</string>
   <string name="wlan_change_protection_detail">Não trocar para Wi-Fi automaticamente quando ligado a dados móveis</string>
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
+  <string name="wrong_password">Palavra-passe incorrecta</string>
   <string name="xunyou_net_booster">Acelerador de rede</string>
   <string name="xunyou_net_booster_detail">Utilizar o acelerador de rede Xunyou para jogos</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>

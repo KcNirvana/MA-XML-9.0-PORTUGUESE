@@ -8,6 +8,14 @@
         <item quantity="other">Adicionadas %d fotos na Mi Cloud. Desligue \"Mostrar apenas álbuns locais\" para ver</item>
         <item quantity="one">Adicionada %d foto na Mi Cloud. Desligue \"Mostrar apenas álbuns locais\" para ver</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">%2$d itens não podem ser adicionados ao álbum %1$s</item>
+        <item quantity="one">%2$d item não pode ser adicionado ao álbum %1$s</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d itens não podem ser adicionados ao álbum oculto %1$s</item>
+        <item quantity="one">%2$d item não pode ser adicionado ao álbum oculto %1$s</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
@@ -120,6 +128,10 @@
         <item quantity="other">%d fotos no total</item>
         <item quantity="one">%d foto no total</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">A processar fotos…</item>
+        <item quantity="one">A processar foto…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d fotos ignoradas devido a erros na renderização</item>
         <item quantity="one">1 foto ignorada devido a erros na renderização</item>
@@ -204,6 +216,10 @@
         <item quantity="other">%d fotos no total</item>
         <item quantity="one">%d fotos no total</item>
     </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d itens não podem ser removidos do álbum oculto %1$s</item>
+        <item quantity="one">%2$d item não pode ser removido do álbum oculto %1$s</item>
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Adicionadas %1$d fotos a \"%2$s\" e adicionadas à base de dados</item>
         <item quantity="one">Adicionada %1$d foto a \"%2$s\" e adicionada à base de dados</item>
@@ -219,6 +235,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">Removidas %1$d fotos de \"%2$s\"</item>
         <item quantity="one">Removida %1$d foto de \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Não foi possível partilhar. Ainda está a processar %d fotos…</item>
+        <item quantity="one">Não foi possível partilhar. Ainda está a processar %d foto…</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">Ainda não fez cópia de %d fotos e vídeos</item>
