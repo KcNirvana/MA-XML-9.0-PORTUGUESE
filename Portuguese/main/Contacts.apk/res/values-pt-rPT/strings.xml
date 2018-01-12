@@ -930,9 +930,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="quick_dial_setting_hint">Toque no botão para atribuir ou remover um número de marcação rápida. Prima e segure no botão para ligar</string>
   <string name="quick_dial_setting_set_dialog_message">Atribuir um número de marcação rápida a este botão?</string>
   <string name="quick_dial_setting_set_dialog_option_set">Sim</string>
-  <string name="quick_dial_setting_title">Quick dial</string>
+  <string name="quick_dial_setting_title">Marcação rápida</string>
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
-  <string name="quit_dialog_confirm_message">"Não uniu nenhum contacto"</string>
+  <string name="quit_dialog_confirm_message">Não uniu nenhum contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contactos</string>
   <string name="readOnlyContactDeleteConfirmation">O contacto a ser eliminado tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
   <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos</string>
