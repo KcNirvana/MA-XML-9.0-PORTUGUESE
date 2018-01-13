@@ -133,7 +133,6 @@
   <string name="continue_backup">Continuar</string>
   <string name="cp_info_first">"O serviço de streaming online 
 é oferecido por Ultimate Inc."</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Não foi possível criar encomenda. Tente novamente</string>
   <string name="create_playlist">Criar nova lista de reprodução</string>
   <string name="create_playlist_failure">Não foi possível criar lista de reprodução</string>
