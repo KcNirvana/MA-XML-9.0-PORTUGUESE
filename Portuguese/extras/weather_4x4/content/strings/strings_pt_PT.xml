@@ -12,7 +12,7 @@
     <string name="aqi_break"/>
     <string name="weather_type_null">'Sem dados'</string>
     <string name="weather_type_0">Céu limpo</string>
-    <string name="weather_type_1">Nublado</string>
+    <string name="weather_type_1">Céu nublado</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>
     <string name="weather_type_4">Tempestade forte</string>
