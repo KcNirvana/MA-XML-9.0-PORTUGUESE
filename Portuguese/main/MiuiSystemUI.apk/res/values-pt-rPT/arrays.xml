@@ -69,19 +69,19 @@
         <item>Chuva moderada</item>
         <item>Chuva fraca</item>
         <item>Chuva com neve</item>
-        <item>Nevão</item>
+        <item>Tempestade de neve</item>
         <item>Neve</item>
         <item>Nevão</item>
         <item>Neve moderada</item>
         <item>Leve queda de neve</item>
         <item>Forte tempestade de areia</item>
         <item>Tempestade de areia</item>
-        <item>Areias</item>
+        <item>Leve tempestade de areia</item>
         <item>Ventoso</item>
         <item>Granizo</item>
         <item>Poeiras</item>
         <item>Neblina</item>
-        <item>Chuva gelada</item>
+        <item>Chuva fria</item>
         <item></item>
     </string-array>
 </resources>
