@@ -32,7 +32,7 @@
   <string name="face_data_manage_unlock_msg">Desbloquear dispositivo utilizando o seu rosto</string>
   <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
   <string name="face_data_siggesstion_next">Seguinte</string>
-  <string name="face_data_siggesstion_next_time">Seguinte(%ds)</string>
+  <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
   <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de ecrã de bloqueio</string>
   <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
   <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o ecrã é boa</string>

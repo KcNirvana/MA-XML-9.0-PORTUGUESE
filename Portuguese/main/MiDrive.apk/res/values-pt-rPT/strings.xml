@@ -26,10 +26,10 @@
   <string name="downloading">A transferir</string>
   <string name="downloading_in_3g">A transferir em 3G…</string>
   <string name="downloading_in_wifi">A transferir…</string>
-  <string name="drive_low_memory_description_content">O armazenamento do telefone é insuficiente. Liberte mais espaço</string>
-  <string name="drive_low_memory_description_title">Alerta de armazenamento</string>
-  <string name="drive_low_memory_description_toast">>O armazenamento do telefone é insuficiente. Liberte mais espaço antes de utilizar o MiDrive</string>
-  <string name="drive_low_memory_positive_content">Limpar</string>
+  <string name="drive_low_memory_description_content">Não é possível utilizar o Mi Drive devido à falta de espaço</string>
+  <string name="drive_low_memory_description_title">Armazenamento insuficiente</string>
+  <string name="drive_low_memory_description_toast">Não é possível utilizar o Mi Drive devido à falta de espaço. Liberte algum espaço e tente novamente</string>
+  <string name="drive_low_memory_positive_content">Libertar espaço</string>
   <string name="empty_file_download">Não é possível transferir ficheiros vazios</string>
   <string name="empty_file_upload">Não é possível carregar ficheiros vazios</string>
   <string name="file_already_downlaoded">Ficheiro guardado em \"%1$s\"</string>

@@ -147,7 +147,7 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="micloud_battery_low_notification_message">Ligar carregador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Bateria fraca</string>
   <string name="micloud_buy_member">Comprar subscrição Mi Cloud</string>
-  <string name="micloud_buy_member_safe">Aumentar o armazenamento Mi Cloud</string>
+  <string name="micloud_buy_member_safe">Obter mais armazenamento Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Parece que mudou os cartões SIM. Inicie sessão
 na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_check_sim_notify_title">Reactivar a Mi Cloud</string>
@@ -271,9 +271,9 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_error_activated_fail">Active o seu cartão SIM</string>
   <string name="micloud_main_error_network_disallowed">Certifique-se que deu permissão de acesso à Internet</string>
   <string name="micloud_main_error_permission_limit">Permita o acesso da Mi Cloud ao armazenamento</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cópias Mi Cloud</string>
+  <string name="micloud_main_head_menu_cloud_backup">Cópia do ecrã inicial</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Reciclagem</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Itens eliminados</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>
   <string name="micloud_main_head_menu_state_open">Ligado</string>
   <string name="micloud_main_head_menu_state_unavailable">Indisponível</string>

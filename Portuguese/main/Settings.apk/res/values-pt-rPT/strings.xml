@@ -3899,6 +3899,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
 As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações com elas"</string>
+  <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã.
 

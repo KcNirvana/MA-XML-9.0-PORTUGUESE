@@ -71,5 +71,7 @@ Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes 
 Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
   <string name="title_fingerprint">Definir palavra-passe</string>
   <string name="user_agreement">Termos de Serviço</string>
+  <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
+  <string name="voice_assist_title">Ligar com voz</string>
   <string name="welcome">Bem-vindo</string>
 </resources>
