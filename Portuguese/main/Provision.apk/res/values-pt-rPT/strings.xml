@@ -7,6 +7,7 @@
   <string name="application_permissions">Permissões da aplicação</string>
   <string name="back">Voltar</string>
   <string name="congratulation_label">Tudo pronto para começar!</string>
+  <string name="congratulation_swipe">Deslize para cima para entrar no sistema</string>
   <string name="congratulation_title">Configuração concluída</string>
   <string name="content_description_complete">Concluído</string>
   <string name="content_description_miui_version">MIUI 9</string>
@@ -35,6 +36,9 @@
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Serviço em %s</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
+  <string name="navigation_picker_gesture_guide">Guia de gestos</string>
+  <string name="navigation_picker_radio_text_full_screen">Modo de ecrã inteiro</string>
+  <string name="navigation_picker_radio_text_virtual_key">Modo de teclado virtual</string>
   <string name="next">Seguinte</string>
   <string name="next_fingerprint">Seguinte</string>
   <string name="other_settings">Definições adicionais</string>
@@ -55,6 +59,7 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="setting_locale">A definir região…</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">A verificar o cartão SIM…</string>
+  <string name="sim_card_detecting_check">Não foi possível localizar o cartão SIM. Certifique-se que o cartão SIM está devidamente colocado</string>
   <string name="sim_card_detecting_title">A procurar cartão SIM</string>
   <string name="sim_card_detection">Insira o cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo</string>
@@ -62,6 +67,7 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="sim_redetection">Verifique o cartão SIM</string>
   <string name="skip_underline">Ignorar este passo</string>
   <string name="summary_not_set">Não definido</string>
+  <string name="system_navigation_mode">Modo de navegação do sistema</string>
   <string name="terms_of_use">Termos de Serviço</string>
   <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
 

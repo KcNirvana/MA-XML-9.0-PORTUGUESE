@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">Adicionar frases frequentes</string>
+  <string name="alarmclock">Alarme</string>
   <string name="android_ringtone_default_with_actual">Toque predefinido (%1$s)</string>
   <string name="android_ringtone_silent">Nenhum</string>
   <string name="android_ringtone_unknown">Toque desconhecido</string>
@@ -58,6 +59,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
+  <string name="incomingmessage">Mensagem recebida</string>
   <string name="lollipop">Lollipop</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
@@ -85,12 +87,12 @@
   <string name="menu_add_frequent_phrases">Adicionar</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_edit">Editar</string>
-  <string name="miclassic">Mi Clássico</string>
   <string name="maml_component_customization_title">Definições</string>
   <string name="miui_device_name">Dispositivo MIUI</string>
   <string name="national_day"/>
   <string name="national_father_day">Dia do Pai</string>
   <string name="new_years_day">Ano Novo</string>
+  <string name="newday">Novo dia</string>
   <string name="no_notification_tips">Sem notificações</string>
   <string name="partys_day"/>
   <string name="peace_day">Dia da Paz</string>
@@ -102,10 +104,11 @@
   <string name="slight_cold"/>
   <string name="slight_heat"/>
   <string name="solar_calendar"/>
+  <string name="spring">Primavera</string>
   <string name="spring_begins">Início da Primavera</string>
   <string name="stopping_the_heat"/>
   <string name="summer_begins">Início do Verão</string>
-  <string name="summer_solstice">"Solstício de Verão"</string>
+  <string name="summer_solstice">Solstício de Verão</string>
   <string name="teachers_day"/>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>

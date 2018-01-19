@@ -7,6 +7,7 @@
   <string name="action_item_add_to_current_playlist">Lista de reprodução actual</string>
   <string name="action_item_add_to_favorite_playlist">Lista de reprodução favorita</string>
   <string name="action_item_add_to_new_playlist">Nova</string>
+  <string name="action_item_as_ring">Definir como toque</string>
   <string name="action_item_cancel">Cancelar</string>
   <string name="action_item_delete">Eliminar</string>
   <string name="action_item_download">Transferir</string>
@@ -374,6 +375,7 @@
   <string name="global_search_title_movie">Músicas de filmes</string>
   <string name="global_search_title_prenatal">Música pré-natal</string>
   <string name="global_search_title_radar">Reconhecimento de música</string>
+  <string name="go_to_settings">Ir para definições</string>
   <string name="handle_later">Agora não</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
@@ -382,7 +384,7 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">Sim</string>
-  <string name="impunity_declaration_content1">"Ao aceitar, concorda com os termos definidos no nosso "</string>
+  <string name="impunity_declaration_content1">Ao tocar em \"Concordar\, está a concordar com os termos definidos em</string>
   <string name="impunity_declaration_content2">Termos de Utilização</string>
   <string name="impunity_declaration_content3">" e "</string>
   <string name="impunity_declaration_content4">Política de Privacidade</string>
@@ -391,7 +393,7 @@
   <string name="impunity_declaration_negative_text">Sair</string>
   <string name="impunity_declaration_positive_text">Aceitar</string>
   <string name="impunity_declaration_settings">Mostrar Termos de Utilização</string>
-  <string name="impunity_declaration_summary">Mostrar notificação dos Termos de Utilização sempre que abrir aplicação para música online Baidu</string>
+  <string name="impunity_declaration_summary">Mostrar Termos de Utilização sempre que abrir a aplicação</string>
   <string name="impunity_declaration_title">Termos de Utilização</string>
   <string name="in_searching_please_wait">A pesquisar…</string>
   <string name="input_hint_prefix">Introduza %1$s</string>
@@ -413,7 +415,7 @@
   <string name="local_music">Dispositivo</string>
   <string name="local_music_empty">Lista de reprodução vazia</string>
   <string name="local_music_empty_goto_online">Não foram encontradas músicas</string>
-  <string name="local_music_is_not_available">As músicas no dispositivo não se encontram disponíveis</string>
+  <string name="local_music_is_not_available">Não tem músicas no dispositivo</string>
   <string name="local_page_artist">Artistas seguidos</string>
   <string name="local_page_custom_subtitle">Músicas diárias</string>
   <string name="local_page_playlist">Listas de reprodução</string>
@@ -540,14 +542,11 @@
   <string name="notif_text_engine_off">O optimizador de transferências Xunlei está desactivado</string>
   <string name="notif_text_engine_on">A optimizar…</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
-  <string name="notif_title_multiple_downloading">A transferir %1$d ficheiros</string>
   <string name="notif_title_single_downloading">A transferir %1$s</string>
   <string name="notification_des_next_song">Seguinte: %s</string>
   <string name="notification_des_no_song">Mi Música. Novidades todos os dias</string>
   <string name="notification_download_complete">Transferência concluída</string>
   <string name="notification_download_failed">Transferência não efectuada</string>
-  <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
-  <string name="notification_download_success_more">%1$d transferido</string>
   <string name="notification_headset_info">Toque para ver definições</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de uma ligação Wi-Fi</string>
   <string name="notification_play_summary">Ver a música actual e a próxima e mostrar letras no ecrã inicial</string>
@@ -556,7 +555,7 @@
   <string name="notification_recommend_title">Notificações importantes</string>
   <string name="notification_setting">Definições das notificações</string>
   <string name="notification_title_no_song">Verifique o que toda a gente anda a ouvir!</string>
-  <string name="nowplaying_circle_style">Tipo de estilo</string>
+  <string name="nowplaying_circle_style">Estilo do botão Reproduzir</string>
   <string name="nowplaying_circle_style_rainbow">Arco-íris</string>
   <string name="nowplaying_circle_style_wave">Ondas</string>
   <string name="nowplaying_dialog_title_delete_tracks">Limpar a lista de reprodução actual?</string>
@@ -570,6 +569,8 @@
   <string name="online_playlist_is_empty">Lista de reprodução vazia</string>
   <string name="online_recommend">Lista de reprodução</string>
   <string name="open_download">Abrir</string>
+  <string name="optimize_all_until_optimized">A aplicar novas capas e letras…</string>
+  <string name="optimize_all_until_scanned">Aguarde até que o armazenamento seja verificado</string>
   <string name="order_pending">A aguardar confirmação</string>
   <string name="order_process_fail">Não foi possível autorizar a sua conta. Aguarde alguns minutos e tente novamente</string>
   <string name="other_filter">Outro</string>
@@ -604,7 +605,7 @@
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Listas de reprodução</string>
   <string name="playlist_type_recommend">Listas de reprodução em destaque</string>
-  <string name="playlist_unavailable">A lista de reprodução não está disponível. Para a eliminar, toque e segure, depois escolha eliminar</string>
+  <string name="playlist_unavailable">A lista de reprodução não está disponível. Para a eliminar, toque e segure, depois escolha \"Eliminar\"</string>
   <string name="please_download_first">Tem que transferir esta música antes que a possa definir como toque</string>
   <string name="please_search_or_select">Pesquise ou seleccione a letra</string>
   <string name="please_select_song">Escolha uma música primeiro</string>
@@ -775,9 +776,15 @@
   <string name="tab_track_list">Músicas</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
   <string name="talkback_back">Voltar</string>
+  <string name="talkback_cloud_setting">Definições</string>
   <string name="talkback_device">Reproduzir noutros dispositivos</string>
   <string name="talkback_download">Transferir</string>
   <string name="talkback_favorite">Gostar desta música</string>
+  <string name="talkback_follow">Seguir</string>
+  <string name="talkback_followed">Deixar de seguir</string>
+  <string name="talkback_header_search">"Pesquisar "</string>
+  <string name="talkback_karaoke">Abrir karaoke</string>
+  <string name="talkback_like">Gostar</string>
   <string name="talkback_mode">Repetir lista</string>
   <string name="talkback_mode_repeat_all">Modo repetição</string>
   <string name="talkback_mode_repeat_current">Repetir uma vez</string>
@@ -792,6 +799,7 @@
   <string name="talkback_radar">Reconhecimento de músicas</string>
   <string name="talkback_search">Pesquisar</string>
   <string name="talkback_share">Partilhar</string>
+  <string name="talkback_unlike">Deixar de gostar</string>
   <string name="text_separator">|</string>
   <string name="ticket_summary">Comprar bilhetes para espectáculos, concertos e outros eventos</string>
   <string name="ticket_title">Mostrar bilhetes</string>
@@ -867,7 +875,7 @@
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Aviso de utilização de dados</string>
   <string name="welcome_to_new_music">Bem-vindo à nova versão de Mi Música!</string>
-  <string name="wifi_required_body" formatted="false">"Deve utilizar o Wi-Fi para concluir esta %s transferência. 
+  <string name="wifi_required_body" formatted="false">"Ligue-se ao Wi-Fi para concluir esta %s transferência.
 
 Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi"</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>

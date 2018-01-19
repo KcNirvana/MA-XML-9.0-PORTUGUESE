@@ -240,6 +240,18 @@
         <item quantity="other">Não foi possível partilhar. Ainda está a processar %d fotos…</item>
         <item quantity="one">Não foi possível partilhar. Ainda está a processar %d foto…</item>
     </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d fotos optimizadas</item>
+        <item quantity="one">%d foto optimizada</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d fotos ainda não optimizadas. Parar?</item>
+        <item quantity="one">%d foto ainda não optimizada. Parar?</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d fotos restantes</item>
+        <item quantity="one">%d foto restante</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">Ainda não fez cópia de %d fotos e vídeos</item>
         <item quantity="one">Ainda não fez cópia de %d foto ou vídeo</item>
