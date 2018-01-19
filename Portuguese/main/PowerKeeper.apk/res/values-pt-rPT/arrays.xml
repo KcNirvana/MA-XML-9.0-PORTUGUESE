@@ -1,87 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="group_name_translate">
-        <item>Predefinido</item>
-        <item>Modo Oculto</item>
-        <item>Modo de Leitura</item>
-        <item>Modo Multimédia</item>
-    </string-array>
-    <string-array name="event_name_translate">
-        <item>Aplicação a executar em primeiro plano</item>
-        <item>Ecrã ligado</item>
-        <item>Ecrã desligado</item>
-        <item>Ecrã desligado há mais de 10 minutos</item>
-        <item>Modo ecrã inteiro</item>
-        <item>Sair do modo ecrã inteiro</item>
-        <item>Aplicação a executar em segundo plano</item>
-        <item>Telefone está a carregar</item>
-        <item>Telefone não está a carregar</item>
-        <item>O telefone está em modo de espera</item>
-    </string-array>    
-    <string-array name="action_name_translate">
-        <item>Brilho máximo do ecrã</item>
-        <item>Frequência máx. da CPU</item>
-        <item>Modo de ecrã</item>
-        <item>Utilização da CPU</item>
-        <item>Ligação de Dados</item>
-        <item>Localização</item>
-        <item>Primeira notificação</item>
-        <item>Notificações do ecrã de bloqueio</item>
-        <item>Restringir ligações de dados em segundo plano</item>
-    </string-array>
-    <string-array name="action_param_translate">
-        <item>Nada</item>
-        <item>Predefinido</item>
-        <item>Imagens</item>
-        <item>Filmes</item>
-        <item>Poupança de bateria</item>
-        <item>Equilibrado</item>
-        <item>Desempenho</item>
-        <item>Ligado</item>
-        <item>Desligado</item>
-        <item>Imediatamente</item>
-        <item>Depois de 10 min</item>
-        <item>Depois de 30 min</item>
-        <item>Quando o ecrã está desligado</item>
-    </string-array>
-    <string-array name="app_groups">
-        <item>Neste modo</item>
-        <item>Não seleccionados</item>
-        <item>Seleccionados noutros modos</item>
-    </string-array>
     <string-array name="hmode_app_groups">
         <item>Personalizadas</item>
         <item>Poupança de bateria</item>
-    </string-array>
-    <string-array name="power_checker_group_prefix">
-         <item>Agora</item>
-         <item>Em segundo plano</item>
-         <item>Recentemente</item>
-    </string-array>
-    <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>A pesquisar por Wi-Fi</item>
-        <item>A utilizar GPS</item>
-        <item>A ocupar a CPU</item>
-        <item>A ligar o dispositivo frequentemente</item>
-    </string-array>
-    <string-array name="power_checker_recent_group_titles">
-        <item>A bloquear modo inactivo</item>
-        <item>A bloquear modo inactivo</item>
-        <item>A pesquisar por Wi-Fi</item>
-        <item>A utilizar GPS</item>
-        <item>A utilizar a CPU</item>
-        <item>A manter activo</item>
-    </string-array>
-    <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="invisible_app_groups">
-        <item>Seleccionados</item>
-        <item>Desmarcados</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo controlo de temperatura</item>

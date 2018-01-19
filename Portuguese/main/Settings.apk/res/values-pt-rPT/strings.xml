@@ -2202,6 +2202,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
   <string name="music_audio_effect_settings">Definições de efeitos de áudio</string>
   <string name="music_dirac_control">Optimizar a qualidade do áudio</string>
+  <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Genéricos</string>
@@ -2220,7 +2221,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dirac_mode_piston_color">Edição colorida</string>
   <string name="music_dirac_mode_piston_standard">Edição genérica</string>
   <string name="music_dirac_mode_piston_youth">Edição jovem</string>
-  <string name="music_dirac_mode_reduction_noise">Reduzir ruído (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (USB-C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Desligado</string>
@@ -2369,7 +2370,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
-  <string name="open_demo_mode">Abrir</string>
+  <string name="open_demo_mode">Ligar</string>
   <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
@@ -3774,6 +3775,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_font_current2">Tipo de letra do sistema</string>
   <string name="title_font_size">Tamanho do tipo de letra</string>
   <string name="title_hdmi_color_calibration">Correcção de Cores</string>
+  <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_layout_current">Tamanho do tipo de letra</string>
   <string name="title_layout_current2">Tamanho do tipo de letra</string>
   <string name="title_local_resource">Recursos locais</string>
@@ -3899,6 +3901,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
 As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações com elas"</string>
+  <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã.
 
@@ -4303,6 +4306,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_calling_settings_title">Chamadas Wi-Fi</string>
   <string name="wifi_cancel">Cancelar</string>
   <string name="wifi_certificate">Certificado</string>
+  <string name="wifi_click_login_wlan">Ligado. Verificação necessária</string>
   <string name="wifi_click_share_wlan">Toque para partilhar palavra-passe</string>
   <string name="wifi_config_info">Configurações de Wi-Fi</string>
   <string name="wifi_configured_ap_list">Pontos de acesso configurados anteriormente</string>

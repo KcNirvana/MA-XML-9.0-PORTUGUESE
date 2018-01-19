@@ -1373,6 +1373,7 @@ do seu dispositivo"</string>
   <string name="power_btn_analyze">Analisar utilização de bateria</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Ligar/desligar automaticamente</string>
+  <string name="power_center_back">Voltar</string>
   <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Hora de ligar</string>

@@ -609,7 +609,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="missed_call_notify_twice">2 vezes</string>
   <string name="miui_network_selection_reset_text">Repor</string>
   <string name="miui_notification_network_selection_title">Sem serviço</string>
-  <string name="miui_notification_network_selection_title_by_sim">Sem serviço no SIM %s</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sem serviço</string>
   <string name="mmiCancelled">Código MMI cancelado</string>
   <string name="mmiStarted">Código MMI iniciado</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>

@@ -84,8 +84,8 @@
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>
   <string name="confirm_export_dialog_title">Remover dos contactos privados</string>
   <string name="confirm_no_block_positive">Desbloquear</string>
-  <string name="confirm_no_block_title">"Desbloquear este número e restaurar todas as mensagens enviadas deste número?
-(O número vai ser adicionado à lista de excepções)"</string>
+  <string name="confirm_no_block_title">"Desbloquear e restaurar todas as mensagens enviadas deste número?
+(O número vai ser adicionado às excepções)"</string>
   <string name="confirm_rate_limit">Um grande número de mensagens multimédia está a ser enviado</string>
   <string name="confirm_restore_all_title">Restaurar todas as mensagens enviadas deste número?</string>
   <string name="confirm_restore_checkbox">Restaurar mensagens bloqueadas</string>

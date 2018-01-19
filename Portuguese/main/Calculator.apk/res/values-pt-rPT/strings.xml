@@ -8,6 +8,7 @@
   <string name="cal_paste">Colar</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Texto copiado</string>
+  <string name="cancel">Cancelar</string>
   <string name="choose_currency">Seleccionar moeda</string>
   <string name="choose_unit">Seleccionar unidade</string>
   <string name="city">Cidade</string>
@@ -32,6 +33,7 @@
   <string name="current_rate_remind_fund"/>
   <string name="dateformat">dd-MM-yyyy</string>
   <string name="day">d</string>
+  <string name="degDesc">Ângulo</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">eliminar</string>
   <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calulador de hipotecas e taxas</string>
@@ -81,6 +83,8 @@
   <string name="golbal_search_calculator_setting">Calculadora;Definições da Calculadora;Definições</string>
   <string name="golbal_search_path_calculator_setting">Aplicações de Sistema/Calculadora/Definições</string>
   <string name="home_title_calculator">Calculadora</string>
+  <string name="install">Instalar</string>
+  <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
   <string name="item_title_aa_payment">Dividir a conta</string>
   <string name="item_title_area_conversion">Área</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -177,15 +181,22 @@
   <string name="preference_settings">Definições</string>
   <string name="preference_use_degress_summary">Substituir radianos por ângulos nas funções trigonométricas</string>
   <string name="preference_use_degress_title">Utilizar ângulos</string>
+  <string name="radDesc">Radianos</string>
   <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
+  <string name="reciprocalDesc">Inversos</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parêntese direito</string>
+  <string name="scannerDesc">Digitalizador</string>
+  <string name="scanner_had_been_uninstalled">O Digitalizador está desinstalado</string>
+  <string name="secondFunction">2º</string>
+  <string name="secondFunctionDesc">Trocar para a segunda função</string>
   <string name="settingsDesc">definições</string>
   <string name="sin">sin</string>
   <string name="sinDesc">seno</string>
   <string name="social_security"/>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">raiz quadrada</string>
+  <string name="switchDesc">Trocar</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
   <string name="tax_accumulation_fund">Fundo de acumulação</string>

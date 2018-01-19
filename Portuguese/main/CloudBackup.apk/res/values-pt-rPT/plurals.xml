@@ -5,8 +5,8 @@
         <item quantity="one">Fazer cópia todos os dias</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">Cópias: %1$s. Tamanho:%2$s</item>
-        <item quantity="one">Cópias: %1$s. Tamanho:%2$s</item>
+        <item quantity="other">Cópias: %1$s (%2$s)</item>
+        <item quantity="one">Cópias: %1$s (%2$s)</item>
     </plurals>
     <plurals name="restoring_file_tile">
         <item quantity="other">A restaurar %d ficheiros</item>

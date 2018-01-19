@@ -213,8 +213,8 @@
   <string name="auto_advance_help_title">Avançar para…</string>
   <string name="auto_advance_label">Avanço automático</string>
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
-  <string name="auto_login_fail">Erro no início de sessão automático</string>
-  <string name="auto_login_fail_to_retry">Erro no início de sessão automático. Tente novamente</string>
+  <string name="auto_login_fail">Não foi possível iniciar sessão automaticamente</string>
+  <string name="auto_login_fail_to_retry">Não foi possível iniciar sessão automaticamente. Tente novamente</string>
   <string name="auto_mail_describe">A configuração automática de email pode ajudá-lo a preencher a informação de início de sessão da sua caixa de entrada. Quer activar esta funcionalidade?</string>
   <string name="auto_mail_disable_txt">Desactivado</string>
   <string name="auto_mail_enable_txt">Iniciar definições</string>
