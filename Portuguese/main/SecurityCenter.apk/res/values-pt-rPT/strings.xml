@@ -478,7 +478,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Ligar</string>
-  <string name="card_main_applock_summary">Proteger aplicações com uma palavra-passe. Oculte mensagens, fotos e mais</string>
+  <string name="card_main_applock_summary">Proteger aplicações, mensagens e outros itens com uma palavra-passe</string>
   <string name="card_main_applock_title">Bloqueio de aplicações</string>
   <string name="card_main_deepclean_action">Limpar</string>
   <string name="card_main_deepclean_qq_title">Limpeza do QQ</string>
@@ -926,6 +926,8 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Toque \"OK\"</string>
+  <string name="lockpattern_tutorial_continue_label_next">Toque \"Seguinte\"</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão adicionado</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
@@ -1079,7 +1081,7 @@ da operadora"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Aumentar velocidade</string>
-  <string name="menu_text_power_manager">Gestão da bateria</string>
+  <string name="menu_text_power_manager">Utilização de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
@@ -1384,7 +1386,7 @@ do seu dispositivo"</string>
   <string name="power_center_state_on">Ligado</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
-  <string name="power_center_title">Gestão da bateria</string>
+  <string name="power_center_title">Utilização de bateria</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_sleep_summary">Desactivar todas as funções de rede (chamadas, mensagens, Wi-Fi e serviços de dados) excepto para o despertador</string>
   <string name="power_consume_other">Outros</string>

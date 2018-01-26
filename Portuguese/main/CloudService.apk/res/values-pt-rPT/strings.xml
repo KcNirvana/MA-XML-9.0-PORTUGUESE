@@ -271,7 +271,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_error_activated_fail">Active o seu cartão SIM</string>
   <string name="micloud_main_error_network_disallowed">Certifique-se que deu permissão de acesso à Internet</string>
   <string name="micloud_main_error_permission_limit">Permita o acesso da Mi Cloud ao armazenamento</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cópia do ecrã inicial</string>
+  <string name="micloud_main_head_menu_cloud_backup">Cópias da Mi Cloud</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Itens eliminados</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">Adicionar frases frequentes</string>
-  <string name="alarmclock">Alarme</string>
   <string name="android_ringtone_default_with_actual">Toque predefinido (%1$s)</string>
   <string name="android_ringtone_silent">Nenhum</string>
   <string name="android_ringtone_unknown">Toque desconhecido</string>
@@ -29,7 +28,6 @@
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Termos de Utilização</string>
   <string name="day_following_good_friday"/>
-  <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">Eliminar frases frequentes</string>
   <string name="delete_frequent_phrases_confirm">Eliminar as frases frequentes seleccionadas?</string>
   <string name="device_hongmi">Redmi</string>
@@ -59,8 +57,6 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="incomingmessage">Mensagem recebida</string>
-  <string name="lollipop">Lollipop</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -92,7 +88,6 @@
   <string name="national_day"/>
   <string name="national_father_day">Dia do Pai</string>
   <string name="new_years_day">Ano Novo</string>
-  <string name="newday">Novo dia</string>
   <string name="no_notification_tips">Sem notificações</string>
   <string name="partys_day"/>
   <string name="peace_day">Dia da Paz</string>
@@ -104,7 +99,6 @@
   <string name="slight_cold"/>
   <string name="slight_heat"/>
   <string name="solar_calendar"/>
-  <string name="spring">Primavera</string>
   <string name="spring_begins">Início da Primavera</string>
   <string name="stopping_the_heat"/>
   <string name="summer_begins">Início do Verão</string>
@@ -118,7 +112,6 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
-  <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day"/>
@@ -131,7 +124,7 @@
   <string name="vip_sign">Assinatura:</string>
   <string name="white_dews"/>
   <string name="winter_begins">Início de Inverno</string>
-  <string name="winter_solstice">"Solstício de inverno"</string>
+  <string name="winter_solstice">Solstício de inverno</string>
   <string name="yellow_page_module_sms_sent">SMS enviada</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Não é possível enviar mensagens no Modo Convidado</string>
   <string name="yellow_page_sms_send_failed">Não foi possível enviar SMS</string>

@@ -98,7 +98,7 @@
          <item quantity="one">Não utilizada há %d ano</item>
      </plurals>
      <plurals name="resutl_function_install_app_summary">
-         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicações que não são utilizadas há bastante tempo"&lt;/Data></item>
-         <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicação que não é utilizada há bastante tempo"&lt;/Data></item>
+         <item quantity="other"><font color='#ff0000'>%d</font> aplicações que não são utilizadas há bastante tempo</item>
+         <item quantity="one"><font color='#ff0000'>%d</font> aplicação que não é utilizada há bastante tempo</item>
      </plurals>
 </resources>

@@ -96,6 +96,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Desligar vai terminar as cópias em curso</string>
   <string name="dialog_cancel_backup_title">Cancelar a cópia em curso?</string>
+  <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
+  <string name="dialog_title_require_wlan">Ligar ao Wi-Fi</string>
   <string name="doing_restore_home">A restaurar ecrã inicial e definições…</string>
   <string name="done_remove">Removido com sucesso</string>
   <string name="download_home_data">A transferir o layout do ecrã inicial…</string>
