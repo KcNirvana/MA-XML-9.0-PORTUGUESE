@@ -358,8 +358,7 @@
   <string name="recommended">Em destaque</string>
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mais ficheiros podem ser limpos. Liberte mais espaço&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache WeChat. Liberte mais espaço.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_deep_clean_summary">"<font color="#ff0000">%1$s</font> de ficheiros podem ser limpos. Liberte mais espaço"</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
   <string name="scanning">A verificar…</string>
@@ -437,7 +436,13 @@
   <string name="unlike">Não, obrigado</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Verificação de segurança</string>
-  <string name="vungle_ad_name">Vungle广告</string>
+  <string name="wechat_qq_celan_tab_file">Ficheiros</string>
+  <string name="wechat_qq_celan_tab_image">Imagens</string>
+  <string name="wechat_qq_celan_tab_video">Vídeos</string>
+  <string name="wechat_qq_celan_tab_voice">Voz</string>
+  <string name="wechat_qq_chat_files">Histórico de conversas</string>
+  <string name="wechat_qq_deep_clean_button_text">Limpeza profunda</string>
+  <string name="wechat_qq_normal_files">Lixo</string>
   <string name="white_list_ad_header">Ficheiros de anúncios: %d</string>
   <string name="white_list_apk_header">Instalar pacotes: %d</string>
   <string name="white_list_cache_header">Ficheiros em cache: %d</string>

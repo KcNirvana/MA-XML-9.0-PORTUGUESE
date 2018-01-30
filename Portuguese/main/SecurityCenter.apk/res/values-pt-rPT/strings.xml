@@ -1833,9 +1833,9 @@ do seu dispositivo"</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_game">Iniciar</string>
-  <string name="status_bar_network_flow_content">Hoje: %1$s&amp;nbsp;|&amp;nbsp;Restante: %2$s</string>
+  <string name="status_bar_network_flow_content">Hoje: %1$s | Restante: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Hoje: %1$s&amp;nbsp;|&amp;nbsp;&amp;nbsp;Este mês: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;|&amp;nbsp;Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s | Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
