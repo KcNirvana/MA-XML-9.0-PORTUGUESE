@@ -2195,7 +2195,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
-  <string name="music_app_unavailable">Dependendo da aplicação música, certifique-se que está disponível</string>
+  <string name="music_app_unavailable">Certifique-se que a aplicação Música está disponível</string>
   <string name="music_audio_effect_optimize">Definições de áudio</string>
   <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Som HD, auriculares e outras definições áudio</string>
@@ -2221,7 +2221,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dirac_mode_piston_color">Edição colorida</string>
   <string name="music_dirac_mode_piston_standard">Edição genérica</string>
   <string name="music_dirac_mode_piston_youth">Edição jovem</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (Type-C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Desligado</string>

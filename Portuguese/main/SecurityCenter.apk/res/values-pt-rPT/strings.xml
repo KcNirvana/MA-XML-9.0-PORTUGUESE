@@ -478,7 +478,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Ligar</string>
-  <string name="card_main_applock_summary">Proteger aplicações, mensagens e outros itens com uma palavra-passe</string>
+  <string name="card_main_applock_summary">Proteger aplicações seleccionadas com uma palavra-passe</string>
   <string name="card_main_applock_title">Bloqueio de aplicações</string>
   <string name="card_main_deepclean_action">Limpar</string>
   <string name="card_main_deepclean_qq_title">Limpeza do QQ</string>
@@ -1086,7 +1086,7 @@ da operadora"</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Remover das excepções</string>
-  <string name="menu_white">Excepções</string>
+  <string name="menu_white">Adicionar às excepções</string>
   <string name="mi_service_app_detail">Detalhes de utilização de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
@@ -1119,6 +1119,8 @@ da operadora"</string>
   <string name="network_blocked_connected_open_wifi">Ligado a uma rede pública</string>
   <string name="network_blocked_notification_summary">Testar rede</string>
   <string name="network_blocked_switch_wifi">Trocar redes</string>
+  <string name="network_changed_noti_summary">A utilizar dados móveis</string>
+  <string name="network_changed_noti_title">Desligado do Wi-Fi</string>
   <string name="network_connected_exception_title">Testar rede</string>
   <string name="network_control">Ver definições da aplicação</string>
   <string name="network_diagnostics">Testar rede</string>

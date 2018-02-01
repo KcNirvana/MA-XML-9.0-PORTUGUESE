@@ -52,6 +52,10 @@
         <item quantity="other">%d itens do calendário</item>
         <item quantity="one">%d item do calendário</item>
     </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d registos do assistente</item>
+        <item quantity="one">%d registo do assistente</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d registos da lista de bloqueio</item>
         <item quantity="one">%d registo da lista de bloqueio</item>

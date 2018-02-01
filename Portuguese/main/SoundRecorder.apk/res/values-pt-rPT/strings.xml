@@ -5,11 +5,9 @@
   <string name="alert_message_delete_record_title">Eliminar gravações</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>
-  <string name="btn_clear_records">Eliminar gravações (%d itens)</string>
   <string name="button_queue_for_wifi">Aguardar</string>
   <string name="button_start_now">Transferir</string>
   <string name="call_record">Chamadas gravadas</string>
-  <string name="choose_call_records_count">%d itens</string>
   <string name="clear_records">Eliminar gravações sincronizadas</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
   <string name="cloud_record_tip">Sincronizar gravações com a Mi Cloud</string>
@@ -64,7 +62,6 @@
   <string name="notification_recording_ticker">Telefone no modo silêncio</string>
   <string name="notification_stopped">Gravação parada</string>
   <string name="notification_title_all_paused">Transferência em pausa</string>
-  <string name="notification_warning">Armazenamento quase cheio (menos de %d minutos)</string>
   <string name="path_soundrecorder_setting">Aplicações de sistema/Gravador</string>
   <string name="pause">Pausar</string>
   <string name="playback_delete_records">Eliminar gravação</string>

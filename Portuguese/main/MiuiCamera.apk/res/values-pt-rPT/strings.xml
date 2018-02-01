@@ -5,6 +5,7 @@
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>
   <string name="accessibility_hdr">Botão trocar HDR</string>
+  <string name="accessibility_intent_done_apply">Concluído</string>
   <string name="accessibility_mode_dismiss_button">Fechar o modo de selecção de botões</string>
   <string name="accessibility_peak">Botão foco máximo</string>
   <string name="accessibility_portrait_button">Modo Retrato</string>
@@ -14,12 +15,16 @@
   <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="accessibility_zoom_button">Modo Zoom</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
+  <string name="beauty_fragment_tab_name_beauty">Embelezar</string>
+  <string name="beauty_fragment_tab_name_makeup">Avançado</string>
+  <string name="bokeh_use_hint">Efeito de profundidade</string>
   <string name="burst_shoot_exit_button_text">Desligar Disparo Contínuo</string>
   <string name="button_fisheye_camera_title">Olho-de-Peixe</string>
   <string name="button_front_camera_title">Tirar uma selfie</string>
   <string name="button_normal_video_title">Gravar vídeo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
+  <string name="camera_facedetection_sub_option_hint">A opção experimental está disponível</string>
   <string name="camera_label">Câmara</string>
   <string name="camera_mode_options">Opções</string>
   <string name="camera_setting">Câmara</string>
@@ -30,6 +35,15 @@
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
+  <string name="config_name_group">Selfie de grupo</string>
+  <string name="config_name_hht">Nocturno</string>
+  <string name="config_name_magic">Magia</string>
+  <string name="config_name_scene">Cenário</string>
+  <string name="config_name_setting">Definições</string>
+  <string name="config_name_sound">Áudio</string>
+  <string name="config_name_straighten">Endireitar</string>
+  <string name="config_name_tilt">Tilt-shift</string>
+  <string name="config_name_timer">Temporizador</string>
   <string name="confirm_install_scanner_message">O Digitalizador permite digitalizar códigos QR, códigos de barras,etc. Não tem de ligar à Internet para o instalar</string>
   <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
@@ -41,11 +55,17 @@
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
+  <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
 O objecto não pode estar a mais de dois metros</string>
+  <string name="edit_eye_large">Olhos grandes</string>
+  <string name="edit_face_ruddy">Rosado</string>
+  <string name="edit_face_slender">Delicado</string>
+  <string name="edit_skin_smooth">Suave</string>
+  <string name="edit_skin_white">Tons</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
@@ -70,11 +90,32 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="face_beauty_intelligent_level_2">Médio</string>
   <string name="face_beauty_intelligent_level_3">Alto</string>
   <string name="face_beauty_smart">Inteligente</string>
+  <string name="front_camera_hint_text_place">"Tirar selfies vai ser mais fácil
+se rodar o seu telefone"</string>
+  <string name="front_camera_hint_text_rotate">Rode o seu telefone</string>
   <string name="groupshot_mode_use_hint">"Vão ser tiradas várias fotos para seleccionar a melhor
 expressão facial para construir uma foto"</string>
   <string name="hibernate_hint">Toque em qualquer sítio para ligar</string>
+  <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
+e criar uma com o mínimo de ruído"</string>
+  <string name="hint_device_water_mark">A data e hora vão ser adicionadas automaticamente</string>
+  <string name="hint_fast_motion">O vídeo que gravar vai ser reproduzido mais rápido</string>
+  <string name="hint_groupshot">"A câmara vai tirar várias fotos
+e criar uma espectacular"</string>
+  <string name="hint_groupshot_beauty">Não pode utilizar Embelezar em fotos de grupo</string>
+  <string name="hint_slow_motion">O vídeo que gravar vai ser reproduzido mais lento</string>
+  <string name="hunt_dual_water_mark">A data e hora vão ser adicionadas automaticamente</string>
   <string name="install_confirmed">Instalar</string>
   <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
+  <string name="module_name_beauty">Embelezar</string>
+  <string name="module_name_capture">Foto</string>
+  <string name="module_name_fun">Vídeos curtos</string>
+  <string name="module_name_manual">Manual</string>
+  <string name="module_name_panorama">Panorama</string>
+  <string name="module_name_portrait">Retrato</string>
+  <string name="module_name_square">Quadrado</string>
+  <string name="module_name_video">Vídeo</string>
+  <string name="multi_window_mode_not_supported">A câmara não funciona no modo ecrã dividido</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
   <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
@@ -111,6 +152,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
   <string name="pref_camera_autoexposure_title">Definições de exposição automática</string>
+  <string name="pref_camera_beauty_deep">Embelezar Pro</string>
   <string name="pref_camera_beautify_entry_high">Alto</string>
   <string name="pref_camera_beautify_entry_low">Baixo</string>
   <string name="pref_camera_beautify_entry_normal">Médio</string>
@@ -135,10 +177,13 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_coloreffect_entry_sketch">Esboço</string>
   <string name="pref_camera_coloreffect_entry_small_face">Apertar</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vívido</string>
-  <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analógico</string>
+  <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
   <string name="pref_camera_coloreffect_title">Filtros</string>
   <string name="pref_camera_contrast_title">Contraste</string>
+  <string name="pref_camera_delay_capture_entry_10s">10s de atraso</string>
+  <string name="pref_camera_delay_capture_entry_3s">3s de atraso</string>
+  <string name="pref_camera_delay_capture_entry_5s">5s de atraso</string>
   <string name="pref_camera_delay_capture_entry_audio">Áudio</string>
   <string name="pref_camera_delay_capture_title">Temporizador</string>
   <string name="pref_camera_face_info_watermark_title">Adicionar idade na foto</string>
@@ -149,6 +194,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_flashmode_entry_on">Ligado</string>
   <string name="pref_camera_flashmode_entry_torch">Lanterna</string>
   <string name="pref_camera_flashmode_title">Modo flash</string>
+  <string name="pref_camera_focus_shoot_summary">Toque para focar e toque novamente para tirar uma foto</string>
+  <string name="pref_camera_focus_shoot_title">Focar e tirar</string>
   <string name="pref_camera_focusmode_entry_auto">Automático</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
@@ -246,6 +293,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_settings_category">Câmara</string>
   <string name="pref_camera_settings_title">Definições</string>
   <string name="pref_camera_sharpness_title">Nitidez</string>
+  <string name="pref_camera_show_gender_age_config_title">Idade e género</string>
   <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Embelezar estiver ligado</string>
   <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e género quando Embelezar estiver ligado</string>
@@ -289,7 +337,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_zsl_entry_off">Desligado</string>
   <string name="pref_camera_zsl_entry_on">Ligado</string>
   <string name="pref_capture_settings">Câmara</string>
+  <string name="pref_dualcamera_watermark_title">"Marca d'água câmara dupla"</string>
   <string name="pref_face_beauty_title">Embelezar</string>
+  <string name="pref_fingerprint_capture_title">Disparo por imp. digital</string>
   <string name="pref_front_camera_flashmode_entry_torch">Ligado</string>
   <string name="pref_front_mirror_entry_auto">Quando um rosto é detectado</string>
   <string name="pref_front_mirror_entry_off">Desligado</string>
@@ -300,6 +350,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_priority_storage_title">Guardar no cartão SD</string>
   <string name="pref_qc_focus_position_title">Focar</string>
+  <string name="pref_retain_camera_mode_summary">Trocar a câmara para o modo anterior quando abrir</string>
+  <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
   <string name="pref_scan_qrcode_title">Digitalizar códigos QR</string>
   <string name="pref_setting_title">Definições</string>
   <string name="pref_simple_hdr_entry_off">Desligado</string>
@@ -378,6 +430,11 @@ e traz as pessoas que estão na frente"</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
+  <string name="user_agree">Concordar</string>
+  <string name="user_agreement2">Termos de Serviço</string>
+  <string name="user_agreement4">Política de Privacidade</string>
+  <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com %1$s e %2$s</string>
+  <string name="user_notice_title">Termos e Condições</string>
   <string name="video_camera_label">Máquina de filmar</string>
   <string name="video_reach_size_limit">Atingiu o limite do tamanho</string>
   <string name="wait">Aguarde…</string>

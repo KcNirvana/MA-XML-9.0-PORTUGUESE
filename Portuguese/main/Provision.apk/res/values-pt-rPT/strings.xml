@@ -37,8 +37,8 @@
   <string name="multisim_settings_category">Definições do cartão SIM</string>
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
   <string name="navigation_picker_gesture_guide">Guia de gestos</string>
-  <string name="navigation_picker_radio_text_full_screen">Modo de ecrã inteiro</string>
-  <string name="navigation_picker_radio_text_virtual_key">Modo de teclado virtual</string>
+  <string name="navigation_picker_radio_text_full_screen">Gestos de ecrã inteiro</string>
+  <string name="navigation_picker_radio_text_virtual_key">Botões</string>
   <string name="next">Seguinte</string>
   <string name="next_fingerprint">Seguinte</string>
   <string name="other_settings">Definições adicionais</string>

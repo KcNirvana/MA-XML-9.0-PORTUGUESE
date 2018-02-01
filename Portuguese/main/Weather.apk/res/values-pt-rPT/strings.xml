@@ -66,6 +66,9 @@
   <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
   <string name="content_desc_activity_main_add_city_manage">Gerir cidades</string>
   <string name="content_desc_activity_main_more_settings">Mais definições</string>
+  <string name="content_desc_back_button">Voltar</string>
+  <string name="content_desc_close_button">Fechar</string>
+  <string name="content_desc_edit_city_manage">Gerir cidades</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
   <string name="daily_forcast_no_wind">0</string>
@@ -140,9 +143,9 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Editar localizações</string>
   <string name="menu_location">Localizações</string>
-  <string name="menu_minute_rain">Previsão de precipitação</string>
-  <string name="menu_speeker">Transmissão de voz</string>
+  <string name="menu_speaker">Transmissão de voz</string>
   <string name="mi_pad2">latte</string>
+  <string name="minute_rain">Previsão de precipitação</string>
   <string name="minute_rain_after_an_hour">Uma hora depois</string>
   <string name="minute_rain_after_two_hour">Duas horas depois</string>
   <string name="minute_rain_feedback_subtitle">Diga-me que tempo está</string>
@@ -154,6 +157,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Puxe para actualizar</string>
   <string name="minute_rain_refreshing_now">A actualizar…</string>
+  <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="more_details">Mais detalhes</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>

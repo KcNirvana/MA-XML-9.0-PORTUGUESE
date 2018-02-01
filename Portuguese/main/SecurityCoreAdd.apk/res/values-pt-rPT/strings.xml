@@ -326,7 +326,7 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   
 Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses casos, é criada uma aplicação clonada dos serviços Google"</string>
   <string name="xspace_guide_des">Utilizar 2 contas ao mesmo tempo</string>
-  <string name="xspace_guide_title">Criar aplicação clonada para %s</string>
+  <string name="xspace_guide_title">Criar uma aplicação clonada</string>
   <string name="xspace_header">Aplicações clonadas</string>
   <string name="xspace_install_completed">Ícone adicionado ao ecrã inicial</string>
   <string name="xspace_install_failed">Não foi possível clonar</string>
