@@ -8,7 +8,7 @@
   <string name="HIPS_Perm_AudioRecorder_Desc">gravar áudio e chamadas telefónicas</string>
   <string name="HIPS_Perm_AutoStart">Executar no arranque</string>
   <string name="HIPS_Perm_AutoStart_Desc">executar no arranque</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Alterar conectividade Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Alterar conetividade Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">ligar ou desligar o Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensores de corpo</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">sensores de corpo (sensor de batimentos cardíacos)</string>
@@ -18,15 +18,15 @@
   <string name="HIPS_Perm_CallLog">Escrever e eliminar o registo de chamadas</string>
   <string name="HIPS_Perm_CallLog_Desc">escrever e eliminar o registo de chamadas</string>
   <string name="HIPS_Perm_Call_Desc">marcar números de telefone directamente</string>
-  <string name="HIPS_Perm_Contact">Modificar e eliminar contactos</string>
-  <string name="HIPS_Perm_Contact_Desc">modificar e eliminar os seus contactos</string>
+  <string name="HIPS_Perm_Contact">Modificar e eliminar contatos</string>
+  <string name="HIPS_Perm_Contact_Desc">modificar e eliminar os seus contatos</string>
   <string name="HIPS_Perm_External_Storage">Aceder e alterar ficheiros no armazenamento interno</string>
   <string name="HIPS_Perm_External_Storage_Desc">adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
-  <string name="HIPS_Perm_Location_Desc">obter localização exacta (baseada no GPS e na rede)</string>
+  <string name="HIPS_Perm_Location_Desc">obter localização exata (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_MMS">Escrever e eliminar mensagens MMS</string>
   <string name="HIPS_Perm_MMS_Desc">escrever e eliminar mensagens MMS</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">Alterar conectividade de rede</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">Alterar conetividade de rede</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">ligar ou desligar dados móveis</string>
   <string name="HIPS_Perm_PhoneID">Obter informação do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Desc">aceder ao número de telefone, IMEI e IMSI</string>
@@ -34,8 +34,8 @@
   <string name="HIPS_Perm_ROOT_Desc">obter acesso root</string>
   <string name="HIPS_Perm_Read_Call_Log">Ler o registo de chamadas</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">ler o registo de chamadas</string>
-  <string name="HIPS_Perm_Read_Contact">Ler os seus contactos</string>
-  <string name="HIPS_Perm_Read_Contact_Desc">ler os seus contactos</string>
+  <string name="HIPS_Perm_Read_Contact">Ler os seus contatos</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">ler os seus contatos</string>
   <string name="HIPS_Perm_Read_MMS">Ler mensagens MMS</string>
   <string name="HIPS_Perm_Read_MMS_Desc">ler as suas mensagens MMS</string>
   <string name="HIPS_Perm_Read_SMS">Ler mensagens SMS</string>
@@ -43,16 +43,16 @@
   <string name="HIPS_Perm_SMS">Escrever e eliminar mensagens SMS</string>
   <string name="HIPS_Perm_SMS_Desc">escrever e eliminar mensagens SMS</string>
   <string name="HIPS_Perm_SendMMS">Enviar mensagens MMS</string>
-  <string name="HIPS_Perm_SendMMS_Desc">enviar mensagens MMS directamente</string>
+  <string name="HIPS_Perm_SendMMS_Desc">enviar mensagens MMS diretamente</string>
   <string name="HIPS_Perm_SendSMS">Enviar mensagens SMS</string>
-  <string name="HIPS_Perm_SendSMS_Desc">enviar mensagens SMS directamente</string>
+  <string name="HIPS_Perm_SendSMS_Desc">enviar mensagens SMS diretamente</string>
   <string name="HIPS_Perm_Settings">Modificar definições de sistema</string>
   <string name="HIPS_Perm_Settings_Desc">modificar definições de sistema</string>
   <string name="HIPS_Perm_SystemAlert">Mostrar notificações pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Desc">mostrar notificações pop-up</string>
   <string name="HIPS_Perm_VideoRecorder">Aceder à câmara</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">aceder à câmara para tirar fotos ou vídeos</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Alterar conectividade do Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Alterar conetividade do Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">ligar ou desligar o Wi-Fi</string>
   <string name="HIPS_Perm_add_voicemail">Mensagens de voz</string>
   <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
@@ -85,7 +85,7 @@
   <string name="Su_Package_Forbidden2">não tem acesso root</string>
   <string name="app_name">Gestor de Permissões</string>
   <string name="current_permission_template">%1$s de %2$s</string>
-  <string name="default_permission_description">executar acções desconhecidas</string>
+  <string name="default_permission_description">executar ações desconhecidas</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="location_settings">Definições de localização</string>
@@ -101,5 +101,5 @@
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
-  <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
+  <string name="screen_overlay_title">Detetada sobreposição de ecrã</string>
 </resources>
