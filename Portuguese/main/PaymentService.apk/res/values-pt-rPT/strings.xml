@@ -30,7 +30,6 @@
   <string name="mibi_button_cancel">Cancelar</string>
   <string name="mibi_button_confirm">Confirmar</string>
   <string name="mibi_button_count_down_finish">OK (%1$s)</string>
-  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">Percebi</string>
   <string name="mibi_button_next">Seguinte</string>
   <string name="mibi_button_pay">Confirmar</string>
@@ -39,7 +38,6 @@
   <string name="mibi_cancel">Cancelar</string>
   <string name="mibi_change_security_lock">Mais ecrãs de bloqueio</string>
   <string name="mibi_click_retry">%1$s. Clique para repetir</string>
-  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Produtos</string>
   <string name="mibi_deduct_open_prompt">%1$s vai poder carregá-lo automaticamente utilizando %2$s sem verificação. Pode desligar esta funcionalidade em %1$s</string>
   <string name="mibi_deduct_order_price">Preço</string>
@@ -83,7 +81,6 @@ Verifique a data do sistema e tente novamente"</string>
   <string name="mibi_error_common_summary">Erro de sistema. Tente novamente mais tarde</string>
   <string name="mibi_error_deduct">Não foi possível activar o protocolo de pagamentos automáticos</string>
   <string name="mibi_error_expired_summary">A sua encomenda expirou</string>
-  <string name="mibi_error_frozen_service_num">400-100-2234</string>
   <string name="mibi_error_frozen_service_time">Segunda a domingo</string>
   <string name="mibi_error_frozen_summary">"A sua conta está congelada. 
 Contacte o serviço de clientes da Xiaomi"</string>

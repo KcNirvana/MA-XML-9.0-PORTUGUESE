@@ -1098,7 +1098,6 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="ssl_ca_cert_warning">A rede pode estar a ser monitorizada</string>
   <string name="ssl_certificate">Certificado de segurança</string>
   <string name="ssl_certificate_is_valid">Este certificado é válido</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">O pedido SS foi modificado para um pedido DIAL</string>
   <string name="stk_cc_ss_to_ss">O pedido SS foi modificado para um novo pedido SS</string>
   <string name="stk_cc_ss_to_ussd">O pedido SS foi modificado para um pedido USSD</string>
