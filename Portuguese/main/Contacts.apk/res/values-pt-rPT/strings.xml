@@ -215,6 +215,8 @@
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
   <string name="contact_detail_calllog_empty">Sem chamadas</string>
+  <string name="contact_detail_entry_pay">Pagar</string>
+  <string name="contact_detail_entry_pay_dialog_title">Seleccionar número de telefone</string>
   <string name="contact_detail_menu_delete_miprofile">Eliminar cartão</string>
   <string name="contact_detail_miprofile_accept">Trocar cartões de contacto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Não foi possível trocar cartões de contacto"</string>
@@ -816,7 +818,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="path_key_rebuild_t9_index_title">Aplicações de sistema/Contactos/Organizar contactos/Reconstruir dados do índice</string>
   <string name="path_key_sim_manage">Aplicações de sistema/Contactos/Organizar contactos/Cartões SIM</string>
   <string name="path_preference_contacts_filter">Aplicações de sistema/Contactos/Preferências de visualização/Configurar lista de contactos</string>
-  <string name="path_quick_dial_setting">Aplicações de sistema/Contactos/Marcação rápida</string>
+  <string name="path_quick_dial_setting">Aplicações de sistema/Telefone/Definições avançadas/Marcação rápida</string>
   <string name="path_remove_duplicate">Aplicações de sistema/Contactos/Organizar contactos/Unir contactos duplicados</string>
   <string name="path_share_visible_contacts">Aplicações de sistema/Contactos/Importar/Exportar contactos/Partilhar contactos</string>
   <string name="path_sim_capacity">Aplicações de sistema/Contactos/Armazenamento do cartão SIM</string>
@@ -874,6 +876,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_contacts_display">Preferências de visualização</string>
   <string name="preference_contacts_filter">Configurar lista de contactos</string>
   <string name="preference_contacts_more">Organizar os seus contactos</string>
+  <string name="preference_contacts_moresetting">Mais</string>
   <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
   <string name="preference_dial_pad_touch_tone_human">Voz</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
@@ -881,6 +884,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_dial_pad_touch_tone_title">Tons do teclado de marcação</string>
   <string name="preference_display">Mostrar</string>
   <string name="preference_displayOptions">Opções de visualização</string>
+  <string name="preference_display_contact">Opções de visualização</string>
   <string name="preference_export">Exportar</string>
   <string name="preference_import">Importar</string>
   <string name="preference_import_export">Importar/Exportar</string>
@@ -998,7 +1002,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_key_rebuild_t9_index_title">Organizar;Contactos;t9</string>
   <string name="search_key_sim_manage">Organizar;Contactos</string>
   <string name="search_preference_contacts_filter">Contactos;Mostrar</string>
-  <string name="search_quick_dial_setting">Contactos</string>
+  <string name="search_quick_dial_setting">Telefone</string>
   <string name="search_remove_duplicate">Organizar;Contactos</string>
   <string name="search_results_searching">A pesquisar…</string>
   <string name="search_settings_description">Nomes dos seus contactos</string>

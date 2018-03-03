@@ -221,6 +221,13 @@
   <string name="cfb_title">Reencaminhar quando estiver ocupado</string>
   <string name="cfnrc_title">Reencaminhar quando estiver inacessível</string>
   <string name="cfnrc_title_cta">Reencaminhar quando estiver inacessível</string>
+  <string name="cfnry_time_fifteen_sec">15 segundos</string>
+  <string name="cfnry_time_five_sec">5 segundos</string>
+  <string name="cfnry_time_setting_title">Definir tempo de espera</string>
+  <string name="cfnry_time_ten_sec">10 segundos</string>
+  <string name="cfnry_time_thirty_sec">30 segundos</string>
+  <string name="cfnry_time_twenty_five_sec">25 segundos</string>
+  <string name="cfnry_time_twenty_sec">20 segundos</string>
   <string name="cfnry_title">Reencaminhar quando não atender</string>
   <string name="cfu_title">Reencaminhar sempre</string>
   <string name="change_data_preference_4g_only_prompt">Apenas tem um cartão 4G. Utilizar como predefinido para dados móveis?</string>
@@ -233,6 +240,7 @@
   <string name="clir_choices_hide_number">Ocultar número</string>
   <string name="clir_choices_network_default">Predefinição da rede</string>
   <string name="clir_choices_show_number">Mostrar número</string>
+  <string name="close">Desligar</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fechar</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
@@ -898,6 +906,9 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_phone_account">Conta de chamadas preferida</string>
   <string name="private_num">Número privado</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
+  <string name="prompt_to_turnoff_volte_when_failed">Os serviços Voz 4G não estão disponíveis. Desligue o Voz 4G para fazer uma chamada</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o Voz 4G nas definições</string>
+  <string name="prompt_when_turnon_volte_without_lte">As redes 4G não estão disponíveis. Se ligar o Voz 4G não vai conseguir fazer chamadas</string>
   <string name="proxy_address">Endereço proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
@@ -1161,6 +1172,9 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_after_connected_summary">Vibrar quando atende</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
+  <string name="vice_slot_volte_data_switch_prompt">O seu dispositivo vai ligar a dados móveis utilizando o SIM secundário durante as chamadas Voz 4G</string>
+  <string name="vice_slot_volte_data_switch_summary">Durante as chamadas Voz 4G, o dispositivo vai ligar a dados móveis utilizando o SIM secundário</string>
+  <string name="vice_slot_volte_data_switch_title">Utilizar dados móveis durante chamadas Voz 4G no SIM secundário</string>
   <string name="vm_change_failed">"Não foi possível alterar o número de Voice Mail.
 Contacte a sua operadora se este problema persistir"</string>
   <string name="vm_changed">Número de Voice Mail alterado</string>
@@ -1190,7 +1204,9 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="volte_switch_not_support_summary">As chamadas Voz 4G não são suportadas para os dados móveis do cartão SIM</string>
   <string name="volte_switch_not_support_summary2">As chamadas Voz 4G não são suportadas pela operadora</string>
   <string name="volte_switch_summary">Utilizar Voz 4G para melhorar a qualidade das chamadas e videochamadas</string>
+  <string name="volte_switch_summary2">Confirme que a sua operadora suporta esta funcionalidade antes de a ligar</string>
   <string name="volte_switch_title">Voz 4G activado</string>
+  <string name="volte_tips_when_turn_on">Os serviços Voz 4G China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>

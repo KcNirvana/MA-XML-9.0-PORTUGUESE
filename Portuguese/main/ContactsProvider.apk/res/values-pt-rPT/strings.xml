@@ -20,9 +20,9 @@
   <string name="read_write_all_voicemail_description">Permite que a aplicação armazene e recupere todas as mensagens de voz, às quais este dispositivo possa aceder</string>
   <string name="read_write_all_voicemail_label">Acesso a todas as mensagens de voz</string>
   <string name="search_the_yellowpage">Procurar nas Pág. Amarelas</string>
-  <string name="send_sms">Enviar mensagem</string>
+  <string name="send_sms">Enviar uma mensagem</string>
   <string name="sharedUserLabel">Aplicações Android Core</string>
-  <string name="sim_state_changed">Cartão do telefone alterado</string>
+  <string name="sim_state_changed">Cartão SIM alterado</string>
   <string name="third_party_delete_contact_info">\"%s\" está a tentar eliminar os seus contactos. Esta acção não pode ser realizada por aplicações de terceiros. Para eliminar contactos, utilize a aplicação Contactos da MIUI</string>
   <string name="update_accounts_changed">Contas alteradas</string>
   <string name="upgrade_msg">A actualizar base de dados dos contactos…</string>

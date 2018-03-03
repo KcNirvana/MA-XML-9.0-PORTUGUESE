@@ -66,6 +66,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="scenario_policies_summary">Aplicar diferentes poupanças de bateria para diferentes cenários</string>
   <string name="scenario_policies_title">Cenários inteligentes</string>
   <string name="scenario_policies_warmcontrol">Controlo de temperatura</string>
+  <string name="search_result_text">Não foram encontradas aplicações</string>
   <string name="show_system_app">Mostrar aplicações de sistema</string>
   <string name="sleep_config_enhance_description">Sempre que a MIUI detectar inactividade, vai fechar aplicações em segundo, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
   <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar inactividade, vai fechar aplicações em segundo, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>

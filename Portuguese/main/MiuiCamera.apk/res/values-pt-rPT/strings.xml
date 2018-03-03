@@ -121,7 +121,7 @@ e criar uma espectacular"</string>
   <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Alinhe a seta com a linha de referência</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Continue…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Mais devagar</string>
+  <string name="pano_how_to_use_prompt_slow_down">Abrande…</string>
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
   <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
@@ -352,6 +352,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_qc_focus_position_title">Focar</string>
   <string name="pref_retain_camera_mode_summary">Trocar a câmara para o modo anterior quando abrir</string>
   <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
+  <string name="pref_scan_qrcode_summary">Apenas a câmara traseira pode digitalizar códigos QR no modo \"Foto\"</string>
   <string name="pref_scan_qrcode_title">Digitalizar códigos QR</string>
   <string name="pref_setting_title">Definições</string>
   <string name="pref_simple_hdr_entry_off">Desligado</string>

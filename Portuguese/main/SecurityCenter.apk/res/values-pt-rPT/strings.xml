@@ -14,6 +14,12 @@
   <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Definir um padrão para proteger as suas aplicações</string>
   <string name="ac_mask_all_apps">Ocultar para todas as aplicações</string>
+  <string name="ac_notification_contentText">Toque para ligar</string>
+  <string name="ac_notification_contentTitle">Proteja as aplicações com o Bloqueio de aplicações</string>
+  <string name="ac_post_notification_contentText">Obtenha protecção ao nível do sistema</string>
+  <string name="ac_post_notification_contentTitle">Ligue o Bloqueio de aplicações</string>
+  <string name="ac_pre_notification_contentText">Proteja as suas informações pessoais</string>
+  <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicações</string>
   <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="ac_unmask_all_apps">Mostrar para todas as aplicações</string>
@@ -1179,12 +1185,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_battery_consume_abnormal_title">A bateria está a descarregar muito depressa</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
-  <string name="notification_item">Proteger aplicações com o Bloqueio de aplicações</string>
   <string name="notification_mask_summary">Ocultar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
   <string name="notification_mask_title">Ocultar conteúdo</string>
   <string name="notification_masked_item">Ocultar notificações</string>
   <string name="notification_masked_subtitle">Ocultar notificações de aplicações protegidas com o Bloqueio de aplicações</string>
-  <string name="notification_subtitle">Toque para ligar</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal</string>
   <string name="notify_daily_limit_body">Toque para definir limite de dados</string>
@@ -1616,7 +1620,7 @@ do seu dispositivo"</string>
   <string name="safepay_alert_dialog_button_fix">Corrigir</string>
   <string name="save_energy_text">Restringir início automático e sincronização das aplicações em segundo plano para obter o máximo de bateria</string>
   <string name="save_energy_title">Optimizar bateria</string>
-  <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
+  <string name="sc_allow_network_dialog_message">Restringiu o acesso à rede e localização de Segurança. Conceda a Segurança as permissões necessárias para utilizar esta funcionalidade</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
   <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>
   <string name="sc_warning_updater_not_found">Não foi localizada a aplicação Actualizações</string>

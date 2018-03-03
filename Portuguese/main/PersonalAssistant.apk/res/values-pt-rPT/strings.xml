@@ -66,6 +66,13 @@
   <string name="card_bookall_train_started">Saiu da estação</string>
   <string name="card_detail">Guia</string>
   <string name="card_example">Cartões</string>
+  <string name="card_expand_note_clear">Limpar</string>
+  <string name="card_expand_note_dialog_button">Percebi</string>
+  <string name="card_expand_note_dialog_message">Uma nova nota é criada cada vez que carrega no botão \"Guardar\"</string>
+  <string name="card_expand_note_dialog_title">A guardar notas</string>
+  <string name="card_expand_note_toast_clear_null">Limpo com sucesso</string>
+  <string name="card_expand_note_toast_save_done">Guardado nas Notas</string>
+  <string name="card_expand_note_toast_save_dup">Guardado com sucesso</string>
   <string name="card_plan_fly">Partida programada</string>
   <string name="card_hint_noteboard">Toque aqui para tirar uma nota</string>
   <string name="card_menu_edit">Editar</string>
@@ -74,6 +81,9 @@
   <string name="card_setting_btn">Personalizar</string>
   <string name="card_settings">Personalizar</string>
   <string name="card_settings_rule">Ordenação dos cartões</string>
+  <string name="card_title_empty_agenda">Sem eventos</string>
+  <string name="card_title_empty_express">Sem destinos</string>
+  <string name="card_title_empty_note">Sem notas</string>
   <string name="card_title_express">As minhas entregas</string>
   <string name="card_title_favorite">Favoritos</string>
   <string name="card_title_funclaunch">Atalhos</string>

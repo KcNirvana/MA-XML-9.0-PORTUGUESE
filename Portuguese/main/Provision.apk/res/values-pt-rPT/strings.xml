@@ -42,6 +42,8 @@
   <string name="next">Seguinte</string>
   <string name="next_fingerprint">Seguinte</string>
   <string name="other_settings">Definições adicionais</string>
+  <string name="other_settings_ad_enable">Anúncios personalizados</string>
+  <string name="other_settings_ad_enable_summary">Recomendar anúncios personalizados baseados no seu comportamento</string>
   <string name="other_settings_auto_update">Instalar automaticamente</string>
   <string name="other_settings_auto_update_summary">A MIUI vai seleccionar o melhor momento para instalar as actualizações</string>
   <string name="other_settings_location">Localização</string>

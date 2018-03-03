@@ -129,6 +129,7 @@
   <string name="indices_title_uv">Indíce UV</string>
   <string name="indices_title_visibility">Visibilidade</string>
   <string name="information_manager_extension">Extensão do tempo</string>
+  <string name="information_settings_title">Informação do tempo</string>
   <string name="information_views"/>
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
@@ -169,6 +170,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="open_browser">Abrir no navegador</string>
   <string name="open_now">Abrir</string>
   <string name="other">Outros</string>
+  <string name="other_settings">Outras definições</string>
   <string name="other_warning_settings">Outros alertas</string>
   <string name="precipitation_degree_five">Torrencial</string>
   <string name="precipitation_degree_four">Forte</string>

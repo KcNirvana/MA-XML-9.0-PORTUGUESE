@@ -9,7 +9,7 @@
   <string name="app_search">Pequisar aplicações</string>
   <string name="btn_send">Enviar</string>
   <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
-  <string name="bugreport_dialog_submit_content">O seu comentário pode ter informações pessoais e dados de localização</string>
+  <string name="bugreport_dialog_submit_content">Está a guardar registos de software no seu dispositivo. Podem conter informações pessoais e dados de localização</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para ver</string>
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
   <string name="bugreport_dump_start_notification_summary">Aguarde alguns minutos</string>
@@ -81,9 +81,17 @@
   <string name="feedback_retest_label">Passos para reproduzir</string>
   <string name="feedback_select_images">Adicionar imagens</string>
   <string name="feedback_select_modem_log">Adicionar registos do modem</string>
+  <string name="feedback_select_modem_log_not_select_desc">Não seleccionou \"Adicionar registos do modem\"</string>
+  <string name="feedback_select_modem_log_select_desc">\"Adicionar registos do modem\" seleccionado</string>
   <string name="feedback_select_problem">Problemas</string>
+  <string name="feedback_select_problem_not_select_desc">Não seleccionou \"Problemas\"</string>
+  <string name="feedback_select_problem_select_desc">\"Problemas\" seleccionado</string>
   <string name="feedback_select_suggestion">Sugestões</string>
+  <string name="feedback_select_suggestion_not_select_desc">Não seleccionou \"Sugestões\"</string>
+  <string name="feedback_select_suggestion_select_desc">\"Sugestões\" seleccionado</string>
   <string name="feedback_select_upload_log">Adicionar registos</string>
+  <string name="feedback_select_upload_log_not_select_desc">Não seleccionou \"Adicionar registos\"</string>
+  <string name="feedback_select_upload_log_select_desc">\"Adicionar registos\" seleccionado</string>
   <string name="feedback_status_answered">Respondido</string>
   <string name="feedback_status_change_notification_title">O estado do seu relatório foi actualizado</string>
   <string name="feedback_status_commit_failed_title">Não foi possível enviar relatório</string>

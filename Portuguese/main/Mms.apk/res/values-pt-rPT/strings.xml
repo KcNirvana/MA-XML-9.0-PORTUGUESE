@@ -33,6 +33,7 @@
   <string name="attach_sound">Áudio</string>
   <string name="attach_subject">Assunto</string>
   <string name="attach_take_photo">Tirar foto</string>
+  <string name="attach_transaction">Enviar dinheiro</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">Não foi possível transferir o áudio</string>
   <string name="audio_message_expired">Esta mensagem de voz expirou</string>
@@ -515,6 +516,7 @@
   <string name="select_local_audio">Seleccionar áudio</string>
   <string name="select_local_video">Seleccionar vídeo</string>
   <string name="select_message_send_sim">Escolher cartão SIM</string>
+  <string name="select_phone_number">Seleccionar número de telefone</string>
   <string name="select_recipient">Escolher destinatários</string>
   <string name="select_sim">Seleccionar cartão SIM</string>
   <string name="select_top_text">Texto no início</string>

@@ -589,7 +589,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave estão incorrectos</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_request">Emparelhar com %1$s?</string>
-  <string name="bluetooth_pairing_shares_phonebook">Permitir que %1$s aceda aos contactos e registo de chamadas</string>
+  <string name="bluetooth_pairing_shares_phonebook">Permitir o acesso aos contactos e registo de chamadas</string>
   <string name="bluetooth_pairing_will_share_phonebook">Emparelhar concede acesso aos contactos e registo de chamadas quando ligado</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">A partilhar a ligação à Internet com o dispositivo</string>
   <string name="bluetooth_pan_profile_summary_use_for">Utilizar para aceder à Internet</string>
@@ -1166,6 +1166,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
+  <string name="disabled_authorised_apps_title">Revogar autorização</string>
   <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
   <string name="disconnect">Desligar</string>
   <string name="display_auto_rotate_rotate">Ligada</string>
@@ -1295,6 +1296,8 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
   <string name="enable_wifi_display">Visualização sem fios</string>
+  <string name="enabled_authorised_apps_summary">A sua autorização vai ser revogada assim que alterar para aplicações individuais</string>
+  <string name="enabled_authorised_apps_title">Autorização concedida</string>
   <string name="enalbe_identify_iPhone">Identificação AP</string>
   <string name="encrypt_dont_require_password">Não, obrigado</string>
   <string name="encrypt_dont_require_pattern">Não, obrigado</string>
@@ -2596,6 +2599,21 @@ Seleccione o seu sistema operativo:"</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador vão ser guardados automaticamente no armazenamento interno do seu dispositivo</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
+  <string name="privacy_authorize_dialog_agree">Concordar</string>
+  <string name="privacy_authorize_dialog_exit">Sair</string>
+  <string name="privacy_authorize_dialog_message">%1$s necessita que leia e concorde com %2$s. Esta aplicação necessita de ligar à Internet para funcionar normalmente. Concordar?</string>
+  <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
+  <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
+  <string name="privacy_authorize_revoke">Revogar</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, a aplicação vai deixar de obter dados e os dados relacionados vão ser eliminados dos servidores. Revogar a autorização mesmo assim?</string>
+  <string name="privacy_authorize_revoke_dialog_title">A revogar autorização</string>
+  <string name="privacy_authorize_revoke_failed">Não foi possível revogar autorização</string>
+  <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
+  <string name="privacy_authorize_revoke_time">Revogar (%1$ds)</string>
+  <string name="privacy_authorize_revoke_title">Autorizações</string>
+  <string name="privacy_authorize_revoking">A revogar autorização…</string>
+  <string name="privacy_authorize_success">Autorização concedida com sucesso</string>
+  <string name="privacy_authorize_title">A conceder autorização</string>
   <string name="privacy_close_dlg_button_ok">Desligar</string>
   <string name="privacy_close_dlg_msg">Quando o padrão de Protecção de Privacidade está desligado, os seus itens não vão estar mais protegidos</string>
   <string name="privacy_close_dlg_title">Atenção</string>
@@ -3198,7 +3216,6 @@ Para utilizar a fixação no ecrã:
   <string name="security_encryption_attention_3">Tem que definir um novo tipo de segurança de ecrã de bloqueio</string>
   <string name="security_encryption_attention_4">Certifique-se que memoriza a sua palavra-passe de ecrã de bloqueio, senão vai ter que fazer uma reposição completa e eliminar todos os dados do dispositivo</string>
   <string name="security_encryption_attention_info">Pode encriptar contas, definições, aplicações transferidas e os seus dados, multimédia e outros ficheiros</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Importante</string>
   <string name="security_encryption_close_dialog_info">Escolher encriptar não utilizando a palavra-passe do ecrã de bloqueio pode fazer com que alguns serviços Google fiquem indisponíveis</string>
   <string name="security_encryption_close_dialog_title">Voltar para a o tipo de segurança predefinido</string>
@@ -3749,6 +3766,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
   <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso Móvel</string>
+  <string name="tether_auto_disable_summary">Desligar automaticamente quando não houver dispositivos ligados</string>
+  <string name="tether_auto_disable_title">Desligar PA Móvel automaticamente</string>
   <string name="tether_data_usage_limit">Limite de dados</string>
   <string name="tether_data_usage_limit_summary">O limite de dados vai ser aplicado da próxima vez que ligar o PA Móvel</string>
   <string name="tether_devices_management_title">Gestão de dispositivos</string>
@@ -4014,7 +4033,8 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="use_location_title">Localização e pesquisa do Google</string>
   <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
-  <string name="use_personalized_ad_service">Utilizar ID de publicidade</string>
+  <string name="use_personalized_ad_service">Anúncios recomendados</string>
+  <string name="use_personalized_ad_service_summary">Quando esta funcionalidade estiver desligada, vai ver a mesma quantidade de anúncios mas não vão ser baseados nas suas informações pessoais</string>
   <string name="use_privacy_password_immediate">Utilizar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="use_this_wlan">Permanecer ligado</string>

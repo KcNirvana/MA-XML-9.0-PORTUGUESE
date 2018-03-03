@@ -37,6 +37,7 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="lock_msg_phone">Informação de contacto: %s</string>
   <string name="login_extra_steps">Verificação de início de sessão</string>
   <string name="login_failed">Não foi possível iniciar sessão. %s</string>
+  <string name="open_wifi_settings">Abrir definições Wi-Fi</string>
   <string name="passport_checking_vcode">A verificar palavra-passe…</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
   <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>

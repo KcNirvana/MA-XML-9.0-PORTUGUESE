@@ -235,6 +235,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="notif_icloud_need_wifi_summary">A aguardar por Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Importação concluída</string>
   <string name="notif_icloud_saving_summary">A restaurar dados…</string>
+  <string name="notif_miasist_try_to_connect">O Mi PC Suite está a tentar ligar ao seu dispositivo</string>
   <string name="notif_parse_select_descript_error">Não foi possível sincronizar a lista de itens copiados</string>
   <string name="notif_receiving_transingsd">A receber %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Restaurado com sucesso</string>
@@ -493,6 +494,7 @@ Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
   <string name="trans_start_failed_message">Não foi possível iniciar a transferência. Tente novamente ou reinicie o dispositivo</string>
   <string name="trans_start_failed_title">Não foi possível iniciar a transferência</string>
+  <string name="trans_switching_5g">A trocar para Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menos de um minuto</string>
   <string name="trans_time_spent">"
 Tempo gasto: %s"</string>
