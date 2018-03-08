@@ -152,6 +152,7 @@
   <string name="mortgage_years_amount">Período da hipoteca</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>
+  <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
   <string name="percentDesc">porcento</string>

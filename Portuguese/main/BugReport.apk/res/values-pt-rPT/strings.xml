@@ -271,8 +271,8 @@
   <string name="section_err_type">Tipo de erro</string>
   <string name="section_screenshot">Captura de ecrã</string>
   <string name="select_system_app_tag">Seleccionar um problema</string>
-  <string name="submit_dialog_cancel">Cancelar</string>
-  <string name="submit_dialog_confirm">Enviar</string>
+  <string name="submit_dialog_cancel">Não concordar</string>
+  <string name="submit_dialog_confirm">Concordar</string>
   <string name="submit_dialog_content">O seu comentário, assim como os anexos e os registos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
   <string name="submit_dialog_content_global">O seu comentário, assim como os anexos e os registos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
   <string name="submit_dialog_title">Enviar relatório</string>

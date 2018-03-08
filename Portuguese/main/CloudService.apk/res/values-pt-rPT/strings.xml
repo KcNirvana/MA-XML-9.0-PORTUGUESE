@@ -97,8 +97,8 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="find_device_error_password_changed">"A palavra-passe da conta foi alterada recentemente "</string>
   <string name="find_device_error_server">Erro de servidor</string>
   <string name="find_device_error_unknown">Erro desconhecido</string>
-  <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com a \"Política de Privacidade\". Se necessitar de revogar a sua autorização de privacidade, desligue esta funcionalidade</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">\"Política de Privacidade\"</string>
+  <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com a nossa Política de Privacidade. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">Política de Privacidade</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
 Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para reactivar esta funcionalidade"</string>
@@ -371,14 +371,15 @@ Utilize uma conta diferente"</string>
   <string name="micloud_notif_title_sync_with_off">Sincronizar com a Mi Cloud</string>
   <string name="micloud_other_product_price">Comparar preços</string>
   <string name="micloud_privacy_cloud_off">Sincronização desligada</string>
-  <string name="micloud_privacy_cloud_sync">Activar Mi Cloud</string>
-  <string name="micloud_privacy_explanation">Activar Mi Cloud após activar autorização</string>
+  <string name="micloud_privacy_cloud_sync">Ligar a Mi Cloud</string>
+  <string name="micloud_privacy_explanation">Conceder autorização para ligar a Mi Cloud</string>
   <string name="micloud_privacy_licence_agreed">Concordar com a Política de Privacidade da Mi Cloud</string>
   <string name="micloud_privacy_licence_privacy_policy">Política de Privacidade</string>
   <string name="micloud_privacy_more">Mais</string>
+  <string name="micloud_privacy_progress_content">A conceder autorização…</string>
   <string name="micloud_privacy_warning_button">Voltar</string>
-  <string name="micloud_privacy_warning_content">Não é possível activar a Mi Cloud. Tente novamente mais tarde</string>
-  <string name="micloud_privacy_warning_title">Hint</string>
+  <string name="micloud_privacy_warning_content">Não é possível ligar a Mi Cloud. Tente novamente mais tarde</string>
+  <string name="micloud_privacy_warning_title">Atenção</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_request_permission_confirm">Percebi</string>
   <string name="micloud_request_permission_content">A Mi Cloud necessita de permissões para sincronizar dados. Permitir que a Mi Cloud aceda ao Calendário, Contactos, Conta Mi, estado do cartão SIM, registos de chamadas e mensagens?</string>

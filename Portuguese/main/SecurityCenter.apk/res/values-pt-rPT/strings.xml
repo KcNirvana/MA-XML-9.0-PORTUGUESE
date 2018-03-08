@@ -580,10 +580,16 @@
   <string name="data_usage_leisure_warning_body">Toque para ver os detalhes da utilização de dados</string>
   <string name="data_usage_leisure_warning_title">Limite de utilização de dados</string>
   <string name="data_usage_limit_body">Toque para ligar os dados móveis</string>
+  <string name="data_usage_mobile_dialog_title">Já utilizou 5GB de dados móveis. MIUI desligou os dados móveis</string>
   <string name="data_usage_mobile_limit_title">Atingiu o limite de dados móveis</string>
   <string name="data_usage_no_total_package_body">Toque para definir limite de dados</string>
   <string name="data_usage_no_total_package_body_dual">Sem limite de dados para %s</string>
   <string name="data_usage_no_total_package_title">Definir um limite de dados</string>
+  <string name="data_usage_protected_dialog_message">"A MIUI desligou os dados móveis para prevenir custos adicionais.
+
+A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis"</string>
+  <string name="data_usage_protected_notify_message"> MIUI desligou os dados móveis para prevenir custos adicionais</string>
+  <string name="data_usage_protected_notify_title">Já utilizou 5GB de dados móveis</string>
   <string name="data_usage_warning_body">Toque para ver detalhes de utilização de dados</string>
   <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
   <string name="data_usage_warning_title">Aviso de utilização de dados</string>
@@ -610,6 +616,12 @@
   <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
   <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
   <string name="dialog_no_longer_alert">Não mostrar novamente</string>
+  <string name="dialog_restrict_all_mobile_summary">A ligação de dados móveis %s vai ser restringida para todas as aplicações</string>
+  <string name="dialog_restrict_all_mobile_title">Restringir ligação de dados móveis %s</string>
+  <string name="dialog_restrict_all_wlan_summary">A ligação Wi-Fi vai ser restringida para todas as aplicações</string>
+  <string name="dialog_restrict_all_wlan_title">Restringir ligação Wi-Fi</string>
+  <string name="dialog_restrict_negative">Restringir</string>
+  <string name="dialog_restrict_positive">Cancelar</string>
   <string name="dialog_roaming_message">Permitir que esta aplicação utilize dados móveis em roaming?</string>
   <string name="dialog_roaming_title">Dados em roaming</string>
   <string name="dialog_text">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
@@ -660,6 +672,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="dlg_remove_whitelist">Remover estes números das excepções?</string>
   <string name="dlg_remove_whitelist_ing">A remover…</string>
   <string name="dlg_remove_whitelist_title">Remover</string>
+  <string name="dlg_sec_network_unavailable">A aplicação Segurança não pode ser actualizada devido à restrição de Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="dlg_title_not_open_stranger_identify">Identificação de chamadas</string>
   <string name="dlg_white_address_antispam_message">Adicionar esta localização às excepções?</string>
   <string name="dlg_white_antispam_hint">Excepções</string>
@@ -780,6 +793,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
+  <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
@@ -1685,6 +1699,7 @@ do seu dispositivo"</string>
   <string name="sms_prefix">Lista de bloqueio de prefixos</string>
   <string name="sms_service">Bloquear SMS de serviços</string>
   <string name="sms_smart_engine_update">Actualizar automaticamente filtro de mensagens</string>
+  <string name="sms_smart_engine_update_now">Actualizar</string>
   <string name="sms_stranger_block">Bloquear SMS de desconhecidos</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
@@ -2069,6 +2084,10 @@ do seu dispositivo"</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
   <string name="toast_set_success">Ligado com sucesso</string>
   <string name="toast_show_notification">Fixado na área de notificações</string>
+  <string name="toast_update_fail">Não foi possível actualizar</string>
+  <string name="toast_update_nonetwork">Não foi possível ligar à rede</string>
+  <string name="toast_update_notneed">Actualizado</string>
+  <string name="toast_update_success">Actualizado com sucesso</string>
   <string name="top_game">Top Jogos</string>
   <string name="top_load_fail_detail">Não foi possível carregar. Toque para tentar novamente</string>
   <string name="top_no_network_detial">Não foi possível carregar. Verifique a ligação de rede e tente novamente</string>

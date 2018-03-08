@@ -128,6 +128,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="err_bakfile_broken">Não pode utilizar esta cópia</string>
   <string name="err_filesystem_mount">Não foi possível aceder ao armazenamento do router</string>
   <string name="err_low_storage">Sem espaço suficiente</string>
+  <string name="err_not_allow">Não suportado</string>
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>

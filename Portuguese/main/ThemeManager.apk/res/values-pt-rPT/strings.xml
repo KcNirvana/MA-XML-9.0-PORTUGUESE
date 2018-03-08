@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Papéis de parede</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
-  <string name="current_version_incompatible">Tema incompatível</string>
+  <string name="current_version_incompatible">Não compatível</string>
   <string name="deleting">A eliminar…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Desenhador</string>
@@ -136,8 +136,9 @@
   <string name="online_precust_abstract">Abstratos</string>
   <string name="online_precust_animal">Animais</string>
   <string name="online_precust_asphalt">Asfalto</string>
+  <string name="online_precust_black_gold">Rhodium</string>
   <string name="online_precust_building">Construção</string>
-  <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>
+  <string name="online_precust_chubby_dreamer">Chubby dreamer</string>
   <string name="online_precust_creative">Criatividade</string>
   <string name="online_precust_forest_stories">Histórias da floresta</string>
   <string name="online_precust_geometry">Geometria</string>
@@ -214,6 +215,7 @@
   <string name="resource_comment_upload_not_logined">Primeiro tem de iniciar sessão</string>
   <string name="resource_comment_upload_success">O seu comentário vai ser mostrado após de uma breve revisão</string>
   <string name="resource_continue">Seguinte</string>
+  <string name="resource_current_using_title">Recursos actuais</string>
   <string name="resource_data_empty">Sem itens</string>
   <string name="resource_default">Toque predefinido</string>
   <string name="resource_default_name">Temas</string>
@@ -260,6 +262,8 @@
   <string name="resource_exchange_wrong_format_by_server">O código não foi verificado. Certifique-se de que o introduziu correctamente</string>
   <string name="resource_expand_full_text">Expandir</string>
   <string name="resource_failed_to_load_list">Não é possível carregar os temas</string>
+  <string name="resource_free_trial_15_days">Experimente 15 dias gratuitamente</string>
+  <string name="resource_free_use_last_one_day">A sua demonstração expira amanhã</string>
   <string name="resource_get_auth_checking">A verificar autorização…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Já foram autorizados 10 dispositivos nesta conta</string>
   <string name="resource_get_auth_exceed_max_limit_title">O número de dispositivos autorizados foi excedido</string>
@@ -271,7 +275,9 @@
   <string name="resource_import_failed">Não é possível importar</string>
   <string name="resource_import_successful">Concluído</string>
   <string name="resource_importing">A importar…</string>
+  <string name="resource_is_off_shelf">Não disponível</string>
   <string name="resource_list_title">Seleccionados recentemente</string>
+  <string name="resource_local_picker">Escolher toque</string>
   <string name="resource_menu_refresh">Actualizar</string>
   <string name="resource_mute">Nenhum</string>
   <string name="resource_my">Dispositivo</string>
@@ -281,7 +287,9 @@
   <string name="resource_no_result">Sem resultados</string>
   <string name="resource_notification_default">Notificações</string>
   <string name="resource_on_trial">A testar: %1$s</string>
+  <string name="resource_on_use">A utilizar: %1$s</string>
   <string name="resource_online">Online</string>
+  <string name="resource_online_picker">Escolher toque online</string>
   <string name="resource_pack_confirm">Mesmo já tendo comprado %1$d componentes neste tema, ainda é mais barato se comprar o conjunto completo</string>
   <string name="resource_pack_discount_info">Poupanças: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Este tema já não se encontra disponível</string>
@@ -318,6 +326,7 @@
   <string name="resource_select_boot_audio_confirm">Seleccionar este som de inicialização?</string>
   <string name="resource_select_notification_audio_confirm">Seleccionar este som de alarme?</string>
   <string name="resource_select_ringtone_audio_confirm">Seleccionar este toque?</string>
+  <string name="resource_select_ringtone_confirm">Seleccionar este toque?</string>
   <string name="resource_selected">Destaques</string>
   <string name="resource_send">Enviar</string>
   <string name="resource_server_alert_dialog_title">Já voltamos…</string>
@@ -335,9 +344,12 @@
   <string name="resource_title_rank">Tops</string>
   <string name="resource_title_select_ringtone">Seleccionar toque</string>
   <string name="resource_title_subject">Destaques</string>
+  <string name="resource_trial_15_days_end_title">Os 15 de demonstração expiraram</string>
+  <string name="resource_trial_15_days_immediately">Experimente durante 15 dias agora</string>
   <string name="resource_trial_days">(teste: %1$dd)</string>
   <string name="resource_trial_days_hours">(teste: %1$dd %2$dh)</string>
-  <string name="resource_trial_end_message">Teste de %1$s expirou. Se gostou, por favor compre</string>
+  <string name="resource_trial_end_change">Change</string>
+  <string name="resource_trial_end_message">Teste de %1$s expirou. Se gostou compre</string>
   <string name="resource_trial_end_purchase">Comprar</string>
   <string name="resource_trial_end_restore">Terminar teste</string>
   <string name="resource_trial_end_time">(teste antes de %1$s)</string>
@@ -445,15 +457,18 @@
   <string name="title_my_audio_resource">Os meus toques</string>
   <string name="title_my_miwallpaper_resource">Os meus papéis de parede animados</string>
   <string name="title_my_wallpaper_resource">Os meus papéis de parede</string>
+  <string name="title_system_audio_notification_resource">Notificações de sistema</string>
   <string name="title_system_audio_resource">Toques do sistema</string>
   <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="to_activate_the_account">Activar a sua Conta Mi agora</string>
   <string name="uid_change_dialog_message">Eliminou actualizações. Reinicie o dispositivo para poder utilizar os temas</string>
   <string name="uid_change_dialog_ok">Percebi</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
+  <string name="up_to_the_end">É tudo por agora. Venha mais tarde</string>
   <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
+  <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
   <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
   <string name="wallpaper_set_as_destop">Definir como ecrã principal</string>

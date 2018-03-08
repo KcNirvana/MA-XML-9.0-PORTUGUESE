@@ -1846,10 +1846,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_screen_notifications_summary_hide">Mostra todas as notificações mas oculta o conteúdo</string>
   <string name="lock_screen_notifications_summary_show">Mostra todas as notificações e o seu conteúdo</string>
   <string name="lock_screen_notifications_title">Com o dispositivo bloqueado</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Nunca exigir palavra-passe</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Exigir palavra-passe imediatamente</string>
-  <string name="lock_screen_secure_after_timeout_summary">Palavra-passe exigida em %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
   <string name="lock_screen_signature_summary">Mostrar mensagem no ecrã de bloqueio</string>
   <string name="lock_screen_signature_title">Info. do proprietário no ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
@@ -2599,9 +2595,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador vão ser guardados automaticamente no armazenamento interno do seu dispositivo</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
+  <string name="privacy_authorize_cloud_msg">Para assegurar a segurança da sua conta, inicie sessão em i.mi.com se quiser revogar a autorização para os serviços Mi Cloud</string>
   <string name="privacy_authorize_dialog_agree">Concordar</string>
   <string name="privacy_authorize_dialog_exit">Sair</string>
-  <string name="privacy_authorize_dialog_message">%1$s necessita que leia e concorde com %2$s. Esta aplicação necessita de ligar à Internet para funcionar normalmente. Concordar?</string>
+  <string name="privacy_authorize_dialog_message">"Para utilizar as funcionalidade básicas dos serviços Mi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt;.&amp;#8203;"</string>
   <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
   <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
   <string name="privacy_authorize_revoke">Revogar</string>
@@ -3205,6 +3202,8 @@ Para utilizar a fixação no ecrã:
   <string name="search_xiaomi_account">Conta Mi;ID da Conta Mi;Conta;ID da Conta</string>
   <string name="search_xspace">Aplicações clonadas;Aplicações clonadas;Aplicações duplas;Aplicações duplas;Clonar aplicações;Clonar aplicações;Aplicações clonadas;Cópia de aplicações;Duas contas;2 contas</string>
   <string name="second_space">Segundo espaço</string>
+  <string name="secondspace_category">Segundo espaço</string>
+  <string name="secondspace_delete_space_title">Eliminar Segundo espaço</string>
   <string name="secure_keyguard_business_title">Bloqueio de ecrã</string>
   <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não vai utilizar o bloqueio de ecrã para optimizar a encriptação de dados</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
@@ -4284,6 +4283,9 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wfd_menu_teardown">Parar</string>
   <string name="wfd_settings_description">Ligar a um ecrã através de Wi-Fi</string>
   <string name="wfd_settings_title">Visualização sem fios</string>
+  <string name="wfd_status_dialog_disconnect">Desligar</string>
+  <string name="wfd_status_dialog_message">Os conteúdos do ecrã estão a ser disponibilizados noutro ecrã através da ligação sem fios</string>
+  <string name="wfd_status_dialog_title">Visualização sem fios</string>
   <string name="wfd_wps_keypad">Utilizar teclado</string>
   <string name="wfd_wps_pbc">Introduzir PIN</string>
   <string name="whetstone_level_reboot">Estas definições só vão ter efeito quando reiniciar o dispositivo</string>
