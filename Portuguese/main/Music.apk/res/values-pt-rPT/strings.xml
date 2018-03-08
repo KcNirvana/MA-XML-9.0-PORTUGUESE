@@ -359,7 +359,7 @@
   <string name="metered_serious_alert">Dados móveis prestes a acabar</string>
   <string name="metered_serious_alert_msg_with_beyond_data">Já excedeu o limite dos seus dados móveis em %s. Utilizar dados móveis para reproduzir músicas?</string>
   <string name="metered_serious_alert_msg_with_data">Tem %s restantes de dados móveis. Utilizar dados móveis para reproduzir músicas?</string>
-  <string name="metered_serious_allow">Reproduzir na mesma</string>
+  <string name="metered_serious_allow">Reproduzir mesmo assim</string>
   <string name="milink_unavaliable_please_update">Mi Link não está disponível. Actualize MIUI</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Desconhecido&gt;</string>

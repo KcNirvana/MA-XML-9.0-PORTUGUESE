@@ -8,7 +8,6 @@
   <string name="custom_lock_wallpaper_enter">Introduzir</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="delete">Eliminar</string>
-  <string name="digital_clock_dot">:</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
   <string name="doze_pickup_subtype_performs_proximity_check"/>
@@ -140,7 +139,6 @@ Tente novamente dentro de %d segundos"</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
   <string name="phone_locked_forget_password_suggesstions_title">Como eliminar dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Aguarde</string>
   <string name="unlock_failed">Erro interno</string>
   <string name="unlock_failed_face_not_found">A detectar</string>

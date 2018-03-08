@@ -454,7 +454,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="paused_waiting_for_network">A aguardar por ligação…</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir…</string>
   <string name="popup_window_attempt">Permitir que esta página abra janela pop-up?</string>
-  <string name="positive_confirm_message">Desligar na mesma</string>
+  <string name="positive_confirm_message">Desligar mesmo assim</string>
   <string name="pref_accessibility">Acessibilidade</string>
   <string name="pref_accessibility_title">Acessibilidade</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Podem ser inseridas combinações de letras na barra de endereços</string>
