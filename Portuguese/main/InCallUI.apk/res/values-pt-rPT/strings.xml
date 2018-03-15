@@ -198,7 +198,6 @@
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_yes">Sim</string>
   <string name="payphone">Telefone público</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">A obter informação de contacto…</string>
   <string name="private_num">Número privado</string>
   <string name="remind_unlock_message">O seu dispositivo está bloqueado. \"%s\" vai estar disponível após desbloquear o seu dispositivo. Desbloquear agora?</string>

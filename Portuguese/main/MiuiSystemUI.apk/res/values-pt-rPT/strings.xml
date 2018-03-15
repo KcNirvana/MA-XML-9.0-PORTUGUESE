@@ -218,6 +218,9 @@ Utilize apenas o carregador fornecido"</string>
   <string name="long_screenshot_stop">Concluído</string>
   <string name="long_screenshot_top_msg">A criar captura de ecrã…</string>
   <string name="long_screenshot_top_msg_manual">Recorte a captura de ecrã e toque no botão para concluir</string>
+  <string name="low_temperature_button_ok">Percebi</string>
+  <string name="low_temperature_warning_message">A temperatura é demasiado baixa, o telefone pode desligar a qualquer momento</string>
+  <string name="low_temperature_warning_title">Aviso de encerramento</string>
   <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
   <string name="mdb_entering">A iniciar…</string>
   <string name="mdb_restore_cancel">Cancelar</string>

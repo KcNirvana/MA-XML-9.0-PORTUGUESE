@@ -137,7 +137,6 @@
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
   <string name="app_manager_app_info_pkg">Nome do ficheiro</string>
-  <string name="app_manager_app_lock">Bloq. de aplic.</string>
   <string name="app_manager_app_power">"Utilização de bateria: "</string>
   <string name="app_manager_app_storage">"Armazenamento: "</string>
   <string name="app_manager_app_traffic">"Utilização de dados: "</string>
@@ -200,7 +199,6 @@
   <string name="app_manager_net_mobile">Dados móveis</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Não</string>
-  <string name="app_manager_not_support_uninstall">Não pode desinstalar estas aplicações</string>
   <string name="app_manager_notify_bar">Ícones</string>
   <string name="app_manager_notify_floating">Flutuantes</string>
   <string name="app_manager_notify_keyguard">Ecrã de bloqueio</string>
@@ -232,10 +230,10 @@
   <string name="app_manager_show_all_apps_opened">A mostrar resultados de todas as aplicações…</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
-  <string name="app_manager_support_uninstall">Pode desinstalar estas aplicações</string>
   <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
   <string name="app_manager_title">Gerir aplicações</string>
   <string name="app_manager_total_size">Total</string>
+  <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar aplicações de sistema pode fazer com que alguns componentes MIUI deixem de funcionar. Desinstalar mesmo assim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalar aplicações de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">As aplicações clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
@@ -792,6 +790,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
+  <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;"</string>
   <string name="get_sys_info">A obter informações…</string>
@@ -1532,7 +1531,6 @@ do seu dispositivo"</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="promotion">Anúncios</string>
   <string name="prompt_all">Perguntar para todas</string>

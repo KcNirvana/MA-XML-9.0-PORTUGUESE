@@ -427,10 +427,9 @@ Utilize uma conta diferente"</string>
   <string name="micloud_warn_full_title">Sem espaço</string>
   <string name="micloud_warn_low_sum">A sua Mi Cloud está 90% cheia</string>
   <string name="micloud_warn_low_title">Quase sem espaço</string>
-  <string name="micloud_web_discription">Visitar i.mi.com</string>
   <string name="micloud_web_discription_01">Iniciar sessão em i.mi.com</string>
   <string name="micloud_web_discription_02">para armazenar e aceder aos seus ficheiros em qualquer lugar</string>
-  <string name="micloud_web_discription_international">Visitar www.mi.com/micloud</string>
+  <string name="micloud_web_discription_place_holder">Visitar %1$s</string>
   <string name="micloud_website">Itens na Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_label">Remover dados da Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Mi Cloud do telefone após terminar sessão?</string>

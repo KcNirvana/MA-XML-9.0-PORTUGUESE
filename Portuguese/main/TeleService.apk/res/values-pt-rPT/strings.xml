@@ -243,6 +243,7 @@
   <string name="close">Desligar</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fechar</string>
+  <string name="close_volte">Desligar Voz 4G</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
   <string name="cmcc_ut_data_enable_prompt">Este serviço necessita de uma ligação de dados móveis. Ligue-a para continuar</string>
   <string name="command_error_fdn_failure">Primeiro tem que desactivar FDN</string>
@@ -844,6 +845,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC…</string>
   <string name="pin_progress_unlock_icc">A desbloquear cartão SIM…</string>
   <string name="port_title">Número da porta</string>
+  <string name="prefered_network_type_3g_promp">Deve desligar o Voz 4G antes de seleccionar a rede 3G como preferida. Desligar agora?</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
   <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
@@ -908,6 +910,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
   <string name="prompt_to_turnoff_volte_when_failed">Os serviços Voz 4G não estão disponíveis. Desligue o Voz 4G para fazer uma chamada</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o Voz 4G nas definições</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o Voz 4G</string>
   <string name="prompt_when_turnon_volte_without_lte">As redes 4G não estão disponíveis. Se ligar o Voz 4G não vai conseguir fazer chamadas</string>
   <string name="proxy_address">Endereço proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>

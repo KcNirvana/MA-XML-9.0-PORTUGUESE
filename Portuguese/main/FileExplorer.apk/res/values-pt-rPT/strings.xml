@@ -551,7 +551,6 @@
   <string name="tools">Ferramentas</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">A seguir</string>
-  <string name="topic_message">%1$s: %2$s</string>
   <string name="transfer_done">Ficheiros movidos com sucesso</string>
   <string name="transfer_private_data">A mover ficheiros ocultos do cartão SD…</string>
   <string name="type_not_support">Este formato de ficheiro não é suportado. Descompacte este ficheiro e tente novamente</string>

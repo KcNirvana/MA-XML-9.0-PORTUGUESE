@@ -567,7 +567,6 @@ Motivo: \"%s\""</string>
   <string name="keep_local">Não sincronizar</string>
   <string name="keep_local_btn">Utilize o armazenamento interno do telefone</string>
   <string name="label_custom_type">Personalizar</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Não foram encontrados duplicados</string>
   <string name="label_notes">Notas</string>
   <string name="label_sip_address">Chamadas pela Internet</string>

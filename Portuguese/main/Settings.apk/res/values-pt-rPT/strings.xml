@@ -2102,6 +2102,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="memory_rightvalue">Total: %s</string>
   <string name="memory_settings_title">Memória</string>
   <string name="memory_size">Espaço total</string>
+  <string name="memory_system_rom">Armazenamento do sistema</string>
+  <string name="memory_system_space">Armazenamento do sistema</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Utilização da memória</string>
   <string name="memory_usage_apps">Memória utilizada pelas aplicações</string>
@@ -2719,7 +2721,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="private_sms_reset_by_account">Para repor a palavra-passe, inicie a sessão na sua Conta Mi</string>
   <string name="process_dex2oat_label">Optimização de aplicações</string>
-  <string name="process_kernel_label">Sistema Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
   <string name="process_service_in_use_description">Serviço %1$s está em utilização</string>
@@ -4005,7 +4006,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="untitled_apn">Sem título</string>
   <string name="update_new_version">Actualização disponível</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
-  <string name="upload_debug_log_summary">A informação que recolhemos podem conter dados pessoais. Vai ser utilizada para analisar os problemas do sistema e nunca para o identificar</string>
+  <string name="upload_debug_log_summary">As estatísticas de utilização que nos ajudam a localizar e resolver problemas podem conter informações pessoais</string>
   <string name="upload_debug_log_title">Programa de Experiência do Utilizador</string>
   <string name="usage_access">Acesso de utilização</string>
   <string name="usage_access_description">O acesso de utilização permite a uma aplicação monitorizar que outras aplicações está a utilizar e com que frequência, bem como o operador e as definições de idioma, entre outros detalhes</string>
@@ -4142,7 +4143,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_exit_guest_dialog_remove">Remover</string>
   <string name="user_exit_guest_title">Remover convidado</string>
   <string name="user_experience_program">Programa de Experiência do Utilizador</string>
-  <string name="user_experience_program_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
+  <string name="user_experience_program_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>
   <string name="user_experience_program_title">Programa de Experiência do Utilizador</string>
   <string name="user_guest">Convidado</string>
   <string name="user_image_choose_photo">Escolher foto da Galeria</string>

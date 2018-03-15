@@ -66,7 +66,6 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="edit_face_slender">Delicado</string>
   <string name="edit_skin_smooth">Suave</string>
   <string name="edit_skin_white">Tons</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Feminino</string>
