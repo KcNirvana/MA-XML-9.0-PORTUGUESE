@@ -189,7 +189,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="privacy_grant_success">Autorização concedida com sucesso</string>
   <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Tente novamente mais tarde</string>
   <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
-  <string name="privacy_settings">Privacy Policy</string>
+  <string name="privacy_settings">Política de Privacidade</string>
   <string name="pull_fresh_updated">Actualizado com sucesso</string>
   <string name="pull_fresh_updating">A actualizar…</string>
   <string name="radar_cloud_image_title">Mapa</string>
