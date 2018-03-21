@@ -77,6 +77,7 @@
   <string name="incorrect_pukcode">Código PUK incorrecto</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar de espaços quando a protecção está activa</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_handle_sdcard_fs">Não é possível entrar no Segundo espaço através do ecrã de bloqueio. Entre pelo Primeiro espaço</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>

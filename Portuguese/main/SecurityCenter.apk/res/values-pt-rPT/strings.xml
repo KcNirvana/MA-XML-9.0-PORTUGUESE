@@ -792,6 +792,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_description_image_button_video_answer">Videochamada</string>
   <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
+  <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
@@ -819,6 +820,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_game_shortcut">Melhore a sua experiência de jogo</string>
   <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
   <string name="gs_open_game_booster">Aumentar velocidade</string>
+  <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
   <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Optimizar a utilização da CPU para garantir um melhor desempenho</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>

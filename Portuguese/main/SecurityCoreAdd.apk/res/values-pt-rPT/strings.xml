@@ -15,8 +15,10 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="appData">Aplicações instaladas</string>
   <string name="app_name">Segurança</string>
   <string name="back">Voltar</string>
+  <string name="bind_device">Adicionar dispositivos</string>
   <string name="can_not_delete_when_calling">Não é possível eliminar espaços durante uma chamada</string>
   <string name="can_not_switch_when_calling">Não é possível trocar espaços durante uma chamada</string>
+  <string name="can_not_switch_when_green_kid_active">Trocar para o Segundo espaço está restringido pelos controlos parentais</string>
   <string name="cancelClosePassword">Não desligar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="changePassword">Alterar palavra-passe</string>
@@ -89,6 +91,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="err_unknown">Erro desconhecido</string>
   <string name="err_volume_not_enough">Sem espaço de armazenamento suficiente</string>
   <string name="exit_private_space">Trocar</string>
+  <string name="experience_more_features">Adicionar um dispositivo para ver todas as funcionalidades</string>
   <string name="finger_print_num">Imp. digital %d</string>
   <string name="finger_print_of_use">Utilizar impressão digital</string>
   <string name="fingerprint_number_upper_limit">Demasiadas tentativas incorrectas</string>
@@ -101,6 +104,12 @@ para poder vê-las em qualquer momento"</string>
   <string name="go_on_import">Continuar a importar</string>
   <string name="gpg_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os Jogos Google Play?</string>
   <string name="gpg_title">Aplicações clonadas para Jogos Google Play</string>
+  <string name="green_guard">Controlos parentais</string>
+  <string name="green_guard_des1">Adicione dispositivos para os gerir remotamente</string>
+  <string name="green_guard_des2">Saiba exactamente onde estão todos os seus dispositivos</string>
+  <string name="green_guard_des3">Controle as aplicações instaladas e restrinja a utilização</string>
+  <string name="green_guard_title2">Ver localização</string>
+  <string name="green_guard_title3">Gerir aplicações</string>
   <string name="guide_contact_sub_title_desc">"Os contactos adicionados ao Segundo espaço vão ser privados.
 As mensagens apenas vão aparecer no Segundo espaço"</string>
   <string name="guide_contact_suc_sub_title_desc">Apenas os contactos e mensagens privados vão ser mostrados no Segundo espaço</string>
@@ -141,6 +150,7 @@ Pode também transferi-las separadamente"</string>
   <string name="msg_switch_photo">Eliminar estas fotos no Primeiro espaço depois de as mover?</string>
   <string name="needSetKeyguardFirst">Definir palavra-passe do Primeiro espaço</string>
   <string name="needSetKeyguardFirstDes">Definir a palavra-passe do Primeiro espaço antes de definir a palavra-passe do Segundo espaço</string>
+  <string name="need_network_when_bind">Ligue-se à rede antes de adicionar dispositivos</string>
   <string name="need_network_when_create">Ligue-se à rede antes de criar um Espaço de trabalho</string>
   <string name="need_reset_passwd">Repor a palavra-passe do Espaço de trabalho antes de entrar</string>
   <string name="need_set_second_space_desc">Adicionar uma palavra-passe antes de adicionar uma impressão digital ao Segundo espaço</string>

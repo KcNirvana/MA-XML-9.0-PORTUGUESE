@@ -1077,7 +1077,6 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
-  <string name="defalut_launcher_title">Launcher predefinido</string>
   <string name="default_app">(Predefinição)</string>
   <string name="default_apps_title">Aplic. predefinidas</string>
   <string name="default_assist_none">Nenhum</string>
@@ -1697,6 +1696,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="key_gesture_function_preview">Pré-visualização de gestos e botões</string>
   <string name="key_gesture_function_shortcut">Atalhos das funções</string>
   <string name="key_none">Nenhum</string>
+  <string name="key_operation_diagram">Diagrama</string>
   <string name="key_settings">Gestos e botões</string>
   <string name="key_settings_title">Gestos e botões</string>
   <string name="key_system_control">Controlo de sistema</string>
@@ -1775,9 +1775,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
   <string name="launch_google_search">Iniciar Assistente Google</string>
   <string name="launch_recents">Iniciar Recentes</string>
-  <string name="launch_voice_assistant">Iniciar Assistente de Voz</string>
-  <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
-  <string name="launcher_title">Ecrã inicial e recentes</string>
+  <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
   <string name="launching_pho">A iniciar informações do telefone. Por favor, aguarde</string>
   <string name="launching_rep">A reportar…</string>
@@ -1878,7 +1876,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_after_timeout_summary">%1$s depois de desligar</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s após a suspensão, excepto quando mantido bloqueado por %2$s</string>
   <string name="lock_immediately_summary_with_exception">Imediatamente após a suspensão, excepto quando mantido bloqueado por %1$s</string>
-  <string name="lock_screen_cells_title">Bloquear disposição do ecrã</string>
   <string name="lock_screen_notifications_interstitial_message">Como pretende que as notificações sejam apresentadas quando o dispositivo está bloqueado?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificações</string>
   <string name="lock_screen_notifications_summary_hide">Mostra todas as notificações mas oculta o conteúdo</string>
@@ -2182,7 +2179,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_taplus_desc">Prima e segure para iniciar atalhos</string>
   <string name="miui_lab_taplus_title">Iniciar aplicações</string>
-  <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="miui_updater">Actualizador</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
@@ -2326,8 +2322,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_more_title">Mais…</string>
   <string name="nfc_payment_default">Pagamento predefinido</string>
   <string name="nfc_payment_default_not_set">Não definida</string>
-  <string name="nfc_payment_favor_default">Sempre</string>
-  <string name="nfc_payment_favor_open">Excepto quanto estiver aberta outra aplicação de pagamento</string>
+  <string name="nfc_payment_favor_default">Utilizar sempre a aplicação predefinida</string>
+  <string name="nfc_payment_favor_open">Substituir a aplicação predefinida quando estiver aberta outra aplicação de pagamento</string>
   <string name="nfc_payment_how_it_works">Como funciona</string>
   <string name="nfc_payment_no_apps">Pague apenas com um toque</string>
   <string name="nfc_payment_pay_with">Num terminal compatível com a funcionalidade Tocar e pagar, pagar com:</string>
@@ -2414,11 +2410,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Desligar</string>
-  <string name="open_personal_assistant_dialog_desc">Não vai poder utilizar o Assistente e receber as actualizações. Desligar agora?</string>
-  <string name="open_personal_assistant_dialog_title">Desligar Assistente</string>
-  <string name="open_personal_assistant_title">Ligar Assistente</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Este perfil de trabalho é gerido por:</string>
@@ -2593,7 +2584,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
   <string name="preferred_app_settings">Predefinições</string>
   <string name="preferred_app_settings_default">Predefinição</string>
-  <string name="preferred_app_settings_not_selected">Não seleccionada</string>
   <string name="preferred_app_settings_reset">Repor predefinições</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
   <string name="preferred_app_settings_reset_message">Todas as aplicações vão ser repostas para as definições de fábrica</string>
@@ -2744,6 +2734,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="profile_owner_add_title">Activar gestor de perfis?</string>
   <string name="progress_scanning">A pesquisar</string>
   <string name="provider_label">Carregar subscrições</string>
+  <string name="provision_activation">Activado</string>
+  <string name="provision_back">Voltar</string>
   <string name="provision_next">Seguinte</string>
   <string name="provision_page_layout_confirm_message">O seu dispositivo tem que reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
   <string name="provision_skip">Ignorar</string>
@@ -2831,7 +2823,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="receiver_clean">Libertar espaço</string>
   <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
-  <string name="recents_config_title">Recentes</string>
   <string name="recommend_item_1">Capa protectora</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">PowerBank</string>
@@ -2944,7 +2935,6 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen">Ecrã</string>
   <string name="screen_button">Botões do ecrã</string>
   <string name="screen_button_tips">Deslizar para baixo para ocultar os botões do ecrã</string>
-  <string name="screen_cells_config_title">Disposição do ecrã inicial</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
   <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Cores</string>
@@ -3391,7 +3381,6 @@ Para utilizar a fixação no ecrã:
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
   <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
-  <string name="show_mem_info_title">Mostrar estado da memória</string>
   <string name="show_menu">Mostrar menu</string>
   <string name="show_non_rect_clip">Depuração de operações clipe não rectangulares</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
@@ -3841,7 +3830,6 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_font_current2">Tipo de letra do sistema</string>
   <string name="title_font_size">Tamanho do tipo de letra</string>
   <string name="title_hdmi_color_calibration">Correcção de Cores</string>
-  <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_layout_current">Tamanho do tipo de letra</string>
   <string name="title_layout_current2">Tamanho do tipo de letra</string>
   <string name="title_local_resource">Recursos locais</string>

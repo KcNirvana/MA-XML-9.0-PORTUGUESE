@@ -612,7 +612,7 @@
   <string name="title_hide_verification_code">Ocultar autom. OTP no ecrã de bloqueio</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
-  <string name="title_show_photo_word">Atribuir fotos aos contacos</string>
+  <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
   <string name="title_timed_message_dialog">Definir hora de envio</string>

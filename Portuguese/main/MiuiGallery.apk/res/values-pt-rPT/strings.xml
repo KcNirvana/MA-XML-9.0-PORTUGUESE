@@ -614,7 +614,8 @@ para personalizar a galeria"</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
-  <string name="need_to_turn_on_sync">Ligue a sincronização com a Mi Cloud primeiro</string>
+  <string name="need_to_turn_on_sync">Ligue a sincronização com a Mi Cloud</string>
+  <string name="need_to_turn_on_sync_first">Ligue a sincronização com a Mi Cloud primeiro</string>
   <string name="need_to_turn_on_wlan">Ligue ao Wi-Fi primeiro</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
   <string name="new_album_invalid_char">"Os nomes não podem conter \"%s\". Introduza apenas letras ou números"</string>
@@ -985,6 +986,9 @@ para personalizar a galeria"</string>
   <string name="sticker_spring">Spring</string>
   <string name="sticker_summer">Summer</string>
   <string name="sticker_words">Words</string>
+  <string name="storage_description_primary">Armazenamento interno</string>
+  <string name="storage_description_sdcard">Cartão SD</string>
+  <string name="storage_description_xspace">Dados das aplic. clonadas</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="sub_discard_confirm_message">Guardar alterações?</string>
   <string name="sub_discard_negative_btn">Rejeitar</string>
