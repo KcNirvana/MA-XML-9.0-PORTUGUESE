@@ -626,6 +626,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
   <string name="modem_dialog_title">Rede móvel instável</string>
   <string name="msim_apn_not_set">Não definido</string>
+  <string name="msim_cmcc_dds_switch_not_support">Não é possível trocar de cartões SIM devido a restrições da operadora</string>
   <string name="msim_default_setting">Definições predefinidas</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como predefinido. Se parar de o utilizar, não vai ser possível fazer chamadas ou utilizar a ligação de dados móveis. Pode parar este cartão SIM depois de definir outro como seu cartão SIM predefinido</string>

@@ -1010,7 +1010,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_simple_mode">Mostrar;info;fotos;Contactos</string>
   <string name="search_smart_group_title">Contactos;Mostrar</string>
   <string name="search_wipe_data">Organizar;Contactos</string>
-  <string name="searching_vcard_message">A procurar por dados vCard no cartão SD…</string>
+  <string name="searching_vcard_message">A procurar por dados vCard no dispositivo…</string>
   <string name="select_all">Seleccionar todos</string>
   <string name="select_all_exceed">Não pode seleccionar mais de %1$d</string>
   <string name="select_exceed">Não pode seleccionar mais de %1$d</string>

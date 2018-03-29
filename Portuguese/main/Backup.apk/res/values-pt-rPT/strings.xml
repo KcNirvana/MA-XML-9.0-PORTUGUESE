@@ -309,7 +309,7 @@ Liberte pelo menos %s"</string>
   <string name="select_empty">Seleccione itens para importar</string>
   <string name="select_item_calendar">Calendário</string>
   <string name="select_item_contacts">Contactos</string>
-  <string name="select_item_empty_summary">Sem conteúdo</string>
+  <string name="select_item_empty_summary">Sem itens</string>
   <string name="select_item_notes">Notas</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">A carregar dados…</string>

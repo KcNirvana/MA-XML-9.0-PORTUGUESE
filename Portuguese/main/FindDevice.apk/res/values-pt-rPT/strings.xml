@@ -14,6 +14,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar Dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar Dispositivo está desligado</string>
   <string name="doing_extra_login_steps">A verificar o início de sessão…</string>
+  <string name="emergency_call">Chamada de emergência</string>
   <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
   <string name="find_device">Localizar Dispositivo</string>
@@ -49,6 +50,7 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="phone_locked">Este dispositivo pode estar associado à sua Conta Mi (%s). Inicie sessão para activar este dispositivo</string>
   <string name="phone_locked_account_email">, email associado: %s</string>
   <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
+  <string name="return_to_call">Voltar à chamada</string>
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
   <string name="stop_on_empty_password">Palavra-passe não pode estar em branco</string>
   <string name="sys_notification_async_open_failed_content">Toque para tentar novamente ou cancele</string>

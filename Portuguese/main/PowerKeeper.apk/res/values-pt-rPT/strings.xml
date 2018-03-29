@@ -27,6 +27,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="disable_hide_mode_warning">Desligar a poupança de bateria pode aumentar o consumo de bateria</string>
   <string name="empty_title_apps_container_list">Sem aplicações</string>
   <string name="enable_hide_mode">Ligar poupança de bateria</string>
+  <string name="enable_sleep_mode">Activar o Modo Inactivo para optimizar a bateria de noite</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
   <string name="extreme_power_config_mode_category">Modo Extremo</string>
   <string name="extreme_power_config_mode_desc">Altera para o Modo Extremo para desligar a sincronização, Bluetooth, GPS, NFC e a luz dos botões e notificações</string>
@@ -59,6 +60,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_config_apps">Poupança de bateria</string>
   <string name="power_config_event_delete">Eliminar</string>
   <string name="power_config_select_apps_title">Aplicações</string>
+  <string name="power_consume_abnormal_night">Consumo anormal de bateria à noite</string>
   <string name="power_hide_mode_app_list_summary">Poupança de bateria em segundo plano</string>
   <string name="power_hide_mode_title">Bateria e desempenho</string>
   <string name="power_mode">Definições de bateria</string>
@@ -71,6 +73,11 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="sleep_config_enhance_description">Sempre que a MIUI detectar inactividade, vai fechar aplicações em segundo, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
   <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar inactividade, vai fechar aplicações em segundo, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
   <string name="sleep_config_enhance_title">Modo Inactivo</string>
+  <string name="sleepmode_disclaimer_agree">Concordar</string>
+  <string name="sleepmode_disclaimer_cancel">Cancelar</string>
+  <string name="sleepmode_privacy_content">Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor</string>
+  <string name="sleepmode_privacy_link">Segurança e privacidade detalhada</string>
+  <string name="sleepmode_privacy_title">Modo Inactivo</string>
   <string name="sucess">Concluído</string>
   <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>
   <string name="update_profile_sucess">Actualizado com sucesso</string>

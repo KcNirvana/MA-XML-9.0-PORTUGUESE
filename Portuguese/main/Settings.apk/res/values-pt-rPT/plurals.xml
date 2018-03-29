@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Ligação restringida para %s aplicações</item>
+        <item quantity="one">Ligação restringida para %s aplicação</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplicações podem ligar-se à rede</item>
+        <item quantity="one">%d aplicação pode ligar-se à rede</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d aplicações não podem ligar-se à rede</item>
+        <item quantity="one">%d aplicação não pode ligar-se à rede</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplicações não podem mostrar notificações</item>
         <item quantity="one">%d aplicação não pode mostrar notificações</item>

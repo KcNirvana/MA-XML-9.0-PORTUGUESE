@@ -4,7 +4,6 @@
   <string name="antispam_marked_count">Reportado por %1$d utilizadores MIUI</string>
   <string name="antispam_notification_title">Número desconhecido</string>
   <string name="antispam_provider">Identificado por %s</string>
-  <string name="areacode_set_default">Definir como predefinido</string>
   <string name="callFailed_cb_enabled">Não pode efectuar chamadas enquanto o barramento de chamadas estiver ligado</string>
   <string name="callFailed_congestion">Rede ocupada</string>
   <string name="callFailed_dialToDial">Pedido de marcação modificado para marcar com um número diferente</string>
@@ -50,7 +49,6 @@
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
   <string name="call_title_redialing_with_times">Remarcado %d vezes</string>
   <string name="caller_manage_header">Chamada de conferência %s</string>
-  <string name="can_not_call_oneself">Não é possível ligar para este número</string>
   <string name="can_not_use">Não é possível utilizar</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_answering">A atender chamada</string>
@@ -85,7 +83,9 @@
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>
   <string name="conference_callers_exceeded">Não é possível adicionar mais pessoas</string>
   <string name="contacts_icon_label">Contactos</string>
-  <string name="default_area_code_setting">Código de área predefinido</string>
+  <string name="crbt_second_hold_prompt">%s está em espera…</string>
+  <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
+  <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
   <string name="description_image_button_answer">Atender</string>
   <string name="description_image_button_dialpad">Teclado de marcação</string>
   <string name="description_image_button_eight">oito</string>
@@ -107,8 +107,6 @@
   <string name="description_image_button_video_answer">Videochamada</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Atender</string>
-  <string name="dialog_activate_livetalk">Verificar número</string>
-  <string name="dialog_call_ordinary_telephone">Chamada normal</string>
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
   <string name="dialpad_eight">8</string>
@@ -127,7 +125,6 @@
   <string name="dialpad_two">2</string>
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="dialpad_zero">0</string>
-  <string name="do_not_ask">Não mostrar novamente</string>
   <string name="do_not_support_video_calls_by_remote">As videochamadas não são suportadas pelo outro dispositivo</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
   <string name="inCallLabel">Em chamada</string>
@@ -148,20 +145,8 @@
   <string name="incoming_circle_text_message_p">Responder com mensagem</string>
   <string name="incoming_circle_text_reject"/>
   <string name="incoming_circle_text_reject_p">Rejeitar</string>
-  <string name="keep_wait_call_back">Continuar a aguardar</string>
-  <string name="livetalk_dial">A utilizar pacote de recarregamento</string>
-  <string name="livetalk_hangup">Desligar</string>
   <string name="manageConferenceLabel">Gerir chamada de conferência</string>
   <string name="msim_select_default_time_left">(%d s)</string>
-  <string name="network_error_message">A rede actual está instável. A alterar para chamadas normais. Podem ser cobradas taxadas adicionais pela sua operadora</string>
-  <string name="network_error_title">Rede instável</string>
-  <string name="no_call_back_message">Demora na ligação. A alterar para chamadas normais. Podem ser cobradas taxadas adicionais pela sua operadora</string>
-  <string name="no_call_back_title">Atenção</string>
-  <string name="not_activate_sim_card_content">Verificar o seu número de telefone para começar a utilizar os pacotes de recarregamento. Ainda pode efectuar chamadas normais que vão ser taxadas pela sua operadora</string>
-  <string name="not_activate_sim_card_content_title">Número de telefone não verificado</string>
-  <string name="not_activate_sim_card_content_with_operator">Verificar SIM %1$s (%2$s) para efectuar chamadas utilizando pacotes de recarregamento. Ainda pode efectuar chamadas normais que vão ser taxadas pela sua operadora</string>
-  <string name="not_support_message">Não é possível ligar para este número. A alterar para chamadas normais que podem ser taxadas pela sua operadora</string>
-  <string name="not_support_title">Este número não é suportado</string>
   <string name="notification_action_accept">Aceitar</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Voz</string>
@@ -200,6 +185,7 @@
   <string name="payphone">Telefone público</string>
   <string name="picking_participant">A obter informação de contacto…</string>
   <string name="private_num">Número privado</string>
+  <string name="prompt_no_volte_when_failed">Os serviços Voz 4G não estão disponíveis</string>
   <string name="remind_unlock_message">O seu dispositivo está bloqueado. \"%s\" vai estar disponível após desbloquear o seu dispositivo. Desbloquear agora?</string>
   <string name="respond_via_sms_custom_message">Personalizar SMS</string>
   <string name="select_audio_dialog_title">Seleccione o modo de atendimento</string>
@@ -209,7 +195,6 @@
   <string name="separate_from_conference">Separar chamada</string>
   <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
   <string name="suspect_info">Tenha cuidado com as suas informações pessoais</string>
-  <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_phone">Desbloquear dispositivo</string>
   <string name="upgrade_vt_prompt">Trocar para videochamada?</string>

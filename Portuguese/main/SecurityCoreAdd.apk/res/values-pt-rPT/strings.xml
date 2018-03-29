@@ -77,6 +77,13 @@ para poder vê-las em qualquer momento"</string>
   <string name="dont_import">Agora não</string>
   <string name="downloading_space">A transferir…</string>
   <string name="enable">Ligar</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Se não necessita de mover dados, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">elimine e crie o Segundo espaço agora</string>
+  <string name="encrypt_space_delete_dialog_message">Está prestes a actualizar o Android. Após a actualização, os dados do Segundo espaço vão tornar-se incompatíveis. Para evitar isto, mova todos os dados para o Primeiro espaço, elimine o Segundo espaço e crie-o novamente</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Mover dados</string>
+  <string name="encrypt_space_delete_dialog_title">Atenção</string>
+  <string name="encrypt_space_delete_notification_message">Elimine o seu Segundo espaço e crie um novo para actualizar o seu dispositivo com sucesso</string>
+  <string name="encrypt_space_delete_notification_title">Segundo espaço</string>
   <string name="enter_air_space">Ir para Espaço de trabalho</string>
   <string name="err_copy_contacts">Não foi possível copiar contactos</string>
   <string name="err_copy_files">Não foi possível copiar ficheiros</string>

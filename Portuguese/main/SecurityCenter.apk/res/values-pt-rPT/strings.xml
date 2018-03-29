@@ -1577,7 +1577,7 @@ do seu dispositivo"</string>
   <string name="report_sms">Reportar mensagens</string>
   <string name="report_success">Mensagem reportada</string>
   <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone vão ser enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
-  <string name="report_warning_title">Reportar mensagens</string>
+  <string name="report_warning_title">Atenção</string>
   <string name="resource_antispam">Lista de bloqueio</string>
   <string name="resource_antivirus">Antivírus</string>
   <string name="resource_app_permissions">Permissões da aplicação</string>
