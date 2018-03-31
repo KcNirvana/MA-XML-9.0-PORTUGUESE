@@ -1495,13 +1495,13 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="firewall_partial">Permitir que algumas aplicações se liguem através do método​</string>
   <string name="firewall_permission">Permissões da ligação</string>
   <string name="firewall_restrict_all">Restringir a ligação para todas as aplicações através do método</string>
-  <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
+  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente, algumas aplicações de sistema vão conseguir ligar à Internet. Estas aplicações vão utilizar os dados móveis e podem gerar custos adicionais</string>
   <string name="firewall_restrict_android_dialog_title">Atenção</string>
   <string name="firewall_restrict_data">Restringir utilização de dados móveis</string>
   <string name="firewall_restrict_notify_title">%s não pode utilizar a rede</string>
   <string name="firewall_restrict_wlan">Restringir utilizando a ligação Wi-Fi</string>
-  <string name="firewall_set_bg_firewall_default_dialog_summary">"If you restrict background connection, new apps won't be able to connect to the internet in the background after you install them. They might be unable to receive messages or download content after this. Restrict anyway?"</string>
-  <string name="firewall_set_bg_firewall_default_dialog_title">Registringir ligação em segundo plano para novas aplicações</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">Se restringir a ligação em segundo plano, as novas aplicações não vão conseguir ligar à Internet em segundo plano. Restringir mesmo assim?</string>
+  <string name="firewall_set_bg_firewall_default_dialog_title">Restringir ligação em segundo plano para novas aplicações</string>
   <string name="firewall_temp_rule_reason">%2$s restringiu a ligação à Internet para %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi quando isto estiver desligado</string>
@@ -1832,6 +1832,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="launch_google_search">Iniciar Assistente Google</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+  <string name="launcher_title">Ecrã inicial e Recentes</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
   <string name="launching_pho">A iniciar informações do telefone. Por favor, aguarde</string>
   <string name="launching_rep">A reportar…</string>

@@ -25,6 +25,7 @@
   <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="add_to_playlist_successful">Adicionado com sucesso</string>
   <string name="alaka_required">Deve pagar por esta música se a quiser ouvir</string>
+  <string name="album_label">Capas do álbum</string>
   <string name="album_name">Álbum</string>
   <string name="all_tracks">Todas as músicas</string>
   <string name="already_download">A transferir…</string>
@@ -305,6 +306,8 @@
   <string name="global_search_title_radar">Reconhecimento de música</string>
   <string name="go_to_settings">Ir para definições</string>
   <string name="handle_later">Agora não</string>
+  <string name="hide_album">Oculta capa do álbum</string>
+  <string name="hide_lyric">Ocultar letra</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
   <string name="home_tab_local">A minha música</string>
@@ -341,6 +344,7 @@
   <string name="lrc_search_failed">A letra não foi encontrada</string>
   <string name="lrc_searching">A pesquisar a letra da música…</string>
   <string name="lyric_is_empty">A letra não está disponível</string>
+  <string name="lyric_label">Letras</string>
   <string name="lyric_open_other_connect">Transferir a letra utilizando dados móveis</string>
   <string name="lyric_setting">Definições da letra</string>
   <string name="manager_cloud_space">Gerir o armazenamento da Mi Cloud</string>
@@ -527,8 +531,8 @@
   <string name="select_device">Seleccionar dispositivo</string>
   <string name="select_displayed_folders">Escolher as pastas a mostrar</string>
   <string name="select_local_album">Escolher álbum</string>
-  <string name="select_local_lyric">Escolher a letra</string>
-  <string name="select_lyric">Escolher a letra</string>
+  <string name="select_local_lyric">Escolher letra</string>
+  <string name="select_lyric">Escolher letra</string>
   <string name="select_none">Desmarcar tudo</string>
   <string name="selected_count">Seleccionados %1$d de %2$d</string>
   <string name="send_to_title">Enviar para (%1$s)</string>
