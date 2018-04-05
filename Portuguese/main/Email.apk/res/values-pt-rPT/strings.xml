@@ -340,6 +340,8 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoje, %1$s</string>
+  <string name="debug_mode_preferencecategory">Defina o modo de registo</string>
+  <string name="debug_mode_settings">Modo depuração</string>
   <string name="default_">PREDEFINIDAS</string>
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
@@ -435,6 +437,7 @@
   <string name="file_rar_not_support">Não é possível abrir ficheiros RAR encriptados</string>
   <string name="file_save_path_dialog_cancel">Percebi</string>
   <string name="file_save_path_dialog_ok">Alterar agora</string>
+  <string name="file_save_term">Termo de gravação do ficheiro</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="first_quick_default_reply">Toque no botão para enviar \"%s\" para todos os destinatários</string>
   <string name="float_window_content">Clique no botão Confirmar para automaticamente preencher a conta e a palavra-passe da configuração automática de email</string>
@@ -476,6 +479,7 @@
   <string name="folder_trash_name_en1">Mensagens eliminadas</string>
   <string name="folder_trash_name_en2">Mensagem eliminada</string>
   <string name="folder_trash_name_en3">[Gmail]/Caixa</string>
+  <string name="forever">Sempre</string>
   <string name="formatted_email_address">&lt;%1$s</string>
   <string name="forward">Reencaminhar</string>
   <string name="forward_attachment">Reencaminhar</string>
@@ -534,7 +538,8 @@
   <string name="loading_conversation">A carregar…</string>
   <string name="loading_conversations">A carregar…</string>
   <string name="loading_from_remote">A carregar…</string>
-  <string name="local_search">Pesquisa local</string>  
+  <string name="local_search">Pesquisa local</string>
+  <string name="log_save_path">Localização dos ficheiros de registo</string>
   <string name="login">Iniciar sessão</string>
   <string name="login139">Iniciar sessão com China Mobile</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
@@ -675,6 +680,9 @@
   <string name="oauth_login_usr_proxy">Proxy</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="one_day">Um dia</string>
+  <string name="one_month">Um mês</string>
+  <string name="one_week">Uma semana</string>
   <string name="open_calendar_and_contacts_permission">Permitir que o Email aceda aos contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_calendar_permission">Permitir que o Email aceda ao armazenamento e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
@@ -700,6 +708,10 @@
   <string name="outbox_alert_select_operation">Escolha uma acção</string>
   <string name="outbox_alert_title_sent_failed">Não foi possível enviar email</string>
   <string name="outbox_no_mails">Vazio</string>
+  <string name="output_all_log">Enviar todos os registos</string>
+  <string name="output_db_summary">Isto vai enviar a sua base de dados</string>
+  <string name="output_db_title">Envio de base dados</string>
+  <string name="output_to_disk">Enviar registos para ficheiro</string>
   <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
   <string name="overlays_ok">Abrir permissões</string>
   <string name="overlays_tip">Abrir permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
@@ -856,6 +868,7 @@
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
   <string name="report_phishing">Denunciar phishing</string>
   <string name="report_spam">Denunciar spam</string>
+  <string name="request_copy_db_to_disk">O Email necessita de copiar a sua bd para um ficheiro</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="request_permission_activity">Pedido de permissão</string>
   <string name="respond_inline">"   Responder inline"</string>
@@ -884,7 +897,7 @@
   <string name="security_notification_content_unsupported_title">Os requisitos de segurança não podem ser cumpridos</string>
   <string name="security_notification_content_update_title">É necessário uma actualização de segurança</string>
   <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a requisitos de segurança</string>
-  <string name="see_more_content">Ver mais conteúdos</string>
+  <string name="see_more_content">Ver mais</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
   <string name="select_path">Seleccionar pasta</string>
@@ -960,6 +973,7 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Toque para configurar</string>
   <string name="tap_to_enable_sync">Toque para activar</string>
+  <string name="three_day">Três dias</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">Não é possível ligar à rede</string>

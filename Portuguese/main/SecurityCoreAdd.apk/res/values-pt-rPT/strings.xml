@@ -85,6 +85,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="encrypt_space_delete_notification_message">Elimine o seu Segundo espaço e crie um novo para actualizar o seu dispositivo com sucesso</string>
   <string name="encrypt_space_delete_notification_title">Segundo espaço</string>
   <string name="enter_air_space">Ir para Espaço de trabalho</string>
+  <string name="entrance_reopen_toast_msg">A mostrar o atalho do Segundo espaço devido a tipos de palavra-passe diferentes</string>
   <string name="err_copy_contacts">Não foi possível copiar contactos</string>
   <string name="err_copy_files">Não foi possível copiar ficheiros</string>
   <string name="err_copy_photos">Não foi possível copiar fotos</string>
@@ -206,6 +207,9 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="removingSpace">A eliminar…</string>
   <string name="repeat_scanner_fingerprint">Adicionar novamente</string>
   <string name="reset_passwd_success">Reposição de palavra-passe com sucesso</string>
+  <string name="reset_password_dialog_message">Está a utilizar tipos de palavra-passe diferentes para o Primeiro espaço e Segundo espaço. Deve utilizar o mesmo tipo de palavra-passe para ambos os espaços para ocultar o atalho do Segundo espaço</string>
+  <string name="reset_password_dialog_positve_btn_title">Alterar</string>
+  <string name="reset_password_dialog_title">Não é possível ocultar o atalho do Segundo espaço</string>
   <string name="restore_normal_show">Não mostrar mensagens privadas</string>
   <string name="restore_show_desc">Não mostrar mensagens privadas no Segundo espaço. Estas ainda vão estar disponíveis no Primeiro espaço</string>
   <string name="restore_show_toast">Não está a mostrar mensagens privadas</string>
@@ -372,6 +376,7 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_guide_title">Criar uma aplicação clonada</string>
   <string name="xspace_header">Aplicações clonadas</string>
   <string name="xspace_install_completed">Ícone adicionado ao ecrã inicial</string>
+  <string name="xspace_install_completed_global">Ícone adicionado ao ecrã inicial</string>
   <string name="xspace_install_failed">Não foi possível clonar</string>
   <string name="xspace_installing">A instalar…</string>
   <string name="xspace_introduce">Recomendadas</string>

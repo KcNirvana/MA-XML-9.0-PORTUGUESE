@@ -5,6 +5,8 @@
   <string name="account_container_title">Importado de</string>
   <string name="account_default">Telefone</string>
   <string name="account_phone">Apenas no telefone, não sincronizado</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">Cartão SIM</string>
   <string name="account_sim2">Cartão SIM %d</string>
   <string name="account_type_format">Contacto %1$s</string>
@@ -862,6 +864,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="pref_key_photo_word_title">Atribuir fotos aos contactos</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
+  <string name="pref_key_sdn_manage">Ver SDN</string>
+  <string name="pref_key_sdn_manage1">Ver cartão SDN 1</string>
+  <string name="pref_key_sdn_manage2">Ver cartão SDN 2</string>
   <string name="pref_key_sim_manage">Cartões SIM</string>
   <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
   <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
@@ -982,6 +987,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
+  <string name="sdnContacts_empty">Sem SDN</string>
+  <string name="sdnContacts_emptyLoading">A carregar SDN…</string>
   <string name="searchHint">Pesquisar contactos</string>
   <string name="search_batch_delete">Organizar;Contactos</string>
   <string name="search_contacts_display">Contactos;Mostrar</string>
@@ -1103,6 +1110,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>
   <string name="solar_calendar">Calendário</string>
+  <string name="special_code_security_exception">Operação rejeitada: Sem marcador predefinido</string>
   <string name="splitConfirmation">Este contacto vai ser separado em vários contactos</string>
   <string name="splitConfirmation_title">Separar contacto?</string>
   <string name="starredList">Favoritos</string>
@@ -1113,6 +1121,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Contacto importado</string>
   <string name="summary_kind_title">Resumo</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Novo contacto</string>
   <string name="t9_search_empty_edit_contact">Adicionar aos contactos</string>
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>

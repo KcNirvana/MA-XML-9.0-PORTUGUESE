@@ -611,6 +611,8 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis</string>
   <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
+  <string name="dialog_button_ignore">Ignorar</string>
+  <string name="dialog_button_yes">Sim</string>
   <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
   <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
   <string name="dialog_no_longer_alert">Não mostrar novamente</string>
@@ -1868,6 +1870,9 @@ do seu dispositivo"</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
   <string name="summary_app_lock_disable">Proteger os seus dados com o Bloqueio de aplicações</string>
   <string name="summary_auto_update">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>
+  <string name="summary_background_connection">Restringiu a ligação em segundo plano para esta aplicação. Toque para alterar</string>
+  <string name="summary_block_calls_from_cantacts">Está a utilizar a lista de bloqueio. Toque para alterar</string>
+  <string name="summary_block_calls_from_strangers">Apenas permite chamadas de contactos. Toque para alterar</string>
   <string name="summary_cleaner_cloudscan">Enviar e comparar os nomes das pastas com definições online</string>
   <string name="summary_cloud_account">Tire o máximo proveito do seu dispositivo Mi</string>
   <string name="summary_cloud_service">Sincronizar as suas fotos, contactos e muito mais em todos os seus dispositivos</string>
@@ -1878,6 +1883,8 @@ do seu dispositivo"</string>
   <string name="summary_data_flow">Controle a utilização de dados móveis para evitar gastos desnecessários</string>
   <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
   <string name="summary_dev">Evitar malware e proteger dados pessoais</string>
+  <string name="summary_do_not_disturb">Está no modo Não incomodar. Toque para alterar</string>
+  <string name="summary_eye_shield">Está no Modo de Leitura. Toque para alterar</string>
   <string name="summary_find_device">Localizar e bloquear o seu dispositivo em qualquer lugar</string>
   <string name="summary_flow_notification">Mostrar as suas estatísticas de utilização de dados mensais na área de notificações</string>
   <string name="summary_flow_purchase">Está a atingir o limite de dados. Compre dados para se manter ligado</string>
@@ -1895,6 +1902,7 @@ do seu dispositivo"</string>
   <string name="summary_permission_root">Tem acesso root. Pode pôr em risco a segurança do dispositivo</string>
   <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo quando tiver pouca bateria</string>
   <string name="summary_realname_verify">Verificar a sua identidade para tornar os pagamentos mais seguros</string>
+  <string name="summary_restrict_data_usage">Restringiu a utilização de dados para esta aplicação. Toque para alterar</string>
   <string name="summary_show_notification">Limpar cache, ver estado da bateria e bloquear itens na área de notificações</string>
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
   <string name="summary_usb">Prevenir malware de ser transmitido via USB</string>
@@ -2015,6 +2023,9 @@ do seu dispositivo"</string>
   <string name="title_app_lock_disable">Bloquear aplicações</string>
   <string name="title_app_update">Actualizações disponíveis</string>
   <string name="title_auto_update">Actualizar automaticamente</string>
+  <string name="title_background_connection">Não consegue utilizar %s em segundo plano?</string>
+  <string name="title_block_calls_from_cantacts">Perdeu chamadas dos seus contactos?</string>
+  <string name="title_block_calls_from_strangers">Perdeu chamadas importantes?</string>
   <string name="title_chain_start">Restrição de início de corrente</string>
   <string name="title_cleaner_cloudscan">Verificação de lixo na Mi Cloud</string>
   <string name="title_cloud_account">Conta Mi</string>
@@ -2029,6 +2040,8 @@ do seu dispositivo"</string>
   <string name="title_dev_no">Opções de programador ligadas</string>
   <string name="title_dev_yes">Opções de programador desligadas</string>
   <string name="title_device_not_root">O acesso root não foi concedido</string>
+  <string name="title_do_not_disturb">Não consegue ouvir o seu toque?</string>
+  <string name="title_eye_shield">A cor do ecrã não parece boa?</string>
   <string name="title_find_device">Localizar Dispositivo</string>
   <string name="title_flow_notification">Notificações de dados móveis</string>
   <string name="title_flow_purchase">Comprar dados móveis</string>
@@ -2056,6 +2069,7 @@ do seu dispositivo"</string>
   <string name="title_permission_yes">Monitor de permissões ligado</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
   <string name="title_realname_verify">Verificação de ID</string>
+  <string name="title_restrict_data_usage">%s não consegue ligar à Internet?</string>
   <string name="title_show_notification">Widget da área de notificações</string>
   <string name="title_system_auto_download">Actualizações transferidas automaticamente</string>
   <string name="title_telecom_operator">Ajustar</string>

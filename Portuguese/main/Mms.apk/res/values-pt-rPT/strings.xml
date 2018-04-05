@@ -33,7 +33,7 @@
   <string name="attach_sound">Áudio</string>
   <string name="attach_subject">Assunto</string>
   <string name="attach_take_photo">Tirar foto</string>
-  <string name="attach_transaction">Enviar dinheiro</string>
+  <string name="attach_transaction">Transferir dinheiro</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">Não foi possível transferir o áudio</string>
   <string name="audio_message_expired">Esta mensagem de voz expirou</string>

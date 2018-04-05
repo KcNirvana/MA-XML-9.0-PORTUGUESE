@@ -89,7 +89,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="desktop_installing">A instalar</string>
   <string name="desktop_wait_wifi">A aguardar</string>
   <string name="desktop_waiting">A aguardar</string>
-  <string name="device_corrupt">Telefone Mi (Dados corrompidos)</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
@@ -104,8 +103,11 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="download_meta_again">Não foi possível carregar a cópia. Tente novamente</string>
   <string name="download_meta_failed">Não foi possível carregar dados</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
-  <string name="download_settings_fail">"Não foi possível transferir o ecrã inicial"</string>
+  <string name="download_settings_fail">Não foi possível transferir o ecrã inicial</string>
   <string name="error_unknown">Erro</string>
+  <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
+  <string name="home_hint_global_launcher">Ecrã inicial Poco</string>
+  <string name="home_restore_error">Não foi possível restaurar o ecrã inicial</string>
   <string name="lack_of_storage">Sem espaço de armazenamento</string>
   <string name="latest_backup_time_loading">A carregar…</string>
   <string name="managespace_delete_backup">Eliminar</string>
@@ -151,6 +153,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
   <string name="retry">Tentar novamente</string>
   <string name="self_phone">Este telefone</string>
+  <string name="self_phone_home">Este telefone: %s</string>
   <string name="settings_backup">Definições do sistema</string>
   <string name="size_unknown">Tamanho desconhecido</string>
   <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Mi Cloud</string>
