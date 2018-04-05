@@ -6,7 +6,6 @@
   </dd>
 </dl>
 
-[![ghit.me](https://ghit.me/badge.svg?repo=KcNirvana/MA-XML-9.0-PORTUGUESE)](https://ghit.me/repo/KcNirvana/MA-XML-9.0-PORTUGUESE)
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
