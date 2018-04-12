@@ -201,6 +201,8 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="radio_button_icon_switch_title">Utilizar um atalho</string>
   <string name="radio_button_password_switch_title">Utilizar uma palavra-passe</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
+  <string name="remove_button">Remover e reiniciar</string>
+  <string name="remove_button_time">Remover e reiniciar (%ds)</string>
   <string name="remove_second_space_msg">Todos os dados das aplicações do Segundo espaço vão ser perdidas após eliminar o Segundo espaço. Eliminar o Segundo espaço?</string>
   <string name="remove_user_click_message">"*Se não tem itens importantes no Segundo espaço, %s"</string>
   <string name="remove_user_click_message_action">pode eliminar o Segundo espaço e reiniciar o seu dispositivo</string>
@@ -313,6 +315,8 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="start_new_fingerprint_tips">"Utilizar a impressão digital do Segundo espaço
 para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="start_setting_guide_desc_title">Existem algumas definições para configurar</string>
+  <string name="stop_xspace_alert_content">Eliminou todas as aplicações clonadas. Eliminar as contas e dados das mesmas também? Após isto, vai ter que criar aplicações clonadas novamente quando precisar</string>
+  <string name="stop_xspace_alert_title">Contas de aplic. clonadas</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no espaço actual</string>
   <string name="support_desc">Serviços de segurança fornecidos por Spaces Mobile</string>
   <string name="sure_to_use">Confirmar</string>

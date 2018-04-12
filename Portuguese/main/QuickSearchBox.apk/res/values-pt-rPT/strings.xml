@@ -77,7 +77,7 @@ Pode alterar esta definição em Definições &gt; Aplicações de sistema &gt; 
   <string name="recent_delete_title">Ocultar aplicações</string>
   <string name="recent_edit">Editar</string>
   <string name="recent_edit_done">Concluído</string>
-  <string name="recent_filter_functions">Funcionalidades desligadas</string>
+  <string name="recent_filter_functions">Aplicações ocultas</string>
   <string name="recent_function">Funcionalidades</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="release_to_input">Largue para mostrar a barra de pesquisa</string>

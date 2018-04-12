@@ -142,7 +142,7 @@
   <string name="account_setup_options_mail_window_1week">Última semana</string>
   <string name="account_setup_options_mail_window_2weeks">Últimas duas semanas</string>
   <string name="account_setup_options_mail_window_3days">Últimos três dias</string>
-  <string name="account_setup_options_mail_window_all">Todos</string>
+  <string name="account_setup_options_mail_window_all">Tudo</string>
   <string name="account_setup_options_mail_window_auto">Automático</string>
   <string name="account_setup_options_mail_window_default">Utilizar conta predefinida</string>
   <string name="account_setup_options_mail_window_label">Período de sincronização:</string>

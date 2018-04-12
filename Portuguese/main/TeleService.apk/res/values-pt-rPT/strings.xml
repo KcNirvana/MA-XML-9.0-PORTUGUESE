@@ -912,7 +912,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="prompt_to_turnoff_volte_when_failed">Os serviços Voz 4G não estão disponíveis. Desligue o Voz 4G para fazer uma chamada</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o Voz 4G nas definições</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o Voz 4G</string>
-  <string name="prompt_when_turnon_volte_without_lte">As redes 4G não estão disponíveis. Se ligar o Voz 4G não vai conseguir fazer chamadas</string>
+  <string name="prompt_when_turnon_volte_without_lte">As redes Voz 4G não estão disponíveis. Se ligar o Voz 4G não vai conseguir fazer chamadas</string>
   <string name="proxy_address">Endereço proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
@@ -1100,6 +1100,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>
   <string name="sum_show_caller_id">Mostrar o meu número</string>
   <string name="sum_voicemail_choose_provider">Escolher o serviço de Voice Mail</string>
+  <string name="switch_dds_to_sub_alert">Definir este cartão como predefinido de dados</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">Entrada de pesquisa T9</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -1176,6 +1177,7 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_after_connected_summary">Vibrar quando atende</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
+  <string name="vice_card_data_in_use_alert">Podem ser gerados custos adicionais</string>
   <string name="vice_slot_volte_data_switch_prompt">O seu dispositivo vai ligar a dados móveis utilizando o SIM secundário durante as chamadas Voz 4G</string>
   <string name="vice_slot_volte_data_switch_summary">Durante as chamadas Voz 4G, o dispositivo vai ligar a dados móveis utilizando o SIM secundário</string>
   <string name="vice_slot_volte_data_switch_title">Utilizar dados móveis durante chamadas Voz 4G no SIM secundário</string>
@@ -1210,6 +1212,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="volte_switch_summary">Utilizar Voz 4G para melhorar a qualidade das chamadas e videochamadas</string>
   <string name="volte_switch_summary2">Confirme que a sua operadora suporta esta funcionalidade antes de a ligar</string>
   <string name="volte_switch_title">Voz 4G activado</string>
+  <string name="volte_switch_title_ct">Voz 4G activado</string>
   <string name="volte_tips_when_turn_on">Os serviços Voz 4G China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>

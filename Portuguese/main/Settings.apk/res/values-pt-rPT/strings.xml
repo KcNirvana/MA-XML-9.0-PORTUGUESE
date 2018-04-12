@@ -81,6 +81,8 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_toggle_speak_password_preference_title">Dizer palavras-passe</string>
   <string name="accessibility_wifi_off">Wi-Fi desligado</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi uma barra</string>
+  <string name="accessibility_wifi_security_type_none">Redes abertas</string>
+  <string name="accessibility_wifi_security_type_secured">Redes seguras</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi sinal cheio</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi três barras</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi duas barras</string>
@@ -110,6 +112,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">Activar aplicação admin. do dispositivo?</string>
   <string name="add_facerecoginition_text">Adicionar rosto</string>
+  <string name="add_fingerprint_cancel_button_text">Voltar</string>
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para que o sensor grave os limites da sua imp. digital</string>
@@ -872,6 +875,9 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="confirm_erase">Eliminar</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
+  <string name="confirm_frp_credential_message">O seu dispositivo foi reposto com as definições de fábrica, pode desbloqueá-lo utilizando a sua palavra-passe anterior</string>
+  <string name="confirm_frp_credential_skip_txt">Utilizar conta Google</string>
+  <string name="confirm_frp_credential_title">Desbloqueio após reposição de fábrica</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="confirm_privacy_password">Introduza o padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
@@ -1638,6 +1644,19 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
+  <string name="gxzw_add_fingerprint_continue">Continuar</string>
+  <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para que o sensor possa gravar os cantos da sua impressão digital</string>
+  <string name="gxzw_add_fingerprint_edge_title">Mova o dedo levemente</string>
+  <string name="gxzw_add_fingerprint_finish">Concluir</string>
+  <string name="gxzw_add_fingerprint_indicate">Prima com mais força aqui</string>
+  <string name="gxzw_add_fingerprint_know">Percebi</string>
+  <string name="gxzw_add_fingerprint_message">Mantenha os dedos e a superfície do ecrã limpo</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Mova o dedo levemente</string>
+  <string name="gxzw_add_fingerprint_move_message">Não é possível gravar as áreas restantes da sua imp. digital. Mova o seu dedo levemente</string>
+  <string name="gxzw_add_fingerprint_move_title">Mova o dedo levemente</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Prima com mais força e levante o seu dedo após vibrar. Repita várias vezes</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Premir com mais força e levantar após vibração</string>
+  <string name="gxzw_add_fingerprint_title">Adicionar imp. digital</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
@@ -2719,6 +2738,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
   <string name="preferred_app_settings">Predefinições</string>
   <string name="preferred_app_settings_default">Predefinição</string>
+  <string name="preferred_app_settings_not_selected">Não seleccionado</string>
   <string name="preferred_app_settings_reset">Repor predefinições</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
   <string name="preferred_app_settings_reset_message">Todas as aplicações vão ser repostas para as definições de fábrica</string>

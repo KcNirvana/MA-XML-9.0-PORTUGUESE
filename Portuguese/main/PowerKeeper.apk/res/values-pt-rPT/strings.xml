@@ -3,8 +3,8 @@
   <string name="about_hide_mode">Acerca de poupança de bateria</string>
   <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Bateria e desempenho</string>
-  <string name="app_preload_policies_summary">Utilizar modelo ML para prever as aplicações que vão utilizar e carregar recursos para melhorar a iniciação das mesmas</string>
-  <string name="app_preload_policies_title">Carregamento IA</string>
+  <string name="app_preload_policies_summary">Utilize a IA para prever as aplicações que vai utilizar e carregar recursos para melhorar o início das mesmas</string>
+  <string name="app_preload_policies_title">Pré-carregamento IA</string>
   <string name="base_info">Informação de base</string>
   <string name="cloud_addr_info">Informação da nuvem</string>
   <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>

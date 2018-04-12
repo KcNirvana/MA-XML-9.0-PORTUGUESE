@@ -63,6 +63,7 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">A verificar o cartão SIM…</string>
   <string name="sim_card_detecting_check">Não foi possível localizar o cartão SIM. Certifique-se que o cartão SIM está devidamente colocado</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Permitir a ligação a redes de dados móveis? Se permitir, o cartão SIM que inserir vai ser utilizado para ligar às redes de dados móveis</string>
   <string name="sim_card_detecting_title">A procurar cartão SIM</string>
   <string name="sim_card_detection">Insira o cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo</string>
