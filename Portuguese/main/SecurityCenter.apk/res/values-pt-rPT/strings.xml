@@ -1024,6 +1024,7 @@ da operadora"</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Adicionar aplicações de início automático manualmente</string>
+  <string name="managed_user_title">Todas as aplicações de trabalho</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir utilização de dados</string>
   <string name="manual_item_white_list_summary">Impedir que as aplicações seleccionadas sejam optimizadas</string>
