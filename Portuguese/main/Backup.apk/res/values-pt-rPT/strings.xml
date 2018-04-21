@@ -56,11 +56,14 @@
   <string name="btn_got_it">Percebi</string>
   <string name="button_backup">Fazer cópia</string>
   <string name="button_cancel">Cancelar</string>
+  <string name="button_clean_garbage">Libertar espaço</string>
   <string name="button_continue">Continuar</string>
   <string name="button_finish">Concluir</string>
+  <string name="button_got_it">OK</string>
   <string name="button_import">Importar</string>
   <string name="button_next">Avançar</string>
   <string name="button_ok">OK</string>
+  <string name="button_quit">Sair</string>
   <string name="button_return">Voltar</string>
   <string name="button_send">Enviar</string>
   <string name="call_title">Registos de chamadas</string>
@@ -119,19 +122,22 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="enable_encrypt_description">Encriptar</string>
   <string name="enable_encrypt_fail">Erro na encriptação</string>
   <string name="enable_encrypt_indicator">Toque para encriptar</string>
-  <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para aceder a cópias encriptadas</string>
   <string name="enable_encrypt_summery2">As suas cópias de segurança vão ser encriptadas automaticamente. Para as aceder tem que iniciar sessão na sua Conta Mi</string>
   <string name="enable_encrypt_title">Encriptar cópias</string>
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar</string>
   <string name="err_authentication_failed">A autenticação falhou</string>
   <string name="err_bakfile_broken">Não pode utilizar esta cópia</string>
+  <string name="err_bakfile_not_exist">O ficheiro de cópia não existe</string>
+  <string name="err_binder_died">A aplicação parou</string>
   <string name="err_filesystem_mount">Não foi possível aceder ao armazenamento do router</string>
   <string name="err_low_storage">Sem espaço suficiente</string>
   <string name="err_not_allow">Não suportado</string>
+  <string name="err_pkg_not_exist">Não foi possível localizar a aplicação</string>
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>
+  <string name="err_user_abort">Cancelado pelo utilizador</string>
   <string name="err_version_too_old">O ficheiro da cópia é muito antigo</string>
   <string name="err_version_unsupported">A versão da cópia não é suportada</string>
   <string name="error_permissions">Esta aplicação não tem as permissões necessárias para aceder ao Calendário. Vá a Definições e verifique as permissões para continuar</string>
@@ -401,7 +407,10 @@ Liberte pelo menos %s"</string>
   <string name="trans_device_wait_for_reconnecting">Ligação interrompida. Ligue novamente para continuar</string>
   <string name="trans_disconnected_tips_message">Dispositivo remoto está desligado. Ligue-o novamente. Pode cancelar se necessário</string>
   <string name="trans_disconnected_tips_title">Dispositivo remoto está desligado</string>
+  <string name="trans_failed_details_page_title">Transferências sem sucesso</string>
   <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
+  <string name="trans_generate_qrcode_failed">Não foi possível gerar código QR. Tente novamente</string>
+  <string name="trans_generating_qrcode">A gerar código QR…</string>
   <string name="trans_intro_desc_1">Num telefone Mi, ligue-se ao Wi-Fi e toque \"Sou um destinatário\". Selecione o seu dispositivo iOS, inicie sessão na iCloud e importe os dados</string>
   <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover e comece de novo. Os ficheiros duplicados vão ser substituídos durante a nova transferência</string>
   <string name="trans_intro_desc_4">O Mi Mover utiliza o Wi-Fi para transferir ficheiros. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
@@ -433,8 +442,10 @@ Liberte pelo menos %s"</string>
   <string name="trans_intro_title_private">Álbum oculto:</string>
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
-  <string name="trans_native_no_space">"Sem espaço suficiente neste dispositivo.
-Limpe pelo menos %s"</string>
+  <string name="trans_native_no_space">"Não existe espaço suficiente no dispositivo antigo. (%s disponível).
+Liberte espaço ou transfira apenas itens importantes"</string>
+  <string name="trans_old_phone_low_space_msg">O Mi Mover necessita de algum espaço de armazenamento para transferir dados, mas não existe espaço suficiente no dispositivo antigo. Liberte espaço em \"Segurança\" ou transfira apenas itens importantes</string>
+  <string name="trans_old_phone_low_space_title">Sem espaço suficiente
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
@@ -474,8 +485,8 @@ Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_security_tips_message">Algumas aplicações não suportam o Mi Mover</string>
   <string name="trans_security_tips_title">Compatibilidade Mi Mover</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
-  <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo.
-Seleccione os ficheiros novamente ou limpe %s de armazenamento no novo dispositivo"</string>
+  <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo (%s disponível).
+Liberte espaço ou transfira apenas itens importantes"</string>
   <string name="trans_select_data_tips">"Seleccionar itens para transferir
 Ficheiros iguais no novo dispositivo vão ser substituídos"</string>
   <string name="trans_select_data_too_large">"Seleccionou demasiados itens para transferir.
@@ -497,8 +508,7 @@ Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_start_failed_title">Não foi possível iniciar a transferência</string>
   <string name="trans_switching_5g">A trocar para Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menos de um minuto</string>
-  <string name="trans_time_spent">"
-Tempo gasto: %s"</string>
+  <string name="trans_time_spent">Tempo gasto: %s</string>
   <string name="trans_wait_trans_data">"Ligado ao dispositivo antigo.
 A aguardar pela transferência…"</string>
   <string name="trans_waiting_ensurance">"Certifique-se que o dispositivo antigo está ligado

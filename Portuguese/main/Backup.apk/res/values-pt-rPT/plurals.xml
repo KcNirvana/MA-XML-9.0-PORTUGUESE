@@ -12,6 +12,14 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">Não foi possível transferir %d itens. Toque para ver detalhes</item>
+        <item quantity="one">Não foi possível transferir %d item. Toque para ver detalhes</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">Não foi possível transferir %d itens</item>
+        <item quantity="one">Não foi possível transferir %d item</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>

@@ -2,6 +2,7 @@
 <resources>
   <string name="accept">Aceitar</string>
   <string name="accept_or_deny">%1$s partilhou o álbum %2$s consigo</string>
+  <string name="actionbar_overflow_item_desc">Mais opções</string>
   <string name="add_automatically_alert_msg">Adicionar fotos de \"%1$s\" a este álbum automaticamente?</string>
   <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
   <string name="add_secret_ensure_title">Ocultar</string>
@@ -18,7 +19,8 @@
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
-  <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos Álbuns partilhados</string>
+  <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos álbuns partilhados</string>
+  <string name="added_to_favorites">Adicionado aos favoritos</string>
   <string name="added_to_favorites_tip">Adicionado ao álbum \"Favoritos\"</string>
   <string name="adding">A adicionar…</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
@@ -89,6 +91,7 @@
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
+  <string name="application_icon">Ícone da aplicação</string>
   <string name="apply">Aplicar</string>
   <string name="assistant_page_label">Assistente</string>
   <string name="associate_face_album">Escolher um álbum</string>
@@ -108,11 +111,13 @@
   <string name="baby_album_needs_auto_backup_tip">Não é possível desligar as cópias para os álbuns de bebé</string>
   <string name="baby_album_new_photo_remind">Existem fotos novas no seu álbum de bebé</string>
   <string name="baby_album_setting_title">Informação do bebé</string>
+  <string name="baby_album_settings">Definições do álbum de bebé</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
 %4$s de %3$s partilhou o álbum de %5$s consigo"</string>
   <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
   <string name="baby_album_sharers_page_title">Partilhar com a família</string>
   <string name="baby_birthday">Aniversário</string>
+  <string name="baby_face_desc">Álbum de bebé</string>
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
@@ -124,6 +129,7 @@
   <string name="baby_nick_name">Alcunha</string>
   <string name="baby_sexy">Género</string>
   <string name="baby_suffix">Bebé</string>
+  <string name="back">Voltar</string>
   <string name="backup_automatically_summary">Fazer cópias de fotos e vídeos de todos os dispositivos para a Mi Cloud. Vai poder navegar, ordenar, editar e partilhar fotos e vídeos em todos os seus dispositivos</string>
   <string name="backup_automatically_title">Cópias automáticas</string>
   <string name="backup_battery_low_desc">Pode escolher continuar a copiar</string>
@@ -222,6 +228,8 @@
   <string name="cleaner_stop_scan">Para verificação</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
+  <string name="close">Fechar</string>
+  <string name="close_dialog_desc">Fechar a caixa de diálogo</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
   <string name="cloud_guide_auto_backup_title">Escolher álbuns para fazer cópia</string>
   <string name="cloud_guide_login_title">Fazer cópias de fotos e vídeos automaticamente</string>
@@ -244,6 +252,7 @@
   <string name="cloudfolder_contain_invalidate_char">"O nome do álbum não pode conter '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
+  <string name="collage__talkback_effect">Efeito %d</string>
   <string name="collage_choose">Seleccionar</string>
   <string name="collage_margin_text">Margens</string>
   <string name="collage_mirror">Espelho</string>
@@ -276,6 +285,9 @@
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
   <string name="context_menu_copy">Copiar</string>
   <string name="context_menu_copy_notice">Copiado para a área de transferências</string>
+  <string name="correct_photo_time">Corrigir data e hora nas fotos</string>
+  <string name="correct_time_success">Corrigido com sucesso</string>
+  <string name="correct_time_tip">A corrigir data e hora…</string>
   <string name="create_baby_album">Criar um álbum de bebé</string>
   <string name="create_baby_album_dialog_msg">Criar um álbum para \"%s\"?</string>
   <string name="create_baby_album_later_toast">Criar um álbum de bebé em qualquer altura nas Definições</string>
@@ -290,6 +302,7 @@
   <string name="custom_select_title_select_all">Seleccionar tudo</string>
   <string name="custom_select_title_select_item">Seleccionar itens</string>
   <string name="debugging_tip">Gerar dados de depuração</string>
+  <string name="debugging_info">A informação de depuração foi gerada. Toque OK para abrir a pasta</string>
   <string name="default_relation_name">Novo grupo</string>
   <string name="define_by_user">Personalizado</string>
   <string name="delete">Eliminar</string>
@@ -417,6 +430,7 @@
   <string name="exit_share_in_process">A sair do álbum \"%s\"…</string>
   <string name="exit_share_successfully">Saiu de %1$s</string>
   <string name="exit_video_play">Sair</string>
+  <string name="expand_desc">Mais</string>
   <string name="expand_people">Mostrar mais pessoas</string>
   <string name="face_album_detecting_tip">Aguarde…</string>
   <string name="face_album_empty">"Sem fotos suficientes para reconhecer pessoas.
@@ -441,6 +455,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="fail_to_pick_email">Endereço de email inválido</string>
   <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
   <string name="family_member_invitation_text">Outro membro da família</string>
+  <string name="fancy_color_desc">Cores</string>
   <string name="fast_share_auto_render">Embelezar</string>
   <string name="fast_share_auto_render_finish">Embelezada</string>
   <string name="filter_bi_memory">Memória</string>
@@ -456,9 +471,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="filter_bi_young">Jovem</string>
   <string name="filter_category_film">Filmes</string>
   <string name="filter_category_food">Comida</string>
+  <string name="filter_category_master">Mestres</string>
   <string name="filter_category_portrait">Retrato</string>
   <string name="filter_category_scene">Paisagem</string>
-  <string name="filter_film_blackwhite">P&amp;P</string>
+  <string name="filter_film_blackwhite">P&amp;B</string>
   <string name="filter_film_dew">Sereno</string>
   <string name="filter_film_fade">Desvanecer</string>
   <string name="filter_film_film">Filme</string>
@@ -474,15 +490,23 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="filter_food_latte">Latte</string>
   <string name="filter_food_softdrink">Refrigerantes</string>
   <string name="filter_food_wholemeal">Cereais</string>
+  <string name="filter_master_hazy">Nebuloso</string>
+  <string name="filter_master_mellow">Maduro</string>
+  <string name="filter_master_memoire">Memoire</string>
+  <string name="filter_master_rise">Elevado</string>
+  <string name="filter_master_somber">Sombrio</string>
   <string name="filter_original">Nenhum</string>
   <string name="filter_people_fairytale">Crianças</string>
   <string name="filter_people_heart">Emoções</string>
   <string name="filter_people_japanese">Fresco</string>
   <string name="filter_people_maze">Labirinto</string>
   <string name="filter_people_mint">Menta</string>
+  <string name="filter_people_movie">Filme</string>
   <string name="filter_people_nature">Natural</string>
   <string name="filter_people_pink">Blush</string>
+  <string name="filter_people_riddle">Enigma</string>
   <string name="filter_people_roman">Romântico</string>
+  <string name="filter_people_story">História</string>
   <string name="filter_scene_city">Cidade</string>
   <string name="filter_scene_df">Nevoeiro</string>
   <string name="filter_scene_koizora">Amor</string>
@@ -495,6 +519,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="finish_fill_baby">Criar</string>
   <string name="flash_off">Sem flash</string>
   <string name="flash_on">Flash utilizado</string>
+  <string name="free_view_desc">Visão 3D</string>
   <string name="gallery_setting">Definições</string>
   <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
@@ -610,7 +635,7 @@ para personalizar a galeria"</string>
   <string name="more_album_hint">", etc."</string>
   <string name="more_face">Mais pessoas parecidas</string>
   <string name="more_face_album_name">Mais pessoas</string>
-  <string name="move_to_other_albums_tip">Mover este álbum para Outros álbuns?</string>
+  <string name="move_to_other_albums_tip">Mover este álbum para outros álbuns?</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
@@ -738,6 +763,27 @@ para personalizar a galeria"</string>
   <string name="photo_editor_rotate">Rodar</string>
   <string name="photo_editor_saving">A guardar…</string>
   <string name="photo_editor_sticker">Stickers</string>
+  <string name="photo_editor_talkback_cancel">Cancelar</string>
+  <string name="photo_editor_talkback_confirm">Confirmar</string>
+  <string name="photo_editor_talkback_crop_16_9">16 por 9</string>
+  <string name="photo_editor_talkback_crop_1_1">1 por 1</string>
+  <string name="photo_editor_talkback_crop_3_4">3 por 4</string>
+  <string name="photo_editor_talkback_crop_4_3">4 por 3</string>
+  <string name="photo_editor_talkback_crop_9_16">9 por 16</string>
+  <string name="photo_editor_talkback_crop_free">Livre</string>
+  <string name="photo_editor_talkback_crop_mirror">Espelho</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Rotação</string>
+  <string name="photo_editor_talkback_doodle_arrow">Flecha</string>
+  <string name="photo_editor_talkback_doodle_circular">Círculo</string>
+  <string name="photo_editor_talkback_doodle_line">Linha</string>
+  <string name="photo_editor_talkback_doodle_path">Pincel</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Rectângulo</string>
+  <string name="photo_editor_talkback_effect">Efeito %d</string>
+  <string name="photo_editor_talkback_eraser">Eliminar</string>
+  <string name="photo_editor_talkback_recently">Utilizado recentemente</string>
+  <string name="photo_editor_talkback_redo">Refazer</string>
+  <string name="photo_editor_talkback_undo">Anular</string>
   <string name="photo_editor_text">Texto</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
@@ -787,6 +833,8 @@ para personalizar a galeria"</string>
   <string name="picker_title_specify_format_one">Seleccionar %d foto</string>
   <string name="picker_title_unlimit">Seleccionar fotos</string>
   <string name="places_album_empty_title">As fotos podem ser ordenadas por localização</string>
+  <string name="play_gif_desc">Reproduzir GIF</string>
+  <string name="play_video_desc">Reproduzir vídeo</string>
   <string name="preparing_data">Aguarde…</string>
   <string name="projection_cancel">Cancelar</string>
   <string name="projection_checkbox_text">Memorizar este ecrã</string>
@@ -812,6 +860,7 @@ para personalizar a galeria"</string>
   <string name="recovery_merge_or_rename">Unir álbuns</string>
   <string name="recovery_merge_or_rename_message">Existe um álbum com este nome. Unir?</string>
   <string name="recovery_rename">Mudar o nome</string>
+  <string name="refocus_desc">Focar novamente</string>
   <string name="relation_text_empty_alert">Adicionar relacionamento</string>
   <string name="relation_text_family">Membro da família</string>
   <string name="relation_text_father">Pai</string>
@@ -826,7 +875,7 @@ para personalizar a galeria"</string>
   <string name="remove_from_album_title">Remover deste álbum</string>
   <string name="remove_from_current_album">Remover deste álbum</string>
   <string name="remove_from_favorites_failed">Não foi possível remover dos favoritos</string>
-  <string name="remove_from_other_albums_tip">Mover este álbum de Outros álbuns?</string>
+  <string name="remove_from_other_albums_tip">Mover este álbum de outros álbuns?</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_successful">Removido do álbum oculto</string>
@@ -898,6 +947,7 @@ para personalizar a galeria"</string>
   <string name="search_setting_title">Encontrar fotos na galeria</string>
   <string name="search_syncing">A sincronizar dados</string>
   <string name="search_title_album">Álbum</string>
+  <string name="search_title_app_screenshot">Capturas de ecrã da aplicação</string>
   <string name="search_title_history">Pesquisar histórico</string>
   <string name="search_title_location">Localizações</string>
   <string name="search_title_more">Mais</string>
@@ -925,8 +975,12 @@ para personalizar a galeria"</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
+  <string name="select_origin_tip">Ficheiro original (%s)</string>
+  <string name="send_file_beautify_failed">Não foi possível partilhar</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>
   <string name="send_public_url">Enviar URL do álbum</string>
+  <string name="send_secret_file_failed">Não foi possível partilhar</string>
+  <string name="send_secret_file_space_low">Sem espaço suficiente</string>
   <string name="send_too_many_files_error">Pode enviar até %d itens de uma vez</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
   <string name="set_as_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
@@ -942,14 +996,15 @@ para personalizar a galeria"</string>
   <string name="share">Partilhar</string>
   <string name="share_album">Partilhar álbum</string>
   <string name="share_album_needs_auto_upload_tip">Não é possível desligar a cópia automática para álbuns partilhados</string>
+  <string name="share_album_qr_code">Código QR do álbum</string>
   <string name="share_by_email_start">Partilhar %1$s em segundo plano</string>
   <string name="share_by_email_successfully">Partilhado %1$s</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja-o em %2$s</string>
   <string name="share_with_family">Partilhar com a família</string>
   <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas</string>
   <string name="show_hidden_album_title">Mostrar álbuns ocultos</string>
-  <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso. Vá a Outros álbuns para ver</string>
-  <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Vá a Outros álbuns para ver</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
   <string name="slideshow_interval_dialog_title">Introduzir intervalo</string>
   <string name="slideshow_interval_invalid">Intervalo tem de ser entre 3 e 3600 segundos</string>
   <string name="slideshow_interval_title">Mostrar cada diapositivo por</string>
@@ -1124,6 +1179,7 @@ para personalizar a galeria"</string>
   <string name="video_not_exist">O vídeo não existe</string>
   <string name="view_by_gallery_tip">Galeria MIUI</string>
   <string name="view_face_album">Ver álbum</string>
+  <string name="view_more_face_desc">Ver mais pessoas</string>
   <string name="view_queuing_status">Verificar estado</string>
   <string name="welcome">Bem-vindo à Mi Cloud</string>
   <string name="welcome_to_auto_backup">Bem-vindo à Mi Cloud</string>

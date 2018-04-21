@@ -28,8 +28,8 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
   <string name="find_device_noise_title">Alarme de Localizar Dispositivo</string>
   <string name="find_device_notice_p1">Vá a</string>
-  <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
-Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade"</string>
+  <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu dispositivo</string>
+  <string name="find_device_notice_sms_alert">Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_storage_corrupted">Armazenamento de Localizar Dispositivo corrompido. O seu dispositivo está inseguro</string>
   <string name="find_device_success_title">Localizar Dispositivo</string>
@@ -72,11 +72,11 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
   <string name="unlock_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="unlock_error_wrong_vcode">O código que introduziu é inválido</string>
-  <string name="unlock_help">"Mantenha-se ligado à rede
-Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi
+  <string name="unlock_help">"Mantenha-se ligado à rede.
+Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi.
 
 Esqueceu a palavra-passe?
-Vá a id.mi.com para repor a sua palavra-passe
+Vá a id.mi.com para repor a sua palavra-passe.
 
 Outros motivos
 Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>

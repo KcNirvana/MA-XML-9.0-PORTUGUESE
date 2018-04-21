@@ -3,8 +3,8 @@
   <string name="accessibility_calllog_detail">Detalhes do registo de chamadas</string>
   <string name="accessibility_contact_detail">Detalhes do contacto</string>
   <string name="account_container_title">Importado de</string>
-  <string name="account_default">Telefone</string>
-  <string name="account_phone">Apenas no telefone, não sincronizado</string>
+  <string name="account_default">Dispositivo</string>
+  <string name="account_phone">Apenas no dispositivo, não sincronizado</string>
   <string name="account_sdn">SDN</string>
   <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">Cartão SIM</string>
@@ -57,7 +57,7 @@
   <string name="button_join_service_number">Adicionar número de serviço</string>
   <string name="button_my_center">Perfil</string>
   <string name="button_scan">Verificar novamente</string>
-  <string name="caching_vcard_message">A armazenar VCard na cache do telefone…</string>
+  <string name="caching_vcard_message">A armazenar VCard na cache do dispositivo…</string>
   <string name="caching_vcard_title">A armazenar em cache</string>
   <string name="callAgain">Ligar novamente</string>
   <string name="callBack">Ligar de volta</string>
@@ -164,7 +164,7 @@
   <string name="chat_qq">Conversar utilizando QQ</string>
   <string name="chat_skype">Conversar utilizando Skype</string>
   <string name="chat_yahoo">Conversar utilizando Yahoo</string>
-  <string name="checkhint">Verifique o telefone de destino</string>
+  <string name="checkhint">Verifique o dispositivo de destino</string>
   <string name="clearCallLogConfirmation">Todos os seus registos de chamadas vão ser eliminados</string>
   <string name="clearCallLogConfirmation_title">Eliminar todos os registos de chamadas</string>
   <string name="clearCallLogProgress_title">A eliminar registo de chamadas</string>
@@ -189,7 +189,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
   %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Erro ao obter informações da base de dados</string>
-  <string name="composer_has_no_exportable_contact">Não tem contactos para exportar. Se tem os contactos no telefone o fornecedor de dados pode ter impedido a exportação</string>
+  <string name="composer_has_no_exportable_contact">Não tem contactos para exportar. Se tem os contactos no dispositivo, o fornecedor de dados pode ter impedido a exportação</string>
   <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -370,9 +370,9 @@
   <string name="device_import_progress_message">A importar…</string>
   <string name="device_import_progress_toast">%1$d contactos importados</string>
   <string name="device_import_title">Importar</string>
-  <string name="device_list_title">Escolher um telefone</string>
-  <string name="device_other_guide">O outro telefone suporta Bluetooth?</string>
-  <string name="device_other_title">Importar de outros telefones</string>
+  <string name="device_list_title">Escolher um dispositivo</string>
+  <string name="device_other_guide">O outro dispositivo suporta Bluetooth?</string>
+  <string name="device_other_title">Importar de outros dispositivos</string>
   <string name="device_paired_dialog_message">A procurar contactos…</string>
   <string name="device_paired_dialog_title">A procurar contactos…</string>
   <string name="device_pairing_dialog_message">A emparelhar…</string>
@@ -459,7 +459,7 @@ Para prevenir perguntas frequentes, actualizamos a informação do saldo uma vez
   <string name="export_to_sim2">Exportar para o cartão SIM 2</string>
   <string name="export_to_sim_prepare_title">A preparar…</string>
   <string name="export_to_sim_title">A exportar…</string>
-  <string name="export_vcard_description">Exportar vCard para o armazenamento interno</string>
+  <string name="export_vcard_description">Exportar vCard para o armazenamento do dispositivo</string>
   <string name="exporting_contact_failed_message">"Os dados do contacto não foram exportados.
 Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">Não foi possível exportar</string>
@@ -538,7 +538,7 @@ Motivo: \"%s\""</string>
   <string name="import_contact_card_button">Importar contacto</string>
   <string name="import_failure_no_vcard_file">Sem ficheiros vCard encontrados no armazenamento</string>
   <string name="import_from_onekey_migrate">Importar com Mi Mover</string>
-  <string name="import_from_other_phone">Importar de outro telefone</string>
+  <string name="import_from_other_device">Importar de outro dispositivo</string>
   <string name="import_from_sdcard">Importar do armazenamento</string>
   <string name="import_from_sim">Importar do cartão SIM</string>
   <string name="import_from_sim1">Importar do cartão SIM 1</string>
@@ -556,7 +556,7 @@ Motivo: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_message">A importar…</string>
   <string name="import_to_xiaomi_account_progress_title">Importar contactos para a Conta Mi</string>
   <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
-  <string name="import_vcard_description">Importar contactos do armazenamento interno</string>
+  <string name="import_vcard_description">Importar contactos do armazenamento do dispositivo</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
   <string name="importing_sim_contacts_miui">A importar contactos do cartão SIM…</string>
   <string name="importing_sim_contacts_miui_prepare">A preparar contactos…</string>
@@ -567,7 +567,7 @@ Motivo: \"%s\""</string>
   <string name="insertGroupDescription">Criar grupo</string>
   <string name="invalidContactMessage">O contacto não existe</string>
   <string name="keep_local">Não sincronizar</string>
-  <string name="keep_local_btn">Utilize o armazenamento interno do telefone</string>
+  <string name="keep_local_btn">Utilize o armazenamento interno do dispositivo</string>
   <string name="label_custom_type">Personalizar</string>
   <string name="label_no_duplicate_contacts">Não foram encontrados duplicados</string>
   <string name="label_notes">Notas</string>
@@ -772,7 +772,7 @@ Para adicionar um contacto à sua lista de favoritos:
 • Cópia dos contactos com segurança"</string>
   <string name="no_contact_details">Sem informações adicionais para este contacto</string>
   <string name="no_contact_in_other_phone">Não foram encontrados contactos</string>
-  <string name="no_contacts_dialog_message">"Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do telefone e depois tente novamente "</string>
+  <string name="no_contacts_dialog_message">"Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e depois tente novamente "</string>
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados</string>
   <string name="no_sdcard_message">Cartão SD não encontrado</string>
@@ -801,7 +801,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="organizationLabelsGroup">Organização</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">Outros contactos</string>
-  <string name="other_phone">Outros telefones</string>
+  <string name="other_phone">Outros dispositivos</string>
   <string name="path_batch_delete">Aplicações de sistema/Contactos/Organizar contactos/Eliminar registos</string>
   <string name="path_contacts_display">Aplicações de sistema/Contactos/Preferências de visualização</string>
   <string name="path_contacts_more">Aplicações de sistema/Contactos/Organizar contactos</string>
@@ -831,7 +831,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="phoneLabelsGroup">Telefone</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
-  <string name="photoPickerNotFoundText">Sem imagens disponíveis no telefone</string>
+  <string name="photoPickerNotFoundText">Sem imagens disponíveis no dispositivo</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">Não foi possível carregar foto</string>
   <string name="pick_new_photo">Escolher nova foto de %s</string>
@@ -1022,7 +1022,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="select_all_exceed">Não pode seleccionar mais de %1$d</string>
   <string name="select_exceed">Não pode seleccionar mais de %1$d</string>
   <string name="select_groups">Seleccionar grupos</string>
-  <string name="select_none">Nada seleccionado</string>
+  <string name="select_none">Sem itens seleccionados</string>
   <string name="select_show_contacts">Lista de contactos</string>
   <string name="select_vcard_title">Escolher ficheiro vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Adicionado ao ecrã inicial</string>
@@ -1110,7 +1110,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>
   <string name="solar_calendar">Calendário</string>
-  <string name="special_code_security_exception">Operação rejeitada: Sem marcador predefinido</string>
+  <string name="special_code_security_exception">Não foi possível concluir esta acção. Esta não é a sua aplicação Telefone predefinida</string>
   <string name="splitConfirmation">Este contacto vai ser separado em vários contactos</string>
   <string name="splitConfirmation_title">Separar contacto?</string>
   <string name="starredList">Favoritos</string>
@@ -1139,8 +1139,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_copy_done">Concluído</string>
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>
-  <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
-  <string name="toast_finish_delete_selected_call_log">Registos de chamadas eliminados</string>
+  <string name="toast_finish_delete_call_log">Eliminado com sucesso</string>
+  <string name="toast_finish_delete_selected_call_log">Eliminados com sucesso</string>
   <string name="toast_for_failed_saving_nickname">Erro ao gravar alcunha</string>
   <string name="toast_for_saving_nickname">Alcunha guardada</string>
   <string name="toast_join_with_empty_contact">Escrever o nome do contacto antes de o associar com outro</string>

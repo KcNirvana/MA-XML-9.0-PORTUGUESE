@@ -157,6 +157,7 @@
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="delete_confirm">Eliminar</string>
   <string name="delete_confirm_msg">Eliminar todos os ficheiros seleccionados permanentemente?</string>
+  <string name="desc_image">Imagem</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Mi Cloud</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
   <string name="dialog_msg_add_white_list_error">Não é possível adicionar este ficheiro às excepções</string>
@@ -202,6 +203,14 @@
   <string name="go_to">Continuar</string>
   <string name="goto_set">Definir</string>
   <string name="grabage_rank_title">Limpo hoje</string>
+  <string name="guide_secure_dialog_message">O pontuação de optimização do seu dispositivo é menor que 80 pontos. Optimizar agora?</string>
+  <string name="guide_secure_dialog_negative">Cancelar</string>
+  <string name="guide_secure_dialog_positive">Optimizar</string>
+  <string name="guide_secure_dialog_title">Optimize performance</string>
+  <string name="guide_virus_dialog_message">Verificar aplicações e pacotes de instalação protege o seu dispositivo de vírus e malware. Verificar agora?</string>
+  <string name="guide_virus_dialog_negative">Cancelar</string>
+  <string name="guide_virus_dialog_positive">Verificar</string>
+  <string name="guide_virus_dialog_title">Verificação de vírus</string>
   <string name="header_optimizer">Ao utilizar esta funcionalidade está a concordar com %s</string>
   <string name="hint_clean_select_items">A eliminar duplicados…</string>
   <string name="hints_ad_header_left">Ficheiros de anúncios</string>
@@ -280,6 +289,7 @@
   <string name="low_memory_warning_dialog_ok_button">Limpar</string>
   <string name="low_memory_warning_dialog_title">Sem espaço suficiente</string>
   <string name="main_title_filesize">%1$s lixo</string>
+  <string name="mainbtn_text_no_trash">Ignorar</string>
   <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, %2$s de memória</string>

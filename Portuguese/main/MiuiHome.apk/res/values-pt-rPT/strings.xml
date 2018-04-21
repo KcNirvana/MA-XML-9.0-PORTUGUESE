@@ -106,7 +106,7 @@
   <string name="edit_mode_uninstall">Desinstalar</string>
   <string name="editing_add_widget_tips">Editar widgets</string>
   <string name="editing_mode_enter_tip_text">Junte ou afaste dois ou mais dedos para editar o ecrã inicial</string>
-  <string name="editing_mode_title_empty">0 seleccionadas</string>
+  <string name="editing_mode_title_empty">Sem itens seleccionados</string>
   <string name="editing_set_screen_layout_cells">Escolher o efeito do layout do ecrã</string>
   <string name="editing_set_transition_effect_tips">Escolher efeito de transição de ecrã</string>
   <string name="editing_set_wallpaper_tips">Escolher papel de parede</string>
@@ -133,7 +133,7 @@
   <string name="free_style_edit_tab_widget">Widgets</string>
   <string name="free_style_enter_tip">Deslize para baixo dois dedos desde a parte superior do ecrã para mudar para o Espaço Mi</string>
   <string name="free_style_exit_tip">Para voltar ao ecrã inicial deslize para cima dois dedos desde a parte inferior do ecrã</string>
-  <string name="free_style_londing_text">A carregar…</string>
+  <string name="free_style_londing_text">Aguarde…</string>
   <string name="gadget_calculator_label">Calculadora</string>
   <string name="gadget_calendar_label">Calendário</string>
   <string name="gadget_clear_button_label">Limpeza</string>
@@ -154,7 +154,7 @@
   <string name="gadget_power_clear_button_label">Limpeza Profunda</string>
   <string name="gadget_search_label">Pesquisar</string>
   <string name="gadget_weather_app_not_installed">Toque para transferir a aplicação Tempo da MIUI</string>
-  <string name="gadget_weather_aqi_title">"Qualidade do ar: "</string>
+  <string name="gadget_weather_aqi_title">Qualidade do ar:</string>
   <string name="gadget_weather_download_message">Deve transferir o conteúdo da aplicação %1$s (%2$s). Reinicie a aplicação depois de transferir</string>
   <string name="gadget_weather_download_start">Transferir</string>
   <string name="gadget_weather_download_title">Transferir</string>
@@ -172,7 +172,7 @@
   <string name="group_shortcuts">Atalhos</string>
   <string name="guide_install_app_msg">A aplicação não está instalada no dispositivo. Procurar e instalar a aplicação agora?</string>
   <string name="guide_install_app_title">Procurar e instalar a aplicação?</string>
-  <string name="guide_tips_editing_mode">Toque e segure para escolher um widget</string>
+  <string name="guide_tips_editing_mode">Prima e segure para escolher um widget</string>
   <string name="home_screen">Ecrã inicial</string>
   <string name="image_too_small_message">A imagem não tem a dimensão necessária</string>
   <string name="install">Instalar</string>
@@ -182,8 +182,8 @@
   <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
   <string name="launcher_not_exist">Ocorreu um erro. Volte ao início e tente novamente</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
-  <string name="like">Adicionar aos Favoritos</string>
-  <string name="liked">Adicionado aos Favoritos</string>
+  <string name="like">Adicionar aos favoritos</string>
+  <string name="liked">Adicionado aos favoritos</string>
   <string name="loading_desktop">Aguarde…</string>
   <string name="loading_wallpaper">Aguarde…</string>
   <string name="local_wallpaper">Transferido</string>
@@ -214,7 +214,7 @@
   <string name="menu_trans_effect">Efeitos de transição</string>
   <string name="menu_wallpaper">Papel de parede</string>
   <string name="menu_workspace_preview">Pré-visualização dos ecrãs iniciais</string>
-  <string name="mi_wallpaper">Loja de temas MIUI</string>
+  <string name="mi_wallpaper">Temas MIUI</string>
   <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="mtzgadget_missing_text">Widget não disponível</string>
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, arraste o seu ícone e largue-a aqui</string>
@@ -232,9 +232,9 @@
   <string name="out_of_space">Não existe mais espaço neste ecrã inicial</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos sem a intervenção do utilizador</string>
   <string name="permdesc_install_widget">Permite que uma aplicação adicione widgets sem a intervenção do utilizador</string>
-  <string name="permdesc_read_settings">Permite que uma aplicação leia as definições e os atalhos na página inicial</string>
+  <string name="permdesc_read_settings">Permite que uma aplicação leia as definições e os atalhos da página inicial</string>
   <string name="permdesc_uninstall_shortcut">Permite que uma aplicação remova atalhos sem a intervenção do utilizador</string>
-  <string name="permdesc_write_settings">Permite que uma aplicação altere as definições e os atalhos na página inicial</string>
+  <string name="permdesc_write_settings">Permite que uma aplicação altere as definições e os atalhos da página inicial</string>
   <string name="permlab_install_shortcut">instalar atalhos</string>
   <string name="permlab_install_widget">instalar widgets</string>
   <string name="permlab_read_settings">ler definições do ecrã inicial e atalhos</string>
@@ -311,7 +311,7 @@
   <string name="uninstall_dialog_message">Desinstalar vai remover todos os dados da aplicação</string>
   <string name="uninstall_dialog_title_format">Desinstalar %s?</string>
   <string name="uninstall_result_failed">Não foi possível desinstalar %s</string>
-  <string name="uninstall_result_succeeded">Aplicação desinstalada</string>
+  <string name="uninstall_result_succeeded">Desinstalada com sucesso</string>
   <string name="uninstall_with_xspace_dialog_message">As aplicações clonadas correspondentes vão ser removidas juntamente com os dados da aplicação</string>
   <string name="uninstall_xspace_dialog_message">Desinstalar vai remover todos os dados da aplicação</string>
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
