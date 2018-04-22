@@ -445,7 +445,7 @@ Liberte pelo menos %s"</string>
   <string name="trans_native_no_space">"Não existe espaço suficiente no dispositivo antigo. (%s disponível).
 Liberte espaço ou transfira apenas itens importantes"</string>
   <string name="trans_old_phone_low_space_msg">O Mi Mover necessita de algum espaço de armazenamento para transferir dados, mas não existe espaço suficiente no dispositivo antigo. Liberte espaço em \"Segurança\" ou transfira apenas itens importantes</string>
-  <string name="trans_old_phone_low_space_title">Sem espaço suficiente
+  <string name="trans_old_phone_low_space_title">Sem espaço suficiente</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
