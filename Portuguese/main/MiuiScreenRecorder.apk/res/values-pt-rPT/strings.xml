@@ -13,14 +13,18 @@
   <string name="button_confirm">OK</string>
   <string name="button_goon_recorder">Retomar</string>
   <string name="cancel_edit">Cancelar</string>
+  <string name="cannot_change_frames">O frame rate apenas pode ser personalizado para gravações com frame rate fixo</string>
   <string name="cannot_change_parames">Não é possível alterar os parâmetros ao gravar</string>
   <string name="cannot_record">Não foi possível gravar. Tente novamente mais tarde</string>
+  <string name="close_screen_record">A gravação parou</string>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
   <string name="description_content">O gravador de ecrã fornece capacidades de gravação ao nível do sistema. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="description_title">Acerca de Gravador de Ecrã</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
+  <string name="fixed_frame_rate">Frame rate fixo</string>
+  <string name="fixed_frame_rate_summary">Gravar vídeos com um frame rate fixo melhora a reprodução em plataformas de redes sociais e reduz a vida da bateria</string>
   <string name="frames">Frame rate</string>
   <string name="frames_summary">Frame rates mais altos reduzem o lag de movimento</string>
   <string name="frequently_click_toast">Aguarde…</string>
@@ -32,6 +36,9 @@
   <string name="hint_volume_down">Volume menos</string>
   <string name="hint_volume_up">Volume mais</string>
   <string name="home_title_none">Seleccionar itens</string>
+  <string name="is_checked">Seleccionado</string>
+  <string name="is_go_home">Voltar ao Grav. de Ecrã</string>
+  <string name="is_go_home_summary">Abrir a página inicial do Grav. de Ecrã após parar a gravação</string>
   <string name="loopback_sound">Colunas</string>
   <string name="low_battery">Carregue a bateria antes de começar a gravar</string>
   <string name="low_battery_title">Bateria fraca</string>
@@ -57,6 +64,7 @@
   <string name="screen_record_option">Opções de gravação</string>
   <string name="screen_record_params">Parâmetros de gravação</string>
   <string name="select_all">Seleccionar tudo</string>
+  <string name="settings">Definições</string>
   <string name="show_hard_key">Mostrar botões de navegação</string>
   <string name="show_hard_key_summary">Mostrar aviso quando premir os botões Início, Menu e Voltar</string>
   <string name="show_screen_touch">Mostrar gestos de toque</string>
@@ -69,5 +77,8 @@
   <string name="stop_record_while_locking">Bloquear o ecrã para terminar</string>
   <string name="stop_record_while_locking_summary">Terminar gravação e guardar o vídeo quando o ecrã estiver bloqueado</string>
   <string name="stop_recording">Parar gravação</string>
+  <string name="storage_location">Armazenamento</string>
+  <string name="storage_location_summary">Seleccione a opção de armazenamento</string>
   <string name="timer_format">%s</string>
+  <string name="unchecked">Não seleccionado</string>
 </resources>

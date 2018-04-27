@@ -205,6 +205,10 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Esta aplicação não suporta o ecrã dividido</string>
   <string name="drive_mode_tip">Está no Modo Condução</string>
   <string name="enable_power_save_mode">Ligar a poupança de bateria</string>
+  <string name="enter_special_mode_message">Após reiniciar a aplicação, o conteúdo vai ser extendido para o topo. Se houver excepções como conteúdo oculto, carregue no botão novamente para restaurar o modo predefinido</string>
+  <string name="enter_special_mode_title">Reiniciar a aplicação e expandir o espaço de visualização</string>
+  <string name="exit_special_mode_message">Após reiniciar a aplicação, o espaço de visualização vai ser restaurado para o modo predefinido</string>
+  <string name="exit_special_mode_title">Reiniciar a aplicação e restaurar o espaço de visualização</string>
   <string name="expanded_confirm_disable_notification">Ocultar</string>
   <string name="expanded_notification_manager">Gerir notificações</string>
   <string name="ext_media_badremoval_notification_message">Desmontar o armazenamento USB antes de o remover para evitar a perda de dados</string>
@@ -294,6 +298,32 @@ Utilize apenas o carregador fornecido"</string>
   <string name="media_projection_remember_text">Não mostrar novamente</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mland">Marshmallow Land</string>
+  <string name="monitoring_button_view_policies">Ver políticas</string>
+  <string name="monitoring_description_ca_certificate">Está instalada uma autoridade de certificação neste dispositivo. O tráfego da sua rede segura pode ser monitorizado ou alterado</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">A sua entidade instalou uma autoridade de certificação no seu perfil de trabalho. O tráfego da sua rede segura pode ser monitorizado ou alterado</string>
+  <string name="monitoring_description_managed_profile_named_vpn">O seu perfil de trabalho está ligado à rede %1$s, que pode monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>
+  <string name="monitoring_description_management">"O dispositivo é gerido pela sua entidade.
+
+O administrador pode monitorizar e gerir definições, acesso empresarial, aplicações, dados associados ao dispositivo e informações de localização do dispositivo.
+
+Contacte o administrador para obter mais informações"</string>
+  <string name="monitoring_description_management_ca_certificate">A sua entidade instalou uma autoridade de certificação no seu dispositivo. O tráfego da sua rede segura pode ser monitorizado ou alterado</string>
+  <string name="monitoring_description_management_network_logging">O seu administrador activou os registos de rede, que monitorizam o tráfego no seu dispositivo</string>
+  <string name="monitoring_description_named_management">"O dispositivo é gerido pela %1$s.
+
+O administrador pode monitorizar e gerir definições, acesso empresarial, aplicações, dados associados ao dispositivo e informações de localização do dispositivo.
+
+Contacte o administrador para obter mais informações"</string>
+  <string name="monitoring_description_named_vpn">Está ligado à rede %1$s, que pode monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>
+  <string name="monitoring_description_personal_profile_named_vpn">O seu perfil pessoal está ligado à rede %1$s, que pode monitorizar a sua atividade de rede, incluindo emails, aplicações e sites</string>
+  <string name="monitoring_description_two_named_vpns">Está ligado às redes %1$s e %2$s, que podem monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>
+  <string name="monitoring_description_vpn_settings">Abrir as definições de VPN</string>
+  <string name="monitoring_description_vpn_settings_separator">" "</string>
+  <string name="monitoring_subtitle_ca_certificate">Certificados da AC</string>
+  <string name="monitoring_subtitle_network_logging">Registos de rede</string>
+  <string name="monitoring_subtitle_vpn">VPN</string>
+  <string name="monitoring_title">Monitorização da rede</string>
+  <string name="monitoring_title_device_owned">Gestão de dispositivo</string>
   <string name="mount_storage">Sim</string>
   <string name="nav_guide_cancel">Ignorar</string>
   <string name="nav_guide_message">Pode utilizar gestos para ocultar/mostrar os botões do ecrã</string>
@@ -345,6 +375,21 @@ Utilize apenas o carregador fornecido"</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Ligado</string>
   <string name="quick_settings_connecting">A ligar</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">A sua entidade pode monitorizar o tráfego de rede no seu perfil de trabalho</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">Perfil de trabalho ligado à rede %1$s</string>
+  <string name="quick_settings_disclosure_management">O dispositivo é gerido pela sua entidade</string>
+  <string name="quick_settings_disclosure_management_monitoring">A sua entidade gere este dispositivo e pode monitorizar o tráfego de rede</string>
+  <string name="quick_settings_disclosure_management_named_vpn">O dispositivo é gerido pela sua entidade e está ligado à rede %1$s</string>
+  <string name="quick_settings_disclosure_management_vpns">O dispositivo é gerido pela sua entidade e está ligado a VPNs</string>
+  <string name="quick_settings_disclosure_monitoring">A rede pode ser monitorizada</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">A %1$s pode monitorizar o tráfego de rede no seu perfil de trabalho</string>
+  <string name="quick_settings_disclosure_named_management">O dispositivo é gerido pela %1$s</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">A %1$s gere este dispositivo e pode monitorizar o tráfego de rede</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">O dispositivo é gerido pela %1$s e está ligado à rede %2$s</string>
+  <string name="quick_settings_disclosure_named_management_vpns">O dispositivo é gerido pela %1$s e está ligado a VPNs</string>
+  <string name="quick_settings_disclosure_named_vpn">Dispositivo ligado à rede %1$s</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil pessoal ligado à rede %1$s</string>
+  <string name="quick_settings_disclosure_vpns">Dispositivo ligado a VPNs</string>
   <string name="quick_settings_done">Concluído</string>
   <string name="quick_settings_more_settings">Mais definições</string>
   <string name="quick_settings_wifi_detail_empty_text">Sem redes Wi-Fi disponíveis</string>
@@ -408,6 +453,8 @@ Utilize apenas o carregador fornecido"</string>
   <string name="settings_toggle_position_reset">Repor atalhos</string>
   <string name="share">Partilhar</string>
   <string name="show_demo_mode">Ver modo demonstração</string>
+  <string name="special_mode_cancel">Cancelar</string>
+  <string name="special_mode_ok">Reiniciar</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Rejeitar aplicações recentes</string>
   <string name="status_bar_clock_date_format">"EEEE, d 'de' MMMM"</string>

@@ -1608,7 +1608,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="frequently_fragment_delete">Remover</string>
   <string name="frequently_fragment_tempty">Itens utilizados com frequência vão ser mostrados aqui</string>
   <string name="fsg_mistake_touch_summary">Em alguns casos, como jogos e vídeos de ecrã inteiro, os gestos têm que ser duplos para fazerem efeito</string>
-  <string name="fsg_mistake_touch_title">Verificação dupla para gestos</string>
+  <string name="fsg_mistake_touch_title">Dupla verificação para gestos</string>
   <string name="full_transparent_smarrcover_title">Capa com janela transparente</string>
   <string name="fullbackup_data_summary">"Fazer cópias de segurança automática dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) remotamente.
 

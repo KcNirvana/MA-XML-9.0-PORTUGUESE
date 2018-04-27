@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
+  <string name="app_name">Ecrã de bloqueio</string>
   <string name="btn_camera">Introduza o seu rosto</string>
-  <string name="change_to_ac_charging">Trocou para carregamento sem fios</string>
+  <string name="change_to_ac_charging">Trocou para carregamento com fios</string>
   <string name="click_to_enter_text">Toque para desbloquear</string>
   <string name="confirm_pin_msg">Insira novamente o PIN</string>
   <string name="custom_lock_wallpaper_enter">Introduzir</string>
@@ -144,6 +145,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
   <string name="phone_locked_forget_password_suggesstions_title">Como eliminar dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
+  <string name="reset_device_detail_tip">Certifique-se que a posição do seu dispositivo na base de carregamento está correcta</string>
+  <string name="reset_device_tip">O carregamento está lento. Ajuste o seu dispositivo</string>
   <string name="unlock_camera_steady">Aguarde</string>
   <string name="unlock_failed">Erro interno</string>
   <string name="unlock_failed_face_not_found">A detectar</string>
@@ -153,7 +156,9 @@ Tente novamente dentro de %d segundos"</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">A carregar %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Soltar para ver detalhes</string>
-  <string name="wireless_charge_dialog_cancel">Cancelar</string>
+  <string name="wireless_charge_dialog_cancel">Percebi</string>
+  <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
   <string name="wireless_charge_stop">Carregamento sem fios parou</string>
+  <string name="wireless_current_charge">A carregar</string>
   <string name="wrong_password">Palavra-passe incorrecta</string>
 </resources>

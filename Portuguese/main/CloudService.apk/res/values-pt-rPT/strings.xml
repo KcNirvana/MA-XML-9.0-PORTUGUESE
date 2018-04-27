@@ -164,7 +164,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Itens eliminados</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>
   <string name="micloud_main_head_menu_state_open">Ligado</string>
-  <string name="micloud_main_head_menu_state_unavailable">Indisponível</string>
+  <string name="micloud_main_head_menu_state_unavailable">Não suportado</string>
   <string name="micloud_main_master_sync_on">Sincronização ligada</string>
   <string name="micloud_main_memory_low_message">Não é possível sincronizar. Limpe alguns dados da Mi Cloud</string>
   <string name="micloud_main_memory_low_title">O armazenamento do telefone está quase cheio</string>

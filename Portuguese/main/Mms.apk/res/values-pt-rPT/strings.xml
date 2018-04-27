@@ -51,6 +51,16 @@
   <string name="bookmark_confirm_delete_message">Remover mensagens seleccionadas dos favoritos?</string>
   <string name="bookmark_empty">Sem favoritos</string>
   <string name="bookmark_list_title">Favoritos</string>
+  <string name="button_emoji_creature">Emojis de animais</string>
+  <string name="button_emoji_lifestyle">Emojis de estilo de vida</string>
+  <string name="button_emoji_smiley">Emojis de rostos</string>
+  <string name="button_emoji_symbol">Emojis de símbolos</string>
+  <string name="button_emoji_text">Emojis de texto</string>
+  <string name="button_fold">Ocultar</string>
+  <string name="button_next_slide">Seguinte</string>
+  <string name="button_pre_slide">Anterior</string>
+  <string name="button_resend_message">Enviar novamente</string>
+  <string name="button_unfold">Mostrar</string>
   <string name="call_sender">Ligar ao remetente</string>
   <string name="cannot_add_picture_and_video">Não é possível adicionar um vídeo e uma imagem no mesmo diapositivo</string>
   <string name="cannot_add_slide_anymore">Não é possível adicionar mais diapositivos</string>
@@ -127,8 +137,10 @@
   <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
-  <string name="delivery_toast_body">Mensagem recebida por %s</string>
+  <string name="delivery_toast_body">"Mensagem recebida por %s "</string>
+  <string name="dialog_message_fake_cell_detect_error">Corrijir a informação acerca desta mensagem? Para fazer isto, a MIUI necessita de enviar o seu número de telefone (%1$s), o conteúdo da mensagem e a informação acerca da localização para os seus servidores</string>
   <string name="dialog_message_sms_report">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar. Apenas vão ser utilizadas para melhorar os filtros de spam da MIUI</string>
+  <string name="dialog_title_fake_cell_detect_error">Correções</string>
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir da aplicação de mensagens predefinida?</string>
   <string name="disabled">Desligado</string>
   <string name="discard">Rejeitar</string>
@@ -141,6 +153,7 @@
   <string name="download_later">Não é possível transferir neste momento. Tente mais tarde</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_file_can_not_play">Aguarde até a transferência da gravação ficar concluída</string>
+  <string name="draft">Rascunho</string>
   <string name="duration_not_a_number">A duração tem de ser um número</string>
   <string name="duration_sec">Duração (%s seg)</string>
   <string name="duration_selector_title">"Duração por diapositivo "</string>
@@ -169,9 +182,9 @@
   <string name="fail_to_view_attachment">O anexo não está disponível</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
+  <string name="fake_cell_alert_detect_error">Isto não foi enviado por uma célula falsa</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
   <string name="fake_cell_checking_hint">A verificar segurança…</string>
-  <string name="fake_cell_detection_entry">Detecção de mensagem falsa</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
   <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
   <string name="favorite_at_time">Adicionado aos favs. em: %1s</string>
@@ -451,7 +464,7 @@
   <string name="privacy_password_title4">Padrão actualizado</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações de mensagens</string>
-  <string name="private_protect">Palavras-passe</string>
+  <string name="private_protect">Protecção de Privacidade</string>
   <string name="private_settings">Definições</string>
   <string name="processing">A processar…</string>
   <string name="prvate_contact">Contacto privado</string>

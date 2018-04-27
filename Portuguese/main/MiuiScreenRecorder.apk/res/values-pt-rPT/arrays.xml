@@ -25,6 +25,10 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Sem som</item>
         <item>Microfone</item>
-        <item>Colunas</item>
+        <item>Sons de sistema</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Interno</item>
+        <item>Externo</item>
     </string-array>
 </resources>

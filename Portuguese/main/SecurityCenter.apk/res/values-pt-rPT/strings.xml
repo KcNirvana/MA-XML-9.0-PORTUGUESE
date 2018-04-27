@@ -74,6 +74,7 @@
   <string name="add_white_list">Adicionar às excepções</string>
   <string name="address">Endereço</string>
   <string name="address_choose_hint">%1$s, %2$s, e %3$d outras localizações</string>
+  <string name="adjust_sms_cmd"><u>Ajustar o template de calibração SMS</u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado há mais de um mês</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado há mais de uma semana</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizado há 1 semana</string>
@@ -624,6 +625,9 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="dialog_restrict_positive">Cancelar</string>
   <string name="dialog_roaming_message">Permitir que esta aplicação utilize dados móveis em roaming?</string>
   <string name="dialog_roaming_title">Dados em roaming</string>
+  <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
+  <string name="dialog_roaming_warning_message">A operadora vai cobrar custos adicionais se ligar os dados móveis em roaming. Ligar mesmo assim?</string>
+  <string name="dialog_roaming_warning_ok">Ligar</string>
   <string name="dialog_text">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
   <string name="dialog_title_attention">Atenção</string>
   <string name="dialog_title_auto_start_declare">Acerca do início automático</string>
@@ -1107,6 +1111,7 @@ da operadora"</string>
   <string name="menu_remove">Eliminar</string>
   <string name="menu_report_block">Spam</string>
   <string name="menu_report">Reportar erro</string>
+  <string name="menu_setting_traffic">Definir manualmente</string>
   <string name="menu_sms">Enviar mensagem</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
   <string name="menu_text_antivirus">Verif. de segurança</string>
@@ -1710,6 +1715,7 @@ do seu dispositivo"</string>
   <string name="sms_contact_block">Bloquear SMS de contactos</string>
   <string name="sms_delete_hint">Eliminar todas as mensagens bloqueadas deste número?</string>
   <string name="sms_delete_title">Eliminar mensagens</string>
+  <string name="sms_detail_correct_success_text">Estatísticas de utilização de dados da calibração anterior (%1$s):</string>
   <string name="sms_detail_fragment_title_bill">Saldo</string>
   <string name="sms_detail_fragment_title_traffic">Dados restantes</string>
   <string name="sms_filter">Filtro inteligente</string>
@@ -1943,6 +1949,7 @@ do seu dispositivo"</string>
   <string name="tab_guide">Guia</string>
   <string name="tab_sms">Mensagens</string>
   <string name="tab_title">Lista de bloqueio</string>
+  <string name="tc_cmd_invalid">O template é inválido</string>
   <string name="tc_diagnostic_all_error_notification_summary">Toque para reportar um problema</string>
   <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir os diagnósticos</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
@@ -1979,6 +1986,10 @@ do seu dispositivo"</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">Obrigado pelo seu comentário! O seu relatório vai ser submetido quando se ligar à rede</string>
   <string name="tc_diagnostic_upload_success">Obrigado pelo seu comentário!</string>
+  <string name="tc_get_cmd_error">Não foi possível obter o template</string>
+  <string name="tc_parse_error">Não foi possível ler a mensagem</string>
+  <string name="tc_receive_timeout">A calibração expirou</string>
+  <string name="tc_send_sms_error">Não foi possível enviar mensagem</string>
   <string name="tc_sms_report_direction">Código do inquérito SMS</string>
   <string name="tc_sms_report_do_report">Enviar</string>
   <string name="tc_sms_report_get_default">Não vai ter custos nas mensagens utilizadas para obter o saldo e utilização de dados de sua operadora</string>
@@ -2013,6 +2024,7 @@ do seu dispositivo"</string>
   <string name="tc_sms_report_upload_success">SMS com relatório de utilização de dados enviado</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
+  <string name="tc_web_correct_error">Não foi possível calibrar</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
   <string name="tether_limit_dialog_title">Limite de dados móveis</string>
