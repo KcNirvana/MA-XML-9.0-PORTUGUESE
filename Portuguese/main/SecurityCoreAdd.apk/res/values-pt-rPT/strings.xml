@@ -157,7 +157,7 @@ Pode também transferi-las separadamente"</string>
   <string name="lock_screen_open_second_space">Ir para o Segundo espaço através do ecrã de bloqueio</string>
   <string name="messageData">Mensagens</string>
   <string name="msg_switch_file">Eliminar estes ficheiros no Primeiro espaço depois de os mover?</string>
-  <string name="msg_switch_file_second">>Eliminar estes ficheiros no Segundo espaço depois de os mover?</string>
+  <string name="msg_switch_file_second">Eliminar estes ficheiros no Segundo espaço depois de os mover?</string>
   <string name="msg_switch_photo">Eliminar estas fotos no Primeiro espaço depois de as mover?</string>
   <string name="needSetKeyguardFirst">Definir palavra-passe do Primeiro espaço</string>
   <string name="needSetKeyguardFirstDes">Definir a palavra-passe do Primeiro espaço antes de definir a palavra-passe do Segundo espaço</string>
