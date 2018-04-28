@@ -3,12 +3,12 @@
     <string-array name="date_of_traffic_cmcc">
        <item>"Esta semana "</item>
        <item>"Hoje "</item>
-       <item>"Mês passado "</item>
        <item>"Este mês "</item>
     </string-array>
     <string-array name="date_of_traffic">
        <item>"Ontem "</item>
        <item>"Hoje "</item>
+       <item>"Mês passado "</item>
        <item>"Este mês "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -19,7 +19,7 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Ontem: "</item>
         <item>"Hoje: "</item>
-        <item>"Mês passado "</item>
+        <item>"Mês passado: "</item>
         <item>"Este mês: "</item>
     </string-array>
     <string-array name="date_of_app_all">

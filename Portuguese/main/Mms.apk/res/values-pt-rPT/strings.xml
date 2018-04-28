@@ -137,7 +137,7 @@
   <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
-  <string name="delivery_toast_body">"Mensagem recebida por %s "</string>
+  <string name="delivery_toast_body">Mensagem recebida por %s</string>
   <string name="dialog_message_fake_cell_detect_error">Corrijir a informação acerca desta mensagem? Para fazer isto, a MIUI necessita de enviar o seu número de telefone (%1$s), o conteúdo da mensagem e a informação acerca da localização para os seus servidores</string>
   <string name="dialog_message_sms_report">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar. Apenas vão ser utilizadas para melhorar os filtros de spam da MIUI</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
