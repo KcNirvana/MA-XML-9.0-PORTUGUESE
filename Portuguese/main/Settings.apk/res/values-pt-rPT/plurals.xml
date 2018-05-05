@@ -28,6 +28,10 @@
         <item quantity="other">Está agora a %1$d passos de se tornar um programador</item>
         <item quantity="one">Está agora a %1$d passo de se tornar um programador</item>
     </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Remover os idiomas seleccionados?</item>
+        <item quantity="one">Remover o idioma seleccionado?</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d impressões digitais configuradas</item>
         <item quantity="one">%1$d impressão digital configurada</item>
@@ -140,5 +144,45 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">Tente novamente dentro de %d segundos</item>
         <item quantity="one">Tente novamente dentro de %d segundo</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Código PIN inválido. Tem mais %d tentativas restantes</item>
+        <item quantity="one">Código PIN inválido. Tem mais %d tentativa restante</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">1 item</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Atraso extremamente curto (%1$d ms)</item>
+        <item quantity="one">Atraso extremamente curto (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Atraso muito curto (%1$d ms)</item>
+        <item quantity="one">Atraso muito curto (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Atraso curto (%1$d ms)</item>
+        <item quantity="one">Atraso curto (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Atraso longo (%1$d ms)</item>
+        <item quantity="one">Atraso longo (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Atraso muito longo (%1$d ms)</item>
+        <item quantity="one">Atraso muito longo (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d trabalhos de impressão</item>
+        <item quantity="one">1 trabalho de impressão</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d aplicações com bloqueio de envio</item>
+        <item quantity="one">%d aplicação com bloqueio de envio</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplicações permitidas de utilizar dados sem restrição com a poupança de dados ligada</item>
+        <item quantity="one">1 aplicação permitida de utilizar dados sem restrição com a poupança de dados ligada</item>
     </plurals>
 </resources>

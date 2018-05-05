@@ -24,8 +24,8 @@
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="ac_unmask_all_apps">Mostrar para todas as aplicações</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Introduza a palavra-passe antes de utilizar uma nova imp. digital</string>
-  <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a imp. digital</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Introduza a palavra-passe antes de utilizar uma nova impressão digital</string>
+  <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a impressão digital</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduza o padrão do Bloqueio de aplicações</string>
@@ -501,7 +501,7 @@
   <string name="card_main_netcheck_title">Teste de rede</string>
   <string name="card_main_optimize_manage_action">Aumentar agora</string>
   <string name="card_main_optimize_manage_summary">Limpar cache para acelerar o seu dispositivo</string>
-  <string name="card_main_optimize_manage_title">Aumentar velocidade</string>
+  <string name="card_main_optimize_manage_title">Optimizar velocidade</string>
   <string name="card_main_overscroll_tips">O melhor em segurança</string>
   <string name="card_main_private_space_action">Criar</string>
   <string name="card_main_private_space_summary">Utilizar o Segundo espaço é como ter dois dispositivos</string>
@@ -536,7 +536,7 @@
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
   <string name="confirmSecondSpacePassword">Confirmar a palavra-passe do Segundo espaço</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Mi</string>
-  <string name="confirm_fingerprint_msg">Verificar a sua imp. digital</string>
+  <string name="confirm_fingerprint_msg">Verificar a sua impressão digital</string>
   <string name="confirm_prompt_all_permission">Perguntar por permissões para todas as aplicações?</string>
   <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="connect_internet_by_mobiledata">Ligação de dados móveis</string>
@@ -723,8 +723,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="exit_dialog_scan_message">O resultado de desempenho do seu dispositivo é menos de 75 pontos. Optimizar agora?</string>
   <string name="exit_dialog_scan_positive_button">Optimizar</string>
   <string name="exit_dialog_scan_title">Optimizar desempenho</string>
-  <string name="finger_remind_message">Adicione a sua imp. digital primeiro. Toque para abrir as Definições</string>
-  <string name="fingerprint_identify_msg">Ligar desbloqueio por imp. digital</string>
+  <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Definições</string>
+  <string name="fingerprint_identify_msg">Ligar desbloqueio por impressão digital</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
@@ -815,7 +815,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
-  <string name="gdpr_msg">Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
+  <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='http://www.miui.com/res/doc/privacy/pt.html'>Política de Privacidade</a>"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
@@ -841,7 +841,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_game_performance">Desempenho</string>
   <string name="gs_game_shortcut">Melhore a sua experiência de jogo</string>
   <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
-  <string name="gs_open_game_booster">Aumentar velocidade</string>
+  <string name="gs_open_game_booster">Optimizar velocidade</string>
   <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
   <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Optimizar a utilização da CPU para garantir um melhor desempenho</string>
@@ -1065,9 +1065,9 @@ da operadora"</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Libertos %s</string>
-  <string name="memory_clean_btn_click_text">Aumentar velocidade</string>
+  <string name="memory_clean_btn_click_text">Optimizar velocidade</string>
   <string name="memory_clean_cleaning_title">A limpar cache</string>
-  <string name="memory_clean_click_tip">Aumentar velocidade</string>
+  <string name="memory_clean_click_tip">Optimizar velocidade</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tudo parece bem</string>
   <string name="memory_clean_no_running_process">Sem tarefas para limpar</string>
@@ -1125,7 +1125,7 @@ da operadora"</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
-  <string name="menu_text_optimize_manage">Aumentar velocidade</string>
+  <string name="menu_text_optimize_manage">Optimizar velocidade</string>
   <string name="menu_text_power_manager">Utilização de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
@@ -1300,7 +1300,7 @@ do seu dispositivo"</string>
   <string name="om_settings_memory_occupy_notify_never">Nunca</string>
   <string name="om_settings_notify_manage">Notificações</string>
   <string name="om_settings_speed_up_auto">Optimizar automaticamente</string>
-  <string name="om_settings_title">Definições de optimização</string>
+  <string name="om_settings_title">Definições da optimização de velocidade</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">A aplicação não foi encontrada</string>
   <string name="open_app">Abrir</string>
@@ -1312,7 +1312,7 @@ do seu dispositivo"</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
-  <string name="optimize_manage_title">Aumentar velocidade</string>
+  <string name="optimize_manage_title">Optimização de velocidade</string>
   <string name="optimize_result_ads_close_text">Anúncios</string>
   <string name="optimize_result_available_memory_info">Memória disponível</string>
   <string name="optimize_result_button_cloudspace">Adicionar espaço na Mi Cloud</string>
@@ -2197,7 +2197,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="uninstall_danagerous_title">Desinstalar aplicações maliciosas</string>
   <string name="unlike">Não, obrigado</string>
   <string name="unlock_pattern"><u>Padrão</u></string>
-  <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar imp. digital</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar as impressões digitais</string>
   <string name="unlock_set_unlock_password_summary">Combinar diferentes caracteres</string>
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
   <string name="unlock_set_unlock_pattern_summary">Ligue pelo menos 4 pontos</string>

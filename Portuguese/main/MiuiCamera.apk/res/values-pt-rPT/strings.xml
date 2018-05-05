@@ -338,7 +338,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_capture_settings">Câmara</string>
   <string name="pref_dualcamera_watermark_title">"Marca d'água câmara dupla"</string>
   <string name="pref_face_beauty_title">Embelezar</string>
-  <string name="pref_fingerprint_capture_title">Disparo por imp. digital</string>
+  <string name="pref_fingerprint_capture_title">Disparo por impressão digital</string>
   <string name="pref_front_camera_flashmode_entry_torch">Ligado</string>
   <string name="pref_front_mirror_entry_auto">Quando um rosto é detectado</string>
   <string name="pref_front_mirror_entry_off">Desligado</string>

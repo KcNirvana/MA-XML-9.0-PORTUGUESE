@@ -412,6 +412,14 @@
         <item>Utilizar verificação HDCP apenas para conteúdo DRM</item>
         <item>Utilizar sempre verificação HDCP</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Desligado</item>
+        <item>Erro</item>
+        <item>Aviso</item>
+        <item>Informação</item>
+        <item>Depuração</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desligada</item>
         <item>Escala de animação .5x</item>
@@ -1121,7 +1129,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Qualquer pessoa</item>
         <item>Apenas contactos</item>
         <item>Apenas favoritos</item>
-        <item>Nenhum</item>
+        <item>Nenhuma</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Todos os dias</item>

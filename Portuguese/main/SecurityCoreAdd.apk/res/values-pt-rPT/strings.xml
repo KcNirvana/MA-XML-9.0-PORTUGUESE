@@ -102,7 +102,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="err_volume_not_enough">Sem espaço de armazenamento suficiente</string>
   <string name="exit_private_space">Trocar</string>
   <string name="experience_more_features">Adicionar um dispositivo para ver todas as funcionalidades</string>
-  <string name="finger_print_num">Imp. digital %d</string>
+  <string name="finger_print_num">Impressão digital %d</string>
   <string name="finger_print_of_use">Utilizar impressão digital</string>
   <string name="fingerprint_number_upper_limit">Demasiadas tentativas incorrectas</string>
   <string name="fingerprint_removal_failed">Não foi possível eliminar impressão digital</string>
@@ -196,7 +196,7 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="privacyContactsSummary">Mostrar itens privados no Segundo espaço</string>
   <string name="privacyContactsTitle">Mensagens e contactos privados</string>
   <string name="privacy_password_fingerprint_dialog_message">Coloque o dedo no sensor</string>
-  <string name="privacy_password_fingerprint_dialog_title">Digitalize a sua imp. digital</string>
+  <string name="privacy_password_fingerprint_dialog_title">Digitalize a sua impressão digital</string>
   <string name="private_sms_show_sub_title">Os dados das mensagens vão ser partilhados entre os dois espaços</string>
   <string name="private_sms_show_title">As mensagens privadas são mostradas no Segundo espaço</string>
   <string name="private_space_setting">Gerir</string>
@@ -258,7 +258,7 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="setSecondSpacePasswordGuideDes">Utilizar esta palavra-passe para entrar no Segundo espaço através do ecrã de bloqueio</string>
   <string name="setSpacePasswordGuide">Utilizar diferentes palavras-passe para entrar em ambos os espaços através do ecrã de bloqueio</string>
   <string name="setSuccess">Palavras-passe definidas com sucesso</string>
-  <string name="set_space_finger">Definir imp. digital</string>
+  <string name="set_space_finger">Definir impressão digital</string>
   <string name="set_space_finger_sub_text_suc">Definida com sucesso</string>
   <string name="set_space_password">Definir palavra-passe</string>
   <string name="set_space_pwd_detail">Pode entrar no Segundo espaço utilizando a palavra-passe</string>
@@ -311,7 +311,7 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="space_created_success">Segundo espaço criado com sucesso</string>
   <string name="space_deleted">Este espaço foi eliminado</string>
   <string name="space_des_default">Espaço isolado com dados encriptados</string>
-  <string name="space_finger_sub_text">Definir uma imp. digital do Segundo espaço para trocar mais rápido</string>
+  <string name="space_finger_sub_text">Definir uma impressão digital do Segundo espaço para trocar mais rápido</string>
   <string name="space_name_default">Espaço de trabalho</string>
   <string name="startSet">Definir</string>
   <string name="startTransfer">Mover</string>

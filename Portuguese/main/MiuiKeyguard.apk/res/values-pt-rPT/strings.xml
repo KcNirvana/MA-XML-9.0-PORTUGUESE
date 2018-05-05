@@ -62,7 +62,7 @@
   <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
-  <string name="fingerprint_add_text">O interface das imp. digitais foi actualizado. Adicione a sua imp. digital novamente</string>
+  <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
   <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>
@@ -71,7 +71,7 @@
   <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a palavra-passe ou tente utilizar a sua impressão digital daqui a %d segundos</string>
   <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Introduza a palavra-passe</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
-  <string name="fingerprint_try_again_msg">Não foi possível verificar imp. digital. Tente novamente</string>
+  <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>
   <string name="gxzw_press_harder">Prima com mais força</string>
