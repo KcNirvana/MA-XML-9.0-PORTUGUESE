@@ -1128,9 +1128,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_pinyin_title2">Introduzir 9 e 4 para pesquisar por &lt;font fgcolor=""&gt;X&lt;/font&gt;avi &lt;font fgcolor=""&gt;H&lt;/font&gt;ernandez</string>
+  <string name="t9_search_guide_pinyin_title2">Introduzir 9 e 4 para pesquisar por Xavi Hernandez</string>
   <string name="t9_search_guide_zhuyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por &lt;font fgcolor=""&gt;J&lt;/font&gt;oão &lt;font fgcolor=""&gt;M&lt;/font&gt;outinho</string>
+  <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por João Moutinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>

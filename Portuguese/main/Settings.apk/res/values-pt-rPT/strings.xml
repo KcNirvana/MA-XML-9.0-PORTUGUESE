@@ -1537,7 +1537,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="fingerprint_last_delete_confirm">Sim, remover</string>
   <string name="fingerprint_last_delete_message">Não vai poder utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
-  <string name="fingerprint_list_title">Impressões digitais</string>
+  <string name="fingerprint_list_title">Impressão digital</string>
   <string name="fingerprint_lock_first">Desbloquear o Primeiro espaço</string>
   <string name="fingerprint_lock_second">Desbloquear o Segundo espaço</string>
   <string name="fingerprint_manage">Gerir impressões digitais</string>
@@ -1671,7 +1671,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">As suas fotos privadas vão ser armazenadas aqui</string>
   <string name="game_controller_settings_category">Controlador de jogo</string>
-  <string name="gesture_wakeup_title">Toque duplo no ecrã para ligar</string>
+  <string name="gesture_wakeup_title">Duplo toque no ecrã para ligar</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
@@ -2034,7 +2034,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressão digital</string>
+  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressões digitais</string>
   <string name="lock_setup">Configuração concluída</string>
   <string name="lock_sounds_enable_title">Sons de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -3066,8 +3066,10 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="reset_legacy_password_settings_preface_text">Tem de repor a sua palavra-passe no ecrã de bloqueio</string>
   <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Repor definições</string>
+  <string name="reset_network_category">Isto vai repor todas definições de rede, incluindo:</string>
   <string name="reset_network_complete_toast">As definições de rede foram repostas</string>
   <string name="reset_network_confirm_title">Repor?</string>
+  <string name="reset_network_data">Dados móveis</string>
   <string name="reset_network_desc">Isto vai repor todas definições de rede</string>
   <string name="reset_network_final_button_text">Repor definições</string>
   <string name="reset_network_final_desc">Repor todas as definições de rede? Não é possível anular esta acção!</string>
@@ -3324,7 +3326,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_fluency_mode">Animações de sistema</string>
   <string name="search_font">Tipo de letra do sistema;Tipo de letra;Tipos de letra;Tamanho do tipo de letra;Tamanho do tipo de letra</string>
   <string name="search_force_touch">3D Touch</string>
-  <string name="search_gesture_wakeup_title">toque duplo no ecrã para ligar;Toque duplo para ligar ecrã;Ligar ecrã;Toque duplo no ecrã;Toque duplo</string>
+  <string name="search_gesture_wakeup_title">duplo toque no ecrã para ligar;Duplo toque para ligar ecrã;Ligar ecrã;Duplo toque no ecrã;Duplo toque</string>
   <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
   <string name="search_handy_mode">Modo para uma mão;Modo Uma Mão;Uma mão;Mãos pequenas</string>
   <string name="search_hint">Pesquisar definições</string>
@@ -3522,6 +3524,7 @@ Para utilizar a fixação no ecrã:
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_device_admin_msg">Administradores do dispositivo</string>
+  <string name="select_logd_level">Seleccionar nível de registo</string>
   <string name="select_logd_size_dialog_title">Selec. tam. reg. p/ mem. int. reg.</string>
   <string name="select_logd_size_title">Tamanho da memória intermédia do registo</string>
   <string name="select_sim_for_calls">Ligar com</string>
