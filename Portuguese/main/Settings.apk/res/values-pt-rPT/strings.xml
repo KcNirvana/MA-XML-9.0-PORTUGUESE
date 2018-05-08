@@ -4174,7 +4174,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_update_keyguard_password_wait_dialog">A modificar palavra-passe…</string>
   <string name="twohours">1 hora</string>
   <string name="under_keyguard">Ecrã desligado</string>
-  <string name="unimportant">Não importantes</string>
+  <string name="unimportant">Não importante</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_dlg_msg">Desinstalar vai eliminar todos os dados da aplicação</string>
   <string name="uninstall_dlg_title">Desinstalar agora?</string>

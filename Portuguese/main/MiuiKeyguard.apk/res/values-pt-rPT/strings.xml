@@ -68,8 +68,8 @@
   <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>
   <string name="fingerprint_enter_second_psw_title">Introduzir a palavra-passe do Segundo espaço</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
-  <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a palavra-passe ou tente utilizar a sua impressão digital daqui a %d segundos</string>
-  <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Introduza a palavra-passe</string>
+  <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe ou tente novamente daqui a um momento</string>
+  <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
