@@ -2440,7 +2440,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
   <string name="my_device">O meu dispositivo</string>
-  <string name="my_device_disclaimer">Nota: Informação de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã e resolução e câmara é fornecido pela Xiaomi</string>
+  <string name="my_device_disclaimer">Nota: A informações de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã e resolução e câmara são fornecidas pela Xiaomi</string>
   <string name="navigation_guide_app_summary">Deslizar para a esquerda ou direita desde o limite do ecrã na parte superior</string>
   <string name="navigation_guide_app_title">Activar acções das aplicações</string>
   <string name="navigation_guide_back_anim_summary">Mostrar animações enquanto está a deslizar</string>
