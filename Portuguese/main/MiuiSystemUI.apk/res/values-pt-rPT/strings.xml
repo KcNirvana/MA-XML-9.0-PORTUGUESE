@@ -215,7 +215,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="ext_media_badremoval_notification_title">O armazenamento USB foi removido inesperadamente</string>
   <string name="ext_media_checking_notification_message">A verificar erros</string>
   <string name="ext_media_checking_notification_title">A preparar o armazenamento USB</string>
-  <string name="ext_media_mountable_notification_message">Toque para abrir no Explorador</string>
+  <string name="ext_media_mountable_notification_message">Toque para abrir o Explorador</string>
   <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB ligado</string>
   <string name="ext_media_nofs_notification_message">O armazenamento USB está vazio ou tem um sistema de ficheiros não suportado</string>
   <string name="ext_media_nofs_notification_title">Armazenamento USB vazio</string>
@@ -277,7 +277,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="loading_desktop">Aguarde…</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
-  <string name="long_screenshot_out_of_memory_error">O tamanho da imagem é demasiado grande</string>
+  <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>
   <string name="long_screenshot_stop">Concluído</string>
   <string name="long_screenshot_top_msg">A criar captura de ecrã…</string>

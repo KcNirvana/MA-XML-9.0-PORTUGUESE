@@ -243,7 +243,7 @@
   <string name="close">Desligar</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fechar</string>
-  <string name="close_volte">Desligar Voz 4G</string>
+  <string name="close_volte">Desligar VoLTE</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
   <string name="cmcc_ut_data_enable_prompt">Este serviço necessita de uma ligação de dados móveis. Ligue-a para continuar</string>
   <string name="command_error_fdn_failure">Primeiro tem que desactivar FDN</string>
@@ -412,7 +412,7 @@
   <string name="enable_disable_retail_directory">Directório de retalho</string>
   <string name="enable_disable_stock_quotes">Cotação de acções</string>
   <string name="enable_disable_technology_news">Notícias sobre tecnologia</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">Voz 4G necessita da conectividade para ambos os SIM. Trocar para Duplo 4G agora?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE necessita da conectividade para ambos os SIM. Trocar para Duplo VoLTE agora?</string>
   <string name="enable_fdn">Activar FDN</string>
   <string name="enable_fdn_ok">Desactivar FDN</string>
   <string name="enable_in_progress">A definir o PIN…</string>
@@ -426,8 +426,8 @@
   <string name="enable_video_calling_dialog_settings">Definições de rede</string>
   <string name="enable_video_calling_title">Ligar videochamadas</string>
   <string name="enabled_by_admin">Activado pelo administrador</string>
-  <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desligar Voz 4G</string>
-  <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ligar Voz 4G</string>
+  <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desligar VoLTE</string>
+  <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ligar VoLTE</string>
   <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços 4G para melhorar a voz e outras comunicações (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
   <string name="enterName">Nome</string>
@@ -846,7 +846,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC…</string>
   <string name="pin_progress_unlock_icc">A desbloquear cartão SIM…</string>
   <string name="port_title">Número da porta</string>
-  <string name="prefered_network_type_3g_promp">Deve desligar o Voz 4G antes de seleccionar a rede 3G como preferida. Desligar agora?</string>
+  <string name="prefered_network_type_3g_promp">Deve desligar o VoLTE antes de seleccionar a rede 3G como preferida. Desligar agora?</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
   <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
@@ -909,10 +909,10 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_phone_account">Conta de chamadas preferida</string>
   <string name="private_num">Número privado</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
-  <string name="prompt_to_turnoff_volte_when_failed">Os serviços Voz 4G não estão disponíveis. Desligue o Voz 4G para fazer uma chamada</string>
-  <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o Voz 4G nas definições</string>
-  <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o Voz 4G</string>
-  <string name="prompt_when_turnon_volte_without_lte">As redes Voz 4G não estão disponíveis. Se ligar o Voz 4G não vai conseguir fazer chamadas</string>
+  <string name="prompt_to_turnoff_volte_when_failed">Os serviços VoLTE não estão disponíveis. Desligue o VoLTE para fazer uma chamada</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o VoLTE nas definições</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o VoLTE</string>
+  <string name="prompt_when_turnon_volte_without_lte">As redes VoLTE não estão disponíveis. Se ligar o VoLTE não vai conseguir fazer chamadas</string>
   <string name="proxy_address">Endereço proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
@@ -1178,9 +1178,9 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="vibrate_after_connected_summary">Vibrar quando atende</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
   <string name="vice_card_data_in_use_alert">Podem ser gerados custos adicionais</string>
-  <string name="vice_slot_volte_data_switch_prompt">O seu dispositivo vai ligar a dados móveis utilizando o SIM secundário durante as chamadas Voz 4G</string>
-  <string name="vice_slot_volte_data_switch_summary">Durante as chamadas Voz 4G, o dispositivo vai ligar a dados móveis utilizando o SIM secundário</string>
-  <string name="vice_slot_volte_data_switch_title">Utilizar dados móveis durante chamadas Voz 4G no SIM secundário</string>
+  <string name="vice_slot_volte_data_switch_prompt">O seu dispositivo vai ligar a dados móveis utilizando o SIM secundário durante as chamadas VoLTE</string>
+  <string name="vice_slot_volte_data_switch_summary">Durante as chamadas VoLTE, o dispositivo vai ligar a dados móveis utilizando o SIM secundário</string>
+  <string name="vice_slot_volte_data_switch_title">Utilizar dados móveis durante chamadas VoLTE no SIM secundário</string>
   <string name="vm_change_failed">"Não foi possível alterar o número de Voice Mail.
 Contacte a sua operadora se este problema persistir"</string>
   <string name="vm_changed">Número de Voice Mail alterado</string>
@@ -1205,15 +1205,15 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voicemail_visual_voicemail_switch_title">Voice Mail visual</string>
   <string name="voip_setting">Definições VoIP</string>
   <string name="volte_provision_notification_activate">Activar</string>
-  <string name="volte_provision_text">As chamadas Voz 4G fornecem melhor qualidade que as chamadas normais. Enviar SMS para activar?</string>
-  <string name="volte_provision_title">Activação de Voz 4G</string>
-  <string name="volte_switch_not_support_summary">As chamadas Voz 4G não são suportadas para os dados móveis do cartão SIM</string>
-  <string name="volte_switch_not_support_summary2">As chamadas Voz 4G não são suportadas pela operadora</string>
-  <string name="volte_switch_summary">Utilizar Voz 4G para melhorar a qualidade das chamadas e videochamadas</string>
+  <string name="volte_provision_text">As chamadas VoLTE fornecem melhor qualidade que as chamadas normais. Enviar SMS para activar?</string>
+  <string name="volte_provision_title">Activação de VoLTE</string>
+  <string name="volte_switch_not_support_summary">As chamadas VoLTE não são suportadas para os dados móveis do cartão SIM</string>
+  <string name="volte_switch_not_support_summary2">As chamadas VoLTE não são suportadas pela operadora</string>
+  <string name="volte_switch_summary">Utilizar VoLTE para melhorar a qualidade das chamadas e videochamadas</string>
   <string name="volte_switch_summary2">Confirme que a sua operadora suporta esta funcionalidade antes de a ligar</string>
-  <string name="volte_switch_title">Voz 4G activado</string>
-  <string name="volte_switch_title_ct">Voz 4G activado</string>
-  <string name="volte_tips_when_turn_on">Os serviços Voz 4G China Telecom apenas são fornecidos em áreas com rede 4G</string>
+  <string name="volte_switch_title">VoLTE</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
+  <string name="volte_tips_when_turn_on">Os serviços VoLTE China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
